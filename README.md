@@ -4,5 +4,5 @@ This subtitle translation program aims to enable non-Chinese audiences to learn 
 
 ## Contact
 
-Tianyu Fang <tianyuf@fastmail.fm>
-Linghein Ho <tichai@fastmail.fm>
+- Tianyu Fang <tianyuf@fastmail.fm>
+- Linghein Ho <tichai@fastmail.fm>

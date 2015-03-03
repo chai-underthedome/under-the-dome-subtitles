@@ -9,17 +9,6 @@ YCbCr Matrix: TV.601
 PlayResX: 640
 PlayResY: 360
 
-[Aegisub Project Garbage]
-Export Encoding: Unicode (UTF-8)
-Audio File: /Users/orzfly/Desktop/chai/柴静雾霾调查——穹顶之下 同呼吸共命运 （超清）-rB6TA5g7Pg0.mp4
-Video File: /Users/orzfly/Desktop/chai/柴静雾霾调查——穹顶之下 同呼吸共命运 （超清）-rB6TA5g7Pg0.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 296
-Active Line: 307
-Video Position: 17825
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Hiragino Sans GB,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
@@ -41,7 +30,7 @@ Dialogue: 0,0:00:25.14,0:00:26.18,Default,,0,0,0,,陕西
 Dialogue: 0,0:00:26.18,0:00:26.94,Default,,0,0,0,,河南
 Dialogue: 0,0:00:26.94,0:00:27.90,Default,,0,0,0,,江西
 Dialogue: 0,0:00:27.90,0:00:28.54,Default,,0,0,0,,浙江
-Dialogue: 0,0:00:29.22,0:00:31.26,Default,,0,0,0,, 回头看视频里的天空
+Dialogue: 0,0:00:29.22,0:00:31.26,Default,,0,0,0,,回头看视频里的天空
 Dialogue: 0,0:00:31.26,0:00:33.18,Default,,0,0,0,,当时的中国正被卷入一场
 Dialogue: 0,0:00:33.18,0:00:35.30,Default,,0,0,0,,覆盖了25个省市
 Dialogue: 0,0:00:35.30,0:00:36.58,Default,,0,0,0,,和6亿人的大雾霾

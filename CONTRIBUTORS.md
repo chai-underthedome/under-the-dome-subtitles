@@ -27,6 +27,7 @@
 
 ## Proofreaders
 
+- Leon White
 - Betsy
 - Shauri Johnson
 

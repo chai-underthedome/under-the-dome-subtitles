@@ -6,3 +6,7 @@ This subtitle translation program aims to enable non-Chinese audiences to learn 
 
 - Tianyu Fang <tianyuf@fastmail.fm>
 - Linghein Ho <tichai@fastmail.fm>
+
+## Watch Online
+
+- https://www.youtube.com/watch?v=T6X2uwlQGQM

@@ -15,9 +15,9 @@ Video File: /Users/orzfly/Desktop/chai/柴静雾霾调查——穹顶之下 同�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 2258
-Active Line: 2269
-Video Position: 116019
+Scroll Position: 97
+Active Line: 105
+Video Position: 6323
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,7 +25,7 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:05.86,Default,,0,0,0,,这是2013年1月份北京的 PM2.5 曲线
+Dialogue: 0,0:00:02.66,0:00:05.86,Default,,0,0,0,,这是2013年1月份北京的 PM2.5 曲线
 Dialogue: 0,0:00:05.86,0:00:08.58,Default,,0,0,0,,一个月里头25天雾霾
 Dialogue: 0,0:00:08.58,0:00:10.06,Default,,0,0,0,,我当时在北京
 Dialogue: 0,0:00:10.06,0:00:12.46,Default,,0,0,0,,当我这一年里反复看这条曲线的时候
@@ -130,7 +130,7 @@ Dialogue: 0,0:04:01.58,0:04:04.98,Default,,0,0,0,,2004年我采访这个6岁的�
 Dialogue: 0,0:04:04.98,0:04:06.66,Default,,0,0,0,,无论如何我都没想到
 Dialogue: 0,0:04:06.66,0:04:08.14,Default,,0,0,0,,她所说的
 Dialogue: 0,0:04:08.14,0:04:11.14,Default,,0,0,0,,就是我女儿可能会面临的一个世界
-Dialogue: 0,0:04:12.90,0:04:16.34,Default,,0,0,0,, 这是2014年整整一年的北京
+Dialogue: 0,0:04:12.90,0:04:16.34,Default,,0,0,0,,这是2014年整整一年的北京
 Dialogue: 0,0:04:16.34,0:04:17.62,Default,,0,0,0,,只有空气优和良的时候
 Dialogue: 0,0:04:17.62,0:04:19.38,Default,,0,0,0,,我才能带她出门
 Dialogue: 0,0:04:19.38,0:04:21.06,Default,,0,0,0,,但是这样的天能有多少呢

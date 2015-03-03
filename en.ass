@@ -2884,91 +2884,92 @@ Dialogue: 0,1:37:28.78,1:37:30.90,Default,,0,0,0,,
 Dialogue: 0,1:37:30.90,1:37:34.02,Default,,0,0,0,,
 Dialogue: 0,1:37:34.02,1:37:34.70,Default,,0,0,0,,
 Dialogue: 0,1:37:34.70,1:37:37.18,Default,,0,0,0,,
-Dialogue: 0,1:37:40.74,1:37:41.98,Default,,0,0,0,,
-Dialogue: 0,1:37:41.98,1:37:43.46,Default,,0,0,0,,
-Dialogue: 0,1:37:43.46,1:37:44.62,Default,,0,0,0,,
-Dialogue: 0,1:37:50.10,1:37:51.42,Default,,0,0,0,,
-Dialogue: 0,1:37:51.42,1:37:52.86,Default,,0,0,0,,
-Dialogue: 0,1:37:52.86,1:37:54.14,Default,,0,0,0,,
-Dialogue: 0,1:37:58.94,1:37:59.86,Default,,0,0,0,,
-Dialogue: 0,1:37:59.86,1:38:00.26,Default,,0,0,0,,
-Dialogue: 0,1:38:01.70,1:38:02.50,Default,,0,0,0,,
-Dialogue: 0,1:38:02.50,1:38:03.90,Default,,0,0,0,,
-Dialogue: 0,1:38:03.90,1:38:05.74,Default,,0,0,0,,
-Dialogue: 0,1:38:05.74,1:38:07.42,Default,,0,0,0,,
-Dialogue: 0,1:38:07.42,1:38:09.10,Default,,0,0,0,,
-Dialogue: 0,1:38:09.54,1:38:10.26,Default,,0,0,0,,
-Dialogue: 0,1:38:10.26,1:38:11.06,Default,,0,0,0,,
-Dialogue: 0,1:38:11.22,1:38:12.10,Default,,0,0,0,,
-Dialogue: 0,1:38:12.10,1:38:13.50,Default,,0,0,0,,
-Dialogue: 0,1:38:13.50,1:38:15.18,Default,,0,0,0,,
-Dialogue: 0,1:38:15.18,1:38:16.70,Default,,0,0,0,,
-Dialogue: 0,1:38:17.50,1:38:18.42,Default,,0,0,0,,
-Dialogue: 0,1:38:18.42,1:38:19.46,Default,,0,0,0,,
-Dialogue: 0,1:38:19.94,1:38:21.30,Default,,0,0,0,,
-Dialogue: 0,1:38:21.30,1:38:22.54,Default,,0,0,0,,
-Dialogue: 0,1:38:22.54,1:38:23.54,Default,,0,0,0,,
-Dialogue: 0,1:38:25.42,1:38:27.42,Default,,0,0,0,,
-Dialogue: 0,1:38:27.42,1:38:28.10,Default,,0,0,0,,
-Dialogue: 0,1:38:28.10,1:38:28.70,Default,,0,0,0,,
-Dialogue: 0,1:38:28.70,1:38:30.58,Default,,0,0,0,,
-Dialogue: 0,1:38:30.58,1:38:31.90,Default,,0,0,0,,
-Dialogue: 0,1:38:31.90,1:38:33.42,Default,,0,0,0,,
-Dialogue: 0,1:38:33.42,1:38:34.94,Default,,0,0,0,,
-Dialogue: 0,1:38:34.94,1:38:35.98,Default,,0,0,0,,
-Dialogue: 0,1:38:35.98,1:38:38.18,Default,,0,0,0,,
-Dialogue: 0,1:38:38.18,1:38:40.50,Default,,0,0,0,,
-Dialogue: 0,1:38:40.50,1:38:42.98,Default,,0,0,0,,
-Dialogue: 0,1:38:42.98,1:38:43.62,Default,,0,0,0,,
-Dialogue: 0,1:38:44.70,1:38:46.58,Default,,0,0,0,,
-Dialogue: 0,1:38:46.58,1:38:47.38,Default,,0,0,0,,
-Dialogue: 0,1:38:47.38,1:38:48.74,Default,,0,0,0,,
-Dialogue: 0,1:38:48.74,1:38:49.74,Default,,0,0,0,,
-Dialogue: 0,1:38:49.74,1:38:50.74,Default,,0,0,0,,
-Dialogue: 0,1:38:50.78,1:38:54.14,Default,,0,0,0,,
-Dialogue: 0,1:38:54.14,1:38:56.58,Default,,0,0,0,,
-Dialogue: 0,1:38:56.58,1:38:58.74,Default,,0,0,0,,
-Dialogue: 0,1:38:58.74,1:38:59.54,Default,,0,0,0,,
-Dialogue: 0,1:38:59.54,1:39:01.46,Default,,0,0,0,,
-Dialogue: 0,1:39:01.46,1:39:03.54,Default,,0,0,0,,
-Dialogue: 0,1:39:03.54,1:39:04.86,Default,,0,0,0,,
-Dialogue: 0,1:39:04.86,1:39:07.18,Default,,0,0,0,,
-Dialogue: 0,1:39:07.18,1:39:09.38,Default,,0,0,0,,
-Dialogue: 0,1:39:09.38,1:39:11.30,Default,,0,0,0,,
-Dialogue: 0,1:39:11.30,1:39:12.22,Default,,0,0,0,,
-Dialogue: 0,1:39:12.22,1:39:15.42,Default,,0,0,0,,
-Dialogue: 0,1:39:15.42,1:39:17.18,Default,,0,0,0,,
-Dialogue: 0,1:39:17.18,1:39:19.42,Default,,0,0,0,,
-Dialogue: 0,1:39:19.42,1:39:22.10,Default,,0,0,0,,
-Dialogue: 0,1:39:23.94,1:39:25.46,Default,,0,0,0,,
-Dialogue: 0,1:39:25.46,1:39:26.70,Default,,0,0,0,,
-Dialogue: 0,1:39:26.70,1:39:28.58,Default,,0,0,0,,
-Dialogue: 0,1:39:28.58,1:39:29.82,Default,,0,0,0,,
-Dialogue: 0,1:39:29.82,1:39:31.10,Default,,0,0,0,,
-Dialogue: 0,1:39:31.10,1:39:32.30,Default,,0,0,0,,
-Dialogue: 0,1:39:32.30,1:39:34.22,Default,,0,0,0,,
-Dialogue: 0,1:39:34.22,1:39:35.22,Default,,0,0,0,,
-Dialogue: 0,1:39:42.06,1:39:43.06,Default,,0,0,0,,
-Dialogue: 0,1:39:43.06,1:39:44.70,Default,,0,0,0,,
-Dialogue: 0,1:39:44.70,1:39:46.30,Default,,0,0,0,,
-Dialogue: 0,1:39:46.70,1:39:47.34,Default,,0,0,0,,
-Dialogue: 0,1:40:11.26,1:40:13.02,Default,,0,0,0,,
-Dialogue: 0,1:40:13.02,1:40:14.10,Default,,0,0,0,,
-Dialogue: 0,1:40:14.10,1:40:16.02,Default,,0,0,0,,
-Dialogue: 0,1:40:16.02,1:40:19.14,Default,,0,0,0,,
-Dialogue: 0,1:40:19.14,1:40:23.70,Default,,0,0,0,,
-Dialogue: 0,1:40:23.70,1:40:26.86,Default,,0,0,0,,
-Dialogue: 0,1:40:26.86,1:40:28.10,Default,,0,0,0,,
-Dialogue: 0,1:40:28.10,1:40:29.34,Default,,0,0,0,,
-Dialogue: 0,1:40:29.34,1:40:30.82,Default,,0,0,0,,
-Dialogue: 0,1:40:30.82,1:40:32.26,Default,,0,0,0,,
-Dialogue: 0,1:40:32.26,1:40:34.70,Default,,0,0,0,,
-Dialogue: 0,1:40:34.70,1:40:37.14,Default,,0,0,0,,
-Dialogue: 0,1:40:37.14,1:40:40.06,Default,,0,0,0,,
-Dialogue: 0,1:40:40.06,1:40:42.66,Default,,0,0,0,,
-Dialogue: 0,1:40:42.66,1:40:43.74,Default,,0,0,0,,
-Dialogue: 0,1:40:43.74,1:40:49.02,Default,,0,0,0,,
-Dialogue: 0,1:40:49.02,1:40:51.62,Default,,0,0,0,,
+Dialogue: 0,1:37:40.74,1:37:41.98,Default,,0,0,0,,If you look at it facing the sun
+Dialogue: 0,1:37:41.98,1:37:43.46,Default,,0,0,0,,there’s a lot coming out
+Dialogue: 0,1:37:43.46,1:37:44.62,Default,,0,0,0,,That means there’s definitely a problem
+Dialogue: 0,1:37:50.10,1:37:51.42,Default,,0,0,0,,If when we’re filling up the tank
+Dialogue: 0,1:37:51.42,1:37:52.86,Default,,0,0,0,,you smell this kind of smell, it’s not normal
+Dialogue: 0,1:37:52.86,1:37:54.14,Default,,0,0,0,,Do you see these gasoline vapors?
+Dialogue: 0,1:37:58.94,1:37:59.86,Default,,0,0,0,,There shouldn’t be gasoline here
+Dialogue: 0,1:37:59.86,1:38:00.26,Default,,0,0,0,,Right
+Dialogue: 0,1:38:01.70,1:38:02.50,Default,,0,0,0,,It’s wet here
+Dialogue: 0,1:38:02.50,1:38:03.90,Default,,0,0,0,,That means extra gasoline came out
+Dialogue: 0,1:38:03.90,1:38:05.74,Default,,0,0,0,,Right, fewer vapors went in
+Dialogue: 0,1:38:05.74,1:38:07.42,Default,,0,0,0,,Part of the gasoline vapors
+Dialogue: 0,1:38:07.42,1:38:09.10,Default,,0,0,0,,escaped and went into the atmosphere
+Dialogue: 0,1:38:09.54,1:38:10.26,Default,,0,0,0,,We will stop using it and
+Dialogue: 0,1:38:10.26,1:38:11.06,Default,,0,0,0,,it will be fixed immediately
+Dialogue: 0,1:38:11.22,1:38:12.10,Default,,0,0,0,,This requires that the gas station
+Dialogue: 0,1:38:12.10,1:38:13.50,Default,,0,0,0,,must every year
+Dialogue: 0,1:38:13.50,1:38:15.18,Default,,0,0,0,,conduct one compulsory inspection
+Dialogue: 0,1:38:15.18,1:38:16.70,Default,,0,0,0,,of its gasoline vapor recovery equipment
+Dialogue: 0,1:38:17.50,1:38:18.42,Default,,0,0,0,,You can call 12369
+Dialogue: 0,1:38:18.42,1:38:19.46,Default,,0,0,0,,That’s our complaint hotline.
+Dialogue: 0,1:38:19.94,1:38:21.30,Default,,0,0,0,,Will you definitely go check it out?
+Dialogue: 0,1:38:21.30,1:38:22.54,Default,,0,0,0,,Absolutely.
+Dialogue: 0,1:38:22.54,1:38:23.54,Default,,0,0,0,,We’ll go 100% of the time.
+Dialogue: 0,1:38:25.42,1:38:27.42,Default,,0,0,0,,They promised that they would come 100% of the time.
+Dialogue: 0,1:38:27.42,1:38:28.10,Default,,0,0,0,,Will they really come?
+Dialogue: 0,1:38:28.10,1:38:28.70,Default,,0,0,0,,I don’t know.
+Dialogue: 0,1:38:28.70,1:38:30.58,Default,,0,0,0,,But by putting this sentence up here
+Dialogue: 0,1:38:30.58,1:38:31.90,Default,,0,0,0,,We’ll see it as a kind of test
+Dialogue: 0,1:38:31.90,1:38:33.42,Default,,0,0,0,,We can remember this number
+Dialogue: 0,1:38:33.42,1:38:34.94,Default,,0,0,0,,12369
+Dialogue: 0,1:38:34.94,1:38:35.98,Default,,0,0,0,,If you don’t call that number
+Dialogue: 0,1:38:35.98,1:38:38.18,Default,,0,0,0,,Then it will forever remain just a number
+Dialogue: 0,1:38:38.18,1:38:40.50,Default,,0,0,0,,I’ve said that this wasn’t a happy year for me
+Dialogue: 0,1:38:40.50,1:38:42.98,Default,,0,0,0,,I’ve felt like my life has been uncertain from day to day
+Dialogue: 0,1:38:42.98,1:38:43.62,Default,,0,0,0,,That’s true
+Dialogue: 0,1:38:44.70,1:38:46.58,Default,,0,0,0,,Whenever the pollution was bad I didn’t know
+Dialogue: 0,1:38:46.58,1:38:47.38,Default,,0,0,0,,where I’d be tomorrow
+Dialogue: 0,1:38:47.38,1:38:48.74,Default,,0,0,0,,or where I’d be in the future
+Dialogue: 0,1:38:48.74,1:38:49.74,Default,,0,0,0,,But still
+Dialogue: 0,1:38:49.74,1:38:50.74,Default,,0,0,0,,In that moment when the restaurant owner
+Dialogue: 0,1:38:50.78,1:38:54.14,Default,,0,0,0,,finished installing the smoke filtering device
+Dialogue: 0,1:38:54.14,1:38:56.58,Default,,0,0,0,,I suddenly felt like my foot had landed on solid ground
+Dialogue: 0,1:38:56.58,1:38:58.74,Default,,0,0,0,,It’s a hard kind of feeling to describe
+Dialogue: 0,1:38:58.74,1:38:59.54,Default,,0,0,0,,You know perfectly well
+Dialogue: 0,1:38:59.54,1:39:01.46,Default,,0,0,0,,that the effect on improving air quality
+Dialogue: 0,1:39:01.46,1:39:03.54,Default,,0,0,0,,is completely miniscule
+Dialogue: 0,1:39:03.54,1:39:04.86,Default,,0,0,0,,but if one person
+Dialogue: 0,1:39:04.86,1:39:07.18,Default,,0,0,0,,knows that because they did one small thing
+Dialogue: 0,1:39:07.18,1:39:09.38,Default,,0,0,0,,the situation actually improved a little bit
+Dialogue: 0,1:39:09.38,1:39:11.30,Default,,0,0,0,,That person can feel more at peace about things
+Dialogue: 0,1:39:11.30,1:39:12.22,Default,,0,0,0,,So when you look back
+Dialogue: 0,1:39:12.22,1:39:15.42,Default,,0,0,0,,at the war between people and pollution
+Dialogue: 0,1:39:15.42,1:39:17.18,Default,,0,0,0,,This is how history is made
+Dialogue: 0,1:39:17.18,1:39:19.42,Default,,0,0,0,,It’s tens of millions of ordinary people
+Dialogue: 0,1:39:19.42,1:39:22.10,Default,,0,0,0,,One day they say “No.”
+Dialogue: 0,1:39:22.10,1:39:22.82,Default,,0,0,0,,I’m not satisfied.
+Dialogue: 0,1:39:23.94,1:39:25.46,Default,,0,0,0,,I don’t want to wait.
+Dialogue: 0,1:39:25.46,1:39:26.70,Default,,0,0,0,,I’m not going to shirk the responsibility.
+Dialogue: 0,1:39:26.70,1:39:28.58,Default,,0,0,0,,I’m going to stand up and do something.
+Dialogue: 0,1:39:28.58,1:39:29.82,Default,,0,0,0,,I’m going to do it
+Dialogue: 0,1:39:29.82,1:39:31.10,Default,,0,0,0,,Right now.
+Dialogue: 0,1:39:31.10,1:39:32.30,Default,,0,0,0,,Right at this moment.
+Dialogue: 0,1:39:32.30,1:39:34.22,Default,,0,0,0,,Right here.
+Dialogue: 0,1:39:34.22,1:39:35.22,Default,,0,0,0,,I am going to do it.
+Dialogue: 0,1:39:42.06,1:39:43.06,Default,,0,0,0,,Unless we do bring
+Dialogue: 0,1:39:43.06,1:39:44.70,Default,,0,0,0,,these chemicals under better control
+Dialogue: 0,1:39:44.70,1:39:46.30,Default,,0,0,0,,We’re certainly headed for
+Dialogue: 0,1:39:46.70,1:39:47.34,Default,,0,0,0,,disaster
+Dialogue: 0,1:40:11.26,1:40:13.02,Default,,0,0,0,,This whole system
+Dialogue: 0,1:40:13.02,1:40:14.10,Default,,0,0,0,,that we call home
+Dialogue: 0,1:40:14.10,1:40:16.02,Default,,0,0,0,,Those in Tokyo suffering from asthma
+Dialogue: 0,1:40:16.02,1:40:19.14,Default,,0,0,0,,are presenting a lawsuit for compensation from
+Dialogue: 0,1:40:19.14,1:40:23.70,Default,,0,0,0,,the car factory owners of Tokyo and Japan\Nover the harm caused by tailpipe emissions
+Dialogue: 0,1:40:23.70,1:40:26.86,Default,,0,0,0,,The right to know, the right to participate, the right to sue for damages
+Dialogue: 0,1:40:26.86,1:40:28.10,Default,,0,0,0,,Everyone join together
+Dialogue: 0,1:40:28.10,1:40:29.34,Default,,0,0,0,,Together we will make
+Dialogue: 0,1:40:29.34,1:40:30.82,Default,,0,0,0,,our generation’s
+Dialogue: 0,1:40:30.82,1:40:32.26,Default,,0,0,0,,choice to go green
+Dialogue: 0,1:40:32.26,1:40:34.70,Default,,0,0,0,,If you don’t know how to fix it
+Dialogue: 0,1:40:34.70,1:40:37.14,Default,,0,0,0,,please, stop breaking it
+Dialogue: 0,1:40:37.14,1:40:40.06,Default,,0,0,0,,You grown ups say you love us
+Dialogue: 0,1:40:40.06,1:40:42.66,Default,,0,0,0,,Please, take action
+Dialogue: 0,1:40:42.66,1:40:43.74,Default,,0,0,0,,And for me, 
+Dialogue: 0,1:40:43.74,1:40:49.02,Default,,0,0,0,,it is absolutely my responsibility to do whatever it takes
+Dialogue: 0,1:40:49.02,1:40:51.62,Default,,0,0,0,,to protect my child.
 Dialogue: 0,1:40:58.38,1:41:00.66,Default,,0,0,0,,When China is blanketed in dense smog
 Dialogue: 0,1:41:00.66,1:41:02.54,Default,,0,0,0,,There is at least one thing we can do
 Dialogue: 0,1:41:04.38,1:41:06.02,Default,,0,0,0,,It is to protect yourself

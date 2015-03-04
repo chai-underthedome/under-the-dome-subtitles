@@ -15,1082 +15,897 @@ Style: Default,Hiragino Sans GB,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.66,0:00:05.86,Default,,0,0,0,,This graph shows the Beijing PM2.5 index during January 2013
-Dialogue: 0,0:00:05.86,0:00:08.58,Default,,0,0,0,,In just one month, there were 25 days of smog
-Dialogue: 0,0:00:08.58,0:00:10.06,Default,,0,0,0,,I was in Beijing at that time
-Dialogue: 0,0:00:10.06,0:00:12.46,Default,,0,0,0,,and as I looked back on this curve over the course of that year,
-Dialogue: 0,0:00:12.46,0:00:14.58,Default,,0,0,0,,I tried to recall the senses and emotions
-Dialogue: 0,0:00:15.58,0:00:16.86,Default,,0,0,0,,But I couldn't
-Dialogue: 0,0:00:16.86,0:00:17.50,Default,,0,0,0,,At that time everyone said
-Dialogue: 0,0:00:17.50,0:00:19.70,Default,,0,0,0,,the haze was caused by
-Dialogue: 0,0:00:19.70,0:00:21.62,Default,,0,0,0,,random weather patterns
-Dialogue: 0,0:00:21.62,0:00:22.34,Default,,0,0,0,,Hardly anyone took it seriously
-Dialogue: 0,0:00:23.18,0:00:25.14,Default,,0,0,0,,In that month, I made four business trips:
-Dialogue: 0,0:00:25.14,0:00:26.18,Default,,0,0,0,,Shaanxi
-Dialogue: 0,0:00:26.18,0:00:26.94,Default,,0,0,0,,Henan
-Dialogue: 0,0:00:26.94,0:00:27.90,Default,,0,0,0,,Jiangxi
-Dialogue: 0,0:00:27.90,0:00:28.54,Default,,0,0,0,,Zhejiang
-Dialogue: 0,0:00:29.22,0:00:31.26,Default,,0,0,0,,Looking back at the sky of these trips,
-Dialogue: 0,0:00:31.26,0:00:33.18,Default,,0,0,0,,it seems like China at that time was immersed in smog
-Dialogue: 0,0:00:33.18,0:00:35.30,Default,,0,0,0,,blanketing 25 provinces
-Dialogue: 0,0:00:35.30,0:00:36.58,Default,,0,0,0,,and 600 million people
-Dialogue: 0,0:00:36.58,0:00:37.94,Default,,0,0,0,,I was right in the middle of it,
-Dialogue: 0,0:00:37.94,0:00:38.54,Default,,0,0,0,,but I didn't even realize it
-Dialogue: 0,0:00:39.42,0:00:41.26,Default,,0,0,0,,But the sensation in my throat remained
-Dialogue: 0,0:00:41.26,0:00:43.58,Default,,0,0,0,,When I was in Xi'an, I was coughing so badly that I couldn't even sleep
-Dialogue: 0,0:00:43.58,0:00:46.50,Default,,0,0,0,,I cut up a lemon and put it beside my pillow
-Dialogue: 0,0:00:47.26,0:00:48.62,Default,,0,0,0,,When I returned to Beijing,
-Dialogue: 0,0:00:48.62,0:00:50.30,Default,,0,0,0,,I discovered that I was pregnant
-Dialogue: 0,0:00:51.54,0:00:53.38,Default,,0,0,0,,This is what she looked like the first time I saw her
-Dialogue: 0,0:00:54.38,0:00:56.10,Default,,0,0,0,,At that moment, I knew she must be a girl
-Dialogue: 0,0:00:56.10,0:00:58.58,Default,,0,0,0,,Because it looked like she had a girl's haircut
-Dialogue: 0,0:01:00.06,0:01:01.66,Default,,0,0,0,,When I heard her heartbeat for the first time,
-Dialogue: 0,0:01:01.66,0:01:03.62,Default,,0,0,0,,There was nothing I wanted more than for her
-Dialogue: 0,0:01:03.66,0:01:05.10,Default,,0,0,0,,to be healthy
-Dialogue: 0,0:01:06.30,0:01:08.22,Default,,0,0,0,,But
-Dialogue: 0,0:01:09.06,0:01:10.54,Default,,0,0,0,,she was diagnosed with a benign tumor
-Dialogue: 0,0:01:10.74,0:01:13.18,Default,,0,0,0,,which would require surgery immediately after birth
-Dialogue: 0,0:01:13.78,0:01:15.50,Default,,0,0,0,,Before the anaesthesia,
-Dialogue: 0,0:01:15.50,0:01:16.86,Default,,0,0,0,,the doctor told me
-Dialogue: 0,0:01:16.86,0:01:18.98,Default,,0,0,0,,“Your baby is so young that there is a possibility
-Dialogue: 0,0:01:19.46,0:01:20.42,Default,,0,0,0,,she won't survive the general anaesthetic.
-Dialogue: 0,0:01:21.42,0:01:23.26,Default,,0,0,0,,You need to be mentally prepared for it.”
-Dialogue: 0,0:01:24.94,0:01:26.94,Default,,0,0,0,,Before I could even hold her,
-Dialogue: 0,0:01:26.94,0:01:29.14,Default,,0,0,0,,she was carried off to the operating room
-Dialogue: 0,0:01:30.02,0:01:33.38,Default,,0,0,0,,After that, the nurse gave me a toy bear
-Dialogue: 0,0:01:33.38,0:01:35.74,Default,,0,0,0,,which she used to comfort children
-Dialogue: 0,0:01:35.74,0:01:37.78,Default,,0,0,0,,Instead, she used it to comfort me
-Dialogue: 0,0:01:38.06,0:01:39.14,Default,,0,0,0,,When I saw my little angel after the surgery,
-Dialogue: 0,0:01:39.14,0:01:40.66,Default,,0,0,0,,she was still unconscious
-Dialogue: 0,0:01:40.66,0:01:42.50,Default,,0,0,0,,The doctor said,
-Dialogue: 0,0:01:42.50,0:01:44.14,Default,,0,0,0,,“The operation was very successful.
-Dialogue: 0,0:01:44.14,0:01:46.46,Default,,0,0,0,,But there is one thing you have to forgive me for:
-Dialogue: 0,0:01:46.46,0:01:48.30,Default,,0,0,0,,She is so chubby that
-Dialogue: 0,0:01:48.34,0:01:49.42,Default,,0,0,0,,it took several attempts
-Dialogue: 0,0:01:49.42,0:01:52.14,Default,,0,0,0,,to find a vein for the anesthetic.”
-Dialogue: 0,0:01:55.06,0:01:56.50,Default,,0,0,0,,I took her tiny hand, full of needle marks,
-Dialogue: 0,0:01:56.50,0:01:57.94,Default,,0,0,0,,and I held it to my face
-Dialogue: 0,0:01:57.94,0:02:00.10,Default,,0,0,0,,I called her name
-Dialogue: 0,0:02:00.10,0:02:02.30,Default,,0,0,0,,until she opened her eyes and looked at me
-Dialogue: 0,0:02:04.62,0:02:06.74,Default,,0,0,0,,I'm a very lucky person
-Dialogue: 0,0:02:07.42,0:02:09.06,Default,,0,0,0,,After that, I quit my job so I could
-Dialogue: 0,0:02:09.06,0:02:11.26,Default,,0,0,0,,spend my time keeping her company and looking after her
-Dialogue: 0,0:02:11.26,0:02:13.06,Default,,0,0,0,,As long as we are all together, safe and sound,
-Dialogue: 0,0:02:13.06,0:02:14.06,Default,,0,0,0,,nothing else matters
-Dialogue: 0,0:02:15.42,0:02:16.22,Default,,0,0,0,,But
-Dialogue: 0,0:02:17.58,0:02:18.34,Default,,0,0,0,,already on our way home from the hospital,
-Dialogue: 0,0:02:18.34,0:02:19.94,Default,,0,0,0,,I started to feel scared
-Dialogue: 0,0:02:19.94,0:02:22.46,Default,,0,0,0,,The smell of black smoke and burning fire was everywhere
-Dialogue: 0,0:02:22.46,0:02:24.46,Default,,0,0,0,,I covered her nose with my handkerchief
-Dialogue: 0,0:02:24.46,0:02:25.34,Default,,0,0,0,,I know how stupid that seems,
-Dialogue: 0,0:02:25.34,0:02:26.18,Default,,0,0,0,,since in her struggle to breathe through it,
-Dialogue: 0,0:02:26.18,0:02:27.70,Default,,0,0,0,,she would just breathe in more smog
-Dialogue: 0,0:02:28.86,0:02:30.58,Default,,0,0,0,,Before that moment, I'd never been afraid of air pollution
-Dialogue: 0,0:02:30.62,0:02:32.98,Default,,0,0,0,,and I'd never worn a filter mask
-Dialogue: 0,0:02:32.98,0:02:36.30,Default,,0,0,0,,But now, there is a little life in your arms
-Dialogue: 0,0:02:36.30,0:02:39.14,Default,,0,0,0,,her breathing, eating and drinking are all on your shoulders
-Dialogue: 0,0:02:39.14,0:02:40.86,Default,,0,0,0,,That's when you begin to feel afraid
-Dialogue: 0,0:02:40.86,0:02:43.06,Default,,0,0,0,,That severe smog at the end of 2013 lasted about two months
-Dialogue: 0,0:02:43.06,0:02:44.14,Default,,0,0,0,,The continuing smog made me feel like
-Dialogue: 0,0:02:44.14,0:02:45.06,Default,,0,0,0,,it was more than just a random occurrence
-Dialogue: 0,0:02:45.06,0:02:46.90,Default,,0,0,0,,and that it couldn't possibly be over quickly
-Dialogue: 0,0:02:47.54,0:02:50.26,Default,,0,0,0,,It was the same sky that I saw ten years ago,
-Dialogue: 0,0:02:50.26,0:02:51.62,Default,,0,0,0,,when I was in Shaanxi
-Dialogue: 0,0:03:03.54,0:03:05.10,Default,,0,0,0,,Chai: “Is it like this every day?”
-Dialogue: 0,0:03:05.10,0:03:07.02,Default,,0,0,0,,Boy: “Every day of every year, it's like this!
-Dialogue: 0,0:03:07.02,0:03:08.42,Default,,0,0,0,,It's lasted for three years now,
-Dialogue: 0,0:03:08.42,0:03:09.74,Default,,0,0,0,,not just a day or two.”
-Dialogue: 0,0:03:10.54,0:03:13.00,Default,,0,0,0,,“Benzopyrene is a powerful carcinogen
-Dialogue: 0,0:03:13.00,0:03:15.38,Default,,0,0,0,,As time goes on, it accumulates in one's body
-Dialogue: 0,0:03:15.38,0:03:16.70,Default,,0,0,0,,Once enough of it accumulates,
-Dialogue: 0,0:03:16.70,0:03:18.26,Default,,0,0,0,,it increases a person's risk of getting cancer.”
-Dialogue: 0,0:03:22.34,0:03:23.98,Default,,0,0,0,,Chai: “Sir, do you think this is still a river?”
-Dialogue: 0,0:03:23.98,0:03:25.46,Default,,0,0,0,,Wang: “It's not river water, it's wastewater.
-Dialogue: 0,0:03:25.46,0:03:26.46,Default,,0,0,0,,Tests show that the annual average
-Dialogue: 0,0:03:26.46,0:03:30.18,Default,,0,0,0,,benzopyrene level here is 290 times above the regulatory limit.”
-Dialogue: 0,0:03:33.54,0:03:35.22,Default,,0,0,0,,Person: “All of the trees over there died.
-Dialogue: 0,0:03:35.22,0:03:37.18,Default,,0,0,0,,Those two big trees there have completely split open.”
-Dialogue: 0,0:03:45.30,0:03:47.18,Default,,0,0,0,,Chai: “Have you ever seen a real star before?”
-Dialogue: 0,0:03:47.70,0:03:49.38,Default,,0,0,0,,Wang Huiqing: “No, I haven't.”
-Dialogue: 0,0:03:50.02,0:03:52.22,Default,,0,0,0,,Chai: “What about blue sky?”
-Dialogue: 0,0:03:52.22,0:03:54.34,Default,,0,0,0,,Wang Huiqing: “I've seen one that's a little blue.”
-Dialogue: 0,0:03:54.34,0:03:56.70,Default,,0,0,0,,Chai: “What about white clouds?”
-Dialogue: 0,0:03:56.70,0:03:58.82,Default,,0,0,0,,Wang Huiqing: “No, I haven't.”
-Dialogue: 0,0:04:01.58,0:04:04.98,Default,,0,0,0,,When I interviewed this six-year-old girl in 2004,
-Dialogue: 0,0:04:04.98,0:04:06.66,Default,,0,0,0,,it didn't cross my mind at all that
-Dialogue: 0,0:04:06.66,0:04:08.14,Default,,0,0,0,,what she said
-Dialogue: 0,0:04:08.14,0:04:11.14,Default,,0,0,0,,could be the same experience my daughter would have
-Dialogue: 0,0:04:12.90,0:04:16.34,Default,,0,0,0,,These photos show each day of 2014 in Beijing
-Dialogue: 0,0:04:16.34,0:04:17.62,Default,,0,0,0,,Only when the air quality was good
-Dialogue: 0,0:04:17.62,0:04:19.38,Default,,0,0,0,,would I dare take my daughter outside with me
-Dialogue: 0,0:04:19.38,0:04:21.06,Default,,0,0,0,,But how many good days were there?
-Dialogue: 0,0:04:22.86,0:04:24.54,Default,,0,0,0,,175 were polluted
-Dialogue: 0,0:04:24.54,0:04:27.06,Default,,0,0,0,,That means that in one year, half of the time I had no choice
-Dialogue: 0,0:04:27.06,0:04:28.98,Default,,0,0,0,,but to keep her at home
-Dialogue: 0,0:04:28.98,0:04:30.22,Default,,0,0,0,,like a prisoner
-Dialogue: 0,0:04:30.22,0:04:32.30,Default,,0,0,0,,Ten years ago, the director of the Environmental Protection Bureau told me,
-Dialogue: 0,0:04:32.30,0:04:34.14,Default,,0,0,0,,“Xiaoyi is a microcosm of Shaanxi;
-Dialogue: 0,0:04:34.14,0:04:36.14,Default,,0,0,0,,Shaanxi is a microcosm of China.”
-Dialogue: 0,0:04:36.14,0:04:37.62,Default,,0,0,0,,In just a decade,
-Dialogue: 0,0:04:37.62,0:04:39.66,Default,,0,0,0,,I've looked on helplessly as this has come true
-Dialogue: 0,0:05:19.94,0:05:21.06,Default,,0,0,0,,I once watched a TV series
-Dialogue: 0,0:05:21.06,0:05:22.98,Default,,0,0,0,,titled "Under the Dome"
-Dialogue: 0,0:05:22.98,0:05:24.06,Default,,0,0,0,,It was about a small town
-Dialogue: 0,0:05:24.06,0:05:26.34,Default,,0,0,0,,suddenly enclosed by a dome that
-Dialogue: 0,0:05:26.34,0:05:27.34,Default,,0,0,0,,appeared out of nowhere
-Dialogue: 0,0:05:27.34,0:05:29.42,Default,,0,0,0,,Cut off from the world, no way out
-Dialogue: 0,0:05:29.42,0:05:30.26,Default,,0,0,0,,But one day, I realized that
-Dialogue: 0,0:05:30.26,0:05:31.86,Default,,0,0,0,,we're all living in the same reality
-Dialogue: 0,0:05:32.74,0:05:35.06,Default,,0,0,0,,Sometimes, when I get up in the morning,
-Dialogue: 0,0:05:35.06,0:05:37.22,Default,,0,0,0,,I see my daughter standing in front of our balcony smacking the glass window
-Dialogue: 0,0:05:37.22,0:05:39.66,Default,,0,0,0,,This is her method of telling me that she wants to go outside
-Dialogue: 0,0:05:39.98,0:05:41.18,Default,,0,0,0,,I think, one day, she will ask me
-Dialogue: 0,0:05:41.90,0:05:43.98,Default,,0,0,0,,Mama, why do you keep me shut inside?
-Dialogue: 0,0:05:44.30,0:05:45.22,Default,,0,0,0,,What is really out there?
-Dialogue: 0,0:05:45.26,0:05:46.42,Default,,0,0,0,,Will anything hurt me?
-Dialogue: 0,0:05:47.10,0:05:47.90,Default,,0,0,0,,Everything I have done
-Dialogue: 0,0:05:47.90,0:05:49.26,Default,,0,0,0,,throughout this year
-Dialogue: 0,0:05:49.26,0:05:50.26,Default,,0,0,0,,is to answer the questions
-Dialogue: 0,0:05:50.26,0:05:51.58,Default,,0,0,0,,she will ask me in the future
-Dialogue: 0,0:05:51.58,0:05:53.22,Default,,0,0,0,,What is smog?
-Dialogue: 0,0:05:53.22,0:05:53.94,Default,,0,0,0,,Where does it come from?
-Dialogue: 0,0:05:53.94,0:05:55.30,Default,,0,0,0,,What can we do about it?
-Dialogue: 0,0:05:56.50,0:05:57.46,Default,,0,0,0,,So, what is the smog?
-Dialogue: 0,0:06:00.62,0:06:02.20,Default,,0,0,0,,Sometimes, I turn off the light
-Dialogue: 0,0:06:02.98,0:06:03.90,Default,,0,0,0,,I want to see it
-Dialogue: 0,0:06:04.18,0:06:06.18,Default,,0,0,0,,I know that PM2.5 is here
-Dialogue: 0,0:06:07.30,0:06:08.70,Default,,0,0,0,,They're airborne particles
-Dialogue: 0,0:06:08.70,0:06:10.38,Default,,0,0,0,,with a diameter of 2.5 micrometers
-Dialogue: 0,0:06:11.42,0:06:14.06,Default,,0,0,0,,So they reflect a large amount of visible light,
-Dialogue: 0,0:06:14.06,0:06:15.42,Default,,0,0,0,,leaving us in a world
-Dialogue: 0,0:06:15.42,0:06:16.86,Default,,0,0,0,,with very low visibility
-Dialogue: 0,0:06:16.86,0:06:19.02,Default,,0,0,0,,However, I can't see them
-Dialogue: 0,0:06:19.02,0:06:20.82,Default,,0,0,0,,because the smallest particle the naked eye can see
-Dialogue: 0,0:06:20.82,0:06:22.82,Default,,0,0,0,,... is twenty times bigger
-Dialogue: 0,0:06:22.82,0:06:23.30,Default,,0,0,0,,In other words,
-Dialogue: 0,0:06:23.30,0:06:25.30,Default,,0,0,0,,this is a war against an invisible enemy
-Dialogue: 0,0:06:26.42,0:06:27.82,Default,,0,0,0,,There's only one way
-Dialogue: 0,0:06:27.82,0:06:29.34,Default,,0,0,0,,to see them
-Dialogue: 0,0:06:29.34,0:06:30.14,Default,,0,0,0,,It's this
-Dialogue: 0,0:06:30.18,0:06:32.38,Default,,0,0,0,,This is a PM2.5 sampling device
-Dialogue: 0,0:06:33.22,0:06:35.10,Default,,0,0,0,,I put a very clean sampling filter
-Dialogue: 0,0:06:35.10,0:06:36.06,Default,,0,0,0,,into the machine
-Dialogue: 0,0:06:36.06,0:06:38.14,Default,,0,0,0,,and carried it for 24 hours
-Dialogue: 0,0:06:46.10,0:06:48.50,Default,,0,0,0,,This is what the filter looked like at the very beginning, right?
-Dialogue: 0,0:06:48.50,0:06:50.54,Default,,0,0,0,,After 24 hours
-Dialogue: 0,0:06:50.54,0:06:51.46,Default,,0,0,0,,it looked like this
-Dialogue: 0,0:06:52.02,0:06:54.42,Default,,0,0,0,,If I don't do anything to protect my child
-Dialogue: 0,0:06:54.42,0:06:56.74,Default,,0,0,0,,she will breathe in all of this stuff
-Dialogue: 0,0:06:56.74,0:06:57.78,Default,,0,0,0,,How much will she breathe in?
-Dialogue: 0,0:06:59.10,0:07:01.62,Default,,0,0,0,,305.91 micrograms per cubic meter
-Dialogue: 0,0:07:01.62,0:07:04.02,Default,,0,0,0,,But who can understand a number like this, right?
-Dialogue: 0,0:07:04.02,0:07:04.94,Default,,0,0,0,,We can only compare it.
-Dialogue: 0,0:07:04.94,0:07:06.98,Default,,0,0,0,,This is the WHO standard for maximum PM2.5 per day
-Dialogue: 0,0:07:06.98,0:07:08.62,Default,,0,0,0,,This is the standard in the United States
-Dialogue: 0,0:07:08.62,0:07:10.18,Default,,0,0,0,,This is the standard in Europe
-Dialogue: 0,0:07:10.18,0:07:11.94,Default,,0,0,0,,and this is the standard in China
-Dialogue: 0,0:07:11.94,0:07:13.22,Default,,0,0,0,,How much
-Dialogue: 0,0:07:13.22,0:07:14.46,Default,,0,0,0,,did we breathe in on that day?
-Dialogue: 0,0:07:15.10,0:07:17.46,Default,,0,0,0,,Almost 5 times China's maximum limit
-Dialogue: 0,0:07:18.02,0:07:18.98,Default,,0,0,0,,Although it sounds like
-Dialogue: 0,0:07:18.98,0:07:20.90,Default,,0,0,0,,that was just one slightly alarming number
-Dialogue: 0,0:07:20.90,0:07:22.58,Default,,0,0,0,,I really wanted to know what substances were
-Dialogue: 0,0:07:22.58,0:07:23.90,Default,,0,0,0,,actually in that sample
-Dialogue: 0,0:07:23.90,0:07:25.74,Default,,0,0,0,,Prof. Qiu Xinhua from Peking University was kind enough to
-Dialogue: 0,0:07:25.74,0:07:27.70,Default,,0,0,0,,run this test for me
-Dialogue: 0,0:07:27.70,0:07:29.10,Default,,0,0,0,,Here are the results of his analysis:
-Dialogue: 0,0:07:29.10,0:07:30.98,Default,,0,0,0,,It contains 15 types of carcinogens
-Dialogue: 0,0:07:30.98,0:07:31.46,Default,,0,0,0,,including
-Dialogue: 0,0:07:31.46,0:07:32.62,Default,,0,0,0,,benzo[a]pyrene
-Dialogue: 0,0:07:32.62,0:07:34.74,Default,,0,0,0,,one of the world's strongest carcinogens
-Dialogue: 0,0:07:34.74,0:07:36.10,Default,,0,0,0,,How many times the standard was there?
-Dialogue: 0,0:07:37.50,0:07:39.54,Default,,0,0,0,,14 times the government standard
-Dialogue: 0,0:07:39.54,0:07:41.22,Default,,0,0,0,,I couldn't believe this number
-Dialogue: 0,0:07:41.22,0:07:42.14,Default,,0,0,0,,Do you remember,
-Dialogue: 0,0:07:42.14,0:07:43.46,Default,,0,0,0,,in that clip,
-Dialogue: 0,0:07:43.46,0:07:44.62,Default,,0,0,0,,when I was standing in Xiaoyi,
-Dialogue: 0,0:07:44.62,0:07:46.82,Default,,0,0,0,,surrounded by coal plants?
-Dialogue: 0,0:07:46.82,0:07:49.42,Default,,0,0,0,,The amount of Benzo[a]pyrene I was breathing there was only 9 times the legal standard
-Dialogue: 0,0:07:49.42,0:07:51.46,Default,,0,0,0,,Nowadays, I live in the center of an international metropolis
-Dialogue: 0,0:07:51.46,0:07:54.30,Default,,0,0,0,,When I look around, I can't see a single factory or chimney
-Dialogue: 0,0:07:54.30,0:07:57.14,Default,,0,0,0,,So how can it possibly be 14 times the legal limit?
-Dialogue: 0,0:07:57.14,0:07:58.62,Default,,0,0,0,,Professor Qiu doubted the results too
-Dialogue: 0,0:07:58.62,0:07:59.86,Default,,0,0,0,,He said “It doesn't seem possible to be that high.
-Dialogue: 0,0:07:59.86,0:08:01.22,Default,,0,0,0,,I'll run it again.”
-Dialogue: 0,0:08:01.90,0:08:03.30,Default,,0,0,0,,He called me the next day and told me
-Dialogue: 0,0:08:03.30,0:08:04.34,Default,,0,0,0,,“There was no mistake; it is 14 times the limit.”
-Dialogue: 0,0:08:05.10,0:08:06.30,Default,,0,0,0,,“Our wider sampling showed
-Dialogue: 0,0:08:06.30,0:08:07.38,Default,,0,0,0,,there are some people whose exposure was even higher than yours
-Dialogue: 0,0:08:07.38,0:08:08.38,Default,,0,0,0,,-- 20 times the legal limit.”
-Dialogue: 0,0:08:09.54,0:08:10.94,Default,,0,0,0,,All these carcinogens were stuck to
-Dialogue: 0,0:08:10.98,0:08:12.14,Default,,0,0,0,,the sampling filter
-Dialogue: 0,0:08:12.14,0:08:13.86,Default,,0,0,0,,you saw before
-Dialogue: 0,0:08:13.86,0:08:15.94,Default,,0,0,0,,attached to a substance called black carbon
-Dialogue: 0,0:08:15.94,0:08:16.82,Default,,0,0,0,,It's tiny,
-Dialogue: 0,0:08:16.82,0:08:18.42,Default,,0,0,0,,only 0.2 micrometers
-Dialogue: 0,0:08:18.42,0:08:19.82,Default,,0,0,0,,But it has a chain structure,
-Dialogue: 0,0:08:19.82,0:08:21.58,Default,,0,0,0,,so if it is unraveled
-Dialogue: 0,0:08:21.58,0:08:23.34,Default,,0,0,0,,two grams is the size of ...
-Dialogue: 0,0:08:23.34,0:08:25.66,Default,,0,0,0,,a basketball court
-Dialogue: 0,0:08:25.66,0:08:29.30,Default,,0,0,0,,Because of this, it can absorb many carcinogens and heavy metal particles\N
-Dialogue: 0,0:08:29.30,0:08:32.62,Default,,0,0,0,,How much black carbon is there in China?
-Dialogue: 0,0:08:32.62,0:08:33.86,Default,,0,0,0,,This is NASA's estimate
-Dialogue: 0,0:08:33.86,0:08:36.18,Default,,0,0,0,,from 2009
-Dialogue: 0,0:08:38.74,0:08:41.10,Default,,0,0,0,,That bright purple and white spot
-Dialogue: 0,0:08:41.10,0:08:41.90,Default,,0,0,0,,is China
-Dialogue: 0,0:08:41.90,0:08:46.42,Default,,0,0,0,,It drifts above us like a ghost
-Dialogue: 0,0:08:46.42,0:08:48.14,Default,,0,0,0,,So I went to Peking University
-Dialogue: 0,0:08:48.14,0:08:49.94,Default,,0,0,0,,I know that they have a lab for these experiments
-Dialogue: 0,0:08:49.94,0:08:52.54,Default,,0,0,0,,I asked an expert if I could volunteer
-Dialogue: 0,0:08:52.54,0:08:54.98,Default,,0,0,0,,“If you put me in a closed chamber with a high concentration of black carbon
-Dialogue: 0,0:08:54.98,0:08:56.18,Default,,0,0,0,,and observe and test my physical reactions,
-Dialogue: 0,0:08:56.22,0:08:57.98,Default,,0,0,0,,I can show everyone the results.”
-Dialogue: 0,0:08:57.98,0:09:00.02,Default,,0,0,0,,He hesitated for a while and answered
-Dialogue: 0,0:09:00.02,0:09:00.42,Default,,0,0,0,,“I'm sorry.
-Dialogue: 0,0:09:00.42,0:09:02.30,Default,,0,0,0,,I cannot do this experiment.”
-Dialogue: 0,0:09:02.30,0:09:03.74,Default,,0,0,0,,I asked why.
-Dialogue: 0,0:09:03.74,0:09:05.30,Default,,0,0,0,,He said, “Every experiment ...
-Dialogue: 0,0:09:05.30,0:09:07.58,Default,,0,0,0,,requires academic ethical thresholds.
-Dialogue: 0,0:09:07.58,0:09:09.54,Default,,0,0,0,,The thresholds should prevent extreme harm
-Dialogue: 0,0:09:09.54,0:09:11.82,Default,,0,0,0,,to the participants.
-Dialogue: 0,0:09:11.82,0:09:13.54,Default,,0,0,0,,I cannot run an experiment with these thresholds
-Dialogue: 0,0:09:13.54,0:09:16.54,Default,,0,0,0,,Even if the concentration in the air outdoors
-Dialogue: 0,0:09:16.54,0:09:18.66,Default,,0,0,0,,is higher than in the test chamber."
-Dialogue: 0,0:09:18.66,0:09:19.74,Default,,0,0,0,,“To put it another way,
-Dialogue: 0,0:09:19.74,0:09:21.34,Default,,0,0,0,,each of us
-Dialogue: 0,0:09:21.34,0:09:25.98,Default,,0,0,0,,is living in an experimental chamber our entire life
-Dialogue: 0,0:09:25.98,0:09:27.90,Default,,0,0,0,,and we don't know what the outcome of the experiment will be.”
-Dialogue: 0,0:09:27.90,0:09:30.46,Default,,0,0,0,,Peking University used a different approach
-Dialogue: 0,0:09:30.46,0:09:31.54,Default,,0,0,0,,They logged how people physically
-Dialogue: 0,0:09:31.58,0:09:33.70,Default,,0,0,0,,react to polluted air directly
-Dialogue: 0,0:09:33.70,0:09:35.10,Default,,0,0,0,,For one year,
-Dialogue: 0,0:09:35.10,0:09:37.14,Default,,0,0,0,,I participated in this experiment
-Dialogue: 0,0:09:37.18,0:09:38.54,Default,,0,0,0,,This is what I found:
-Dialogue: 0,0:09:38.54,0:09:39.82,Default,,0,0,0,,I have chronic respiratory inflammation
-Dialogue: 0,0:09:39.82,0:09:41.46,Default,,0,0,0,,and belong to a sensitive population group
-Dialogue: 0,0:09:41.46,0:09:44.06,Default,,0,0,0,,Fine particles impact the respiratory system,
-Dialogue: 0,0:09:44.06,0:09:45.30,Default,,0,0,0,,exacerbate inflammation of the respiratory tract
-Dialogue: 0,0:09:45.30,0:09:47.06,Default,,0,0,0,,and affect the entire cardiovascular system
-Dialogue: 0,0:09:47.06,0:09:50.18,Default,,0,0,0,,Tiny particles correlate with a higher possibility of heart failure due to reduced cardiac blood supply
-Dialogue: 0,0:09:50.18,0:09:51.50,Default,,0,0,0,,I don't really understand
-Dialogue: 0,0:09:51.50,0:09:53.30,Default,,0,0,0,,what the medical jargon means
-Dialogue: 0,0:09:53.30,0:09:55.22,Default,,0,0,0,,Therefore with the help of the scientists
-Dialogue: 0,0:09:55.22,0:09:57.30,Default,,0,0,0,,we made an animation to explain the effect
-Dialogue: 0,0:09:58.06,0:10:00.06,Default,,0,0,0,,I am PM2.5
-Dialogue: 0,0:10:00.06,0:10:02.10,Default,,0,0,0,,I have lots of brothers and sisters
-Dialogue: 0,0:10:02.10,0:10:05.42,Default,,0,0,0,,Polycyclic aromatic hydrocarbons and other heavy metal particles
-Dialogue: 0,0:10:05.42,0:10:07.62,Default,,0,0,0,,Each of bearing weapons
-Dialogue: 0,0:10:08.98,0:10:12.02,Default,,0,0,0,,In the game of attacking human bodies
-Dialogue: 0,0:10:12.90,0:10:14.26,Default,,0,0,0,,I rarely miss
-Dialogue: 0,0:10:15.14,0:10:16.38,Default,,0,0,0,,Scene 1
-Dialogue: 0,0:10:16.38,0:10:17.02,Default,,0,0,0,,Nostril
-Dialogue: 0,0:10:17.42,0:10:20.54,Default,,0,0,0,,Nose hairs and mucus can block large particles
-Dialogue: 0,0:10:20.54,0:10:24.98,Default,,0,0,0,,90% of particles are bigger than 10 microns
-Dialogue: 0,0:10:24.98,0:10:25.82,Default,,0,0,0,,and get killed in action
-Dialogue: 0,0:10:25.82,0:10:26.86,Default,,0,0,0,,But they cannot stop me
-Dialogue: 0,0:10:27.62,0:10:28.26,Default,,0,0,0,,Scene 2
-Dialogue: 0,0:10:28.54,0:10:29.22,Default,,0,0,0,,Throat
-Dialogue: 0,0:10:30.58,0:10:32.30,Default,,0,0,0,,The upper respiratory tract
-Dialogue: 0,0:10:32.30,0:10:32.94,Default,,0,0,0,,has cilia that are only 10 microns long
-Dialogue: 0,0:10:32.94,0:10:33.54,Default,,0,0,0,,They beat 20 times
-Dialogue: 0,0:10:33.54,0:10:34.50,Default,,0,0,0,,a second,
-Dialogue: 0,0:10:34.50,0:10:35.78,Default,,0,0,0,,but I pass through them with ease
-Dialogue: 0,0:10:35.78,0:10:37.90,Default,,0,0,0,,The smooth muscles of the trachea become irritated,
-Dialogue: 0,0:10:37.90,0:10:38.46,Default,,0,0,0,,contract and
-Dialogue: 0,0:10:38.46,0:10:39.70,Default,,0,0,0,,try to block me,
-Dialogue: 0,0:10:39.70,0:10:41.50,Default,,0,0,0,,but this bullying can't stop me
-Dialogue: 0,0:10:41.50,0:10:42.34,Default,,0,0,0,,Scene 3
-Dialogue: 0,0:10:42.34,0:10:43.50,Default,,0,0,0,,Lower respiratory tract
-Dialogue: 0,0:10:43.70,0:10:46.34,Default,,0,0,0,,Here the bronchi branch out like a tree
-Dialogue: 0,0:10:46.34,0:10:47.70,Default,,0,0,0,,into small bronchioles
-Dialogue: 0,0:10:47.70,0:10:49.26,Default,,0,0,0,,These are the best ski slopes for us
-Dialogue: 0,0:10:52.30,0:10:56.50,Default,,0,0,0,,We fight with leukocytes and lymphocytes along the way
-Dialogue: 0,0:10:56.50,0:10:59.66,Default,,0,0,0,,These fights will cause all kinds of inflammation in the human body
-Dialogue: 0,0:11:00.26,0:11:03.50,Default,,0,0,0,,Our troop finally reaches our destination:
-Dialogue: 0,0:11:03.50,0:11:05.38,Default,,0,0,0,,the tree-tip like alveoli
-Dialogue: 0,0:11:06.30,0:11:08.90,Default,,0,0,0,,The human lung has more than 300 million alveoli
-Dialogue: 0,0:11:08.90,0:11:11.70,Default,,0,0,0,,If we block the alveoli,
-Dialogue: 0,0:11:11.70,0:11:13.78,Default,,0,0,0,,the human won't be able to breathe anymore
-Dialogue: 0,0:11:13.78,0:11:16.78,Default,,0,0,0,,However, our most ferocious enemy is here: the macrophages
-Dialogue: 0,0:11:17.78,0:11:20.10,Default,,0,0,0,,Their specialty is gobbling up foreign material
-Dialogue: 0,0:11:20.10,0:11:22.10,Default,,0,0,0,,and are known as the body's street sweepers
-Dialogue: 0,0:11:22.46,0:11:24.42,Default,,0,0,0,,This is going to be a tough battle.
-Dialogue: 0,0:11:35.18,0:11:36.50,Default,,0,0,0,,However we outnumber them
-Dialogue: 0,0:11:37.02,0:11:39.34,Default,,0,0,0,,our core is difficult to break down,
-Dialogue: 0,0:11:39.34,0:11:41.46,Default,,0,0,0,,and and we contain toxic heavy metals
-Dialogue: 0,0:11:41.70,0:11:44.02,Default,,0,0,0,,Macrophages cannot neutralize all of us
-Dialogue: 0,0:11:44.02,0:11:46.34,Default,,0,0,0,,and can be easily killed by over-consumption
-Dialogue: 0,0:11:46.90,0:11:49.22,Default,,0,0,0,,This is how the human immune system breaks down
-Dialogue: 0,0:11:50.58,0:11:52.98,Default,,0,0,0,,We have another special force:
-Dialogue: 0,0:11:52.98,0:11:54.94,Default,,0,0,0,,particles less than 0.5 microns
-Dialogue: 0,0:11:54.94,0:11:57.74,Default,,0,0,0,,Once in the alveoli, they are small enough to pass the membranes into blood vessels
-Dialogue: 0,0:11:57.74,0:11:59.94,Default,,0,0,0,,damaging the blood vessel lining
-Dialogue: 0,0:11:59.94,0:12:02.18,Default,,0,0,0,,and causing arteries to narrow
-Dialogue: 0,0:12:02.18,0:12:03.26,Default,,0,0,0,,which causes high blood pressure
-Dialogue: 0,0:12:03.26,0:12:04.50,Default,,0,0,0,,and thrombosis
-Dialogue: 0,0:12:05.58,0:12:11.46,Default,,0,0,0,,We can even enter the core of human bodies through the pulmonary circulation system
-Dialogue: 0,0:12:11.86,0:12:14.78,Default,,0,0,0,,and attack your heart
-Dialogue: 0,0:12:14.78,0:12:18.06,Default,,0,0,0,,causing myocardial ischemia and irregular heartbeat
-Dialogue: 0,0:12:18.06,0:12:19.78,Default,,0,0,0,,which leads to heart attacks
-Dialogue: 0,0:12:21.78,0:12:23.14,Default,,0,0,0,,Be terrified,
-Dialogue: 0,0:12:23.14,0:12:24.02,Default,,0,0,0,,humans
-Dialogue: 0,0:12:24.26,0:12:26.30,Default,,0,0,0,,We're in every breath
-Dialogue: 0,0:12:26.62,0:12:27.62,Default,,0,0,0,,you take
-Dialogue: 0,0:12:31.14,0:12:31.90,Default,,0,0,0,,These measurements
-Dialogue: 0,0:12:31.90,0:12:34.18,Default,,0,0,0,,were provided by the Chinese Academy of Sciences
-Dialogue: 0,0:12:34.18,0:12:35.70,Default,,0,0,0,,This complex plot demonstrates
-Dialogue: 0,0:12:35.70,0:12:38.30,Default,,0,0,0,,that as the concentration of PM2.5 increases,
-Dialogue: 0,0:12:38.30,0:12:40.94,Default,,0,0,0,,the human mortality rate also increases
-Dialogue: 0,0:12:40.94,0:12:43.58,Default,,0,0,0,,Many other scientific research institutions have observed the same trend
-Dialogue: 0,0:12:43.58,0:12:46.02,Default,,0,0,0,,Chen Zhu, the former Chinese health minister
-Dialogue: 0,0:12:46.02,0:12:48.02,Default,,0,0,0,,has calculated that
-Dialogue: 0,0:12:48.02,0:12:48.86,Default,,0,0,0,,the number of premature deaths
-Dialogue: 0,0:12:48.86,0:12:51.26,Default,,0,0,0,,caused by air pollution
-Dialogue: 0,0:12:51.26,0:12:52.66,Default,,0,0,0,,in China each year is
-Dialogue: 0,0:12:54.26,0:12:55.66,Default,,0,0,0,,500,000 people
-Dialogue: 0,0:12:55.74,0:12:57.46,Default,,0,0,0,,In this battle against human beings,
-Dialogue: 0,0:12:57.46,0:12:59.90,Default,,0,0,0,,the most fragile and vulnerable populations are
-Dialogue: 0,0:12:59.90,0:13:01.66,Default,,0,0,0,,our children and parents
-Dialogue: 0,0:13:02.66,0:13:04.86,Default,,0,0,0,,These babies are about 2 months old
-Dialogue: 0,0:13:04.86,0:13:06.90,Default,,0,0,0,,They have never been outside
-Dialogue: 0,0:13:06.90,0:13:08.46,Default,,0,0,0,,but they have been diagnosed with pneumonia
-Dialogue: 0,0:13:08.46,0:13:10.34,Default,,0,0,0,,Here they are receiving nebulizer therapy
-Dialogue: 0,0:13:10.34,0:13:12.54,Default,,0,0,0,,The parents of these babies asked me to photograph their children
-Dialogue: 0,0:13:12.54,0:13:13.78,Default,,0,0,0,,they suspected their children became sick
-Dialogue: 0,0:13:13.78,0:13:15.66,Default,,0,0,0,,due to lack of protection during heavy smog
-Dialogue: 0,0:13:15.66,0:13:17.22,Default,,0,0,0,,The doctor told them:
-Dialogue: 0,0:13:17.22,0:13:20.58,Default,,0,0,0,,“I can only render a diagnosis of 'Pneumonia of unknown cause'
-Dialogue: 0,0:13:20.58,0:13:21.46,Default,,0,0,0,,because of the lack of
-Dialogue: 0,0:13:21.46,0:13:23.34,Default,,0,0,0,,current epidemiological studies.
-Dialogue: 0,0:13:23.34,0:13:25.22,Default,,0,0,0,,But I can tell you this statistic:
-Dialogue: 0,0:13:25.22,0:13:27.66,Default,,0,0,0,,In January of 2013
-Dialogue: 0,0:13:27.66,0:13:29.74,Default,,0,0,0,,during the heavy smog,
-Dialogue: 0,0:13:29.74,0:13:31.42,Default,,0,0,0,,throughout the entire country,
-Dialogue: 0,0:13:31.42,0:13:33.38,Default,,0,0,0,,27 cities
-Dialogue: 0,0:13:33.38,0:13:37.66,Default,,0,0,0,,showed exponential increases in emergency department visits.”
-Dialogue: 0,0:13:37.66,0:13:39.34,Default,,0,0,0,,The mothers in my community
-Dialogue: 0,0:13:39.34,0:13:41.02,Default,,0,0,0,,discussed about this event once
-Dialogue: 0,0:13:41.02,0:13:43.06,Default,,0,0,0,,One mother asked me:
-Dialogue: 0,0:13:43.06,0:13:44.54,Default,,0,0,0,,“How should we deal with the smog?
-Dialogue: 0,0:13:44.54,0:13:46.18,Default,,0,0,0,,Should we expose our kids
-Dialogue: 0,0:13:46.18,0:13:47.06,Default,,0,0,0,,to the smog
-Dialogue: 0,0:13:47.06,0:13:49.62,Default,,0,0,0,,as soon as possible to train them, so they adapt
-Dialogue: 0,0:13:49.62,0:13:52.38,Default,,0,0,0,,and aren't disadvantaged from the very beginning?”
-Dialogue: 0,0:13:52.38,0:13:54.62,Default,,0,0,0,,A medical expert from Los Angeles,
-Dialogue: 0,0:13:54.62,0:13:56.62,Default,,0,0,0,,a city that once suffered from extreme air pollution, informed us
-Dialogue: 0,0:13:56.62,0:13:57.94,Default,,0,0,0,,about the risks of exposing our children
-Dialogue: 0,0:13:57.94,0:13:59.06,Default,,0,0,0,,to air pollution
-Dialogue: 0,0:13:59.06,0:14:00.54,Default,,0,0,0,,in hopes that they would be able to adapt to the conditions:
-Dialogue: 0,0:14:03.38,0:14:05.62,Default,,0,0,0,,I don't think we have any information
-Dialogue: 0,0:14:05.62,0:14:07.58,Default,,0,0,0,,that suggests that exposing your child to air pollution
-Dialogue: 0,0:14:07.58,0:14:09.18,Default,,0,0,0,,is going to help them to adapt.
-Dialogue: 0,0:14:09.18,0:14:10.54,Default,,0,0,0,,If we expose them on day one,
-Dialogue: 0,0:14:10.54,0:14:12.38,Default,,0,0,0,,they lose some function.
-Dialogue: 0,0:14:12.38,0:14:13.66,Default,,0,0,0,,If they expose them on day two,
-Dialogue: 0,0:14:13.66,0:14:15.58,Default,,0,0,0,,they don't lose the same amount.
-Dialogue: 0,0:14:15.58,0:14:18.18,Default,,0,0,0,,But that's because, not that they have adapted,
-Dialogue: 0,0:14:18.18,0:14:20.18,Default,,0,0,0,,but because they've already lost the function,
-Dialogue: 0,0:14:20.18,0:14:21.46,Default,,0,0,0,,and they already are injured.
-Dialogue: 0,0:14:21.46,0:14:24.62,Default,,0,0,0,,It has been shown in several studies around the world now,
-Dialogue: 0,0:14:24.62,0:14:27.50,Default,,0,0,0,,that children in cleaner places grow faster
-Dialogue: 0,0:14:27.50,0:14:29.94,Default,,0,0,0,,than children growing up in a more polluted area.
-Dialogue: 0,0:14:29.94,0:14:31.82,Default,,0,0,0,,Poor lung function early in life
-Dialogue: 0,0:14:31.82,0:14:35.54,Default,,0,0,0,,is a predictor of lung problems later on in life.
-Dialogue: 0,0:14:35.54,0:14:36.38,Default,,0,0,0,,And so,
-Dialogue: 0,0:14:36.38,0:14:37.82,Default,,0,0,0,,doing something about the air while a child is growing
-Dialogue: 0,0:14:37.82,0:14:39.30,Default,,0,0,0,,You can make a change in
-Dialogue: 0,0:14:39.30,0:14:41.62,Default,,0,0,0,,that child's life.
-Dialogue: 0,0:14:42.42,0:14:43.66,Default,,0,0,0,,This is downstairs from where I live
-Dialogue: 0,0:14:43.66,0:14:46.02,Default,,0,0,0,,and I took this photo two days ago in severe smog
-Dialogue: 0,0:14:46.02,0:14:47.06,Default,,0,0,0,,The AQI (air quality index) on that day
-Dialogue: 0,0:14:47.06,0:14:48.70,Default,,0,0,0,,had exceeded 500,
-Dialogue: 0,0:14:48.70,0:14:49.74,Default,,0,0,0,,above the “hazardous” pollution level
-Dialogue: 0,0:14:50.14,0:14:50.70,Default,,0,0,0,,However,
-Dialogue: 0,0:14:50.70,0:14:52.78,Default,,0,0,0,,the kids in the adjacent elementary school
-Dialogue: 0,0:14:52.78,0:14:55.14,Default,,0,0,0,,were still outside playing ball games, running and playing around
-Dialogue: 0,0:14:55.14,0:14:56.26,Default,,0,0,0,,When people exercise
-Dialogue: 0,0:14:56.26,0:14:58.90,Default,,0,0,0,,they breathe five to ten times more deeply than usual
-Dialogue: 0,0:14:58.90,0:14:59.78,Default,,0,0,0,,When I saw this,
-Dialogue: 0,0:14:59.78,0:15:00.42,Default,,0,0,0,,I became aware of the fact that
-Dialogue: 0,0:15:00.42,0:15:02.42,Default,,0,0,0,,I couldn't protect my child under all circumstances
-Dialogue: 0,0:15:02.42,0:15:04.50,Default,,0,0,0,,Someday she will have to go into society
-Dialogue: 0,0:15:04.50,0:15:05.78,Default,,0,0,0,,and breathing is something she will always do,
-Dialogue: 0,0:15:05.78,0:15:07.46,Default,,0,0,0,,something that is inevitable.
-Dialogue: 0,0:15:07.46,0:15:09.46,Default,,0,0,0,,And it (PM2.5) is there in every breath you take
-Dialogue: 0,0:15:09.46,0:15:10.78,Default,,0,0,0,,An adult person like ourselves
-Dialogue: 0,0:15:10.78,0:15:13.42,Default,,0,0,0,,breathes roughly 25000 times each day
-Dialogue: 0,0:15:13.42,0:15:15.46,Default,,0,0,0,,Over time, as it accumulates continuously,
-Dialogue: 0,0:15:15.46,0:15:16.58,Default,,0,0,0,,what are these substances like
-Dialogue: 0,0:15:16.58,0:15:17.70,Default,,0,0,0,,in our lungs?
-Dialogue: 0,0:15:17.70,0:15:19.54,Default,,0,0,0,,We are very grateful to a patient and doctor
-Dialogue: 0,0:15:19.54,0:15:21.26,Default,,0,0,0,,at Beijing Cancer Hospital
-Dialogue: 0,0:15:21.26,0:15:23.50,Default,,0,0,0,,who agreed to let us film this surgery
-Dialogue: 0,0:15:23.50,0:15:25.18,Default,,0,0,0,,This is a patient with early stage lung cancer
-Dialogue: 0,0:15:25.18,0:15:26.74,Default,,0,0,0,,Female, in her fifties
-Dialogue: 0,0:15:26.74,0:15:28.50,Default,,0,0,0,,and works in the hospital's accounting office
-Dialogue: 0,0:15:28.50,0:15:29.94,Default,,0,0,0,,She and her family have no history of smoking
-Dialogue: 0,0:15:46.58,0:15:49.74,Default,,0,0,0,,Everyone will breathe in these black spots
-Dialogue: 0,0:15:49.74,0:15:50.74,Default,,0,0,0,,Including ourselves
-Dialogue: 0,0:15:51.86,0:15:52.70,Default,,0,0,0,,Does this person smoke?
-Dialogue: 0,0:15:52.70,0:15:54.78,Default,,0,0,0,,No, she doesn't smoke
-Dialogue: 0,0:15:54.78,0:15:56.30,Default,,0,0,0,,But she's from (censored) city
-Dialogue: 0,0:15:56.38,0:15:58.54,Default,,0,0,0,,From your hometown
-Dialogue: 0,0:15:58.54,0:16:00.50,Default,,0,0,0,,The air quality is really bad
-Dialogue: 0,0:16:00.62,0:16:01.38,Default,,0,0,0,,Yeah, it's not clean (there)\N
-Dialogue: 0,0:16:01.38,0:16:04.18,Default,,0,0,0,,So this (might be) the stuff that's in the air
-Dialogue: 0,0:16:09.06,0:16:12.62,Default,,0,0,0,,In her entire body only the lymph nodes in her lungs are black
-Dialogue: 0,0:16:12.62,0:16:15.78,Default,,0,0,0,,This is because she has inhaled a lot of dust
-Dialogue: 0,0:16:15.78,0:16:18.06,Default,,0,0,0,,The lymphatic system is crucial for immune system functionality
-Dialogue: 0,0:16:18.06,0:16:19.94,Default,,0,0,0,,Which means it helps our immune system fight disease
-Dialogue: 0,0:16:19.94,0:16:22.42,Default,,0,0,0,,When the black stuff on top accumulates
-Dialogue: 0,0:16:22.42,0:16:24.02,Default,,0,0,0,,does it affect our body's ability to fight cancerous cells?
-Dialogue: 0,0:16:24.02,0:16:28.06,Default,,0,0,0,,It may be the case that
-Dialogue: 0,0:16:28.06,0:16:30.02,Default,,0,0,0,,it has overburdened the lymphatic system
-Dialogue: 0,0:16:30.02,0:16:33.66,Default,,0,0,0,,So this year the World Health Organization (WHO)
-Dialogue: 0,0:16:33.66,0:16:36.54,Default,,0,0,0,,has reported that chronic lung diseases
-Dialogue: 0,0:16:36.54,0:16:38.58,Default,,0,0,0,,are one of the highest risk factors for lung cancer
-Dialogue: 0,0:16:41.54,0:16:42.58,Default,,0,0,0,,We can be comforted by the fact that
-Dialogue: 0,0:16:42.58,0:16:43.70,Default,,0,0,0,,this type of surgery is very successful
-Dialogue: 0,0:16:43.70,0:16:45.70,Default,,0,0,0,,and the patient can make a full recovery
-Dialogue: 0,0:16:45.70,0:16:47.14,Default,,0,0,0,,after the tumors have been extracted
-Dialogue: 0,0:16:47.14,0:16:49.26,Default,,0,0,0,,After extracting the black lymph nodes,
-Dialogue: 0,0:16:49.26,0:16:51.42,Default,,0,0,0,,the doctor presented them to the patient's family
-Dialogue: 0,0:16:51.42,0:16:51.90,Default,,0,0,0,,They asked:
-Dialogue: 0,0:16:51.90,0:16:52.74,Default,,0,0,0,,“Can you tell me
-Dialogue: 0,0:16:52.74,0:16:54.86,Default,,0,0,0,,why my wife got cancer?”
-Dialogue: 0,0:16:54.86,0:16:55.70,Default,,0,0,0,,He said, “I can only say that
-Dialogue: 0,0:16:55.70,0:16:57.86,Default,,0,0,0,,according to my clinical experience
-Dialogue: 0,0:16:57.86,0:16:59.34,Default,,0,0,0,,I suspect it was because of air pollution.
-Dialogue: 0,0:16:59.34,0:17:00.70,Default,,0,0,0,,WTO told me,
-Dialogue: 0,0:17:00.70,0:17:02.54,Default,,0,0,0,,“particle matter is classified as
-Dialogue: 0,0:17:02.54,0:17:03.50,Default,,0,0,0,,a primary carcinogen for humans.”
-Dialogue: 0,0:17:04.70,0:17:06.42,Default,,0,0,0,,When he told me this I had a question:
-Dialogue: 0,0:17:06.42,0:17:07.46,Default,,0,0,0,,doesn't lung cancer
-Dialogue: 0,0:17:07.46,0:17:08.74,Default,,0,0,0,,have an incubation period
-Dialogue: 0,0:17:08.74,0:17:10.86,Default,,0,0,0,,of at least ten years or so?
-Dialogue: 0,0:17:10.86,0:17:13.06,Default,,0,0,0,,But we only started hearing about air pollution two years ago, right?
-Dialogue: 0,0:17:13.06,0:17:14.34,Default,,0,0,0,,Then how could it
-Dialogue: 0,0:17:14.34,0:17:16.86,Default,,0,0,0,,lead to lung cancer this quickly?
-Dialogue: 0,0:17:16.86,0:17:17.58,Default,,0,0,0,,So I went to NASA
-Dialogue: 0,0:17:17.58,0:17:18.34,Default,,0,0,0,,for a small favor
-Dialogue: 0,0:17:18.34,0:17:19.74,Default,,0,0,0,,and asked if they could send over satellite images
-Dialogue: 0,0:17:19.74,0:17:21.62,Default,,0,0,0,,of the air over North China from the past 10 years
-Dialogue: 0,0:17:22.58,0:17:24.06,Default,,0,0,0,,This is what I got
-Dialogue: 0,0:17:24.06,0:17:26.06,Default,,0,0,0,,2012
-Dialogue: 0,0:17:26.06,0:17:27.66,Default,,0,0,0,,The air over Beijing
-Dialogue: 0,0:17:27.66,0:17:29.10,Default,,0,0,0,,2011
-Dialogue: 0,0:17:29.10,0:17:30.86,Default,,0,0,0,,Beijing in December
-Dialogue: 0,0:17:30.90,0:17:32.34,Default,,0,0,0,,2010
-Dialogue: 0,0:17:32.34,0:17:33.62,Default,,0,0,0,,The air over North China
-Dialogue: 0,0:17:33.62,0:17:35.18,Default,,0,0,0,,2009
-Dialogue: 0,0:17:35.18,0:17:36.22,Default,,0,0,0,,The air over North China
-Dialogue: 0,0:17:36.22,0:17:38.10,Default,,0,0,0,,Let's look at 10 years ago
-Dialogue: 0,0:17:38.10,0:17:39.86,Default,,0,0,0,,North China in 2005
-Dialogue: 0,0:17:39.86,0:17:41.58,Default,,0,0,0,,But I couldn't believe it
-Dialogue: 0,0:17:41.58,0:17:43.78,Default,,0,0,0,,I was living under these skies in North China at that time
-Dialogue: 0,0:17:43.78,0:17:45.22,Default,,0,0,0,,How could I have been unaware of any air pollution
-Dialogue: 0,0:17:45.22,0:17:46.82,Default,,0,0,0,,for 10 years?
-Dialogue: 0,0:17:46.82,0:17:47.74,Default,,0,0,0,,So I sought out our country's
-Dialogue: 0,0:17:47.74,0:17:49.42,Default,,0,0,0,,head of the Olympic air quality assurance group
-Dialogue: 0,0:17:49.42,0:17:51.06,Default,,0,0,0,,An academic named Dr. Tang Xiaoyan
-Dialogue: 0,0:17:51.06,0:17:53.98,Default,,0,0,0,,She gave me this graph
-Dialogue: 0,0:17:53.98,0:17:55.78,Default,,0,0,0,,This is 2004
-Dialogue: 0,0:17:55.78,0:17:57.34,Default,,0,0,0,,Eleven years ago
-Dialogue: 0,0:17:57.34,0:17:58.98,Default,,0,0,0,,Back then, we hadn't yet started monitoring PM2.5 levels
-Dialogue: 0,0:17:58.98,0:18:00.26,Default,,0,0,0,,But we have the levels of PM10
-Dialogue: 0,0:18:00.26,0:18:02.14,Default,,0,0,0,,She said according to estimates at the time
-Dialogue: 0,0:18:02.14,0:18:03.58,Default,,0,0,0,,At that time
-Dialogue: 0,0:18:03.58,0:18:04.70,Default,,0,0,0,,when it was very polluted
-Dialogue: 0,0:18:04.70,0:18:06.38,Default,,0,0,0,,PM2.5 could have reached 300-400
-Dialogue: 0,0:18:06.38,0:18:09.26,Default,,0,0,0,,Today we would classify that as very unhealthy pollution
-Dialogue: 0,0:18:09.26,0:18:10.18,Default,,0,0,0,,I asked her
-Dialogue: 0,0:18:10.18,0:18:11.26,Default,,0,0,0,,Could it really be that I was that blind?
-Dialogue: 0,0:18:11.26,0:18:13.06,Default,,0,0,0,,I was in Beijing in 2004
-Dialogue: 0,0:18:14.14,0:18:17.22,Default,,0,0,0,,She said, look at this picture
-Dialogue: 0,0:18:17.22,0:18:19.42,Default,,0,0,0,,What is that?
-Dialogue: 0,0:18:19.42,0:18:21.42,Default,,0,0,0,,I said, that's probably smog, right?
-Dialogue: 0,0:18:21.42,0:18:23.02,Default,,0,0,0,,Then how come I didn't know at the time?
-Dialogue: 0,0:18:23.02,0:18:23.98,Default,,0,0,0,,She said, you should look up
-Dialogue: 0,0:18:23.98,0:18:25.90,Default,,0,0,0,,what the news headlines were on that day
-Dialogue: 0,0:18:25.90,0:18:27.46,Default,,0,0,0,,“Beijing Capital Airport Experiences 
-Dialogue: 0,0:18:27.46,0:18:29.90,Default,,0,0,0,,the Most Delays in Recent Years Due to Fog”
-Dialogue: 0,0:18:29.90,0:18:31.70,Default,,0,0,0,,Back then we thought it was just fog
-Dialogue: 0,0:18:31.70,0:18:34.10,Default,,0,0,0,,We kept calling it “fog”
-Dialogue: 0,0:18:34.10,0:18:35.74,Default,,0,0,0,,So after I saw this picture,
-Dialogue: 0,0:18:35.74,0:18:37.34,Default,,0,0,0,,as a former reporter
-Dialogue: 0,0:18:37.34,0:18:39.94,Default,,0,0,0,,I was full of remorse
-Dialogue: 0,0:18:39.94,0:18:41.38,Default,,0,0,0,,because all those years I was reporting I always thought that
-Dialogue: 0,0:18:41.38,0:18:43.26,Default,,0,0,0,,I was reporting on pollution across the country
-Dialogue: 0,0:18:43.26,0:18:44.38,Default,,0,0,0,,But I always thought
-Dialogue: 0,0:18:44.38,0:18:47.18,Default,,0,0,0,,it was only called pollution when I heard explosions in mines
-Dialogue: 0,0:18:47.18,0:18:49.34,Default,,0,0,0,,it was only called pollution when I saw smoke from factory chimneys
-Dialogue: 0,0:18:49.34,0:18:50.38,Default,,0,0,0,,I never thought
-Dialogue: 0,0:18:50.38,0:18:52.10,Default,,0,0,0,,that those of us who lived in a metropolitan urban center
-Dialogue: 0,0:18:52.10,0:18:53.58,Default,,0,0,0,,the sky we saw everyday
-Dialogue: 0,0:18:53.58,0:18:54.54,Default,,0,0,0,,was also pollution
-Dialogue: 0,0:18:54.54,0:18:56.14,Default,,0,0,0,,At that time I wasn't a reporter anymore
-Dialogue: 0,0:18:56.14,0:18:57.42,Default,,0,0,0,,I had already become a bystander
-Dialogue: 0,0:18:59.62,0:19:01.26,Default,,0,0,0,,But I still had a question
-Dialogue: 0,0:19:01.26,0:19:03.10,Default,,0,0,0,,If it really was like this,
-Dialogue: 0,0:19:03.10,0:19:04.38,Default,,0,0,0,,when I was young every family
-Dialogue: 0,0:19:04.38,0:19:06.30,Default,,0,0,0,,was burning kerosene stoves, right?
-Dialogue: 0,0:19:06.30,0:19:07.10,Default,,0,0,0,,Every night we would
-Dialogue: 0,0:19:07.10,0:19:09.38,Default,,0,0,0,,sleep and awaken to the smell of smoke\N
-Dialogue: 0,0:19:09.38,0:19:10.22,Default,,0,0,0,,How come I never heard
-Dialogue: 0,0:19:10.22,0:19:11.34,Default,,0,0,0,,about people back then getting lung cancer?
-Dialogue: 0,0:19:12.10,0:19:13.42,Default,,0,0,0,,I kept asking this question
-Dialogue: 0,0:19:13.42,0:19:15.62,Default,,0,0,0,,until I met professor He Xingzhou
-Dialogue: 0,0:19:15.62,0:19:17.38,Default,,0,0,0,,who has been researching this topic for over 30 years
-Dialogue: 0,0:19:17.38,0:19:20.14,Default,,0,0,0,,He gave me a book of data
-Dialogue: 0,0:19:20.14,0:19:21.54,Default,,0,0,0,,This
-Dialogue: 0,0:19:21.54,0:19:23.30,Default,,0,0,0,,{\i1}A Survey of the Relationship {\i0}
-Dialogue: 0,0:19:23.30,0:19:26.46,Default,,0,0,0,,{\i1}between Air Pollution and Cause of Death for 26 Chinese cities{\i0}
-Dialogue: 0,0:19:26.46,0:19:29.14,Default,,0,0,0,,{\i1}1976-1981{\i0}
-Dialogue: 0,0:19:29.14,0:19:30.42,Default,,0,0,0,,So everyone can see clearly
-Dialogue: 0,0:19:30.42,0:19:32.70,Default,,0,0,0,,I've put the conclusion up on the screen here
-Dialogue: 0,0:19:32.70,0:19:33.86,Default,,0,0,0,,It's very simple
-Dialogue: 0,0:19:33.86,0:19:35.54,Default,,0,0,0,,The air pollution from back then
-Dialogue: 0,0:19:35.54,0:19:38.46,Default,,0,0,0,,already correlated with death rates from lung cancer
-Dialogue: 0,0:19:38.46,0:19:39.50,Default,,0,0,0,,The air pollution back then
-Dialogue: 0,0:19:39.50,0:19:40.38,Default,,0,0,0,,was the result of burning coal
-Dialogue: 0,0:19:41.14,0:19:42.98,Default,,0,0,0,,It just happened to be the case that this data
-Dialogue: 0,0:19:42.98,0:19:44.02,Default,,0,0,0,,was considered internal information at that time
-Dialogue: 0,0:19:47.42,0:19:48.62,Default,,0,0,0,,
-Dialogue: 0,0:19:48.62,0:19:49.66,Default,,0,0,0,,
-Dialogue: 0,0:19:49.66,0:19:51.66,Default,,0,0,0,,
-Dialogue: 0,0:19:51.66,0:19:52.78,Default,,0,0,0,,
-Dialogue: 0,0:19:52.78,0:19:54.06,Default,,0,0,0,,
-Dialogue: 0,0:19:54.06,0:19:55.94,Default,,0,0,0,,
-Dialogue: 0,0:19:56.10,0:19:58.46,Default,,0,0,0,,
-Dialogue: 0,0:19:58.46,0:19:59.18,Default,,0,0,0,,
-Dialogue: 0,0:19:59.18,0:20:00.66,Default,,0,0,0,,
-Dialogue: 0,0:20:00.66,0:20:01.66,Default,,0,0,0,,
-Dialogue: 0,0:20:01.66,0:20:03.02,Default,,0,0,0,,
-Dialogue: 0,0:20:03.02,0:20:04.34,Default,,0,0,0,,
-Dialogue: 0,0:20:04.34,0:20:05.74,Default,,0,0,0,,
-Dialogue: 0,0:20:06.46,0:20:08.82,Default,,0,0,0,,
-Dialogue: 0,0:20:08.82,0:20:10.22,Default,,0,0,0,,
-Dialogue: 0,0:20:10.22,0:20:11.94,Default,,0,0,0,,
-Dialogue: 0,0:20:11.94,0:20:13.94,Default,,0,0,0,,
-Dialogue: 0,0:20:13.94,0:20:15.42,Default,,0,0,0,,
-Dialogue: 0,0:20:15.42,0:20:17.90,Default,,0,0,0,,
-Dialogue: 0,0:20:17.90,0:20:18.78,Default,,0,0,0,,
-Dialogue: 0,0:20:18.78,0:20:21.50,Default,,0,0,0,,
-Dialogue: 0,0:20:21.74,0:20:22.66,Default,,0,0,0,,
-Dialogue: 0,0:20:22.66,0:20:24.38,Default,,0,0,0,,
-Dialogue: 0,0:20:24.38,0:20:26.54,Default,,0,0,0,,
-Dialogue: 0,0:20:26.54,0:20:27.18,Default,,0,0,0,,
-Dialogue: 0,0:20:27.18,0:20:29.06,Default,,0,0,0,,
-Dialogue: 0,0:20:29.06,0:20:29.54,Default,,0,0,0,,
-Dialogue: 0,0:20:29.54,0:20:32.78,Default,,0,0,0,,
-Dialogue: 0,0:20:32.78,0:20:35.06,Default,,0,0,0,,
-Dialogue: 0,0:20:35.06,0:20:36.82,Default,,0,0,0,,
-Dialogue: 0,0:20:37.34,0:20:39.26,Default,,0,0,0,,
-Dialogue: 0,0:20:39.26,0:20:41.46,Default,,0,0,0,,
-Dialogue: 0,0:20:41.46,0:20:44.26,Default,,0,0,0,,
-Dialogue: 0,0:20:44.26,0:20:45.26,Default,,0,0,0,,
-Dialogue: 0,0:20:45.26,0:20:48.10,Default,,0,0,0,,
-Dialogue: 0,0:20:48.10,0:20:49.82,Default,,0,0,0,,
-Dialogue: 0,0:20:49.82,0:20:51.78,Default,,0,0,0,,
-Dialogue: 0,0:20:51.78,0:20:54.22,Default,,0,0,0,,
-Dialogue: 0,0:20:54.22,0:20:55.62,Default,,0,0,0,,
-Dialogue: 0,0:20:55.86,0:20:56.78,Default,,0,0,0,,
-Dialogue: 0,0:20:56.78,0:20:58.94,Default,,0,0,0,,
-Dialogue: 0,0:20:58.94,0:21:01.74,Default,,0,0,0,,
-Dialogue: 0,0:21:01.74,0:21:03.50,Default,,0,0,0,,
-Dialogue: 0,0:21:03.50,0:21:05.38,Default,,0,0,0,,
-Dialogue: 0,0:21:08.70,0:21:10.38,Default,,0,0,0,,
-Dialogue: 0,0:21:10.38,0:21:11.14,Default,,0,0,0,,
-Dialogue: 0,0:21:11.14,0:21:13.30,Default,,0,0,0,,
-Dialogue: 0,0:21:13.30,0:21:14.62,Default,,0,0,0,,
-Dialogue: 0,0:21:14.62,0:21:16.30,Default,,0,0,0,,
-Dialogue: 0,0:21:16.30,0:21:17.26,Default,,0,0,0,,
-Dialogue: 0,0:21:17.26,0:21:18.82,Default,,0,0,0,,
-Dialogue: 0,0:21:18.82,0:21:19.90,Default,,0,0,0,,
-Dialogue: 0,0:21:19.90,0:21:20.98,Default,,0,0,0,,
-Dialogue: 0,0:21:20.98,0:21:23.02,Default,,0,0,0,,
-Dialogue: 0,0:21:23.02,0:21:24.66,Default,,0,0,0,,
-Dialogue: 0,0:21:24.66,0:21:26.46,Default,,0,0,0,,
-Dialogue: 0,0:21:26.46,0:21:27.86,Default,,0,0,0,,
-Dialogue: 0,0:21:28.94,0:21:30.22,Default,,0,0,0,,
-Dialogue: 0,0:21:30.22,0:21:31.30,Default,,0,0,0,,
-Dialogue: 0,0:21:31.30,0:21:33.02,Default,,0,0,0,,
-Dialogue: 0,0:21:33.02,0:21:35.74,Default,,0,0,0,,
-Dialogue: 0,0:21:35.74,0:21:37.10,Default,,0,0,0,,
-Dialogue: 0,0:21:37.10,0:21:38.78,Default,,0,0,0,,
-Dialogue: 0,0:21:38.78,0:21:39.66,Default,,0,0,0,,
-Dialogue: 0,0:21:39.66,0:21:41.46,Default,,0,0,0,,
-Dialogue: 0,0:21:41.46,0:21:42.78,Default,,0,0,0,,
-Dialogue: 0,0:21:42.78,0:21:44.86,Default,,0,0,0,,
-Dialogue: 0,0:21:46.58,0:21:47.74,Default,,0,0,0,,
-Dialogue: 0,0:21:50.10,0:21:51.66,Default,,0,0,0,,
-Dialogue: 0,0:21:51.66,0:21:53.70,Default,,0,0,0,,
-Dialogue: 0,0:21:53.70,0:21:56.30,Default,,0,0,0,,
-Dialogue: 0,0:21:56.30,0:21:58.14,Default,,0,0,0,,
-Dialogue: 0,0:21:58.14,0:22:00.98,Default,,0,0,0,,
-Dialogue: 0,0:22:00.98,0:22:02.18,Default,,0,0,0,,
-Dialogue: 0,0:22:02.18,0:22:03.46,Default,,0,0,0,,
-Dialogue: 0,0:22:03.46,0:22:05.26,Default,,0,0,0,,
-Dialogue: 0,0:22:05.26,0:22:07.42,Default,,0,0,0,,
-Dialogue: 0,0:22:07.42,0:22:09.70,Default,,0,0,0,,
-Dialogue: 0,0:22:09.70,0:22:11.42,Default,,0,0,0,,
-Dialogue: 0,0:22:11.42,0:22:13.86,Default,,0,0,0,,
-Dialogue: 0,0:22:15.94,0:22:18.26,Default,,0,0,0,,
-Dialogue: 0,0:22:18.26,0:22:20.34,Default,,0,0,0,,
-Dialogue: 0,0:22:21.94,0:22:23.50,Default,,0,0,0,,
-Dialogue: 0,0:22:23.50,0:22:25.74,Default,,0,0,0,,
-Dialogue: 0,0:22:25.74,0:22:26.94,Default,,0,0,0,,
-Dialogue: 0,0:22:26.94,0:22:28.46,Default,,0,0,0,,
-Dialogue: 0,0:22:28.46,0:22:29.50,Default,,0,0,0,,
-Dialogue: 0,0:22:30.62,0:22:32.62,Default,,0,0,0,,
-Dialogue: 0,0:22:32.62,0:22:34.70,Default,,0,0,0,,
-Dialogue: 0,0:22:35.62,0:22:37.22,Default,,0,0,0,,
-Dialogue: 0,0:22:37.22,0:22:39.18,Default,,0,0,0,,
-Dialogue: 0,0:22:39.18,0:22:40.94,Default,,0,0,0,,
-Dialogue: 0,0:22:40.94,0:22:42.50,Default,,0,0,0,,
-Dialogue: 0,0:22:42.50,0:22:43.58,Default,,0,0,0,,
-Dialogue: 0,0:22:43.58,0:22:45.86,Default,,0,0,0,,
-Dialogue: 0,0:22:45.86,0:22:47.62,Default,,0,0,0,,
-Dialogue: 0,0:22:47.62,0:22:49.78,Default,,0,0,0,,
-Dialogue: 0,0:22:49.78,0:22:51.66,Default,,0,0,0,,
-Dialogue: 0,0:22:51.66,0:22:54.58,Default,,0,0,0,,
-Dialogue: 0,0:22:54.58,0:22:56.38,Default,,0,0,0,,
-Dialogue: 0,0:22:56.38,0:22:58.70,Default,,0,0,0,,
-Dialogue: 0,0:22:58.70,0:23:01.30,Default,,0,0,0,,
-Dialogue: 0,0:23:01.30,0:23:02.82,Default,,0,0,0,,
-Dialogue: 0,0:23:02.82,0:23:03.74,Default,,0,0,0,,
-Dialogue: 0,0:23:03.74,0:23:06.42,Default,,0,0,0,,
-Dialogue: 0,0:23:06.42,0:23:07.74,Default,,0,0,0,,
-Dialogue: 0,0:23:07.74,0:23:09.34,Default,,0,0,0,,
-Dialogue: 0,0:23:09.34,0:23:11.30,Default,,0,0,0,,
-Dialogue: 0,0:23:11.30,0:23:12.50,Default,,0,0,0,,
-Dialogue: 0,0:23:12.50,0:23:14.42,Default,,0,0,0,,
-Dialogue: 0,0:23:16.34,0:23:18.02,Default,,0,0,0,,
-Dialogue: 0,0:23:18.02,0:23:18.98,Default,,0,0,0,,
-Dialogue: 0,0:23:18.98,0:23:19.78,Default,,0,0,0,,
-Dialogue: 0,0:23:19.78,0:23:21.62,Default,,0,0,0,,
-Dialogue: 0,0:23:22.26,0:23:24.38,Default,,0,0,0,,
-Dialogue: 0,0:23:24.38,0:23:26.54,Default,,0,0,0,,
-Dialogue: 0,0:23:26.94,0:23:28.18,Default,,0,0,0,,
-Dialogue: 0,0:23:28.18,0:23:29.34,Default,,0,0,0,,
-Dialogue: 0,0:23:29.34,0:23:30.78,Default,,0,0,0,,
-Dialogue: 0,0:23:31.10,0:23:32.42,Default,,0,0,0,,
-Dialogue: 0,0:23:32.42,0:23:33.90,Default,,0,0,0,,
-Dialogue: 0,0:23:33.90,0:23:35.90,Default,,0,0,0,,
-Dialogue: 0,0:23:36.50,0:23:37.54,Default,,0,0,0,,
-Dialogue: 0,0:23:37.54,0:23:38.74,Default,,0,0,0,,
-Dialogue: 0,0:23:38.74,0:23:40.86,Default,,0,0,0,,
-Dialogue: 0,0:23:44.34,0:23:47.58,Default,,0,0,0,,
-Dialogue: 0,0:23:47.58,0:23:49.46,Default,,0,0,0,,
-Dialogue: 0,0:23:49.46,0:23:50.66,Default,,0,0,0,,
-Dialogue: 0,0:23:50.66,0:23:51.66,Default,,0,0,0,,
-Dialogue: 0,0:23:51.66,0:23:54.74,Default,,0,0,0,,
-Dialogue: 0,0:23:58.54,0:24:00.22,Default,,0,0,0,,
-Dialogue: 0,0:24:00.22,0:24:01.22,Default,,0,0,0,,
-Dialogue: 0,0:24:01.22,0:24:02.78,Default,,0,0,0,,
-Dialogue: 0,0:24:02.78,0:24:03.78,Default,,0,0,0,,
-Dialogue: 0,0:24:03.78,0:24:06.62,Default,,0,0,0,,
-Dialogue: 0,0:24:06.62,0:24:08.22,Default,,0,0,0,,
-Dialogue: 0,0:24:08.22,0:24:11.34,Default,,0,0,0,,
-Dialogue: 0,0:24:11.34,0:24:13.14,Default,,0,0,0,,
-Dialogue: 0,0:24:13.14,0:24:14.18,Default,,0,0,0,,
-Dialogue: 0,0:24:14.18,0:24:16.46,Default,,0,0,0,,
-Dialogue: 0,0:24:16.46,0:24:18.86,Default,,0,0,0,,
-Dialogue: 0,0:24:18.86,0:24:21.06,Default,,0,0,0,,
-Dialogue: 0,0:24:21.06,0:24:23.82,Default,,0,0,0,,
-Dialogue: 0,0:24:23.82,0:24:25.86,Default,,0,0,0,,
-Dialogue: 0,0:24:28.90,0:24:30.42,Default,,0,0,0,,
-Dialogue: 0,0:24:30.42,0:24:32.02,Default,,0,0,0,,
-Dialogue: 0,0:24:32.02,0:24:33.38,Default,,0,0,0,,
-Dialogue: 0,0:24:33.38,0:24:35.66,Default,,0,0,0,,
-Dialogue: 0,0:24:35.66,0:24:36.14,Default,,0,0,0,,
-Dialogue: 0,0:24:36.14,0:24:37.66,Default,,0,0,0,,
-Dialogue: 0,0:24:37.66,0:24:40.02,Default,,0,0,0,,
-Dialogue: 0,0:24:40.34,0:24:41.50,Default,,0,0,0,,
-Dialogue: 0,0:24:41.50,0:24:42.66,Default,,0,0,0,,
-Dialogue: 0,0:24:42.66,0:24:43.82,Default,,0,0,0,,
-Dialogue: 0,0:24:43.82,0:24:44.74,Default,,0,0,0,,
-Dialogue: 0,0:24:44.74,0:24:46.46,Default,,0,0,0,,
-Dialogue: 0,0:24:46.46,0:24:47.66,Default,,0,0,0,,
-Dialogue: 0,0:24:47.86,0:24:48.34,Default,,0,0,0,,
-Dialogue: 0,0:24:48.34,0:24:49.10,Default,,0,0,0,,
-Dialogue: 0,0:24:49.10,0:24:49.94,Default,,0,0,0,,
-Dialogue: 0,0:24:49.94,0:24:50.66,Default,,0,0,0,,
-Dialogue: 0,0:24:50.66,0:24:51.42,Default,,0,0,0,,
-Dialogue: 0,0:24:51.42,0:24:52.90,Default,,0,0,0,,
-Dialogue: 0,0:24:52.90,0:24:55.38,Default,,0,0,0,,
-Dialogue: 0,0:24:55.38,0:24:57.06,Default,,0,0,0,,
-Dialogue: 0,0:24:57.06,0:24:58.18,Default,,0,0,0,,
-Dialogue: 0,0:24:58.18,0:24:59.42,Default,,0,0,0,,
-Dialogue: 0,0:25:01.70,0:25:04.78,Default,,0,0,0,,
-Dialogue: 0,0:25:04.78,0:25:06.34,Default,,0,0,0,,
-Dialogue: 0,0:25:06.34,0:25:08.42,Default,,0,0,0,,
-Dialogue: 0,0:25:08.42,0:25:09.34,Default,,0,0,0,,
-Dialogue: 0,0:25:09.34,0:25:11.98,Default,,0,0,0,,
-Dialogue: 0,0:25:11.98,0:25:13.66,Default,,0,0,0,,
-Dialogue: 0,0:25:13.66,0:25:16.06,Default,,0,0,0,,
-Dialogue: 0,0:25:16.06,0:25:18.34,Default,,0,0,0,,
-Dialogue: 0,0:25:18.34,0:25:20.02,Default,,0,0,0,,
-Dialogue: 0,0:25:20.02,0:25:21.90,Default,,0,0,0,,
-Dialogue: 0,0:25:21.90,0:25:23.82,Default,,0,0,0,,
-Dialogue: 0,0:25:23.82,0:25:24.50,Default,,0,0,0,,
-Dialogue: 0,0:25:24.50,0:25:26.86,Default,,0,0,0,,
-Dialogue: 0,0:25:29.54,0:25:32.14,Default,,0,0,0,,
-Dialogue: 0,0:25:32.14,0:25:35.18,Default,,0,0,0,,
-Dialogue: 0,0:25:35.18,0:25:36.54,Default,,0,0,0,,
-Dialogue: 0,0:25:36.54,0:25:37.42,Default,,0,0,0,,
-Dialogue: 0,0:25:37.42,0:25:39.06,Default,,0,0,0,,
-Dialogue: 0,0:25:39.06,0:25:40.14,Default,,0,0,0,,
-Dialogue: 0,0:25:40.14,0:25:41.30,Default,,0,0,0,,
-Dialogue: 0,0:25:41.30,0:25:42.70,Default,,0,0,0,,
-Dialogue: 0,0:25:45.62,0:25:47.38,Default,,0,0,0,,
-Dialogue: 0,0:25:47.38,0:25:48.78,Default,,0,0,0,,
-Dialogue: 0,0:25:48.78,0:25:50.10,Default,,0,0,0,,
-Dialogue: 0,0:25:50.10,0:25:51.30,Default,,0,0,0,,
-Dialogue: 0,0:25:51.30,0:25:52.98,Default,,0,0,0,,
-Dialogue: 0,0:25:52.98,0:25:54.30,Default,,0,0,0,,
-Dialogue: 0,0:25:54.30,0:25:54.90,Default,,0,0,0,,
-Dialogue: 0,0:25:54.90,0:25:56.22,Default,,0,0,0,,
-Dialogue: 0,0:25:56.22,0:25:57.02,Default,,0,0,0,,
-Dialogue: 0,0:25:57.02,0:25:58.50,Default,,0,0,0,,
-Dialogue: 0,0:25:58.50,0:25:59.46,Default,,0,0,0,,
-Dialogue: 0,0:25:59.46,0:26:01.62,Default,,0,0,0,,
-Dialogue: 0,0:26:01.62,0:26:03.14,Default,,0,0,0,,
-Dialogue: 0,0:26:03.14,0:26:04.02,Default,,0,0,0,,
-Dialogue: 0,0:26:04.02,0:26:04.70,Default,,0,0,0,,
-Dialogue: 0,0:26:04.70,0:26:06.42,Default,,0,0,0,,
-Dialogue: 0,0:26:06.42,0:26:07.66,Default,,0,0,0,,
-Dialogue: 0,0:26:07.66,0:26:09.22,Default,,0,0,0,,
-Dialogue: 0,0:26:09.22,0:26:10.70,Default,,0,0,0,,
-Dialogue: 0,0:26:10.70,0:26:11.98,Default,,0,0,0,,
-Dialogue: 0,0:26:11.98,0:26:13.02,Default,,0,0,0,,
-Dialogue: 0,0:26:13.02,0:26:15.18,Default,,0,0,0,,
-Dialogue: 0,0:26:15.18,0:26:16.70,Default,,0,0,0,,
-Dialogue: 0,0:26:16.70,0:26:18.50,Default,,0,0,0,,
-Dialogue: 0,0:26:18.94,0:26:20.66,Default,,0,0,0,,
-Dialogue: 0,0:26:21.30,0:26:22.54,Default,,0,0,0,,
-Dialogue: 0,0:26:22.94,0:26:23.78,Default,,0,0,0,,
-Dialogue: 0,0:26:24.22,0:26:25.58,Default,,0,0,0,,
-Dialogue: 0,0:26:30.46,0:26:31.58,Default,,0,0,0,,
-Dialogue: 0,0:26:31.58,0:26:33.98,Default,,0,0,0,,
-Dialogue: 0,0:26:34.42,0:26:36.30,Default,,0,0,0,,
-Dialogue: 0,0:26:36.86,0:26:38.74,Default,,0,0,0,,
-Dialogue: 0,0:26:38.74,0:26:40.34,Default,,0,0,0,,
-Dialogue: 0,0:26:40.34,0:26:41.06,Default,,0,0,0,,
-Dialogue: 0,0:26:41.06,0:26:42.02,Default,,0,0,0,,
-Dialogue: 0,0:26:42.02,0:26:43.46,Default,,0,0,0,,
-Dialogue: 0,0:26:43.46,0:26:45.86,Default,,0,0,0,,
-Dialogue: 0,0:26:46.02,0:26:46.86,Default,,0,0,0,,
-Dialogue: 0,0:26:46.86,0:26:48.30,Default,,0,0,0,,
-Dialogue: 0,0:26:48.30,0:26:50.10,Default,,0,0,0,,
-Dialogue: 0,0:26:50.10,0:26:51.54,Default,,0,0,0,,
-Dialogue: 0,0:26:51.54,0:26:52.78,Default,,0,0,0,,
-Dialogue: 0,0:26:52.78,0:26:53.66,Default,,0,0,0,,
-Dialogue: 0,0:26:53.66,0:26:54.66,Default,,0,0,0,,
-Dialogue: 0,0:26:55.98,0:26:56.90,Default,,0,0,0,,
-Dialogue: 0,0:26:56.90,0:26:58.02,Default,,0,0,0,,
-Dialogue: 0,0:26:58.02,0:26:59.34,Default,,0,0,0,,
-Dialogue: 0,0:26:59.34,0:27:00.78,Default,,0,0,0,,
-Dialogue: 0,0:27:00.78,0:27:02.70,Default,,0,0,0,,
-Dialogue: 0,0:27:02.70,0:27:03.70,Default,,0,0,0,,
-Dialogue: 0,0:27:06.38,0:27:07.30,Default,,0,0,0,,
-Dialogue: 0,0:27:07.30,0:27:08.78,Default,,0,0,0,,
-Dialogue: 0,0:27:08.78,0:27:10.06,Default,,0,0,0,,
-Dialogue: 0,0:27:10.06,0:27:11.30,Default,,0,0,0,,
-Dialogue: 0,0:27:11.30,0:27:12.70,Default,,0,0,0,,
-Dialogue: 0,0:27:12.70,0:27:13.50,Default,,0,0,0,,
-Dialogue: 0,0:27:13.50,0:27:15.90,Default,,0,0,0,,
-Dialogue: 0,0:27:15.90,0:27:17.22,Default,,0,0,0,,
-Dialogue: 0,0:27:17.22,0:27:17.98,Default,,0,0,0,,
-Dialogue: 0,0:27:17.98,0:27:19.22,Default,,0,0,0,,
-Dialogue: 0,0:27:19.22,0:27:21.26,Default,,0,0,0,,
-Dialogue: 0,0:27:21.26,0:27:22.66,Default,,0,0,0,,
-Dialogue: 0,0:27:22.66,0:27:24.58,Default,,0,0,0,,
-Dialogue: 0,0:27:24.58,0:27:26.50,Default,,0,0,0,,
-Dialogue: 0,0:27:26.50,0:27:27.06,Default,,0,0,0,,
-Dialogue: 0,0:27:27.06,0:27:28.38,Default,,0,0,0,,
-Dialogue: 0,0:27:28.38,0:27:29.18,Default,,0,0,0,,
-Dialogue: 0,0:27:29.18,0:27:30.98,Default,,0,0,0,,
-Dialogue: 0,0:27:30.98,0:27:31.78,Default,,0,0,0,,
-Dialogue: 0,0:27:31.78,0:27:33.62,Default,,0,0,0,,
-Dialogue: 0,0:27:33.62,0:27:34.94,Default,,0,0,0,,
-Dialogue: 0,0:27:38.22,0:27:39.58,Default,,0,0,0,,
-Dialogue: 0,0:27:39.58,0:27:41.62,Default,,0,0,0,,
-Dialogue: 0,0:27:41.62,0:27:42.70,Default,,0,0,0,,
-Dialogue: 0,0:27:42.70,0:27:44.10,Default,,0,0,0,,
-Dialogue: 0,0:27:44.10,0:27:45.86,Default,,0,0,0,,
-Dialogue: 0,0:27:45.86,0:27:47.94,Default,,0,0,0,,
-Dialogue: 0,0:27:47.94,0:27:49.70,Default,,0,0,0,,
-Dialogue: 0,0:27:49.70,0:27:51.06,Default,,0,0,0,,
-Dialogue: 0,0:27:51.06,0:27:52.10,Default,,0,0,0,,
-Dialogue: 0,0:27:52.10,0:27:53.14,Default,,0,0,0,,
-Dialogue: 0,0:27:53.14,0:27:55.22,Default,,0,0,0,,
-Dialogue: 0,0:27:55.22,0:27:56.78,Default,,0,0,0,,
-Dialogue: 0,0:27:56.78,0:27:58.06,Default,,0,0,0,,
-Dialogue: 0,0:28:00.14,0:28:03.10,Default,,0,0,0,,
-Dialogue: 0,0:28:03.10,0:28:05.06,Default,,0,0,0,,
-Dialogue: 0,0:28:05.06,0:28:06.54,Default,,0,0,0,,
-Dialogue: 0,0:28:06.54,0:28:08.18,Default,,0,0,0,,
-Dialogue: 0,0:28:08.18,0:28:09.62,Default,,0,0,0,,
-Dialogue: 0,0:28:09.62,0:28:11.06,Default,,0,0,0,,
-Dialogue: 0,0:28:11.06,0:28:12.66,Default,,0,0,0,,
-Dialogue: 0,0:28:12.66,0:28:14.34,Default,,0,0,0,,
-Dialogue: 0,0:28:14.34,0:28:17.46,Default,,0,0,0,,
-Dialogue: 0,0:28:17.46,0:28:19.22,Default,,0,0,0,,
-Dialogue: 0,0:28:19.22,0:28:20.94,Default,,0,0,0,,
-Dialogue: 0,0:28:20.94,0:28:22.74,Default,,0,0,0,,
-Dialogue: 0,0:28:22.74,0:28:23.78,Default,,0,0,0,,
-Dialogue: 0,0:28:23.78,0:28:25.62,Default,,0,0,0,,
-Dialogue: 0,0:28:25.62,0:28:27.82,Default,,0,0,0,,
-Dialogue: 0,0:28:27.82,0:28:29.50,Default,,0,0,0,,
-Dialogue: 0,0:28:29.50,0:28:30.62,Default,,0,0,0,,
-Dialogue: 0,0:28:30.62,0:28:31.26,Default,,0,0,0,,
-Dialogue: 0,0:28:31.26,0:28:32.90,Default,,0,0,0,,
-Dialogue: 0,0:28:32.90,0:28:35.14,Default,,0,0,0,,
-Dialogue: 0,0:28:35.14,0:28:37.02,Default,,0,0,0,,
-Dialogue: 0,0:28:37.94,0:28:38.98,Default,,0,0,0,,
-Dialogue: 0,0:28:38.98,0:28:40.66,Default,,0,0,0,,
-Dialogue: 0,0:28:41.98,0:28:43.58,Default,,0,0,0,,
-Dialogue: 0,0:28:43.58,0:28:45.06,Default,,0,0,0,,
-Dialogue: 0,0:28:45.06,0:28:46.50,Default,,0,0,0,,
-Dialogue: 0,0:28:46.50,0:28:47.90,Default,,0,0,0,,
-Dialogue: 0,0:28:47.90,0:28:48.74,Default,,0,0,0,,
-Dialogue: 0,0:28:50.38,0:28:51.42,Default,,0,0,0,,
-Dialogue: 0,0:28:51.42,0:28:53.98,Default,,0,0,0,,
-Dialogue: 0,0:28:53.98,0:28:55.26,Default,,0,0,0,,
-Dialogue: 0,0:28:55.26,0:28:56.30,Default,,0,0,0,,
-Dialogue: 0,0:28:56.30,0:28:57.98,Default,,0,0,0,,
-Dialogue: 0,0:28:57.98,0:28:58.58,Default,,0,0,0,,
-Dialogue: 0,0:28:58.58,0:29:00.82,Default,,0,0,0,,
-Dialogue: 0,0:29:00.82,0:29:02.38,Default,,0,0,0,,
-Dialogue: 0,0:29:02.38,0:29:04.90,Default,,0,0,0,,
-Dialogue: 0,0:29:04.90,0:29:07.42,Default,,0,0,0,,
-Dialogue: 0,0:29:07.42,0:29:08.98,Default,,0,0,0,,
-Dialogue: 0,0:29:12.86,0:29:14.10,Default,,0,0,0,,
-Dialogue: 0,0:29:14.10,0:29:15.70,Default,,0,0,0,,
-Dialogue: 0,0:29:25.14,0:29:26.50,Default,,0,0,0,,
-Dialogue: 0,0:29:26.50,0:29:28.02,Default,,0,0,0,,
-Dialogue: 0,0:29:37.02,0:29:38.30,Default,,0,0,0,,
-Dialogue: 0,0:29:38.30,0:29:39.26,Default,,0,0,0,,
-Dialogue: 0,0:29:51.18,0:29:52.18,Default,,0,0,0,,
-Dialogue: 0,0:29:52.18,0:29:53.42,Default,,0,0,0,,
-Dialogue: 0,0:29:53.42,0:29:54.46,Default,,0,0,0,,
-Dialogue: 0,0:29:54.46,0:29:55.54,Default,,0,0,0,,
-Dialogue: 0,0:29:55.54,0:29:58.38,Default,,0,0,0,,
-Dialogue: 0,0:29:58.70,0:29:59.74,Default,,0,0,0,,
-Dialogue: 0,0:29:59.74,0:30:01.18,Default,,0,0,0,,
-Dialogue: 0,0:30:01.18,0:30:02.34,Default,,0,0,0,,
-Dialogue: 0,0:30:02.34,0:30:03.98,Default,,0,0,0,,
-Dialogue: 0,0:30:03.98,0:30:05.10,Default,,0,0,0,,
-Dialogue: 0,0:30:05.10,0:30:07.18,Default,,0,0,0,,
-Dialogue: 0,0:30:10.50,0:30:11.98,Default,,0,0,0,,
-Dialogue: 0,0:30:17.82,0:30:19.78,Default,,0,0,0,,
-Dialogue: 0,0:30:19.78,0:30:20.46,Default,,0,0,0,,
-Dialogue: 0,0:30:20.46,0:30:22.30,Default,,0,0,0,,
-Dialogue: 0,0:30:22.30,0:30:23.02,Default,,0,0,0,,
-Dialogue: 0,0:30:23.02,0:30:23.62,Default,,0,0,0,,
-Dialogue: 0,0:30:23.62,0:30:24.26,Default,,0,0,0,,
-Dialogue: 0,0:30:24.34,0:30:25.46,Default,,0,0,0,,
-Dialogue: 0,0:30:25.70,0:30:26.54,Default,,0,0,0,,
-Dialogue: 0,0:30:29.46,0:30:30.38,Default,,0,0,0,,
-Dialogue: 0,0:30:30.38,0:30:31.50,Default,,0,0,0,,
-Dialogue: 0,0:30:31.50,0:30:32.70,Default,,0,0,0,,
-Dialogue: 0,0:30:32.70,0:30:34.54,Default,,0,0,0,,
-Dialogue: 0,0:30:34.54,0:30:35.58,Default,,0,0,0,,
-Dialogue: 0,0:30:35.58,0:30:36.78,Default,,0,0,0,,
-Dialogue: 0,0:30:36.78,0:30:38.38,Default,,0,0,0,,
-Dialogue: 0,0:30:38.38,0:30:40.02,Default,,0,0,0,,
-Dialogue: 0,0:30:40.02,0:30:41.74,Default,,0,0,0,,
-Dialogue: 0,0:30:41.74,0:30:43.06,Default,,0,0,0,,
-Dialogue: 0,0:30:43.06,0:30:44.42,Default,,0,0,0,,
-Dialogue: 0,0:30:44.42,0:30:46.14,Default,,0,0,0,,
-Dialogue: 0,0:30:46.14,0:30:47.82,Default,,0,0,0,,
-Dialogue: 0,0:30:47.82,0:30:49.46,Default,,0,0,0,,
-Dialogue: 0,0:30:49.46,0:30:50.58,Default,,0,0,0,,
-Dialogue: 0,0:30:51.94,0:30:53.74,Default,,0,0,0,,
-Dialogue: 0,0:30:53.74,0:30:55.06,Default,,0,0,0,,
-Dialogue: 0,0:30:55.06,0:30:56.26,Default,,0,0,0,,
-Dialogue: 0,0:30:56.26,0:30:57.38,Default,,0,0,0,,
-Dialogue: 0,0:30:57.38,0:30:58.62,Default,,0,0,0,,
-Dialogue: 0,0:30:58.62,0:31:00.50,Default,,0,0,0,,
-Dialogue: 0,0:31:00.50,0:31:01.78,Default,,0,0,0,,
-Dialogue: 0,0:31:03.14,0:31:04.94,Default,,0,0,0,,
-Dialogue: 0,0:31:04.94,0:31:06.70,Default,,0,0,0,,
-Dialogue: 0,0:31:06.70,0:31:09.90,Default,,0,0,0,,
-Dialogue: 0,0:31:09.90,0:31:11.46,Default,,0,0,0,,
-Dialogue: 0,0:31:11.46,0:31:13.30,Default,,0,0,0,,
-Dialogue: 0,0:31:13.30,0:31:15.78,Default,,0,0,0,,
-Dialogue: 0,0:31:15.78,0:31:18.90,Default,,0,0,0,,
-Dialogue: 0,0:31:18.90,0:31:22.06,Default,,0,0,0,,
-Dialogue: 0,0:31:22.06,0:31:23.30,Default,,0,0,0,,
-Dialogue: 0,0:31:23.30,0:31:25.78,Default,,0,0,0,,
-Dialogue: 0,0:31:25.78,0:31:26.90,Default,,0,0,0,,
-Dialogue: 0,0:31:26.90,0:31:28.90,Default,,0,0,0,,
-Dialogue: 0,0:31:28.90,0:31:30.54,Default,,0,0,0,,
-Dialogue: 0,0:31:30.54,0:31:31.90,Default,,0,0,0,,
-Dialogue: 0,0:31:31.90,0:31:33.22,Default,,0,0,0,,
-Dialogue: 0,0:31:33.22,0:31:35.18,Default,,0,0,0,,
-Dialogue: 0,0:31:35.18,0:31:36.54,Default,,0,0,0,,
-Dialogue: 0,0:31:36.78,0:31:39.10,Default,,0,0,0,,
-Dialogue: 0,0:31:39.10,0:31:42.86,Default,,0,0,0,,
-Dialogue: 0,0:31:43.10,0:31:45.50,Default,,0,0,0,,
-Dialogue: 0,0:31:45.50,0:31:46.90,Default,,0,0,0,,
-Dialogue: 0,0:31:46.90,0:31:48.54,Default,,0,0,0,,
-Dialogue: 0,0:31:48.54,0:31:52.06,Default,,0,0,0,,
-Dialogue: 0,0:31:52.06,0:31:53.74,Default,,0,0,0,,
-Dialogue: 0,0:31:53.74,0:31:55.10,Default,,0,0,0,,
-Dialogue: 0,0:31:55.10,0:31:56.58,Default,,0,0,0,,
-Dialogue: 0,0:31:56.58,0:31:58.10,Default,,0,0,0,,
-Dialogue: 0,0:31:58.10,0:31:59.30,Default,,0,0,0,,
-Dialogue: 0,0:31:59.30,0:32:00.78,Default,,0,0,0,,
-Dialogue: 0,0:32:00.78,0:32:02.30,Default,,0,0,0,,
-Dialogue: 0,0:32:02.30,0:32:03.94,Default,,0,0,0,,
-Dialogue: 0,0:32:03.94,0:32:05.58,Default,,0,0,0,,
-Dialogue: 0,0:32:05.58,0:32:08.58,Default,,0,0,0,,
-Dialogue: 0,0:32:08.58,0:32:09.70,Default,,0,0,0,,
-Dialogue: 0,0:32:09.70,0:32:11.10,Default,,0,0,0,,
-Dialogue: 0,0:32:11.10,0:32:12.94,Default,,0,0,0,,
-Dialogue: 0,0:32:15.70,0:32:16.74,Default,,0,0,0,,
-Dialogue: 0,0:32:19.54,0:32:21.70,Default,,0,0,0,,
-Dialogue: 0,0:32:21.70,0:32:24.22,Default,,0,0,0,,
-Dialogue: 0,0:32:24.22,0:32:26.42,Default,,0,0,0,,
-Dialogue: 0,0:32:26.42,0:32:27.22,Default,,0,0,0,,
-Dialogue: 0,0:32:27.22,0:32:29.94,Default,,0,0,0,,
-Dialogue: 0,0:32:29.94,0:32:31.70,Default,,0,0,0,,
-Dialogue: 0,0:32:31.70,0:32:34.42,Default,,0,0,0,,
-Dialogue: 0,0:32:34.42,0:32:37.06,Default,,0,0,0,,
-Dialogue: 0,0:32:37.06,0:32:39.26,Default,,0,0,0,,
-Dialogue: 0,0:32:39.26,0:32:40.38,Default,,0,0,0,,
-Dialogue: 0,0:32:40.38,0:32:41.30,Default,,0,0,0,,
-Dialogue: 0,0:32:41.30,0:32:43.86,Default,,0,0,0,,
-Dialogue: 0,0:32:43.86,0:32:45.90,Default,,0,0,0,,
-Dialogue: 0,0:32:45.90,0:32:47.78,Default,,0,0,0,,
-Dialogue: 0,0:32:47.78,0:32:49.94,Default,,0,0,0,,
-Dialogue: 0,0:32:49.94,0:32:50.62,Default,,0,0,0,,
-Dialogue: 0,0:32:50.62,0:32:52.10,Default,,0,0,0,,
-Dialogue: 0,0:32:52.10,0:32:53.78,Default,,0,0,0,,
-Dialogue: 0,0:32:53.78,0:32:56.02,Default,,0,0,0,,
-Dialogue: 0,0:32:56.02,0:32:57.50,Default,,0,0,0,,
-Dialogue: 0,0:32:57.50,0:32:58.30,Default,,0,0,0,,
-Dialogue: 0,0:32:58.30,0:32:59.90,Default,,0,0,0,,
-Dialogue: 0,0:33:01.38,0:33:02.98,Default,,0,0,0,,
-Dialogue: 0,0:33:05.46,0:33:06.22,Default,,0,0,0,,
-Dialogue: 0,0:33:06.22,0:33:08.38,Default,,0,0,0,,
-Dialogue: 0,0:33:08.38,0:33:10.26,Default,,0,0,0,,
-Dialogue: 0,0:33:10.26,0:33:12.02,Default,,0,0,0,,
-Dialogue: 0,0:33:12.02,0:33:12.86,Default,,0,0,0,,
-Dialogue: 0,0:33:12.86,0:33:15.38,Default,,0,0,0,,
-Dialogue: 0,0:33:15.38,0:33:17.54,Default,,0,0,0,,
-Dialogue: 0,0:33:17.54,0:33:19.38,Default,,0,0,0,,
-Dialogue: 0,0:33:19.38,0:33:22.70,Default,,0,0,0,,
-Dialogue: 0,0:33:22.70,0:33:24.10,Default,,0,0,0,,
-Dialogue: 0,0:33:24.10,0:33:26.54,Default,,0,0,0,,
-Dialogue: 0,0:33:26.54,0:33:27.26,Default,,0,0,0,,
-Dialogue: 0,0:33:27.26,0:33:29.42,Default,,0,0,0,,
-Dialogue: 0,0:33:29.42,0:33:30.70,Default,,0,0,0,,
-Dialogue: 0,0:33:30.70,0:33:32.50,Default,,0,0,0,,
-Dialogue: 0,0:33:32.50,0:33:33.94,Default,,0,0,0,,
-Dialogue: 0,0:33:33.94,0:33:36.34,Default,,0,0,0,,
-Dialogue: 0,0:33:36.34,0:33:37.90,Default,,0,0,0,,
-Dialogue: 0,0:33:37.90,0:33:39.26,Default,,0,0,0,,
-Dialogue: 0,0:33:39.26,0:33:42.54,Default,,0,0,0,,
-Dialogue: 0,0:33:42.54,0:33:44.22,Default,,0,0,0,,
-Dialogue: 0,0:33:44.22,0:33:45.82,Default,,0,0,0,,
-Dialogue: 0,0:33:45.82,0:33:48.54,Default,,0,0,0,,
-Dialogue: 0,0:33:48.54,0:33:49.78,Default,,0,0,0,,
-Dialogue: 0,0:33:49.78,0:33:51.22,Default,,0,0,0,,
-Dialogue: 0,0:33:51.22,0:33:52.98,Default,,0,0,0,,
-Dialogue: 0,0:33:52.98,0:33:53.98,Default,,0,0,0,,
-Dialogue: 0,0:33:53.98,0:33:56.06,Default,,0,0,0,,
-Dialogue: 0,0:33:56.06,0:33:57.86,Default,,0,0,0,,
-Dialogue: 0,0:33:57.86,0:33:59.86,Default,,0,0,0,,
-Dialogue: 0,0:33:59.86,0:34:00.46,Default,,0,0,0,,
-Dialogue: 0,0:34:00.46,0:34:01.58,Default,,0,0,0,,
-Dialogue: 0,0:34:01.58,0:34:04.02,Default,,0,0,0,,
-Dialogue: 0,0:34:04.02,0:34:06.38,Default,,0,0,0,,
-Dialogue: 0,0:34:06.38,0:34:08.22,Default,,0,0,0,,
-Dialogue: 0,0:34:08.22,0:34:09.78,Default,,0,0,0,,
-Dialogue: 0,0:34:09.78,0:34:11.78,Default,,0,0,0,,
-Dialogue: 0,0:34:11.78,0:34:13.10,Default,,0,0,0,,
-Dialogue: 0,0:34:13.10,0:34:14.06,Default,,0,0,0,,
-Dialogue: 0,0:34:14.06,0:34:15.10,Default,,0,0,0,,
-Dialogue: 0,0:34:15.10,0:34:17.02,Default,,0,0,0,,
-Dialogue: 0,0:34:17.02,0:34:18.74,Default,,0,0,0,,
-Dialogue: 0,0:34:18.74,0:34:19.38,Default,,0,0,0,,
-Dialogue: 0,0:34:19.38,0:34:20.62,Default,,0,0,0,,
-Dialogue: 0,0:34:20.62,0:34:22.26,Default,,0,0,0,,
-Dialogue: 0,0:34:22.26,0:34:23.22,Default,,0,0,0,,
-Dialogue: 0,0:34:23.22,0:34:24.54,Default,,0,0,0,,
-Dialogue: 0,0:34:24.54,0:34:26.14,Default,,0,0,0,,
-Dialogue: 0,0:34:26.14,0:34:28.98,Default,,0,0,0,,
-Dialogue: 0,0:34:28.98,0:34:30.90,Default,,0,0,0,,
-Dialogue: 0,0:34:30.90,0:34:32.30,Default,,0,0,0,,
-Dialogue: 0,0:34:32.30,0:34:35.10,Default,,0,0,0,,
-Dialogue: 0,0:34:35.10,0:34:36.82,Default,,0,0,0,,
-Dialogue: 0,0:34:36.82,0:34:39.50,Default,,0,0,0,,
-Dialogue: 0,0:34:39.50,0:34:41.82,Default,,0,0,0,,
-Dialogue: 0,0:34:41.82,0:34:42.98,Default,,0,0,0,,
-Dialogue: 0,0:34:42.98,0:34:45.34,Default,,0,0,0,,
-Dialogue: 0,0:34:45.34,0:34:46.30,Default,,0,0,0,,
-Dialogue: 0,0:34:46.30,0:34:47.26,Default,,0,0,0,,
-Dialogue: 0,0:34:49.10,0:34:50.34,Default,,0,0,0,,
-Dialogue: 0,0:34:50.34,0:34:51.50,Default,,0,0,0,,
-Dialogue: 0,0:34:51.50,0:34:53.62,Default,,0,0,0,,
-Dialogue: 0,0:34:53.62,0:34:55.14,Default,,0,0,0,,
-Dialogue: 0,0:34:55.14,0:34:56.86,Default,,0,0,0,,
-Dialogue: 0,0:34:56.86,0:34:57.74,Default,,0,0,0,,
-Dialogue: 0,0:34:57.74,0:34:58.90,Default,,0,0,0,,
-Dialogue: 0,0:35:00.34,0:35:02.86,Default,,0,0,0,,
-Dialogue: 0,0:35:02.86,0:35:03.94,Default,,0,0,0,,
-Dialogue: 0,0:35:03.94,0:35:06.06,Default,,0,0,0,,
-Dialogue: 0,0:35:06.06,0:35:07.06,Default,,0,0,0,,
-Dialogue: 0,0:35:07.06,0:35:08.18,Default,,0,0,0,,
-Dialogue: 0,0:35:08.18,0:35:09.90,Default,,0,0,0,,
-Dialogue: 0,0:35:09.90,0:35:11.70,Default,,0,0,0,,
-Dialogue: 0,0:35:11.70,0:35:13.90,Default,,0,0,0,,
-Dialogue: 0,0:35:13.90,0:35:15.26,Default,,0,0,0,,
-Dialogue: 0,0:35:15.26,0:35:16.90,Default,,0,0,0,,
-Dialogue: 0,0:35:16.90,0:35:17.70,Default,,0,0,0,,
-Dialogue: 0,0:35:17.70,0:35:18.50,Default,,0,0,0,,
-Dialogue: 0,0:35:18.50,0:35:19.78,Default,,0,0,0,,
-Dialogue: 0,0:35:19.78,0:35:21.94,Default,,0,0,0,,
-Dialogue: 0,0:35:21.94,0:35:23.86,Default,,0,0,0,,
-Dialogue: 0,0:35:23.86,0:35:26.86,Default,,0,0,0,,
-Dialogue: 0,0:35:26.86,0:35:29.34,Default,,0,0,0,,
-Dialogue: 0,0:35:29.34,0:35:31.42,Default,,0,0,0,,
-Dialogue: 0,0:35:31.42,0:35:33.06,Default,,0,0,0,,
-Dialogue: 0,0:35:33.06,0:35:34.38,Default,,0,0,0,,
-Dialogue: 0,0:35:34.38,0:35:35.90,Default,,0,0,0,,
-Dialogue: 0,0:35:35.90,0:35:37.30,Default,,0,0,0,,
-Dialogue: 0,0:35:37.30,0:35:38.90,Default,,0,0,0,,
-Dialogue: 0,0:35:38.90,0:35:41.26,Default,,0,0,0,,
-Dialogue: 0,0:35:41.26,0:35:44.86,Default,,0,0,0,,
-Dialogue: 0,0:35:44.86,0:35:46.30,Default,,0,0,0,,
-Dialogue: 0,0:35:46.30,0:35:47.90,Default,,0,0,0,,
-Dialogue: 0,0:35:47.90,0:35:49.02,Default,,0,0,0,,
-Dialogue: 0,0:35:49.02,0:35:50.34,Default,,0,0,0,,
-Dialogue: 0,0:35:50.34,0:35:51.74,Default,,0,0,0,,
-Dialogue: 0,0:35:51.74,0:35:53.06,Default,,0,0,0,,
-Dialogue: 0,0:35:53.06,0:35:54.30,Default,,0,0,0,,
-Dialogue: 0,0:35:54.30,0:35:55.22,Default,,0,0,0,,
-Dialogue: 0,0:35:55.22,0:35:57.42,Default,,0,0,0,,
-Dialogue: 0,0:35:57.42,0:35:59.42,Default,,0,0,0,,
-Dialogue: 0,0:35:59.42,0:36:00.94,Default,,0,0,0,,
-Dialogue: 0,0:36:00.94,0:36:04.14,Default,,0,0,0,,
-Dialogue: 0,0:36:04.14,0:36:05.42,Default,,0,0,0,,
-Dialogue: 0,0:36:05.42,0:36:06.78,Default,,0,0,0,,
-Dialogue: 0,0:36:06.78,0:36:07.50,Default,,0,0,0,,
-Dialogue: 0,0:36:08.34,0:36:09.34,Default,,0,0,0,,
-Dialogue: 0,0:36:09.34,0:36:10.54,Default,,0,0,0,,
-Dialogue: 0,0:36:10.54,0:36:11.86,Default,,0,0,0,,
-Dialogue: 0,0:36:11.86,0:36:12.62,Default,,0,0,0,,
-Dialogue: 0,0:36:13.26,0:36:16.38,Default,,0,0,0,,
-Dialogue: 0,0:36:16.38,0:36:18.30,Default,,0,0,0,,
-Dialogue: 0,0:36:18.30,0:36:19.42,Default,,0,0,0,,
-Dialogue: 0,0:36:19.42,0:36:21.30,Default,,0,0,0,,
-Dialogue: 0,0:36:21.30,0:36:22.22,Default,,0,0,0,,
-Dialogue: 0,0:36:22.22,0:36:24.34,Default,,0,0,0,,
-Dialogue: 0,0:36:24.34,0:36:27.02,Default,,0,0,0,,
+Dialogue: 0,0:00:02.54,0:00:06.04,Default,,0,0,0,,This graph shows the Beijing PM2.5 index during January 2013
+Dialogue: 0,0:00:06.12,0:00:08.58,Default,,0,0,0,,In just one month, there were 25 days of smog
+Dialogue: 0,0:00:08.70,0:00:10.20,Default,,0,0,0,,I was in Beijing at that time
+Dialogue: 0,0:00:10.36,0:00:12.80,Default,,0,0,0,,and as I looked back on this curve over the course of that year,
+Dialogue: 0,0:00:12.90,0:00:15.62,Default,,0,0,0,,I tried to recall the senses and emotions
+Dialogue: 0,0:00:15.62,0:00:17.10,Default,,0,0,0,,But I couldn't
+Dialogue: 0,0:00:17.10,0:00:19.96,Default,,0,0,0,,At that time everyone said the haze was caused
+Dialogue: 0,0:00:19.96,0:00:21.74,Default,,0,0,0,,by random weather patterns
+Dialogue: 0,0:00:21.74,0:00:23.14,Default,,0,0,0,,Hardly anyone took it seriously
+Dialogue: 0,0:00:23.14,0:00:25.44,Default,,0,0,0,,In that month, I made four business trips:
+Dialogue: 0,0:00:25.44,0:00:29.00,Default,,0,0,0,,To Shaanxi, Henan, Jiangxi and Zhejiang
+Dialogue: 0,0:00:29.22,0:00:31.72,Default,,0,0,0,,Looking back at the sky of these trips,
+Dialogue: 0,0:00:31.72,0:00:33.72,Default,,0,0,0,,it seems like China at that time was immersed in smog
+Dialogue: 0,0:00:33.72,0:00:36.84,Default,,0,0,0,,blanketing 25 provinces and 600 million people
+Dialogue: 0,0:00:36.84,0:00:39.36,Default,,0,0,0,,I was right in the middle of it, but I didn't even realize it
+Dialogue: 0,0:00:39.36,0:00:41.50,Default,,0,0,0,,But the sensation in my throat remained
+Dialogue: 0,0:00:41.50,0:00:44.10,Default,,0,0,0,,When I was in Xi'an, I was coughing so badly that I couldn't even sleep
+Dialogue: 0,0:00:44.10,0:00:46.68,Default,,0,0,0,,I cut up a lemon and put it beside my pillow
+Dialogue: 0,0:00:46.92,0:00:49.32,Default,,0,0,0,,When I returned to Beijing,
+Dialogue: 0,0:00:49.32,0:00:51.32,Default,,0,0,0,,I discovered that I was pregnant
+Dialogue: 0,0:00:51.32,0:00:54.02,Default,,0,0,0,,This is what she looked like the first time I saw her
+Dialogue: 0,0:00:54.02,0:00:56.78,Default,,0,0,0,,At that moment, I knew she must be a girl
+Dialogue: 0,0:00:56.78,0:00:58.94,Default,,0,0,0,,Because it looked like she had a girl's haircut
+Dialogue: 0,0:00:59.56,0:01:02.36,Default,,0,0,0,,When I heard her heartbeat for the first time,
+Dialogue: 0,0:01:02.36,0:01:05.60,Default,,0,0,0,,There was nothing I wanted more than for her to be healthy
+Dialogue: 0,0:01:06.08,0:01:08.14,Default,,0,0,0,,But
+Dialogue: 0,0:01:08.50,0:01:11.10,Default,,0,0,0,,she was diagnosed with a benign tumor
+Dialogue: 0,0:01:11.10,0:01:13.72,Default,,0,0,0,,which would require surgery immediately after birth
+Dialogue: 0,0:01:13.72,0:01:16.98,Default,,0,0,0,,Before the anaesthesia, the doctor told me
+Dialogue: 0,0:01:16.98,0:01:19.18,Default,,0,0,0,,“Your baby is so young that there is a possibility
+Dialogue: 0,0:01:19.18,0:01:21.18,Default,,0,0,0,,she won't survive the general anaesthetic.
+Dialogue: 0,0:01:21.18,0:01:24.16,Default,,0,0,0,,You need to be mentally prepared for it.”
+Dialogue: 0,0:01:24.50,0:01:29.00,Default,,0,0,0,,Before I could even hold her, she was carried off to the operating room
+Dialogue: 0,0:01:29.32,0:01:33.06,Default,,0,0,0,,After that, the nurse gave me a toy bear
+Dialogue: 0,0:01:33.06,0:01:35.68,Default,,0,0,0,,which she used to comfort children
+Dialogue: 0,0:01:35.68,0:01:37.68,Default,,0,0,0,,Instead, she used it to comfort me
+Dialogue: 0,0:01:37.68,0:01:40.78,Default,,0,0,0,,When I saw my little angel after the surgery, she was still unconscious
+Dialogue: 0,0:01:40.78,0:01:42.78,Default,,0,0,0,,The doctor said,
+Dialogue: 0,0:01:42.78,0:01:44.48,Default,,0,0,0,,“The operation was very successful.
+Dialogue: 0,0:01:44.48,0:01:46.48,Default,,0,0,0,,But there is one thing you have to forgive me for:
+Dialogue: 0,0:01:46.48,0:01:52.00,Default,,0,0,0,,She is so chubby that it took several attempts to find a vein for the anesthetic.”
+Dialogue: 0,0:01:54.24,0:01:56.88,Default,,0,0,0,,I took her tiny hand, full of needle marks,
+Dialogue: 0,0:01:56.88,0:01:58.12,Default,,0,0,0,,and I held it to my face
+Dialogue: 0,0:01:58.12,0:02:00.12,Default,,0,0,0,,I called her name
+Dialogue: 0,0:02:00.12,0:02:02.80,Default,,0,0,0,,until she opened her eyes and looked at me
+Dialogue: 0,0:02:04.72,0:02:07.34,Default,,0,0,0,,I'm a very lucky person
+Dialogue: 0,0:02:07.34,0:02:09.34,Default,,0,0,0,,After that, I quit my job so I could
+Dialogue: 0,0:02:09.34,0:02:11.34,Default,,0,0,0,,spend my time keeping her company and looking after her
+Dialogue: 0,0:02:11.34,0:02:14.64,Default,,0,0,0,,As long as we are all together, safe and sound, nothing else matters
+Dialogue: 0,0:02:15.14,0:02:20.34,Default,,0,0,0,,But already on our way home from the hospital, I started to feel scared
+Dialogue: 0,0:02:20.34,0:02:22.66,Default,,0,0,0,,The smell of black smoke and burning fire was everywhere
+Dialogue: 0,0:02:22.66,0:02:24.86,Default,,0,0,0,,I covered her nose with my handkerchief
+Dialogue: 0,0:02:24.86,0:02:26.42,Default,,0,0,0,,I know how stupid that seems,
+Dialogue: 0,0:02:26.42,0:02:29.06,Default,,0,0,0,,since in her struggle to breathe through it, she would just breathe in more smog
+Dialogue: 0,0:02:29.06,0:02:31.30,Default,,0,0,0,,Before that moment, I'd never been afraid of air pollution
+Dialogue: 0,0:02:31.30,0:02:33.30,Default,,0,0,0,,and I'd never worn a filter mask
+Dialogue: 0,0:02:33.30,0:02:35.76,Default,,0,0,0,,But now, there is a little life in your arms
+Dialogue: 0,0:02:35.76,0:02:39.28,Default,,0,0,0,,her breathing, eating and drinking are all on your shoulders
+Dialogue: 0,0:02:39.28,0:02:41.28,Default,,0,0,0,,That's when you begin to feel afraid
+Dialogue: 0,0:02:41.28,0:02:43.28,Default,,0,0,0,,That severe smog at the end of 2013 lasted about two months
+Dialogue: 0,0:02:43.28,0:02:45.74,Default,,0,0,0,,The continuing smog made me feel like it was more than just a random occurrence
+Dialogue: 0,0:02:45.74,0:02:47.74,Default,,0,0,0,,and that it couldn't possibly be over quickly
+Dialogue: 0,0:02:47.74,0:02:51.58,Default,,0,0,0,,It was the same sky that I saw ten years ago, when I was in Shanxi
+Dialogue: 0,0:03:01.73,0:03:03.36,Default,,0,0,0,,2004 interview
+Dialogue: 0,0:03:03.44,0:03:05.16,Default,,0,0,0,,Chai: “Is it like this every day?”
+Dialogue: 0,0:03:05.16,0:03:07.16,Default,,0,0,0,,Boy: “Every day of every year, it's like this!
+Dialogue: 0,0:03:07.16,0:03:10.20,Default,,0,0,0,,It's lasted for three years now, not just a day or two.”
+Dialogue: 0,0:03:10.26,0:03:13.10,Default,,0,0,0,,“Benzopyrene is a powerful carcinogen
+Dialogue: 0,0:03:13.18,0:03:16.04,Default,,0,0,0,,As time goes on, it accumulates in one's body
+Dialogue: 0,0:03:16.06,0:03:19.28,Default,,0,0,0,,Once enough of it accumulates, it increases a person's risk of getting cancer.”
+Dialogue: 0,0:03:19.30,0:03:22.48,Default,,0,0,0,,Rivers in Shanxi: 88.4% are polluted, 62% are no longer usable
+Dialogue: 0,0:03:22.48,0:03:24.24,Default,,0,0,0,,Chai: “Sir, do you think this is still a river?”
+Dialogue: 0,0:03:24.24,0:03:25.98,Default,,0,0,0,,Wang: “It's not river water, it's wastewater.
+Dialogue: 0,0:03:25.98,0:03:27.42,Default,,0,0,0,,Tests show that the annual average
+Dialogue: 0,0:03:27.42,0:03:30.88,Default,,0,0,0,,benzopyrene level here is 290 times above the regulatory limit.”
+Dialogue: 0,0:03:31.04,0:03:33.96,Default,,0,0,0,,Abandoned mine area: Ground water levels have fallen; environmental crisis is imminent
+Dialogue: 0,0:03:33.96,0:03:35.82,Default,,0,0,0,,Person: “All of the trees over there died.
+Dialogue: 0,0:03:36.14,0:03:38.58,Default,,0,0,0,,Those two big trees there have completely split open.”
+Dialogue: 0,0:03:45.74,0:03:48.04,Default,,0,0,0,,Chai: “Have you ever seen a real star before?”
+Dialogue: 0,0:03:48.04,0:03:50.04,Default,,0,0,0,,Wang Huiqing: “No, I haven't.”
+Dialogue: 0,0:03:50.04,0:03:52.38,Default,,0,0,0,,Chai: “What about blue sky?”
+Dialogue: 0,0:03:52.38,0:03:54.38,Default,,0,0,0,,Wang Huiqing: “I've seen one that's a little blue.”
+Dialogue: 0,0:03:54.38,0:03:56.38,Default,,0,0,0,,Chai: “What about white clouds?”
+Dialogue: 0,0:03:56.38,0:03:58.38,Default,,0,0,0,,Wang Huiqing: “No, I haven't.”
+Dialogue: 0,0:04:01.80,0:04:06.16,Default,,0,0,0,,When I interviewed this six-year-old girl in 2004,
+Dialogue: 0,0:04:06.16,0:04:08.56,Default,,0,0,0,,it didn't cross my mind at all that what she said
+Dialogue: 0,0:04:08.56,0:04:11.76,Default,,0,0,0,,could be the same experience my daughter would have
+Dialogue: 0,0:04:13.08,0:04:16.48,Default,,0,0,0,,These photos show each day of 2014 in Beijing
+Dialogue: 0,0:04:16.48,0:04:19.58,Default,,0,0,0,,Only when the air quality was good would I dare take my daughter outside with me
+Dialogue: 0,0:04:19.58,0:04:21.90,Default,,0,0,0,,But how many good days were there?
+Dialogue: 0,0:04:22.98,0:04:25.08,Default,,0,0,0,,175 were polluted
+Dialogue: 0,0:04:25.08,0:04:28.30,Default,,0,0,0,,That means that in one year, half of the time I had no choice
+Dialogue: 0,0:04:28.30,0:04:30.30,Default,,0,0,0,,but to keep her at home like a prisoner
+Dialogue: 0,0:04:30.30,0:04:32.68,Default,,0,0,0,,Ten years ago, the director of the Environmental Protection Bureau told me,
+Dialogue: 0,0:04:32.76,0:04:36.08,Default,,0,0,0,,“Xiaoyi is a microcosm of Shanxi; Shanxi is a microcosm of China.”
+Dialogue: 0,0:04:36.08,0:04:37.72,Default,,0,0,0,,In just a decade,
+Dialogue: 0,0:04:37.72,0:04:40.04,Default,,0,0,0,,I've looked on helplessly as this has come true
+Dialogue: 0,0:04:40.04,0:04:43.02,Default,,0,0,0,,In March-April 2014
+Dialogue: 0,0:04:43.14,0:04:46.50,Default,,0,0,0,,46 photographers
+Dialogue: 0,0:04:46.50,0:04:50.90,Default,,0,0,0,,Recorded images of the sky for 40 consecutive days
+Dialogue: 0,0:04:51.56,0:04:56.96,Default,,0,0,0,,Tianjin - 197 polluted days in 2014
+Dialogue: 0,0:04:56.96,0:05:02.60,Default,,0,0,0,,Shenyang - 152 polluted days in 2014
+Dialogue: 0,0:05:02.64,0:05:06.30,Default,,0,0,0,,Chengdu - 125 polluted days in 2014
+Dialogue: 0,0:05:06.70,0:05:09.22,Default,,0,0,0,,Lanzhou - 112 polluted days in 2014
+Dialogue: 0,0:05:09.22,0:05:14.76,Default,,0,0,0,,Shijiazhuang - 264 polluted days in 2014
+Dialogue: 0,0:05:20.12,0:05:22.80,Default,,0,0,0,,I once watched a TV series titled "Under the Dome"
+Dialogue: 0,0:05:23.30,0:05:26.38,Default,,0,0,0,,It was about a small town suddenly enclosed by a dome that appeared out of nowhere
+Dialogue: 0,0:05:26.38,0:05:29.46,Default,,0,0,0,,Cut off from the world, no way out
+Dialogue: 0,0:05:29.46,0:05:33.04,Default,,0,0,0,,But one day, I realized that we're all living in the same reality
+Dialogue: 0,0:05:33.04,0:05:35.48,Default,,0,0,0,,Sometimes, when I get up in the morning,
+Dialogue: 0,0:05:35.48,0:05:37.92,Default,,0,0,0,,I see my daughter standing in front of our balcony smacking the glass window
+Dialogue: 0,0:05:37.92,0:05:39.92,Default,,0,0,0,,This is her method of telling me that she wants to go outside
+Dialogue: 0,0:05:39.92,0:05:41.92,Default,,0,0,0,,I think, one day, she will ask me
+Dialogue: 0,0:05:41.92,0:05:43.92,Default,,0,0,0,,Mama, why do you keep me shut inside?
+Dialogue: 0,0:05:43.92,0:05:45.76,Default,,0,0,0,,What is really out there?
+Dialogue: 0,0:05:45.76,0:05:47.08,Default,,0,0,0,,Will anything hurt me?
+Dialogue: 0,0:05:47.08,0:05:48.64,Default,,0,0,0,,Everything I have done throughout this year
+Dialogue: 0,0:05:48.64,0:05:51.86,Default,,0,0,0,,is to answer the questions she will ask me in the future
+Dialogue: 0,0:05:51.86,0:05:53.04,Default,,0,0,0,,What is smog?
+Dialogue: 0,0:05:53.04,0:05:54.12,Default,,0,0,0,,Where does it come from?
+Dialogue: 0,0:05:54.12,0:05:55.62,Default,,0,0,0,,What can we do about it?
+Dialogue: 0,0:05:56.16,0:05:58.14,Default,,0,0,0,,So, what is the smog?
+Dialogue: 0,0:06:00.42,0:06:02.44,Default,,0,0,0,,Sometimes, I turn off the light
+Dialogue: 0,0:06:02.44,0:06:04.44,Default,,0,0,0,,I want to see it
+Dialogue: 0,0:06:04.44,0:06:06.44,Default,,0,0,0,,I know that PM2.5 is here
+Dialogue: 0,0:06:07.54,0:06:11.26,Default,,0,0,0,,They're airborne particles with a diameter of 2.5 micrometers
+Dialogue: 0,0:06:11.26,0:06:14.20,Default,,0,0,0,,So they reflect a large amount of visible light,
+Dialogue: 0,0:06:14.20,0:06:17.14,Default,,0,0,0,,leaving us in a world with very low visibility
+Dialogue: 0,0:06:17.14,0:06:19.14,Default,,0,0,0,,However, I can't see them
+Dialogue: 0,0:06:19.14,0:06:22.62,Default,,0,0,0,,because the smallest particle the naked eye can see is twenty times bigger
+Dialogue: 0,0:06:22.62,0:06:25.88,Default,,0,0,0,,In other words, this is a war against an invisible enemy
+Dialogue: 0,0:06:25.88,0:06:29.54,Default,,0,0,0,,There's only one way to see them
+Dialogue: 0,0:06:29.54,0:06:30.68,Default,,0,0,0,,It's this
+Dialogue: 0,0:06:30.68,0:06:32.68,Default,,0,0,0,,This is a PM2.5 sampling device
+Dialogue: 0,0:06:32.68,0:06:36.02,Default,,0,0,0,,I put a very clean sampling filter into the machine
+Dialogue: 0,0:06:36.02,0:06:38.62,Default,,0,0,0,,and carried it for 24 hours
+Dialogue: 0,0:06:38.98,0:06:42.40,Default,,0,0,0,,November 26th, 2014 - AQI: 282
+Dialogue: 0,0:06:46.40,0:06:48.58,Default,,0,0,0,,This is what the filter looked like at the very beginning, right?
+Dialogue: 0,0:06:48.58,0:06:50.58,Default,,0,0,0,,After 24 hours
+Dialogue: 0,0:06:50.58,0:06:52.12,Default,,0,0,0,,it looked like this
+Dialogue: 0,0:06:52.12,0:06:54.98,Default,,0,0,0,,If I don't do anything to protect my child
+Dialogue: 0,0:06:54.98,0:06:57.12,Default,,0,0,0,,she will breathe in all of this stuff
+Dialogue: 0,0:06:57.12,0:06:58.72,Default,,0,0,0,,How much will she breathe in?
+Dialogue: 0,0:06:59.82,0:07:02.14,Default,,0,0,0,,305.91 micrograms per cubic meter
+Dialogue: 0,0:07:02.14,0:07:04.70,Default,,0,0,0,,But who can understand a number like this, right? We can only compare it.
+Dialogue: 0,0:07:04.70,0:07:05.98,Default,,0,0,0,,(Chart:  Limits for concentrations of PM 2.5, 24-hour average)
+Dialogue: 0,0:07:05.98,0:07:07.66,Default,,0,0,0,,This is the WHO standard for maximum PM2.5 per day
+Dialogue: 0,0:07:07.66,0:07:09.34,Default,,0,0,0,,This is the standard in the United States
+Dialogue: 0,0:07:09.34,0:07:10.94,Default,,0,0,0,,This is the standard in Europe
+Dialogue: 0,0:07:10.94,0:07:12.38,Default,,0,0,0,,and this is the standard in China
+Dialogue: 0,0:07:12.42,0:07:14.82,Default,,0,0,0,,How much did we breathe in on that day?
+Dialogue: 0,0:07:15.42,0:07:17.48,Default,,0,0,0,,Almost 5 times China's maximum limit
+Dialogue: 0,0:07:18.04,0:07:21.20,Default,,0,0,0,,Although it sounds like that was just one slightly alarming number
+Dialogue: 0,0:07:21.20,0:07:24.20,Default,,0,0,0,,I really wanted to know what substances were actually in that sample
+Dialogue: 0,0:07:24.20,0:07:26.54,Default,,0,0,0,,Prof. Qiu Xinhua from Peking University was kind enough to
+Dialogue: 0,0:07:26.54,0:07:27.52,Default,,0,0,0,,run this test for me
+Dialogue: 0,0:07:27.52,0:07:29.28,Default,,0,0,0,,Here are the results of his analysis:
+Dialogue: 0,0:07:29.28,0:07:31.38,Default,,0,0,0,,It contains 15 types of carcinogens
+Dialogue: 0,0:07:31.38,0:07:34.54,Default,,0,0,0,,including benzo[a]pyrene, one of the world's strongest carcinogens
+Dialogue: 0,0:07:34.54,0:07:37.10,Default,,0,0,0,,How many times the standard was there?
+Dialogue: 0,0:07:37.66,0:07:39.34,Default,,0,0,0,,14 times the government standard
+Dialogue: 0,0:07:39.34,0:07:41.50,Default,,0,0,0,,I couldn't believe this number
+Dialogue: 0,0:07:41.50,0:07:44.98,Default,,0,0,0,,Do you remember, in that clip, when I was standing in Xiaoyi,
+Dialogue: 0,0:07:44.98,0:07:47.02,Default,,0,0,0,,surrounded by coal plants?
+Dialogue: 0,0:07:47.02,0:07:48.54,Default,,0,0,0,,The amount of Benzo[a]pyrene I was breathing there
+Dialogue: 0,0:07:48.54,0:07:49.54,Default,,0,0,0,,was only 9 times the legal standard
+Dialogue: 0,0:07:49.54,0:07:51.62,Default,,0,0,0,,Nowadays, I live in the center of an international metropolis
+Dialogue: 0,0:07:51.62,0:07:54.30,Default,,0,0,0,,When I look around, I can't see a single factory or chimney
+Dialogue: 0,0:07:54.30,0:07:57.06,Default,,0,0,0,,So how can it possibly be 14 times the legal limit?
+Dialogue: 0,0:07:57.06,0:07:59.06,Default,,0,0,0,,Professor Qiu doubted the results too
+Dialogue: 0,0:07:59.06,0:08:01.80,Default,,0,0,0,,He said “It doesn't seem possible to be that high. I'll run it again.”
+Dialogue: 0,0:08:01.80,0:08:03.42,Default,,0,0,0,,He called me the next day and told me
+Dialogue: 0,0:08:03.42,0:08:05.42,Default,,0,0,0,,“There was no mistake; it is 14 times the limit.”
+Dialogue: 0,0:08:05.42,0:08:07.42,Default,,0,0,0,,“Our wider sampling showed
+Dialogue: 0,0:08:07.42,0:08:09.58,Default,,0,0,0,,there are some people whose exposure was even higher than yours--20 times the legal limit.”
+Dialogue: 0,0:08:09.58,0:08:12.76,Default,,0,0,0,,All these carcinogens were stuck to the sampling filter you saw before
+Dialogue: 0,0:08:12.80,0:08:15.82,Default,,0,0,0,,attached to a substance called black carbon
+Dialogue: 0,0:08:15.82,0:08:18.44,Default,,0,0,0,,It's tiny, only 0.2 micrometers
+Dialogue: 0,0:08:18.44,0:08:21.76,Default,,0,0,0,,But it has a chain structure, so if it is unraveled
+Dialogue: 0,0:08:21.76,0:08:25.56,Default,,0,0,0,,two grams is the size of a basketball court
+Dialogue: 0,0:08:25.56,0:08:29.50,Default,,0,0,0,,Because of this, it can absorb many carcinogens and heavy metal particles
+Dialogue: 0,0:08:29.50,0:08:32.46,Default,,0,0,0,,How much black carbon is there in China?
+Dialogue: 0,0:08:32.46,0:08:36.02,Default,,0,0,0,,This is NASA's estimate from 2009
+Dialogue: 0,0:08:38.86,0:08:42.40,Default,,0,0,0,,That bright purple and white spot is China
+Dialogue: 0,0:08:42.40,0:08:44.92,Default,,0,0,0,,It drifts above us like a ghost
+Dialogue: 0,0:08:46.54,0:08:48.30,Default,,0,0,0,,So I went to Peking University
+Dialogue: 0,0:08:48.30,0:08:50.30,Default,,0,0,0,,I know that they have a lab for these experiments
+Dialogue: 0,0:08:50.30,0:08:52.72,Default,,0,0,0,,I asked an expert if I could volunteer
+Dialogue: 0,0:08:52.72,0:08:55.38,Default,,0,0,0,,“If you put me in a closed chamber with a high concentration of black carbon
+Dialogue: 0,0:08:55.38,0:08:56.66,Default,,0,0,0,,and observe and test my physical reactions,
+Dialogue: 0,0:08:56.66,0:08:58.16,Default,,0,0,0,,I can show everyone the results.”
+Dialogue: 0,0:08:58.16,0:09:00.16,Default,,0,0,0,,He hesitated for a while and answered
+Dialogue: 0,0:09:00.16,0:09:02.16,Default,,0,0,0,,“I'm sorry. I cannot do this experiment.”
+Dialogue: 0,0:09:02.16,0:09:03.74,Default,,0,0,0,,I asked why.
+Dialogue: 0,0:09:03.74,0:09:07.32,Default,,0,0,0,,He said, “Every experiment requires academic ethical thresholds.
+Dialogue: 0,0:09:07.32,0:09:11.90,Default,,0,0,0,,The thresholds should prevent extreme harm to the participants.
+Dialogue: 0,0:09:11.90,0:09:13.90,Default,,0,0,0,,I cannot run an experiment with these thresholds
+Dialogue: 0,0:09:13.90,0:09:18.48,Default,,0,0,0,,Even if the concentration in the air outdoors is higher than in the test chamber."
+Dialogue: 0,0:09:18.48,0:09:21.32,Default,,0,0,0,,“To put it another way, each of us
+Dialogue: 0,0:09:21.32,0:09:24.84,Default,,0,0,0,,is living in an experimental chamber our entire life
+Dialogue: 0,0:09:25.14,0:09:28.16,Default,,0,0,0,,and we don't know what the outcome of the experiment will be.”
+Dialogue: 0,0:09:28.16,0:09:30.52,Default,,0,0,0,,Peking University used a different approach
+Dialogue: 0,0:09:30.52,0:09:33.90,Default,,0,0,0,,They logged how people physically react to polluted air directly
+Dialogue: 0,0:09:33.90,0:09:37.30,Default,,0,0,0,,For one year, I participated in this experiment
+Dialogue: 0,0:09:37.30,0:09:38.84,Default,,0,0,0,,This is what I found:
+Dialogue: 0,0:09:38.84,0:09:41.70,Default,,0,0,0,,I have chronic respiratory inflammation and belong to a sensitive population group
+Dialogue: 0,0:09:41.70,0:09:44.04,Default,,0,0,0,,Fine particles impact the respiratory system, exacerbate inflammation of the respiratory tract
+Dialogue: 0,0:09:44.06,0:09:45.56,Default,,0,0,0,,and affect the entire cardiovascular system
+Dialogue: 0,0:09:45.56,0:09:50.24,Default,,0,0,0,,Tiny particles correlate with a higher possibility of heart failure due to reduced cardiac blood supply
+Dialogue: 0,0:09:50.54,0:09:53.46,Default,,0,0,0,,I don't really understand what the medical jargon means
+Dialogue: 0,0:09:53.46,0:09:55.46,Default,,0,0,0,,Therefore with the help of the scientists
+Dialogue: 0,0:09:55.46,0:09:57.68,Default,,0,0,0,,we made an animation to explain the effect
+Dialogue: 0,0:09:58.24,0:10:00.14,Default,,0,0,0,,I am PM 2.5
+Dialogue: 0,0:10:00.14,0:10:02.14,Default,,0,0,0,,I have lots of brothers and sisters
+Dialogue: 0,0:10:02.14,0:10:05.70,Default,,0,0,0,,Polycyclic aromatic hydrocarbons and other heavy metal particles
+Dialogue: 0,0:10:05.70,0:10:07.90,Default,,0,0,0,,Each of bearing weapons
+Dialogue: 0,0:10:09.44,0:10:12.94,Default,,0,0,0,,In the game of attacking human bodies
+Dialogue: 0,0:10:12.94,0:10:14.94,Default,,0,0,0,,I rarely miss
+Dialogue: 0,0:10:15.44,0:10:17.66,Default,,0,0,0,,Scene 1: Nostril
+Dialogue: 0,0:10:17.66,0:10:20.72,Default,,0,0,0,,Nose hairs and mucus can block large particles.
+Dialogue: 0,0:10:20.72,0:10:26.24,Default,,0,0,0,,90% of particles are bigger than 10 microns and get killed in action
+Dialogue: 0,0:10:26.28,0:10:28.02,Default,,0,0,0,,But they cannot stop me
+Dialogue: 0,0:10:28.02,0:10:30.02,Default,,0,0,0,,Scene 2: Throat
+Dialogue: 0,0:10:30.22,0:10:33.76,Default,,0,0,0,,The upper respiratory tract has cilia that are only 10 microns long
+Dialogue: 0,0:10:33.80,0:10:36.26,Default,,0,0,0,,They beat 20 times a second, but I pass through them with ease
+Dialogue: 0,0:10:36.26,0:10:38.86,Default,,0,0,0,,The smooth muscles of the trachea become irritated, contract and
+Dialogue: 0,0:10:38.86,0:10:41.92,Default,,0,0,0,,try to block me, but this bullying can't stop me
+Dialogue: 0,0:10:41.92,0:10:43.92,Default,,0,0,0,,Scene 3: Lower respiratory tract
+Dialogue: 0,0:10:43.92,0:10:46.70,Default,,0,0,0,,Here the bronchi branch out like a tree into small bronchioles
+Dialogue: 0,0:10:46.70,0:10:50.52,Default,,0,0,0,,These are the best ski slopes for us
+Dialogue: 0,0:10:52.30,0:10:56.66,Default,,0,0,0,,We fight with leukocytes and lymphocytes along the way
+Dialogue: 0,0:10:56.66,0:11:00.06,Default,,0,0,0,,These fights will cause all kinds of inflammation in the human body
+Dialogue: 0,0:11:00.06,0:11:03.92,Default,,0,0,0,,Our troop finally reaches our destination:
+Dialogue: 0,0:11:03.92,0:11:06.06,Default,,0,0,0,,the tree-tip like alveoli
+Dialogue: 0,0:11:06.06,0:11:09.42,Default,,0,0,0,,The human lung has more than 300 million alveoli
+Dialogue: 0,0:11:09.42,0:11:13.66,Default,,0,0,0,,If we block the alveoli, the human won't be able to breathe anymore
+Dialogue: 0,0:11:13.66,0:11:17.70,Default,,0,0,0,,However, our most ferocious enemy is here: the macrophages
+Dialogue: 0,0:11:17.70,0:11:20.60,Default,,0,0,0,,Their specialty is gobbling up foreign material
+Dialogue: 0,0:11:20.60,0:11:22.80,Default,,0,0,0,,and are known as the body's street sweepers
+Dialogue: 0,0:11:22.90,0:11:24.88,Default,,0,0,0,,This is going to be a tough battle.
+Dialogue: 0,0:11:35.62,0:11:37.46,Default,,0,0,0,,However we outnumber them
+Dialogue: 0,0:11:37.46,0:11:41.84,Default,,0,0,0,,our core is difficult to break down, and and we contain toxic heavy metals
+Dialogue: 0,0:11:41.84,0:11:44.48,Default,,0,0,0,,Macrophages cannot neutralize all of us
+Dialogue: 0,0:11:44.48,0:11:46.88,Default,,0,0,0,,and can be easily killed by over-consumption
+Dialogue: 0,0:11:46.88,0:11:49.74,Default,,0,0,0,,This is how the human immune system breaks down
+Dialogue: 0,0:11:50.92,0:11:53.28,Default,,0,0,0,,We have another special force:
+Dialogue: 0,0:11:53.28,0:11:55.38,Default,,0,0,0,,particles less than 0.5 microns
+Dialogue: 0,0:11:55.38,0:11:59.98,Default,,0,0,0,,Once in the alveoli, they are small enough to pass the membranes into blood vessels
+Dialogue: 0,0:11:59.98,0:12:02.94,Default,,0,0,0,,damaging the blood vessel lining and causing arteries to narrow
+Dialogue: 0,0:12:02.94,0:12:04.94,Default,,0,0,0,,which causes high blood pressure and thrombosis
+Dialogue: 0,0:12:05.92,0:12:08.59,Default,,0,0,0,,We can even enter the core of human bodies
+Dialogue: 0,0:12:08.59,0:12:12.16,Default,,0,0,0,,through the pulmonary circulation system
+Dialogue: 0,0:12:12.16,0:12:13.90,Default,,0,0,0,,and attack your heart
+Dialogue: 0,0:12:13.90,0:12:17.90,Default,,0,0,0,,causing myocardial ischemia and irregular heartbeat
+Dialogue: 0,0:12:17.90,0:12:19.90,Default,,0,0,0,,which leads to heart attacks
+Dialogue: 0,0:12:22.04,0:12:24.52,Default,,0,0,0,,Be terrified, humans
+Dialogue: 0,0:12:24.52,0:12:28.22,Default,,0,0,0,,We're in every breath you take.
+Dialogue: 0,0:12:31.54,0:12:34.36,Default,,0,0,0,,These measurements were provided by the Chinese Academy of Sciences
+Dialogue: 0,0:12:34.36,0:12:36.36,Default,,0,0,0,,This complex plot demonstrates
+Dialogue: 0,0:12:36.36,0:12:38.36,Default,,0,0,0,,that as the concentration of PM2.5 increases,
+Dialogue: 0,0:12:38.36,0:12:40.92,Default,,0,0,0,,the human mortality rate also increases
+Dialogue: 0,0:12:40.92,0:12:43.82,Default,,0,0,0,,Many other scientific research institutions have observed the same trend
+Dialogue: 0,0:12:43.82,0:12:47.08,Default,,0,0,0,,The former Chinese health minister Chen Zhu
+Dialogue: 0,0:12:47.16,0:12:51.60,Default,,0,0,0,,has calculated that the number of premature deaths caused by
+Dialogue: 0,0:12:51.60,0:12:53.86,Default,,0,0,0,,air pollution in China each year is
+Dialogue: 0,0:12:53.90,0:12:55.60,Default,,0,0,0,,500,000 people
+Dialogue: 0,0:12:55.60,0:12:57.60,Default,,0,0,0,,In this battle against human beings,
+Dialogue: 0,0:12:57.60,0:13:00.50,Default,,0,0,0,,the most fragile and vulnerable populations are
+Dialogue: 0,0:13:00.50,0:13:02.50,Default,,0,0,0,,our children and parents
+Dialogue: 0,0:13:02.50,0:13:04.90,Default,,0,0,0,,These babies are about 2 months old
+Dialogue: 0,0:13:04.90,0:13:07.26,Default,,0,0,0,,They have never been outside
+Dialogue: 0,0:13:07.26,0:13:08.76,Default,,0,0,0,,but they have been diagnosed with pneumonia
+Dialogue: 0,0:13:08.76,0:13:10.48,Default,,0,0,0,,Here they are receiving nebulizer therapy
+Dialogue: 0,0:13:10.48,0:13:12.66,Default,,0,0,0,,The parents of these babies asked me to photograph their children
+Dialogue: 0,0:13:12.66,0:13:15.76,Default,,0,0,0,,they suspected their children became sick due to lack of protection during heavy smog
+Dialogue: 0,0:13:15.76,0:13:17.42,Default,,0,0,0,,The doctor told them:
+Dialogue: 0,0:13:17.42,0:13:20.90,Default,,0,0,0,,“I can only render a diagnosis of 'Pneumonia of unknown cause'
+Dialogue: 0,0:13:20.90,0:13:23.52,Default,,0,0,0,,because of the lack of current epidemiological studies.
+Dialogue: 0,0:13:23.52,0:13:25.52,Default,,0,0,0,,But I can tell you this statistic:
+Dialogue: 0,0:13:25.52,0:13:29.50,Default,,0,0,0,,In January of 2013 during the heavy smog,
+Dialogue: 0,0:13:29.50,0:13:31.50,Default,,0,0,0,,throughout the entire country,
+Dialogue: 0,0:13:31.50,0:13:36.80,Default,,0,0,0,,27 cities showed exponential increases in emergency department visits.”
+Dialogue: 0,0:13:37.96,0:13:41.30,Default,,0,0,0,,The mothers in my community discussed about this event once
+Dialogue: 0,0:13:41.30,0:13:43.30,Default,,0,0,0,,One mother asked me:
+Dialogue: 0,0:13:43.30,0:13:44.72,Default,,0,0,0,,“How should we deal with the smog?
+Dialogue: 0,0:13:44.72,0:13:47.20,Default,,0,0,0,,Should we expose our kids to the smog
+Dialogue: 0,0:13:47.20,0:13:49.64,Default,,0,0,0,,as soon as possible to train them, so they adapt
+Dialogue: 0,0:13:49.64,0:13:52.34,Default,,0,0,0,,and aren't disadvantaged from the very beginning?
+Dialogue: 0,0:13:52.34,0:13:54.54,Default,,0,0,0,,A medical expert from Los Angeles,
+Dialogue: 0,0:13:54.56,0:13:57.14,Default,,0,0,0,,a city that once suffered from extreme air pollution, informed us
+Dialogue: 0,0:13:57.14,0:13:59.14,Default,,0,0,0,,about the risks of exposing our children to air pollution
+Dialogue: 0,0:13:59.14,0:14:01.14,Default,,0,0,0,,in hopes that they would be able to adapt to the conditions:
+Dialogue: 0,0:14:03.78,0:14:05.54,Default,,0,0,0,,I don't think we have any information
+Dialogue: 0,0:14:05.54,0:14:07.79,Default,,0,0,0,,that suggests that exposing your child to air pollution
+Dialogue: 0,0:14:07.79,0:14:09.59,Default,,0,0,0,,is going to help them to adapt.
+Dialogue: 0,0:14:09.59,0:14:12.48,Default,,0,0,0,,If we expose them on day one, they lose some function.
+Dialogue: 0,0:14:12.48,0:14:15.79,Default,,0,0,0,,If they expose them on day two, they don't lose the same amount.
+Dialogue: 0,0:14:15.79,0:14:18.45,Default,,0,0,0,,But that's because, not that they have adapted,
+Dialogue: 0,0:14:18.45,0:14:20.45,Default,,0,0,0,,but because they've already lost the function,
+Dialogue: 0,0:14:20.45,0:14:21.87,Default,,0,0,0,,and they already are injured.
+Dialogue: 0,0:14:21.87,0:14:24.66,Default,,0,0,0,,It has been shown in several studies around the world now,
+Dialogue: 0,0:14:24.66,0:14:28.00,Default,,0,0,0,,that children in cleaner places grow faster
+Dialogue: 0,0:14:28.00,0:14:30.00,Default,,0,0,0,,than children growing up in a more polluted area.
+Dialogue: 0,0:14:30.00,0:14:32.42,Default,,0,0,0,,Poor lung function early in life
+Dialogue: 0,0:14:32.42,0:14:35.60,Default,,0,0,0,,is a predictor of lung problems later on in life.
+Dialogue: 0,0:14:35.60,0:14:39.30,Default,,0,0,0,,And so, doing something about the air while a child is growing
+Dialogue: 0,0:14:39.30,0:14:41.78,Default,,0,0,0,,You can make a change in that child's life.
+Dialogue: 0,0:14:42.52,0:14:43.85,Default,,0,0,0,,This is downstairs from where I live
+Dialogue: 0,0:14:43.85,0:14:46.15,Default,,0,0,0,,and I took this photo two days ago in severe smog
+Dialogue: 0,0:14:46.15,0:14:48.96,Default,,0,0,0,,The AQI (air quality index) on that day had exceeded 500,
+Dialogue: 0,0:14:48.96,0:14:50.23,Default,,0,0,0,,above the “hazardous” pollution level
+Dialogue: 0,0:14:50.23,0:14:52.86,Default,,0,0,0,,However, the kids in the adjacent elementary school
+Dialogue: 0,0:14:52.86,0:14:55.42,Default,,0,0,0,,were still outside playing ball games, running and playing around
+Dialogue: 0,0:14:55.42,0:14:56.55,Default,,0,0,0,,When people exercise
+Dialogue: 0,0:14:56.55,0:14:59.06,Default,,0,0,0,,they breathe five to ten times more deeply than usual
+Dialogue: 0,0:14:59.06,0:15:01.06,Default,,0,0,0,,When I saw this, I became aware of the fact that
+Dialogue: 0,0:15:01.06,0:15:02.66,Default,,0,0,0,,I couldn't protect my child under all circumstances
+Dialogue: 0,0:15:02.66,0:15:04.66,Default,,0,0,0,,Someday she will have to go into society
+Dialogue: 0,0:15:04.66,0:15:06.66,Default,,0,0,0,,and breathing is something she will always do,
+Dialogue: 0,0:15:06.66,0:15:07.63,Default,,0,0,0,,something that is inevitable.
+Dialogue: 0,0:15:07.63,0:15:09.63,Default,,0,0,0,,And it (PM2.5) is there in every breath you take
+Dialogue: 0,0:15:09.63,0:15:13.14,Default,,0,0,0,,An adult person like ourselves breathes roughly 25000 times each day
+Dialogue: 0,0:15:13.14,0:15:18.05,Default,,0,0,0,,Over time, as it accumulates continuously, what are these substances like in our lungs?
+Dialogue: 0,0:15:18.05,0:15:20.82,Default,,0,0,0,,We are very grateful to a patient and doctor
+Dialogue: 0,0:15:20.82,0:15:23.92,Default,,0,0,0,,at Beijing Cancer Hospital who agreed to let us film this surgery
+Dialogue: 0,0:15:23.92,0:15:25.55,Default,,0,0,0,,This is a patient with early stage lung cancer
+Dialogue: 0,0:15:25.55,0:15:27.03,Default,,0,0,0,,Female, in her fifties
+Dialogue: 0,0:15:27.03,0:15:28.79,Default,,0,0,0,,and works in the hospital's accounting office
+Dialogue: 0,0:15:28.79,0:15:30.79,Default,,0,0,0,,She and her family have no history of smoking
+Dialogue: 0,0:15:31.18,0:15:35.53,Default,,0,0,0,,The following clip was filmed with the permission of the patient's family and the hospital
+Dialogue: 0,0:15:37.89,0:15:41.46,Default,,0,0,0,,The following scenes might cause discomfort for some viewers, please use discretion
+Dialogue: 0,0:15:45.09,0:15:46.67,Default,,0,0,0,,Inside the lung cavity
+Dialogue: 0,0:15:46.80,0:15:49.96,Default,,0,0,0,,Everyone will breathe in these black spots
+Dialogue: 0,0:15:49.98,0:15:51.52,Default,,0,0,0,,Including ourselves
+Dialogue: 0,0:15:52.18,0:15:53.40,Default,,0,0,0,,Does this person smoke?
+Dialogue: 0,0:15:53.40,0:15:55.40,Default,,0,0,0,,No, she doesn't smoke
+Dialogue: 0,0:15:55.40,0:15:57.30,Default,,0,0,0,,But she's from (censored) city
+Dialogue: 0,0:15:57.30,0:15:58.56,Default,,0,0,0,,From your hometown
+Dialogue: 0,0:15:58.56,0:16:00.77,Default,,0,0,0,,The air quality is really bad
+Dialogue: 0,0:16:00.77,0:16:02.00,Default,,0,0,0,,Yeah, it's not clean (there)
+Dialogue: 0,0:16:02.01,0:16:04.72,Default,,0,0,0,,So this (might be) the stuff that's in the air
+Dialogue: 0,0:16:04.80,0:16:08.62,Default,,0,0,0,,Pulmonary lymph node color - carbon particle build up over time has turned it completely black
+Dialogue: 0,0:16:09.40,0:16:12.34,Default,,0,0,0,,In her entire body only the lymph nodes in her lungs are black
+Dialogue: 0,0:16:12.35,0:16:14.87,Default,,0,0,0,,This is because she has inhaled a lot of dust
+Dialogue: 0,0:16:14.87,0:16:17.36,Default,,0,0,0,,The lymphatic system is crucial for immune system functionality
+Dialogue: 0,0:16:17.37,0:16:20.02,Default,,0,0,0,,Yang Yue, Director of the Peking University Cancer Hospital Second Thoracic Department
+Dialogue: 0,0:16:20.02,0:16:22.02,Default,,0,0,0,,Which means it helps our immune system fight disease
+Dialogue: 0,0:16:22.02,0:16:23.60,Default,,0,0,0,,When the black stuff on top accumulates
+Dialogue: 0,0:16:23.60,0:16:27.00,Default,,0,0,0,,does it affect our body's ability to fight cancerous cells?
+Dialogue: 0,0:16:27.00,0:16:30.55,Default,,0,0,0,,It may be the case that it has overburdened the lymphatic system
+Dialogue: 0,0:16:30.55,0:16:33.51,Default,,0,0,0,,So this year the World Health Organization (WHO)
+Dialogue: 0,0:16:33.51,0:16:36.86,Default,,0,0,0,,has reported that chronic lung diseases
+Dialogue: 0,0:16:36.86,0:16:39.07,Default,,0,0,0,,are one of the highest risk factors for lung cancer
+Dialogue: 0,0:16:41.97,0:16:43.25,Default,,0,0,0,,We can be comforted by the fact that
+Dialogue: 0,0:16:43.25,0:16:44.21,Default,,0,0,0,,this type of surgery is very successful
+Dialogue: 0,0:16:44.21,0:16:45.73,Default,,0,0,0,,and the patient can make a full recovery
+Dialogue: 0,0:16:45.73,0:16:47.46,Default,,0,0,0,,after the tumors have been extracted
+Dialogue: 0,0:16:47.46,0:16:49.46,Default,,0,0,0,,After extracting the black lymph nodes,
+Dialogue: 0,0:16:49.46,0:16:51.46,Default,,0,0,0,,the doctor presented them to the patient's family
+Dialogue: 0,0:16:51.49,0:16:54.98,Default,,0,0,0,,They asked: "Can you tell me why my wife got cancer?"
+Dialogue: 0,0:16:54.98,0:16:57.85,Default,,0,0,0,,He said, “I can only say That according to my clinical experience
+Dialogue: 0,0:16:57.85,0:16:59.54,Default,,0,0,0,,I suspect it was because of air pollution.
+Dialogue: 0,0:16:59.55,0:17:05.06,Default,,0,0,0,,(As particulate matter increases and air pollution worsens, so to does the risk of lung cancer, and particle matter is classified as a primary carcinogen for humans.)
+Dialogue: 0,0:17:05.13,0:17:06.83,Default,,0,0,0,,When he told me this I had a questoin
+Dialogue: 0,0:17:06.83,0:17:09.33,Default,,0,0,0,,Doesn't lung cancer have an incubation period
+Dialogue: 0,0:17:09.33,0:17:11.01,Default,,0,0,0,,of at least ten years or so?
+Dialogue: 0,0:17:11.01,0:17:13.28,Default,,0,0,0,,But we only started hearing about air pollution two years ago, right?
+Dialogue: 0,0:17:13.28,0:17:16.49,Default,,0,0,0,,Then how could it lead to lung cancer this quickly?
+Dialogue: 0,0:17:17.03,0:17:18.79,Default,,0,0,0,,So I went to NASA for a small favor
+Dialogue: 0,0:17:18.79,0:17:20.27,Default,,0,0,0,,and asked if they could send over satellite images
+Dialogue: 0,0:17:20.27,0:17:22.27,Default,,0,0,0,,of the air over North China from the past 10 years
+Dialogue: 0,0:17:22.61,0:17:24.04,Default,,0,0,0,,This is what I got
+Dialogue: 0,0:17:24.04,0:17:26.04,Default,,0,0,0,,2012
+Dialogue: 0,0:17:26.04,0:17:27.70,Default,,0,0,0,,The air over Beijing
+Dialogue: 0,0:17:27.70,0:17:29.20,Default,,0,0,0,,2011
+Dialogue: 0,0:17:29.20,0:17:30.96,Default,,0,0,0,,Beijing in December
+Dialogue: 0,0:17:30.96,0:17:32.48,Default,,0,0,0,,2010
+Dialogue: 0,0:17:32.48,0:17:33.68,Default,,0,0,0,,The air over North China
+Dialogue: 0,0:17:33.68,0:17:35.31,Default,,0,0,0,,2009
+Dialogue: 0,0:17:35.31,0:17:36.54,Default,,0,0,0,,The air over North China
+Dialogue: 0,0:17:36.54,0:17:38.02,Default,,0,0,0,,Let's look at 10 years ago
+Dialogue: 0,0:17:38.02,0:17:40.02,Default,,0,0,0,,North China in 2005
+Dialogue: 0,0:17:40.02,0:17:41.69,Default,,0,0,0,,But I couldn't believe it
+Dialogue: 0,0:17:41.69,0:17:44.13,Default,,0,0,0,,I was living under these skies in North China at that time
+Dialogue: 0,0:17:44.13,0:17:46.74,Default,,0,0,0,,How could I have been unaware of any air pollution for 10 years?
+Dialogue: 0,0:17:46.74,0:17:49.86,Default,,0,0,0,,So I sought out our country's head of the Olympic air quality assurance group
+Dialogue: 0,0:17:49.86,0:17:51.12,Default,,0,0,0,,An academic named Dr. Tang Xiaoyan
+Dialogue: 0,0:17:51.12,0:17:53.42,Default,,0,0,0,,She gave me this graph
+Dialogue: 0,0:17:54.03,0:17:55.42,Default,,0,0,0,,This is 2004
+Dialogue: 0,0:17:55.42,0:17:57.42,Default,,0,0,0,,Eleven years ago
+Dialogue: 0,0:17:57.42,0:17:59.51,Default,,0,0,0,,Back then, we hadn't yet started monitoring PM2.5 levels
+Dialogue: 0,0:17:59.52,0:18:00.58,Default,,0,0,0,,But we have the levels of PM10
+Dialogue: 0,0:18:00.58,0:18:02.53,Default,,0,0,0,,He said according to estimates at the time
+Dialogue: 0,0:18:02.53,0:18:03.62,Default,,0,0,0,,At that time
+Dialogue: 0,0:18:03.62,0:18:05.05,Default,,0,0,0,,when it was very polluted
+Dialogue: 0,0:18:05.05,0:18:06.80,Default,,0,0,0,,PM2.5 could have reached 300-400
+Dialogue: 0,0:18:06.80,0:18:08.80,Default,,0,0,0,,Today we would classify that as very unhealthy pollution
+Dialogue: 0,0:18:09.25,0:18:10.37,Default,,0,0,0,,I asked him
+Dialogue: 0,0:18:10.37,0:18:12.02,Default,,0,0,0,,Could it really be that I was that blind?
+Dialogue: 0,0:18:12.02,0:18:14.02,Default,,0,0,0,,I was in Beijing in 2004
+Dialogue: 0,0:18:14.02,0:18:16.43,Default,,0,0,0,,He said, look at this picture
+Dialogue: 0,0:18:16.43,0:18:18.72,Default,,0,0,0,,What is that?
+Dialogue: 0,0:18:18.95,0:18:21.47,Default,,0,0,0,,I said, that's probably smog, right?
+Dialogue: 0,0:18:21.47,0:18:23.31,Default,,0,0,0,,Then how come I didn't know at the time?
+Dialogue: 0,0:18:23.31,0:18:24.42,Default,,0,0,0,,He said, you should look up
+Dialogue: 0,0:18:24.42,0:18:26.02,Default,,0,0,0,,what the news headlines were on that day
+Dialogue: 0,0:18:26.02,0:18:30.05,Default,,0,0,0,,“Beijing Capital Airport Experiences the Most Delays in Recent Years Due to Fog” - December 2, 2004, Sina News
+Dialogue: 0,0:18:30.05,0:18:32.05,Default,,0,0,0,,Back then we thought it was just fog
+Dialogue: 0,0:18:32.05,0:18:34.05,Default,,0,0,0,,We kept calling it “fog”
+Dialogue: 0,0:18:34.05,0:18:36.05,Default,,0,0,0,,So after I saw this picture,
+Dialogue: 0,0:18:36.05,0:18:37.60,Default,,0,0,0,,as a former reporter
+Dialogue: 0,0:18:37.60,0:18:39.60,Default,,0,0,0,,I was full of remorse
+Dialogue: 0,0:18:39.60,0:18:42.13,Default,,0,0,0,,because all those years I was reporting I always thought that
+Dialogue: 0,0:18:42.13,0:18:43.73,Default,,0,0,0,,I was reporting on pollution across the country
+Dialogue: 0,0:18:43.73,0:18:44.70,Default,,0,0,0,,But I always thought
+Dialogue: 0,0:18:44.70,0:18:47.41,Default,,0,0,0,,it was only called pollution when I heard explosions in mines
+Dialogue: 0,0:18:47.41,0:18:49.52,Default,,0,0,0,,it was only called pollution when I saw smoke from factory chimneys
+Dialogue: 0,0:18:49.52,0:18:52.38,Default,,0,0,0,,I never thought that those of us who lived in a metropolitan urban center
+Dialogue: 0,0:18:52.38,0:18:53.90,Default,,0,0,0,,the sky we saw everyday
+Dialogue: 0,0:18:53.90,0:18:54.90,Default,,0,0,0,,was also pollution
+Dialogue: 0,0:18:54.90,0:18:56.53,Default,,0,0,0,,At that time I wasn't a reporter anymore
+Dialogue: 0,0:18:56.53,0:18:58.53,Default,,0,0,0,,I had already become a bystander
+Dialogue: 0,0:18:59.54,0:19:01.32,Default,,0,0,0,,But I still had a question
+Dialogue: 0,0:19:01.32,0:19:03.32,Default,,0,0,0,,If it really was like this,
+Dialogue: 0,0:19:03.32,0:19:04.84,Default,,0,0,0,,when I was young every family
+Dialogue: 0,0:19:04.84,0:19:06.48,Default,,0,0,0,,was burning kerosene stoves, right?
+Dialogue: 0,0:19:06.48,0:19:07.77,Default,,0,0,0,,Every night we would
+Dialogue: 0,0:19:07.77,0:19:09.60,Default,,0,0,0,,sleep and awaken to the smell of smoke
+Dialogue: 0,0:19:09.60,0:19:12.12,Default,,0,0,0,,How come I never heard about people back then getting lung cancer?
+Dialogue: 0,0:19:12.12,0:19:13.65,Default,,0,0,0,,I kept asking this question
+Dialogue: 0,0:19:13.67,0:19:15.22,Default,,0,0,0,,until I met professor He Xingzhou
+Dialogue: 0,0:19:15.22,0:19:17.65,Default,,0,0,0,,who has been researching this topic for over 30 years
+Dialogue: 0,0:19:17.65,0:19:19.65,Default,,0,0,0,,He gave me a book of data
+Dialogue: 0,0:19:20.05,0:19:21.45,Default,,0,0,0,,This
+Dialogue: 0,0:19:21.45,0:19:29.39,Default,,0,0,0,,A Survey of the Relationship Between Air Pollution and Cause of Death for 26 Chinese cities 1976-1981
+Dialogue: 0,0:19:29.39,0:19:30.77,Default,,0,0,0,,So everyone can see clearly
+Dialogue: 0,0:19:30.80,0:19:32.81,Default,,0,0,0,,I've put the conclusion up on the screen here
+Dialogue: 0,0:19:32.81,0:19:34.01,Default,,0,0,0,,It's very simple
+Dialogue: 0,0:19:34.01,0:19:35.62,Default,,0,0,0,,The air pollution from back then
+Dialogue: 0,0:19:35.62,0:19:38.72,Default,,0,0,0,,already correlated with death rates from lung cancer
+Dialogue: 0,0:19:38.72,0:19:41.12,Default,,0,0,0,,The air pollution back then was the result of burning coal
+Dialogue: 0,0:19:41.12,0:19:43.22,Default,,0,0,0,,It just happened to be the case that this data
+Dialogue: 0,0:19:43.22,0:19:45.22,Default,,0,0,0,,was considered internal information at that time
+Dialogue: 0,0:19:47.42,0:19:48.62,Default,,0,0,0,,It wasn’t that people at that time
+Dialogue: 0,0:19:48.62,0:19:49.66,Default,,0,0,0,,couldn't smell the suffocating smoke
+Dialogue: 0,0:19:49.66,0:19:51.66,Default,,0,0,0,,But the warmth and energy that coal brought
+Dialogue: 0,0:19:51.66,0:19:52.78,Default,,0,0,0,,was more important at the time
+Dialogue: 0,0:19:52.78,0:19:54.06,Default,,0,0,0,,Around 1980,
+Dialogue: 0,0:19:54.06,0:19:55.94,Default,,0,0,0,,there were 3,700 factories inside Beijing
+Dialogue: 0,0:19:56.10,0:19:58.46,Default,,0,0,0,,for a large agricultural country eager to develop,
+Dialogue: 0,0:19:58.46,0:20:00.66,Default,,0,0,0,,smokestacks were a sign of progress
+Dialogue: 0,0:20:00.66,0:20:03.02,Default,,0,0,0,,For some people, they are just two smokestacks
+Dialogue: 0,0:20:03.02,0:20:05.74,Default,,0,0,0,,For some people, they are reference points to direct you home
+Dialogue: 0,0:20:06.46,0:20:08.82,Default,,0,0,0,,We had absolutely no experience or consciousness of pollution
+Dialogue: 0,0:20:08.82,0:20:10.22,Default,,0,0,0,,Nor the ability to control it
+Dialogue: 0,0:20:10.22,0:20:11.94,Default,,0,0,0,,Major pollutants did not have any set standards
+Dialogue: 0,0:20:11.94,0:20:13.94,Default,,0,0,0,,Even though the amount of coal burned was nowhere near the amount we burn today
+Dialogue: 0,0:20:13.94,0:20:15.42,Default,,0,0,0,,The pollution discharged was enormous
+Dialogue: 0,0:20:15.42,0:20:17.90,Default,,0,0,0,,In terms of PM2.5 levels
+Dialogue: 0,0:20:17.90,0:20:21.50,Default,,0,0,0,,In 2006, the average concentration of PM2.5 was higher than it is today
+Dialogue: 0,0:20:21.74,0:20:24.38,Default,,0,0,0,,It was this year that China proposed saving energy and reducing emissions
+Dialogue: 0,0:20:24.38,0:20:26.54,Default,,0,0,0,,And setting standards for sulphur dioxide and other major pollutants
+Dialogue: 0,0:20:26.54,0:20:29.06,Default,,0,0,0,,Afterwards, air pollution started to decrease
+Dialogue: 0,0:20:29.06,0:20:32.78,Default,,0,0,0,,But the amount of fine particles affecting visibility increased
+Dialogue: 0,0:20:32.78,0:20:35.06,Default,,0,0,0,,The amount of days with extremely high pollution increased
+Dialogue: 0,0:20:35.06,0:20:36.82,Default,,0,0,0,,People started feeling strongly about pollution
+Dialogue: 0,0:20:37.34,0:20:39.26,Default,,0,0,0,,Economic development has increased life expectancy in China
+Dialogue: 0,0:20:39.26,0:20:41.46,Default,,0,0,0,,And has brought more ways to recover from illness
+Dialogue: 0,0:20:41.46,0:20:44.26,Default,,0,0,0,,But the risks that come from air pollution have become obvious
+Dialogue: 0,0:20:44.26,0:20:45.26,Default,,0,0,0,,In the past 30 years,
+Dialogue: 0,0:20:45.26,0:20:48.10,Default,,0,0,0,,the death rate from lung cancer in China has increased by 465%
+Dialogue: 0,0:20:48.10,0:20:49.82,Default,,0,0,0,,Even though smoking and an ageing society
+Dialogue: 0,0:20:49.82,0:20:51.78,Default,,0,0,0,,Are major factors in this statistic
+Dialogue: 0,0:20:51.78,0:20:54.22,Default,,0,0,0,,The clear risk of developing lung cancer that comes from fine particulate matter
+Dialogue: 0,0:20:54.22,0:20:55.62,Default,,0,0,0,,Is receiving increased attention
+Dialogue: 0,0:20:55.86,0:20:58.94,Default,,0,0,0,,Monitoring of PM2.5 levels started in 2012 and
+Dialogue: 0,0:20:58.94,0:21:01.74,Default,,0,0,0,,China implemented its “Air Pollution Prevention Plan”
+Dialogue: 0,0:21:01.74,0:21:03.50,Default,,0,0,0,,As wages increased and information became more transparent
+Dialogue: 0,0:21:03.50,0:21:05.38,Default,,0,0,0,,People’s expectations on the environment rose as well
+Dialogue: 0,0:21:08.70,0:21:10.38,Default,,0,0,0,,A person
+Dialogue: 0,0:21:10.38,0:21:11.14,Default,,0,0,0,,Or not even a person
+Dialogue: 0,0:21:11.14,0:21:13.30,Default,,0,0,0,,How should a living organism live?
+Dialogue: 0,0:21:13.30,0:21:14.62,Default,,0,0,0,,When spring arrives, you open your doors
+Dialogue: 0,0:21:14.62,0:21:16.30,Default,,0,0,0,,the wind blows in
+Dialogue: 0,0:21:16.30,0:21:17.26,Default,,0,0,0,,The smell of flowers fills the air
+Dialogue: 0,0:21:17.26,0:21:18.82,Default,,0,0,0,,and colors come back to life
+Dialogue: 0,0:21:18.82,0:21:19.90,Default,,0,0,0,,Sometimes when it rains
+Dialogue: 0,0:21:19.90,0:21:20.98,Default,,0,0,0,,or when it’s foggy out
+Dialogue: 0,0:21:20.98,0:21:24.66,Default,,0,0,0,,You can’t help but breathe the air deep into your lungs
+Dialogue: 0,0:21:24.66,0:21:26.46,Default,,0,0,0,,and experience the feeling of small water droplets filling them up
+Dialogue: 0,0:21:26.46,0:21:27.86,Default,,0,0,0,,Both piercingly cold but also pure and fresh
+Dialogue: 0,0:21:28.94,0:21:30.22,Default,,0,0,0,,In autumn
+Dialogue: 0,0:21:30.22,0:21:31.30,Default,,0,0,0,,you would spend a whole afternoon
+Dialogue: 0,0:21:31.30,0:21:33.02,Default,,0,0,0,,with a loved one doing absolutely nothing
+Dialogue: 0,0:21:33.02,0:21:35.74,Default,,0,0,0,,basking lazily in the sun
+Dialogue: 0,0:21:35.74,0:21:37.10,Default,,0,0,0,,In the Winter
+Dialogue: 0,0:21:37.10,0:21:38.78,Default,,0,0,0,,you would go outside with your kids
+Dialogue: 0,0:21:38.78,0:21:39.66,Default,,0,0,0,,when it’s snowing
+Dialogue: 0,0:21:39.66,0:21:41.46,Default,,0,0,0,,and she sticks out her tongue and to catch the snowflakes
+Dialogue: 0,0:21:41.46,0:21:42.78,Default,,0,0,0,,You would teach her
+Dialogue: 0,0:21:42.78,0:21:44.86,Default,,0,0,0,,about nature and the beauty of life
+Dialogue: 0,0:21:46.58,0:21:47.74,Default,,0,0,0,,But now...
+Dialogue: 0,0:21:50.10,0:21:51.66,Default,,0,0,0,,This year, every day when I wake up
+Dialogue: 0,0:21:51.66,0:21:53.70,Default,,0,0,0,,the first thing I do is
+Dialogue: 0,0:21:53.70,0:21:56.30,Default,,0,0,0,,check the air quality on my phone
+Dialogue: 0,0:21:56.30,0:21:58.14,Default,,0,0,0,,Because it will determine my whole day
+Dialogue: 0,0:21:58.14,0:22:00.98,Default,,0,0,0,,I rely on a wind from the North West to live my life
+Dialogue: 0,0:22:00.98,0:22:02.18,Default,,0,0,0,,I wear a mask when I go for a walk
+Dialogue: 0,0:22:02.18,0:22:03.46,Default,,0,0,0,,I wear a mask when I go shopping
+Dialogue: 0,0:22:03.46,0:22:05.26,Default,,0,0,0,,I wear a mask when I go to see my friends
+Dialogue: 0,0:22:05.26,0:22:07.42,Default,,0,0,0,,I use tape to cover up
+Dialogue: 0,0:22:07.42,0:22:09.70,Default,,0,0,0,,every crack of the windows and doors in my house
+Dialogue: 0,0:22:09.70,0:22:11.42,Default,,0,0,0,,When I took my daughter to get vaccinated
+Dialogue: 0,0:22:11.42,0:22:13.86,Default,,0,0,0,,I was afraid even when she smiled at me
+Dialogue: 0,0:22:15.94,0:22:18.26,Default,,0,0,0,,Actually, I not really afraid of death
+Dialogue: 0,0:22:18.26,0:22:20.34,Default,,0,0,0,,I just don’t want to live like this
+Dialogue: 0,0:22:21.94,0:22:23.50,Default,,0,0,0,,So whenever someone asks me
+Dialogue: 0,0:22:23.50,0:22:25.74,Default,,0,0,0,,what are you doing this for?
+Dialogue: 0,0:22:25.74,0:22:26.94,Default,,0,0,0,,I can only tell them
+Dialogue: 0,0:22:26.94,0:22:28.46,Default,,0,0,0,,This is a battle
+Dialogue: 0,0:22:28.46,0:22:29.50,Default,,0,0,0,,between me and air pollution
+Dialogue: 0,0:22:29.50,0:22:30.62,Default,,0,0,0,,Where does air pollution come from?
+Dialogue: 0,0:22:30.62,0:22:32.62,Default,,0,0,0,,I want to know where it comes from
+Dialogue: 0,0:22:32.62,0:22:34.70,Default,,0,0,0,,I want to understand what is really going on
+Dialogue: 0,0:22:35.62,0:22:37.22,Default,,0,0,0,,I examined a strip of sampling film
+Dialogue: 0,0:22:37.22,0:22:39.18,Default,,0,0,0,,under a scientist's microscope
+Dialogue: 0,0:22:39.18,0:22:40.94,Default,,0,0,0,,and I saw what it looked like
+Dialogue: 0,0:22:40.94,0:22:42.50,Default,,0,0,0,,Pollution was not the collection of identical particles
+Dialogue: 0,0:22:42.50,0:22:43.58,Default,,0,0,0,,that I imagined it to be
+Dialogue: 0,0:22:43.58,0:22:45.86,Default,,0,0,0,,It is a mixture of all sorts of things
+Dialogue: 0,0:22:45.86,0:22:47.62,Default,,0,0,0,,and being a mixture makes it more poisonous
+Dialogue: 0,0:22:47.62,0:22:49.78,Default,,0,0,0,,as well as allowing it to spread more rapidly
+Dialogue: 0,0:22:49.78,0:22:51.66,Default,,0,0,0,,Pollutants can chemically react with each other
+Dialogue: 0,0:22:51.66,0:22:54.58,Default,,0,0,0,,The Chinese Academy of Sciences explained the pollution sources to me
+Dialogue: 0,0:22:54.58,0:22:56.38,Default,,0,0,0,,burning coal, burning oil, burning organic materials
+Dialogue: 0,0:22:56.38,0:22:58.70,Default,,0,0,0,,industry, farming, chemical fertilizers, dust emission
+Dialogue: 0,0:22:58.70,0:23:01.30,Default,,0,0,0,,Most of these causes are anthropogenic in nature
+Dialogue: 0,0:23:01.30,0:23:02.82,Default,,0,0,0,,If you analyze these factors
+Dialogue: 0,0:23:02.82,0:23:06.42,Default,,0,0,0,,you will find where most of pollution comes from
+Dialogue: 0,0:23:06.42,0:23:07.74,Default,,0,0,0,,This is the conclusion
+Dialogue: 0,0:23:07.74,0:23:11.30,Default,,0,0,0,,60% of the PM2.5 in China comes from
+Dialogue: 0,0:23:11.30,0:23:12.50,Default,,0,0,0,,burning coal and oil
+Dialogue: 0,0:23:12.50,0:23:14.42,Default,,0,0,0,,That is to say, the burning of fossil fuels
+Dialogue: 0,0:23:16.34,0:23:18.02,Default,,0,0,0,,PM2.5 has existed
+Dialogue: 0,0:23:18.02,0:23:18.98,Default,,0,0,0,,long before humans
+Dialogue: 0,0:23:18.98,0:23:19.78,Default,,0,0,0,,Volcanic eruptions
+Dialogue: 0,0:23:19.78,0:23:21.62,Default,,0,0,0,,and forest fires would emit large amounts of fine particulate matter
+Dialogue: 0,0:23:22.26,0:23:24.38,Default,,0,0,0,,Starting from when we discovered how to make fire from wood
+Dialogue: 0,0:23:24.38,0:23:26.54,Default,,0,0,0,,human activities have contributed to PM2.5
+Dialogue: 0,0:23:26.94,0:23:28.18,Default,,0,0,0,,In the past, the use of coal in large quantities
+Dialogue: 0,0:23:28.18,0:23:29.34,Default,,0,0,0,,led to serious pollution
+Dialogue: 0,0:23:29.34,0:23:30.78,Default,,0,0,0,,in England and Germany
+Dialogue: 0,0:23:31.10,0:23:32.42,Default,,0,0,0,,and when we entered the age of oil,
+Dialogue: 0,0:23:32.42,0:23:35.90,Default,,0,0,0,,burning oil led to serious pollution in America and Japan
+Dialogue: 0,0:23:36.50,0:23:38.74,Default,,0,0,0,,At this moment there are still many
+Dialogue: 0,0:23:38.74,0:23:40.86,Default,,0,0,0,,developing countries in the process of industrializing
+Dialogue: 0,0:23:41.33,0:23:42.07,Default,,0,0,0,,India
+Dialogue: 0,0:23:42.24,0:23:43.06,Default,,0,0,0,,Iran
+Dialogue: 0,0:23:43.11,0:23:43.71,Default,,0,0,0,,Pakistan
+Dialogue: 0,0:23:43.73,0:23:44.34,Default,,0,0,0,,Afghanistan
+Dialogue: 0,0:23:44.34,0:23:47.58,Default,,0,0,0,,All face problems with pollution from burning fossil fuels
+Dialogue: 0,0:23:47.58,0:23:49.46,Default,,0,0,0,,as does China, the country
+Dialogue: 0,0:23:49.46,0:23:50.66,Default,,0,0,0,,that has developed fastest in the world
+Dialogue: 0,0:23:50.66,0:23:51.66,Default,,0,0,0,,It's large size
+Dialogue: 0,0:23:51.66,0:23:54.74,Default,,0,0,0,,has led to burning large amounts of both types of fossil fuels
+Dialogue: 0,0:23:58.54,0:24:00.22,Default,,0,0,0,,How much fuel are we actually burning?
+Dialogue: 0,0:24:00.22,0:24:02.78,Default,,0,0,0,,We can see in 2014
+Dialogue: 0,0:24:02.78,0:24:03.78,Default,,0,0,0,,This figure represents
+Dialogue: 0,0:24:03.78,0:24:06.62,Default,,0,0,0,,the quantities of fossil fuel being burned around the world
+Dialogue: 0,0:24:06.62,0:24:08.22,Default,,0,0,0,,You can see how bright China is
+Dialogue: 0,0:24:08.22,0:24:11.34,Default,,0,0,0,,That bright white and red area,
+Dialogue: 0,0:24:11.34,0:24:13.14,Default,,0,0,0,,that’s our country
+Dialogue: 0,0:24:13.14,0:24:14.18,Default,,0,0,0,,From the image we can see
+Dialogue: 0,0:24:14.18,0:24:16.46,Default,,0,0,0,,China burns from 3-4 times more fossil fuel than Europe
+Dialogue: 0,0:24:16.46,0:24:18.86,Default,,0,0,0,,We have burned so much fossil fuel
+Dialogue: 0,0:24:18.86,0:24:21.06,Default,,0,0,0,,But the thing that surprised me most was
+Dialogue: 0,0:24:21.06,0:24:23.82,Default,,0,0,0,,that the pollutants from coal and oil can have
+Dialogue: 0,0:24:23.82,0:24:25.86,Default,,0,0,0,,large-scale chemical reactions
+Dialogue: 0,0:24:25.94,0:24:28.90,Default,,0,0,0,,Wang Yuesi, Du Jiming and Tang Xiaoyan
+Dialogue: 0,0:24:28.90,0:24:30.42,Default,,0,0,0,,We haven't yet dealt with coal pollution
+Dialogue: 0,0:24:30.42,0:24:32.02,Default,,0,0,0,,and now vehicle pollution has been added to the mix
+Dialogue: 0,0:24:32.02,0:24:33.38,Default,,0,0,0,,The pollution in China right now
+Dialogue: 0,0:24:33.38,0:24:36.14,Default,,0,0,0,,is basically an overlap of these two types of pollution
+Dialogue: 0,0:24:36.14,0:24:37.66,Default,,0,0,0,,All kinds of particles
+Dialogue: 0,0:24:37.66,0:24:40.02,Default,,0,0,0,,react with each other in the air
+Dialogue: 0,0:24:40.34,0:24:41.50,Default,,0,0,0,,Air movement has decreased
+Dialogue: 0,0:24:41.50,0:24:42.66,Default,,0,0,0,,but the same quantity of pollutants remains
+Dialogue: 0,0:24:42.66,0:24:43.82,Default,,0,0,0,,The unfortunate thing is that
+Dialogue: 0,0:24:43.82,0:24:44.74,Default,,0,0,0,,these pollutants haven’t spread out
+Dialogue: 0,0:24:44.74,0:24:46.46,Default,,0,0,0,,but are instead reacting with each other
+Dialogue: 0,0:24:46.46,0:24:47.66,Default,,0,0,0,,this is what we call secondary particles
+Dialogue: 0,0:24:47.86,0:24:48.34,Default,,0,0,0,,Complex pollutants
+Dialogue: 0,0:24:48.34,0:24:49.10,Default,,0,0,0,,absorb
+Dialogue: 0,0:24:49.10,0:24:49.94,Default,,0,0,0,,adhere
+Dialogue: 0,0:24:49.94,0:24:50.66,Default,,0,0,0,,collide
+Dialogue: 0,0:24:50.66,0:24:51.42,Default,,0,0,0,,merge
+Dialogue: 0,0:24:51.42,0:24:52.90,Default,,0,0,0,,They all mix together
+Dialogue: 0,0:24:52.90,0:24:55.38,Default,,0,0,0,,There’s no way for us to change natural conditions
+Dialogue: 0,0:24:55.38,0:24:57.06,Default,,0,0,0,,we can only change ourselves
+Dialogue: 0,0:24:57.06,0:24:58.18,Default,,0,0,0,,and the way to do that
+Dialogue: 0,0:24:58.18,0:24:59.42,Default,,0,0,0,,is to reduce emissions
+Dialogue: 0,0:25:01.70,0:25:04.78,Default,,0,0,0,,The whole world needs to burn coal and oil, right?
+Dialogue: 0,0:25:04.78,0:25:06.34,Default,,0,0,0,,So what’s wrong with our coal?
+Dialogue: 0,0:25:06.34,0:25:08.42,Default,,0,0,0,,Do you know how much coal China has burned?
+Dialogue: 0,0:25:08.42,0:25:09.34,Default,,0,0,0,,In 2013
+Dialogue: 0,0:25:09.34,0:25:11.98,Default,,0,0,0,,we had already burned 3.6 billion tons
+Dialogue: 0,0:25:11.98,0:25:13.66,Default,,0,0,0,,But do you know how much
+Dialogue: 0,0:25:13.66,0:25:16.06,Default,,0,0,0,,all the other countries in the world have burned?
+Dialogue: 0,0:25:16.06,0:25:18.34,Default,,0,0,0,,We have burned more coal
+Dialogue: 0,0:25:18.34,0:25:20.02,Default,,0,0,0,,than the rest of the world combined
+Dialogue: 0,0:25:20.02,0:25:21.90,Default,,0,0,0,,The last time a country had this kind of consumption
+Dialogue: 0,0:25:21.90,0:25:23.82,Default,,0,0,0,,was England in 1860
+Dialogue: 0,0:25:23.82,0:25:24.50,Default,,0,0,0,,But as a result
+Dialogue: 0,0:25:24.50,0:25:26.86,Default,,0,0,0,,they paid a heavy price
+Dialogue: 0,0:25:29.54,0:25:32.14,Default,,0,0,0,,Deep in an abandoned mine in South Wales
+Dialogue: 0,0:25:32.14,0:25:35.18,Default,,0,0,0,,lies the heart of England's industrial age
+Dialogue: 0,0:25:35.18,0:25:36.54,Default,,0,0,0,,It used to drive
+Dialogue: 0,0:25:36.54,0:25:39.06,Default,,0,0,0,,the most powerful empire in the world
+Dialogue: 0,0:25:39.06,0:25:41.30,Default,,0,0,0,,But as a result it also brought this country
+Dialogue: 0,0:25:41.30,0:25:42.70,Default,,0,0,0,,a frightening black disaster
+Dialogue: 0,0:25:45.62,0:25:47.38,Default,,0,0,0,,These 4 smokestacks are 103 meters tall
+Dialogue: 0,0:25:47.38,0:25:50.10,Default,,0,0,0,,They are the symbols of the industrial age in England
+Dialogue: 0,0:25:50.10,0:25:52.98,Default,,0,0,0,,When the Battersea Power Station was completed in 1930
+Dialogue: 0,0:25:52.98,0:25:54.90,Default,,0,0,0,,it would burn approximately 10,000 tons of coal per week
+Dialogue: 0,0:25:54.90,0:25:57.02,Default,,0,0,0,,to supply one fifth of the electricity for the entire city of London
+Dialogue: 0,0:25:57.02,0:25:59.46,Default,,0,0,0,,You could say that London was eating coal to survive
+Dialogue: 0,0:25:59.46,0:26:01.62,Default,,0,0,0,,trains, boats,
+Dialogue: 0,0:26:01.62,0:26:03.14,Default,,0,0,0,,iron, steel, everyday items
+Dialogue: 0,0:26:03.14,0:26:04.70,Default,,0,0,0,,In all of London, it was like
+Dialogue: 0,0:26:04.70,0:26:07.66,Default,,0,0,0,,millions of micro-volcanoes were all erupting at once
+Dialogue: 0,0:26:07.66,0:26:09.22,Default,,0,0,0,,Since they were burning large quantities of poor quality coal
+Dialogue: 0,0:26:09.22,0:26:10.70,Default,,0,0,0,,and emitting pollution at low elevations
+Dialogue: 0,0:26:10.70,0:26:13.02,Default,,0,0,0,,the amount of pollution from family chimneys
+Dialogue: 0,0:26:13.02,0:26:15.18,Default,,0,0,0,,was double the amount of pollution from industry
+Dialogue: 0,0:26:15.18,0:26:16.70,Default,,0,0,0,,Slowly with time
+Dialogue: 0,0:26:16.70,0:26:18.50,Default,,0,0,0,,London became completely covered in soot
+Dialogue: 0,0:26:18.94,0:26:20.66,Default,,0,0,0,,People wore face masks to go to school
+Dialogue: 0,0:26:21.30,0:26:22.54,Default,,0,0,0,,Wore face masks to go shopping
+Dialogue: 0,0:26:22.94,0:26:23.78,Default,,0,0,0,,Wore facemasks to walk their dogs
+Dialogue: 0,0:26:24.22,0:26:25.58,Default,,0,0,0,,Wore face masks to kiss
+Dialogue: 0,0:26:30.46,0:26:31.58,Default,,0,0,0,,The day of the disaster
+Dialogue: 0,0:26:31.58,0:26:33.98,Default,,0,0,0,,was December 5, 1952
+Dialogue: 0,0:26:34.42,0:26:36.30,Default,,0,0,0,,a cold front stretched across the English Channel
+Dialogue: 0,0:26:36.86,0:26:38.74,Default,,0,0,0,,and covered the entire river valley of the Thames River
+Dialogue: 0,0:26:38.74,0:26:41.06,Default,,0,0,0,,This kept the smog under the clouds,
+Dialogue: 0,0:26:41.06,0:26:42.02,Default,,0,0,0,,preventing it from dissipating
+Dialogue: 0,0:26:42.02,0:26:43.46,Default,,0,0,0,,Poison smoke has closed down
+Dialogue: 0,0:26:43.46,0:26:45.86,Default,,0,0,0,,Residents have difficulty in breathing the murky air
+Dialogue: 0,0:26:46.02,0:26:48.30,Default,,0,0,0,,People walking down the street couldn’t even see their own feet
+Dialogue: 0,0:26:48.30,0:26:50.10,Default,,0,0,0,,You needed a blind person to lead you home
+Dialogue: 0,0:26:50.10,0:26:51.54,Default,,0,0,0,,Traffic police used large lamps to light themselves up
+Dialogue: 0,0:26:51.54,0:26:52.78,Default,,0,0,0,,so they wouldn’t get hit by cars
+Dialogue: 0,0:26:52.78,0:26:54.66,Default,,0,0,0,,All of London was completely silent
+Dialogue: 0,0:26:55.98,0:26:58.02,Default,,0,0,0,,You could only see ambulances, because they had to bring
+Dialogue: 0,0:26:58.02,0:26:59.34,Default,,0,0,0,,those whose lives were in danger to the hospital
+Dialogue: 0,0:26:59.34,0:27:00.78,Default,,0,0,0,,But when they were on the road they had to rely on
+Dialogue: 0,0:27:00.78,0:27:03.70,Default,,0,0,0,,people holding torches to show them the way
+Dialogue: 0,0:27:06.38,0:27:10.06,Default,,0,0,0,,In the end 12,000 people died in the smog
+Dialogue: 0,0:27:10.06,0:27:11.30,Default,,0,0,0,,The lungs of the dead were sampled
+Dialogue: 0,0:27:11.30,0:27:13.50,Default,,0,0,0,,and close examination confirmed that they died due to
+Dialogue: 0,0:27:13.50,0:27:15.90,Default,,0,0,0,,prolonged exposure to black carbon, a by-product of burning coal
+Dialogue: 0,0:27:15.90,0:27:17.98,Default,,0,0,0,,and a short-term overexposure to a high concentration of
+Dialogue: 0,0:27:17.98,0:27:19.22,Default,,0,0,0,,fine particulate matter containing heavy metals
+Dialogue: 0,0:27:19.22,0:27:21.26,Default,,0,0,0,,The Coalition for Clean Air calculated that
+Dialogue: 0,0:27:21.26,0:27:22.66,Default,,0,0,0,,the concentration of pollution in London at the time
+Dialogue: 0,0:27:22.66,0:27:24.58,Default,,0,0,0,,might have surpassed the current pollution in China by a large margin
+Dialogue: 0,0:27:24.58,0:27:26.50,Default,,0,0,0,,Even though PM2.5 was not measured at the time
+Dialogue: 0,0:27:26.50,0:27:28.38,Default,,0,0,0,,But during the Great Smog
+Dialogue: 0,0:27:28.38,0:27:29.18,Default,,0,0,0,,the concentration of sulfur dioxide
+Dialogue: 0,0:27:29.18,0:27:31.78,Default,,0,0,0,,was 190 times the WHO standard
+Dialogue: 0,0:27:31.78,0:27:33.62,Default,,0,0,0,,and exceeded China's PM2.5 standard
+Dialogue: 0,0:27:33.62,0:27:34.94,Default,,0,0,0,,by an order of magnitude
+Dialogue: 0,0:27:38.22,0:27:41.62,Default,,0,0,0,,In the 1960s, after the Great Smog in London,
+Dialogue: 0,0:27:41.62,0:27:45.86,Default,,0,0,0,,other countries began to reduce and control their use of coal
+Dialogue: 0,0:27:45.86,0:27:49.70,Default,,0,0,0,,But that was also the time when China started its economic reform
+Dialogue: 0,0:27:49.70,0:27:52.10,Default,,0,0,0,,A country that had been closed and left behind for so many years
+Dialogue: 0,0:27:52.10,0:27:55.22,Default,,0,0,0,,desperately needed massive amounts of energy to develop
+Dialogue: 0,0:27:55.22,0:27:56.78,Default,,0,0,0,,And it chose to get that energy from coal
+Dialogue: 0,0:27:56.78,0:27:58.06,Default,,0,0,0,,This curve shows coal's growth as an energy source
+Dialogue: 0,0:28:00.14,0:28:03.10,Default,,0,0,0,,India is also on a similar path
+Dialogue: 0,0:28:03.10,0:28:06.54,Default,,0,0,0,,In near future, India will be the world's second largest consumer of coal
+Dialogue: 0,0:28:06.54,0:28:08.18,Default,,0,0,0,,But as of today, India has not yet set standards
+Dialogue: 0,0:28:08.18,0:28:11.06,Default,,0,0,0,,for emissions of important pollutants in its industries
+Dialogue: 0,0:28:11.06,0:28:14.34,Default,,0,0,0,,India is also a country suffering from severe air pollution
+Dialogue: 0,0:28:14.34,0:28:17.46,Default,,0,0,0,,So where does all this coal end up being used in China?
+Dialogue: 0,0:28:17.46,0:28:20.94,Default,,0,0,0,,Let's take a look at the 3.6 billion tons of coal consumed in 2013
+Dialogue: 0,0:28:20.94,0:28:23.78,Default,,0,0,0,,380 million tons was burnt in Beijing, Tianjin and Hebei
+Dialogue: 0,0:28:23.78,0:28:27.82,Default,,0,0,0,,Of that 380 million tons, 300 million tons
+Dialogue: 0,0:28:27.82,0:28:29.50,Default,,0,0,0,,was burnt in Hebei
+Dialogue: 0,0:28:29.50,0:28:30.62,Default,,0,0,0,,I was really surprised because
+Dialogue: 0,0:28:30.62,0:28:32.90,Default,,0,0,0,,I always thought it was us Shanxi people who burnt the most coal
+Dialogue: 0,0:28:32.90,0:28:35.14,Default,,0,0,0,,When did Hebei start burning so much coal?
+Dialogue: 0,0:28:35.14,0:28:37.02,Default,,0,0,0,,Dr. Hao Jiming from Tsinghua University asked me
+Dialogue: 0,0:28:37.94,0:28:40.66,Default,,0,0,0,,Have you seen the world coal and steel production rankings?
+Dialogue: 0,0:28:41.98,0:28:45.06,Default,,0,0,0,,He said that China is in first place
+Dialogue: 0,0:28:45.06,0:28:46.50,Default,,0,0,0,,Hebei is second
+Dialogue: 0,0:28:46.50,0:28:47.90,Default,,0,0,0,,Tangshan is third
+Dialogue: 0,0:28:47.90,0:28:48.74,Default,,0,0,0,,US is fourth (laughter)
+Dialogue: 0,0:28:50.38,0:28:51.42,Default,,0,0,0,,He also added that originally
+Dialogue: 0,0:28:51.42,0:28:53.98,Default,,0,0,0,,Tangshan lied in order to be fifth (laughter)
+Dialogue: 0,0:28:53.98,0:28:56.30,Default,,0,0,0,,Does more coal use and industrialization necessarily mean more pollution?
+Dialogue: 0,0:28:56.30,0:28:57.98,Default,,0,0,0,,Other countries also produce steel
+Dialogue: 0,0:28:57.98,0:28:58.58,Default,,0,0,0,,He said
+Dialogue: 0,0:28:58.58,0:29:00.82,Default,,0,0,0,,you will understand what I mean if you go to Tangshan
+Dialogue: 0,0:29:00.82,0:29:02.38,Default,,0,0,0,,So, last October
+Dialogue: 0,0:29:02.38,0:29:04.90,Default,,0,0,0,,together with the MEP North China Supervision Centre
+Dialogue: 0,0:29:04.90,0:29:07.42,Default,,0,0,0,,we went to Tangshan equipped with drones
+Dialogue: 0,0:29:07.42,0:29:09.09,Default,,0,0,0,,to take a look at the actual conditions
+Dialogue: 0,0:29:09.09,0:29:12.58,Default,,0,0,0,,Zhang Dawei - MEP Bureau of Environmental Supervision
+Dialogue: 0,0:29:12.86,0:29:14.10,Default,,0,0,0,,Can you see that smoke over there?
+Dialogue: 0,0:29:14.10,0:29:15.70,Default,,0,0,0,,It’s not that clear because of the big smoke
+Dialogue: 0,0:29:19.01,0:29:21.01,Default,,0,0,0,,Visual inspection of emissions from the factory was impossible
+Dialogue: 0,0:29:25.14,0:29:28.02,Default,,0,0,0,,The weather now makes it difficult to see clearly
+Dialogue: 0,0:29:33.94,0:29:36.85,Default,,0,0,0,,Drone inspection failed due to intense smog
+Dialogue: 0,0:29:37.02,0:29:39.26,Default,,0,0,0,,Have a look behind to see if anyone is following us
+Dialogue: 0,0:29:40.99,0:29:42.72,Default,,0,0,0,,The MEP paid an unannounced visit to the factory
+Dialogue: 0,0:29:51.18,0:29:54.46,Default,,0,0,0,,This choking smell of sulfur dioxide must be the smoke
+Dialogue: 0,0:29:54.46,0:29:55.54,Default,,0,0,0,,We can now see that
+Dialogue: 0,0:29:55.54,0:29:58.38,Default,,0,0,0,,a lot of smoke is leaking around the edges
+Dialogue: 0,0:29:58.70,0:29:59.74,Default,,0,0,0,,This smoke
+Dialogue: 0,0:29:59.74,0:30:01.18,Default,,0,0,0,,is being emitted without any controls
+Dialogue: 0,0:30:01.18,0:30:02.34,Default,,0,0,0,,and released into the atmosphere
+Dialogue: 0,0:30:02.34,0:30:03.98,Default,,0,0,0,,Why aren't you using the dust filters?
+Dialogue: 0,0:30:03.98,0:30:05.10,Default,,0,0,0,,We are using them
+Dialogue: 0,0:30:05.10,0:30:07.18,Default,,0,0,0,,Then why is there so much smoke?
+Dialogue: 0,0:30:10.50,0:30:11.98,Default,,0,0,0,,They are operating, see it's being sucked up
+Dialogue: 0,0:30:17.82,0:30:19.78,Default,,0,0,0,,Oh my god, have a look underneath
+Dialogue: 0,0:30:19.78,0:30:20.46,Default,,0,0,0,,I'm going down to see
+Dialogue: 0,0:30:20.46,0:30:23.02,Default,,0,0,0,,This has to be the most dangerous thing I've done in my career, my life
+Dialogue: 0,0:30:23.02,0:30:24.26,Default,,0,0,0,,Oh my god, it's too terrifying
+Dialogue: 0,0:30:24.34,0:30:25.46,Default,,0,0,0,,Stop, stop, stop
+Dialogue: 0,0:30:25.70,0:30:26.54,Default,,0,0,0,,Someone fell
+Dialogue: 0,0:30:29.46,0:30:31.50,Default,,0,0,0,,The person who fell was Inspector Zhang Dawei
+Dialogue: 0,0:30:31.50,0:30:32.70,Default,,0,0,0,,from the MEP North China Bureau of Environmental Supervision
+Dialogue: 0,0:30:32.70,0:30:34.54,Default,,0,0,0,,We were all scared at the time
+Dialogue: 0,0:30:34.54,0:30:38.38,Default,,0,0,0,,because there weren't any lights or warning signs in the factory
+Dialogue: 0,0:30:38.38,0:30:41.74,Default,,0,0,0,,There was a pit about 3 meters deep filled with steel and cement
+Dialogue: 0,0:30:41.74,0:30:44.42,Default,,0,0,0,,Dawei wanted to go down and check for emissions from this place
+Dialogue: 0,0:30:44.42,0:30:46.14,Default,,0,0,0,,and he fell in
+Dialogue: 0,0:30:46.14,0:30:47.82,Default,,0,0,0,,Fortunately he wasn't injured seriously
+Dialogue: 0,0:30:47.82,0:30:50.58,Default,,0,0,0,,so we took him to the hospital and then back to Beijing that night
+Dialogue: 0,0:30:51.94,0:30:55.06,Default,,0,0,0,,But what surprised me most was we put in so much effort,
+Dialogue: 0,0:30:55.06,0:30:58.77,Default,,0,0,0,,had so much trouble, and despite finding clear evidence of pollution
+Dialogue: 0,0:30:58.77,0:31:01.78,Default,,0,0,0,,in the end, this company was not penalized in any way
+Dialogue: 0,0:31:03.14,0:31:04.16,Default,,0,0,0,,I asked Dawei why
+Dialogue: 0,0:31:04.17,0:31:05.57,Default,,0,0,0,,He said, “You should ask my boss”
+Dialogue: 0,0:31:05.57,0:31:06.70,Default,,0,0,0,,Xiong Yuehui - MEP Department of Science, Technology and Standards
+Dialogue: 0,0:31:06.70,0:31:09.90,Default,,0,0,0,,Over 60% of steel firms
+Dialogue: 0,0:31:09.90,0:31:11.46,Default,,0,0,0,,have not completed the approval process
+Dialogue: 0,0:31:11.46,0:31:13.30,Default,,0,0,0,,They did not bother to consult environmental protection law
+Dialogue: 0,0:31:13.30,0:31:15.78,Default,,0,0,0,,but only tried to stop the approval process
+Dialogue: 0,0:31:15.78,0:31:18.90,Default,,0,0,0,,They stopped the approval process whether production is legal or not
+Dialogue: 0,0:31:18.90,0:31:22.06,Default,,0,0,0,,They know there is no chance, so they act with utter recklessness
+Dialogue: 0,0:31:22.06,0:31:23.30,Default,,0,0,0,,Their operations are completely unlicensed
+Dialogue: 0,0:31:23.30,0:31:26.90,Default,,0,0,0,,The inspectors don't even want to go or touch this industry in any way
+Dialogue: 0,0:31:26.90,0:31:28.90,Default,,0,0,0,,Can you really shut them down?
+Dialogue: 0,0:31:28.90,0:31:30.54,Default,,0,0,0,,Can you really stop them?
+Dialogue: 0,0:31:30.54,0:31:31.90,Default,,0,0,0,,Why can't we shut them down?
+Dialogue: 0,0:31:31.90,0:31:33.22,Default,,0,0,0,,You must be kidding
+Dialogue: 0,0:31:33.22,0:31:35.18,Default,,0,0,0,,How many jobs do you create when you produce ten million tons of steel?
+Dialogue: 0,0:31:35.18,0:31:36.54,Default,,0,0,0,,One hundred thousand jobs
+Dialogue: 0,0:31:36.78,0:31:39.10,Default,,0,0,0,,How important is the steel industry in Hebei?
+Dialogue: 0,0:31:39.10,0:31:42.86,Default,,0,0,0,,It's so important that you can’t simply shut them down
+Dialogue: 0,0:31:43.10,0:31:46.90,Default,,0,0,0,,This province has a huge amount of heavy industry scattered throughout it,
+Dialogue: 0,0:31:46.90,0:31:48.54,Default,,0,0,0,,consuming large quantities of coal,
+Dialogue: 0,0:31:48.54,0:31:52.06,Default,,0,0,0,,without effective pollution controls
+Dialogue: 0,0:31:52.06,0:31:53.74,Default,,0,0,0,,and the industries can not be forced to shut down
+Dialogue: 0,0:31:53.74,0:31:55.10,Default,,0,0,0,,What are the consequences of this?
+Dialogue: 0,0:31:55.10,0:31:56.58,Default,,0,0,0,,I have a good friend, Hao
+Dialogue: 0,0:31:56.58,0:31:58.10,Default,,0,0,0,,who was also colleague of mine on {\i1}News Investigation{\i}
+Dialogue: 0,0:31:58.10,0:31:59.30,Default,,0,0,0,,She was the one who went with me ten years ago
+Dialogue: 0,0:31:59.30,0:32:00.78,Default,,0,0,0,,to Shanxi to report on the local pollution
+Dialogue: 0,0:32:00.78,0:32:02.30,Default,,0,0,0,,She knew I was from Linfen (in Shanxi) and
+Dialogue: 0,0:32:02.30,0:32:03.94,Default,,0,0,0,,sometimes she would jokingly send me pictures
+Dialogue: 0,0:32:03.94,0:32:05.58,Default,,0,0,0,,She would say, “I heard your hometown is now
+Dialogue: 0,0:32:05.58,0:32:08.58,Default,,0,0,0,,the most polluted city on the planet.”
+Dialogue: 0,0:32:08.58,0:32:09.70,Default,,0,0,0,,I was speechless
+Dialogue: 0,0:32:09.70,0:32:12.94,Default,,0,0,0,,But after 10 years I sent this picture to her
+Dialogue: 0,0:32:15.70,0:32:16.74,Default,,0,0,0,,Let’s take a closer look
+Dialogue: 0,0:32:19.54,0:32:21.70,Default,,0,0,0,,Celebrating the fact that our city's air
+Dialogue: 0,0:32:21.70,0:32:24.22,Default,,0,0,0,,is no longer the most polluted of 74 cities in China (laughter)
+Dialogue: 0,0:32:24.22,0:32:26.42,Default,,0,0,0,,This was a real banner in Hebei
+Dialogue: 0,0:32:26.42,0:32:29.94,Default,,0,0,0,,Unfortunately, this city was once again the most polluted city on the list (3 months later)
+Dialogue: 0,0:32:29.94,0:32:34.42,Default,,0,0,0,,But this kind of joke really makes me sad
+Dialogue: 0,0:32:34.42,0:32:37.06,Default,,0,0,0,,And for people living in Beijing
+Dialogue: 0,0:32:37.06,0:32:39.26,Default,,0,0,0,,every time the wind blows from the south
+Dialogue: 0,0:32:39.26,0:32:41.30,Default,,0,0,0,,the pollution from Hebei moves towards us like this
+Dialogue: 0,0:32:41.30,0:32:43.86,Default,,0,0,0,,You can't keep the air out with a wall
+Dialogue: 0,0:32:43.86,0:32:45.90,Default,,0,0,0,,So this what they mean when they say
+Dialogue: 0,0:32:45.90,0:32:47.78,Default,,0,0,0,,“Breath together and live together”
+Dialogue: 0,0:32:47.78,0:32:49.94,Default,,0,0,0,,I have another friend, called Fan
+Dialogue: 0,0:32:49.94,0:32:52.10,Default,,0,0,0,,She is from Jiangsu
+Dialogue: 0,0:32:52.10,0:32:53.78,Default,,0,0,0,,I used to argue with Hao
+Dialogue: 0,0:32:53.78,0:32:56.02,Default,,0,0,0,,about which province is more polluted, Hebei or Shanxi
+Dialogue: 0,0:32:56.02,0:32:57.50,Default,,0,0,0,,Fan used to say, offhand
+Dialogue: 0,0:32:57.50,0:32:59.90,Default,,0,0,0,,“Well, we southerners don't really have any pollution”
+Dialogue: 0,0:33:01.38,0:33:02.98,Default,,0,0,0,,Now Eastern China also experiences severe pollution
+Dialogue: 0,0:33:05.46,0:33:06.22,Default,,0,0,0,,But Fan was quite surprised
+Dialogue: 0,0:33:06.22,0:33:08.38,Default,,0,0,0,,She said, “It’s impossible,
+Dialogue: 0,0:33:08.38,0:33:10.26,Default,,0,0,0,,at least Eastern China’s pollution can't have anything to do with coal
+Dialogue: 0,0:33:10.26,0:33:12.02,Default,,0,0,0,,because I’ve never seen coal in my whole life”
+Dialogue: 0,0:33:12.02,0:33:12.86,Default,,0,0,0,,Right
+Dialogue: 0,0:33:12.86,0:33:15.38,Default,,0,0,0,,I showed her this image
+Dialogue: 0,0:33:15.38,0:33:17.54,Default,,0,0,0,,These are the iron and steel factories near your house
+Dialogue: 0,0:33:17.54,0:33:19.38,Default,,0,0,0,,These are power plants near your house
+Dialogue: 0,0:33:19.38,0:33:22.70,Default,,0,0,0,,These are cement factories near your house
+Dialogue: 0,0:33:22.70,0:33:26.54,Default,,0,0,0,,In Jiangsu there’s one power plant for every 30 square kilometers
+Dialogue: 0,0:33:26.54,0:33:29.42,Default,,0,0,0,,And what is the current state of emissions from these companies?
+Dialogue: 0,0:33:29.42,0:33:33.94,Default,,0,0,0,,Here we can see their emissions in real time
+Dialogue: 0,0:33:33.94,0:33:36.34,Default,,0,0,0,,The red spots indicate emissions exceeding the standards
+Dialogue: 0,0:33:36.34,0:33:37.90,Default,,0,0,0,,As we zoom in,
+Dialogue: 0,0:33:37.90,0:33:39.26,Default,,0,0,0,,you can see how many firms in the east
+Dialogue: 0,0:33:39.26,0:33:42.54,Default,,0,0,0,,are emitting pollutants in excess of the limits
+Dialogue: 0,0:33:42.54,0:33:44.22,Default,,0,0,0,,Among them, Shanghai
+Dialogue: 0,0:33:44.22,0:33:45.82,Default,,0,0,0,,which burns a lot of coal itself,
+Dialogue: 0,0:33:45.82,0:33:48.54,Default,,0,0,0,,is burning the largest quantity of coal per unit of area
+Dialogue: 0,0:33:48.54,0:33:49.78,Default,,0,0,0,,of all the metropolitan cities
+Dialogue: 0,0:33:49.78,0:33:51.22,Default,,0,0,0,,10 kilograms of coal are burned
+Dialogue: 0,0:33:51.22,0:33:52.98,Default,,0,0,0,,for every square meter of land
+Dialogue: 0,0:33:52.98,0:33:56.06,Default,,0,0,0,,What are the consequences of burning more coal?
+Dialogue: 0,0:33:56.06,0:33:57.86,Default,,0,0,0,,One problem I never thought about
+Dialogue: 0,0:33:57.86,0:33:59.86,Default,,0,0,0,,is that high quality coal will become increasingly scarce
+Dialogue: 0,0:33:59.86,0:34:00.46,Default,,0,0,0,,Right?
+Dialogue: 0,0:34:00.46,0:34:01.58,Default,,0,0,0,,So what should we do?
+Dialogue: 0,0:34:01.58,0:34:04.02,Default,,0,0,0,,So lower quality coal will become more common
+Dialogue: 0,0:34:04.02,0:34:06.38,Default,,0,0,0,,How low can the quality be?
+Dialogue: 0,0:34:06.38,0:34:08.22,Default,,0,0,0,,This is common coal
+Dialogue: 0,0:34:08.22,0:34:11.78,Default,,0,0,0,,What about this, is this coal too?
+Dialogue: 0,0:34:11.78,0:34:13.10,Default,,0,0,0,,At first I did not think this was coal
+Dialogue: 0,0:34:13.10,0:34:14.06,Default,,0,0,0,,this must be wood,
+Dialogue: 0,0:34:14.06,0:34:17.02,Default,,0,0,0,,you can still see the texture and fossils on top
+Dialogue: 0,0:34:17.02,0:34:18.74,Default,,0,0,0,,But people from coal washing factories told me that
+Dialogue: 0,0:34:18.74,0:34:19.38,Default,,0,0,0,,this is really coal
+Dialogue: 0,0:34:19.38,0:34:20.62,Default,,0,0,0,,It's called lignite, or brown coal
+Dialogue: 0,0:34:20.62,0:34:22.26,Default,,0,0,0,,It’s the youngest coal in the world
+Dialogue: 0,0:34:22.26,0:34:24.54,Default,,0,0,0,,It’s so young that the level of coalification is extremely low
+Dialogue: 0,0:34:24.54,0:34:26.14,Default,,0,0,0,,When it is burnt, half of it
+Dialogue: 0,0:34:26.14,0:34:28.98,Default,,0,0,0,,will turn to black smog, floating in the air
+Dialogue: 0,0:34:28.98,0:34:30.90,Default,,0,0,0,,How much brown coal have we used?
+Dialogue: 0,0:34:30.90,0:34:35.10,Default,,0,0,0,,This is a graph of brown coal production in recent years
+Dialogue: 0,0:34:35.10,0:34:36.82,Default,,0,0,0,,And these are the consequences
+Dialogue: 0,0:34:36.82,0:34:39.50,Default,,0,0,0,,On October 21, 2013
+Dialogue: 0,0:34:39.50,0:34:41.82,Default,,0,0,0,,on the first day the district heating was turned on in Harbin
+Dialogue: 0,0:34:41.82,0:34:42.98,Default,,0,0,0,,There was so much smog that
+Dialogue: 0,0:34:42.98,0:34:45.34,Default,,0,0,0,,that PM2.5 index exceeded 1000
+Dialogue: 0,0:34:45.34,0:34:47.26,Default,,0,0,0,,This was how Harbin people spent that day
+Dialogue: 0,0:34:49.10,0:34:51.50,Default,,0,0,0,,I talked with people from Harbin’s environmental protection bureau
+Dialogue: 0,0:34:51.50,0:34:55.14,Default,,0,0,0,,and mentioned that I heard buses got lost over those two days
+Dialogue: 0,0:34:55.14,0:34:56.86,Default,,0,0,0,,He smiled bitterly and said
+Dialogue: 0,0:34:56.86,0:34:59.75,Default,,0,0,0,,Never mind the buses, even our own bureau director got lost (laughter)
+Dialogue: 0,0:35:00.34,0:35:02.86,Default,,0,0,0,,He said when he was inspecting sites on that day
+Dialogue: 0,0:35:02.86,0:35:06.06,Default,,0,0,0,,nobody recognized him because of the smog
+Dialogue: 0,0:35:06.06,0:35:07.06,Default,,0,0,0,,The smog in Harbin
+Dialogue: 0,0:35:07.06,0:35:08.18,Default,,0,0,0,,was caused by burning
+Dialogue: 0,0:35:08.18,0:35:09.90,Default,,0,0,0,,over 20 million tons of brown coal
+Dialogue: 0,0:35:09.90,0:35:13.90,Default,,0,0,0,,Plus, in 2013, several hundred thousand coal burning boilers like these across China
+Dialogue: 0,0:35:13.90,0:35:15.26,Default,,0,0,0,,did not comply with any environmental standard
+Dialogue: 0,0:35:15.26,0:35:16.90,Default,,0,0,0,,and were not regulated at all
+Dialogue: 0,0:35:16.90,0:35:17.70,Default,,0,0,0,,The coal was burned
+Dialogue: 0,0:35:17.70,0:35:18.50,Default,,0,0,0,,and pollutants were emitted
+Dialogue: 0,0:35:18.50,0:35:19.78,Default,,0,0,0,,and released into the atmosphere
+Dialogue: 0,0:35:19.78,0:35:21.94,Default,,0,0,0,,When you look down from above
+Dialogue: 0,0:35:21.94,0:35:23.86,Default,,0,0,0,,it was as if 12 million people were
+Dialogue: 0,0:35:23.86,0:35:26.86,Default,,0,0,0,,buried under cement
+Dialogue: 0,0:35:26.86,0:35:29.34,Default,,0,0,0,,Coal itself does not mean pollution
+Dialogue: 0,0:35:29.34,0:35:31.42,Default,,0,0,0,,Germany also uses brown coal
+Dialogue: 0,0:35:31.42,0:35:34.38,Default,,0,0,0,,But in Germany they first clean and wash the brown coal to improve its quality
+Dialogue: 0,0:35:34.38,0:35:35.90,Default,,0,0,0,,Coal can be cleaned
+Dialogue: 0,0:35:35.90,0:35:38.90,Default,,0,0,0,,The British wash 95% of their coal
+Dialogue: 0,0:35:38.90,0:35:41.26,Default,,0,0,0,,And what about China?
+Dialogue: 0,0:35:41.26,0:35:44.86,Default,,0,0,0,,We wash less than half of our coal
+Dialogue: 0,0:35:44.86,0:35:47.90,Default,,0,0,0,,The other half, nearly several hundred million tons of coal
+Dialogue: 0,0:35:47.90,0:35:50.34,Default,,0,0,0,,contained the practically useless and highly polluting and inefficient
+Dialogue: 0,0:35:50.34,0:35:51.74,Default,,0,0,0,,material called ash
+Dialogue: 0,0:35:51.74,0:35:54.30,Default,,0,0,0,,But we transport it with trains, with trucks
+Dialogue: 0,0:35:54.30,0:35:57.42,Default,,0,0,0,,around the world and burn it in cooking stoves
+Dialogue: 0,0:35:57.42,0:35:59.42,Default,,0,0,0,,Completely useless
+Dialogue: 0,0:35:59.42,0:36:00.94,Default,,0,0,0,,The result is
+Dialogue: 0,0:36:00.94,0:36:04.14,Default,,0,0,0,,that most of the brown coal is burnt in people's homes
+Dialogue: 0,0:36:04.14,0:36:05.42,Default,,0,0,0,,Even in urban areas in China,
+Dialogue: 0,0:36:05.42,0:36:07.50,Default,,0,0,0,,one quarter of people burn brown coal
+Dialogue: 0,0:36:08.34,0:36:09.34,Default,,0,0,0,,They don't burn a lot of coal
+Dialogue: 0,0:36:09.34,0:36:10.54,Default,,0,0,0,,only 20 percent of the country's total
+Dialogue: 0,0:36:10.54,0:36:12.62,Default,,0,0,0,,but the sulfur dioxide emitted from this burning
+Dialogue: 0,0:36:13.26,0:36:16.38,Default,,0,0,0,,is equivalent to the emissions from all the power plants together
+Dialogue: 0,0:36:16.38,0:36:18.30,Default,,0,0,0,,That's how much of a difference washing coal can make
+Dialogue: 0,0:36:18.30,0:36:19.42,Default,,0,0,0,,The most terrifying thing is,
+Dialogue: 0,0:36:19.42,0:36:21.30,Default,,0,0,0,,it’s highly toxic
+Dialogue: 0,0:36:21.30,0:36:22.22,Default,,0,0,0,,In Beijing,
+Dialogue: 0,0:36:22.22,0:36:24.34,Default,,0,0,0,,the toxicity of PM2.5 during winter
+Dialogue: 0,0:36:24.34,0:36:27.02,Default,,0,0,0,,is far greater than it in summer
 Dialogue: 0,0:36:27.02,0:36:28.30,Default,,0,0,0,,
 Dialogue: 0,0:36:28.30,0:36:29.90,Default,,0,0,0,,
 Dialogue: 0,0:36:29.90,0:36:31.18,Default,,0,0,0,,
@@ -2158,7 +1973,7 @@ Dialogue: 0,1:11:56.30,1:11:57.98,Default,,0,0,0,,I brought this up with Profess
 Dialogue: 0,1:11:57.98,1:11:58.90,Default,,0,0,0,,He told me
 Dialogue: 0,1:11:58.90,1:12:00.10,Default,,0,0,0,,The Shaanxi that you witnessed
 Dialogue: 0,1:12:00.10,1:12:01.94,Default,,0,0,0,,is an epitome of the rest of the country
-Dialogue: 0,1:12:01.94,1:12:02.62,Default,,0,0,0,,In China 
+Dialogue: 0,1:12:01.94,1:12:02.62,Default,,0,0,0,,In China
 Dialogue: 0,1:12:02.66,1:12:05.10,Default,,0,0,0,,we lose 80 villages everyday
 Dialogue: 0,1:12:05.10,1:12:06.42,Default,,0,0,0,,houses have an average lifespan of
 Dialogue: 0,1:12:06.42,1:12:07.94,Default,,0,0,0,,mere 3 decades
@@ -2174,9 +1989,9 @@ Dialogue: 0,1:12:21.34,1:12:22.94,Default,,0,0,0,,I came to Beijing
 Dialogue: 0,1:12:22.94,1:12:24.50,Default,,0,0,0,,carrying a small trunk in 1998
 Dialogue: 0,1:12:24.50,1:12:25.94,Default,,0,0,0,,I studied
 Dialogue: 0,1:12:25.94,1:12:27.38,Default,,0,0,0,,I worked
-Dialogue: 0,1:12:27.38,1:12:28.70,Default,,0,0,0,,and I found, in this city, 
+Dialogue: 0,1:12:27.38,1:12:28.70,Default,,0,0,0,,and I found, in this city,
 Dialogue: 0,1:12:28.70,1:12:30.50,Default,,0,0,0,,a sense of self-worth and belonging
-Dialogue: 0,1:12:30.50,1:12:31.86,Default,,0,0,0,,If China hadn’t urbanized, 
+Dialogue: 0,1:12:30.50,1:12:31.86,Default,,0,0,0,,If China hadn’t urbanized,
 Dialogue: 0,1:12:31.86,1:12:33.46,Default,,0,0,0,,I’d be back in Shaanxi.
 Dialogue: 0,1:12:33.46,1:12:35.66,Default,,0,0,0,,Working a menial job that my parents found me
 Dialogue: 0,1:12:35.66,1:12:36.42,Default,,0,0,0,,Wearing blue overalls
@@ -2968,7 +2783,7 @@ Dialogue: 0,1:40:32.26,1:40:34.70,Default,,0,0,0,,If you don’t know how to fix
 Dialogue: 0,1:40:34.70,1:40:37.14,Default,,0,0,0,,please, stop breaking it
 Dialogue: 0,1:40:37.14,1:40:40.06,Default,,0,0,0,,You grown ups say you love us
 Dialogue: 0,1:40:40.06,1:40:42.66,Default,,0,0,0,,Please, take action
-Dialogue: 0,1:40:42.66,1:40:43.74,Default,,0,0,0,,And for me, 
+Dialogue: 0,1:40:42.66,1:40:43.74,Default,,0,0,0,,And for me,
 Dialogue: 0,1:40:43.74,1:40:49.02,Default,,0,0,0,,it is absolutely my responsibility to do whatever it takes
 Dialogue: 0,1:40:49.02,1:40:51.62,Default,,0,0,0,,to protect my child.
 Dialogue: 0,1:40:58.38,1:41:00.66,Default,,0,0,0,,When China is blanketed in dense smog

@@ -2437,117 +2437,116 @@ Dialogue: 0,1:33:26.22,1:33:28.30,Default,,0,0,0,,join an environmental protecti
 Dialogue: 0,1:33:28.30,1:33:30.10,Default,,0,0,0,,then what else can you do?
 Dialogue: 0,1:33:30.10,1:33:31.26,Default,,0,0,0,,In cooperation with Friends of Nature we 
 Dialogue: 0,1:33:31.26,1:33:33.62,Default,,0,0,0,,have made a short animation
-Dialogue: 0,1:33:36.62,1:33:38.82,Default,,0,0,0,,If you travel less than 5km
-Dialogue: 0,1:33:38.82,1:33:41.70,Default,,0,0,0,,please take the public transportation
-Dialogue: 0,1:33:41.70,1:33:42.66,Default,,0,0,0,,ride bike or share a ride
-Dialogue: 0,1:33:42.66,1:33:43.66,Default,,0,0,0,,If you drive a car
-Dialogue: 0,1:33:43.66,1:33:44.74,Default,,0,0,0,,The leisure of engine should be less than 30 seconds
-Dialogue: 0,1:33:45.14,1:33:47.46,Default,,0,0,0,,If you find a diesel vehicle releases black tail gas
-Dialogue: 0,1:33:47.46,1:33:50.26,Default,,0,0,0,,Try to call 12369 to report
-Dialogue: 0,1:33:50.26,1:33:53.34,Default,,0,0,0,,The black tail gas of diesel vehicle contains lots of PM2.5
-Dialogue: 0,1:33:53.34,1:33:54.62,Default,,0,0,0,,which does great harm to people’s health
-Dialogue: 0,1:33:55.06,1:33:57.26,Default,,0,0,0,,If you find a restaurant that releases soot
+Dialogue: 0,1:33:36.62,1:33:38.82,Default,,0,0,0,,If you're going less than 5km
+Dialogue: 0,1:33:38.82,1:33:41.70,Default,,0,0,0,,please take public transportation, ride a bike, or carpool
+Dialogue: 0,1:33:41.70,1:33:42.66,Default,,0,0,0,,If you drive a car
+Dialogue: 0,1:33:42.66,1:33:44.74,Default,,0,0,0,,Don't let the engine idle longer than 30 seconds
+Dialogue: 0,1:33:45.14,1:33:47.46,Default,,0,0,0,,If you see a diesel vehicle belching black exhaust
+Dialogue: 0,1:33:47.46,1:33:50.26,Default,,0,0,0,,Try calling 12369 to report it
+Dialogue: 0,1:33:50.26,1:33:53.34,Default,,0,0,0,,Those “black tails” behind diesel trucks are full of PM2.5
+Dialogue: 0,1:33:53.34,1:33:54.62,Default,,0,0,0,,they endanger public health.
+Dialogue: 0,1:33:55.06,1:33:57.26,Default,,0,0,0,,If you see a restaurant releasing cooking smoke
 Dialogue: 0,1:33:57.26,1:33:59.66,Default,,0,0,0,,Ask them to install a filtering system
-Dialogue: 0,1:33:59.66,1:34:01.86,Default,,0,0,0,,Or give a negative feedback online
-Dialogue: 0,1:34:01.86,1:34:04.34,Default,,0,0,0,,If you see dusts are spread by wind in a construction site
-Dialogue: 0,1:34:04.38,1:34:06.34,Default,,0,0,0,,If you think the petrol gas is leaked out in a gas station
-Dialogue: 0,1:34:06.34,1:34:08.38,Default,,0,0,0,,Try to call 12369
+Dialogue: 0,1:33:59.66,1:34:01.86,Default,,0,0,0,,Or leave them a negative review online
+Dialogue: 0,1:34:01.86,1:34:04.34,Default,,0,0,0,,If you see dust blowing from uncovered piles at construction sites
+Dialogue: 0,1:34:04.38,1:34:06.34,Default,,0,0,0,,If you think there might be a leak at a gas station
+Dialogue: 0,1:34:06.34,1:34:08.38,Default,,0,0,0,,Try calling 12369
 Dialogue: 0,1:34:08.38,1:34:10.14,Default,,0,0,0,,If you burn coal at home
-Dialogue: 0,1:34:10.14,1:34:11.78,Default,,0,0,0,,Try not to use inferior coal products
-Dialogue: 0,1:34:11.78,1:34:13.50,Default,,0,0,0,,if money allows
-Dialogue: 0,Ask your mom to clean the kitchen range:34:Ask your mom to clean the kitchen range3.50,Ask your mom to clean the kitchen range:34:Ask your mom to clean the kitchen range5.26,Default,,0,0,0,,Ask your mom to clean the kitchen range
-Dialogue: 0,1:34:15.26,1:34:16.50,Default,,0,0,0,,in order to keep the family healthy
-Dialogue: 0,1:34:17.06,1:34:20.14,Default,,0,0,0,,You may also try to take photos in order to locate the industrial pollution source
-Dialogue: 0,1:34:20.14,1:34:21.86,Default,,0,0,0,,To supurvise and report the violations of law
-Dialogue: 0,1:34:21.86,1:34:24.58,Default,,0,0,0,,and inform the local environmental protection department via social media
-Dialogue: 0,1:34:24.58,1:34:26.70,Default,,0,0,0,,Be aware of the polluting manufacturer lists
-Dialogue: 0,1:34:26.70,1:34:28.34,Default,,0,0,0,,and refuse to purchase their products
-Dialogue: 0,1:34:28.86,1:34:31.34,Default,,0,0,0,,During the formulation and modification of air policies
-Dialogue: 0,1:34:31.34,1:34:33.38,Default,,0,0,0,,participate the public opinion collection program
-Dialogue: 0,1:34:33.38,1:34:34.50,Default,,0,0,0,,and spread your own voice
-Dialogue: 0,1:34:35.02,1:34:36.14,Default,,0,0,0,,With these petty things to be done
-Dialogue: 0,1:34:36.14,1:34:37.22,Default,,0,0,0,,the smog condition can be easily improved
-Dialogue: 0,1:34:40.58,1:34:41.06,Default,,0,0,0,,Long ago,
-Dialogue: 0,1:34:41.06,1:34:43.58,Default,,0,0,0,,When I go pass the construction sites with dusts exposed to the air,
-Dialogue: 0,1:34:43.58,1:34:45.50,Default,,0,0,0,,I cover my nose and leave
-Dialogue: 0,1:34:45.50,1:34:46.70,Default,,0,0,0,,But when I knew that
-Dialogue: 0,1:34:46.70,1:34:48.46,Default,,0,0,0,,In the PM2.5 of Beijing
-Dialogue: 0,1:34:48.46,1:34:50.54,Default,,0,0,0,,At lease 50% of the components
-Dialogue: 0,1:34:50.54,1:34:52.14,Default,,0,0,0,,are formed by flying dust
-Dialogue: 0,1:34:52.14,1:34:53.38,Default,,0,0,0,,I started to try
-Dialogue: 0,1:35:02.54,1:35:03.82,Default,,0,0,0,,We live nearby
-Dialogue: 0,1:35:03.82,1:35:06.22,Default,,0,0,0,,(Chai) Why are the dusts exposed to the air
-Dialogue: 0,1:35:06.22,1:35:07.38,Default,,0,0,0,,(Worker) Ask our teamleader
-Dialogue: 0,1:35:07.38,1:35:09.82,Default,,0,0,0,,(Chai) Where is your teamleader
-Dialogue: 0,1:35:09.82,1:35:10.66,Default,,0,0,0,,(Worker) Over there, find him over there
-Dialogue: 0,1:35:13.98,1:35:16.62,Default,,0,0,0,,(Chai) You haven’t covered the dust near the side of the road
-Dialogue: 0,1:35:16.62,1:35:17.90,Default,,0,0,0,,(Chai) The flying dust’s everywhere when wind flows
-Dialogue: 0,1:35:17.90,1:35:19.06,Default,,0,0,0,,(Teamleader) I know, I know, I know, I know
-Dialogue: 0,(Teamleader) It’s our fault:35:(Teamleader) It’s our fault9.06,(Teamleader) It’s our fault:35:(Teamleader) It’s our fault9.82,Default,,0,0,0,,(Teamleader) It’s our fault
-Dialogue: 0,(Chai) When are you going to cover?:35:(Chai) When are you going to cover?9.82,(Chai) When are you going to cover?:35:20.86,Default,,0,0,0,,(Chai) When are you going to cover?
-Dialogue: 0,1:35:20.86,1:35:21.58,Default,,0,0,0,,(Teamleader) Now
+Dialogue: 0,1:34:10.14,1:34:11.78,Default,,0,0,0,,As much as you can, try to avoid low-quality coal
+Dialogue: 0,1:34:11.78,1:34:13.50,Default,,0,0,0,,As much as you can, try to avoid low-quality coal
+Dialogue: 0,1:34:13.50,1:34:15.26,Default,,0,0,0,,Ask your mom to clean the kitchen range and hood
+Dialogue: 0,1:34:15.26,1:34:16.50,Default,,0,0,0,,to keep the family healthy
+Dialogue: 0,1:34:17.06,1:34:20.14,Default,,0,0,0,,And you can try taking pictures to help locate industrial pollution sources
+Dialogue: 0,1:34:20.14,1:34:21.86,Default,,0,0,0,,supervise and report illegal activity
+Dialogue: 0,1:34:21.86,1:34:24.58,Default,,0,0,0,,and tweet @ your local environmental bureau on Weibo
+Dialogue: 0,1:34:24.58,1:34:26.70,Default,,0,0,0,,Check out the list of polluting manufacturers
+Dialogue: 0,1:34:26.70,1:34:28.34,Default,,0,0,0,,and boycott their products
+Dialogue: 0,1:34:28.86,1:34:31.34,Default,,0,0,0,,When our air quality laws are being written and revised
+Dialogue: 0,1:34:31.34,1:34:33.38,Default,,0,0,0,,participate in the public commenting process
+Dialogue: 0,1:34:33.38,1:34:34.50,Default,,0,0,0,,and make your voice heard
+Dialogue: 0,1:34:35.02,1:34:36.14,Default,,0,0,0,,With  a little thought and care,
+Dialogue: 0,1:34:36.14,1:34:37.22,Default,,0,0,0,,the smog will start to clear
+Dialogue: 0,1:34:40.58,1:34:41.06,Default,,0,0,0,,Before,
+Dialogue: 0,1:34:41.06,1:34:43.58,Default,,0,0,0,,When I walked by the uncovered construction site near my home
+Dialogue: 0,1:34:43.58,1:34:45.50,Default,,0,0,0,,I usually just covered my nose and went on past
+Dialogue: 0,1:34:45.50,1:34:46.70,Default,,0,0,0,,But now I know
+Dialogue: 0,1:34:46.70,1:34:48.46,Default,,0,0,0,,At lease 15% of Beijing's PM2.5 pollution
+Dialogue: 0,1:34:48.46,1:34:50.54,Default,,0,0,0,,At lease 15% of Beijing's PM2.5 pollution
+Dialogue: 0,1:34:50.54,1:34:52.14,Default,,0,0,0,,comes from blowing dust
+Dialogue: 0,1:34:52.14,1:34:53.38,Default,,0,0,0,,I decided I had to try
+Dialogue: 0,1:35:02.54,1:35:03.82,Default,,0,0,0,,(Chai) We live nearby
+Dialogue: 0,1:35:03.82,1:35:06.22,Default,,0,0,0,,(Chai) Why haven't you covered this dirt?
+Dialogue: 0,1:35:06.22,1:35:07.38,Default,,0,0,0,,(Worker) Ask our boss
+Dialogue: 0,1:35:07.38,1:35:09.82,Default,,0,0,0,,(Chai) Okay, where's your boss?
+Dialogue: 0,1:35:09.82,1:35:10.66,Default,,0,0,0,,(Worker) Over there, go look over there
+Dialogue: 0,1:35:13.98,1:35:16.62,Default,,0,0,0,,(Chai) You haven’t covered that huge dirt pile alongside the road
+Dialogue: 0,1:35:16.62,1:35:17.90,Default,,0,0,0,,(Chai) As soon as the wind blows, the dust flies everywhere
+Dialogue: 0,1:35:17.90,1:35:19.06,Default,,0,0,0,,(Boss) I know, I know, I know, I know
+Dialogue: 0,1:35:19.06,1:35:19.82,Default,,0,0,0,,(Boss) It’s our fault
+Dialogue: 0,1:35:19.82,1:35:20.86,Default,,0,0,0,,(Chai) So when are you going to cover it?
+Dialogue: 0,1:35:20.86,1:35:21.58,Default,,0,0,0,,(Boss) Right away
 Dialogue: 0,1:35:21.58,1:35:22.34,Default,,0,0,0,,(Chai) Okay
 Dialogue: 0,1:35:22.34,1:35:23.30,Default,,0,0,0,,(Workers) Sorry, sorry.
-Dialogue: 0,1:35:32.50,1:35:35.94,Default,,0,0,0,,This process was done within five minutes
-Dialogue: 0,1:35:35.94,1:35:37.62,Default,,0,0,0,,When I was going to leave
-Dialogue: 0,1:35:37.62,1:35:39.38,Default,,0,0,0,,The worker who asked me to find his teamleader
-Dialogue: 0,1:35:39.38,1:35:39.94,Default,,0,0,0,,said
-Dialogue: 0,1:35:39.94,1:35:41.70,Default,,0,0,0,,Do you know why he is afriad of you
-Dialogue: 0,1:35:41.70,1:35:43.74,Default,,0,0,0,,He pointed the mobile phone in my hand
-Dialogue: 0,1:35:43.74,1:35:46.58,Default,,0,0,0,,He is afriad that you open it
-Dialogue: 0,1:35:46.58,1:35:48.06,Default,,0,0,0,,There is a restaurant under my apartment
-Dialogue: 0,1:35:48.06,1:35:49.54,Default,,0,0,0,,It serves meat pancakes
-Dialogue: 0,1:35:49.54,1:35:51.50,Default,,0,0,0,,Every lunch time
-Dialogue: 0,1:35:51.50,1:35:52.54,Default,,0,0,0,,Everywhere
-Dialogue: 0,1:35:52.54,1:35:54.86,Default,,0,0,0,,I didn’t think this is a problem
-Dialogue: 0,1:35:54.86,1:35:56.22,Default,,0,0,0,,as the Chinese restaurants from all over the world are like this
-Dialogue: 0,1:35:56.22,1:35:57.94,Default,,0,0,0,,until later
-Dialogue: 0,1:35:57.94,1:35:59.10,Default,,0,0,0,,the catering business in Beijing brings
-Dialogue: 0,1:35:59.10,1:36:02.86,Default,,0,0,0,,6% of the PM2.5 pollution
-Dialogue: 0,1:36:02.86,1:36:05.62,Default,,0,0,0,,But the catering business in Beijing
-Dialogue: 0,1:36:05.62,1:36:07.10,Default,,0,0,0,,is 12% of China
-Dialogue: 0,1:36:07.10,1:36:08.46,Default,,0,0,0,,Such amount of restaurants
-Dialogue: 0,1:36:08.46,1:36:09.78,Default,,0,0,0,,made me think there’s no way to solve the problem
-Dialogue: 0,1:36:09.78,1:36:11.82,Default,,0,0,0,,until I had a Chinese meal
-Dialogue: 0,1:36:11.82,1:36:13.58,Default,,0,0,0,,in London
-Dialogue: 0,1:36:13.58,1:36:14.86,Default,,0,0,0,,I found there’s no such smell
-Dialogue: 0,1:36:14.86,1:36:16.22,Default,,0,0,0,,Why
-Dialogue: 0,1:36:16.22,1:36:17.06,Default,,0,0,0,,The boss took me
-Dialogue: 0,1:36:17.06,1:36:18.46,Default,,0,0,0,,to the attic
-Dialogue: 0,1:36:18.46,1:36:19.70,Default,,0,0,0,,And I saw this
-Dialogue: 0,1:36:19.70,1:36:21.94,Default,,0,0,0,,which is called soot purifier
-Dialogue: 0,1:36:21.94,1:36:24.38,Default,,0,0,0,,The London government imposed this installation on them
-Dialogue: 0,1:36:24.38,1:36:26.42,Default,,0,0,0,,And they check them regularly
-Dialogue: 0,1:36:26.42,1:36:29.10,Default,,0,0,0,,I thought it was hi-tech or something
-Dialogue: 0,1:36:29.10,1:36:31.82,Default,,0,0,0,,until I came back to Beijing
-Dialogue: 0,1:36:31.82,1:36:33.26,Default,,0,0,0,,I found that Beijing does not only have it
-Dialogue: 0,1:36:33.26,1:36:34.02,Default,,0,0,0,,but it is also required by the government
-Dialogue: 0,1:36:34.02,1:36:36.54,Default,,0,0,0,,I called 12369 to report this
-Dialogue: 0,1:36:36.54,1:36:38.62,Default,,0,0,0,,A week later
-Dialogue: 0,1:36:38.62,1:36:40.74,Default,,0,0,0,,this was delivered
-Dialogue: 0,1:36:40.74,1:36:42.74,Default,,0,0,0,,
-Dialogue: 0,1:36:50.38,1:36:52.70,Default,,0,0,0,,This was done within half an hour
+Dialogue: 0,1:35:32.50,1:35:35.94,Default,,0,0,0,,The whole process took less than five minutes
+Dialogue: 0,1:35:35.94,1:35:37.62,Default,,0,0,0,,Right before I left
+Dialogue: 0,1:35:37.62,1:35:39.38,Default,,0,0,0,,The worker who told me where to find the boss
+Dialogue: 0,1:35:39.38,1:35:39.94,Default,,0,0,0,,said, 
+Dialogue: 0,1:35:39.94,1:35:41.70,Default,,0,0,0,,“Do you know why he's afraid of you?”
+Dialogue: 0,1:35:41.70,1:35:43.74,Default,,0,0,0,,He pointed at the mobile phone in my hand
+Dialogue: 0,1:35:43.74,1:35:46.58,Default,,0,0,0,,He's afraid you'll expose him
+Dialogue: 0,1:35:46.58,1:35:48.06,Default,,0,0,0,,In my building there is a restaurant downstairs
+Dialogue: 0,1:35:48.06,1:35:49.54,Default,,0,0,0,,It serves meat pies
+Dialogue: 0,1:35:49.54,1:35:51.50,Default,,0,0,0,,And every mealtime
+Dialogue: 0,1:35:51.50,1:35:52.54,Default,,0,0,0,,Everywhere in the building
+Dialogue: 0,1:35:52.54,1:35:54.86,Default,,0,0,0,,smells like smoke
+Dialogue: 0,1:35:54.86,1:35:56.22,Default,,0,0,0,,Before, I didn’t think this is was a problem
+Dialogue: 0,1:35:56.22,1:35:57.94,Default,,0,0,0,,Isn't every Chinese restaurant in the world like this?
+Dialogue: 0,1:35:57.94,1:35:59.10,Default,,0,0,0,,But now I know
+Dialogue: 0,1:35:59.10,1:36:02.86,Default,,0,0,0,,Beijing's food service industry creates
+Dialogue: 0,1:36:02.86,1:36:05.62,Default,,0,0,0,,at least 6% of our PM2.5 pollution
+Dialogue: 0,1:36:05.62,1:36:07.10,Default,,0,0,0,,And Beijing is home to
+Dialogue: 0,1:36:07.10,1:36:08.46,Default,,0,0,0,,12% of the country's food service industry
+Dialogue: 0,1:36:08.46,1:36:09.78,Default,,0,0,0,,For such a high-volume restaurant,
+Dialogue: 0,1:36:09.78,1:36:11.82,Default,,0,0,0,,I used to think there was nothing to be done about it
+Dialogue: 0,1:36:11.82,1:36:13.58,Default,,0,0,0,,until I went to London
+Dialogue: 0,1:36:13.58,1:36:14.86,Default,,0,0,0,,and had a meal in a Chinese restaurant there.
+Dialogue: 0,1:36:14.86,1:36:16.22,Default,,0,0,0,,I discovered there was no smoke smell there at all
+Dialogue: 0,1:36:16.22,1:36:17.06,Default,,0,0,0,,Why?
+Dialogue: 0,1:36:17.06,1:36:18.46,Default,,0,0,0,,The boss took me 
+Dialogue: 0,1:36:18.46,1:36:19.70,Default,,0,0,0,,up to the roof
+Dialogue: 0,1:36:19.70,1:36:21.94,Default,,0,0,0,,And I saw this
+Dialogue: 0,1:36:21.94,1:36:24.38,Default,,0,0,0,,which is called a soot purifier
+Dialogue: 0,1:36:24.38,1:36:26.42,Default,,0,0,0,,The London city government required them to install it
+Dialogue: 0,1:36:26.42,1:36:29.10,Default,,0,0,0,,And the city inspects it regularly
+Dialogue: 0,1:36:29.10,1:36:31.82,Default,,0,0,0,,I thought it must be pretty high-tech
+Dialogue: 0,1:36:31.82,1:36:33.26,Default,,0,0,0,,until I came back to Beijing
+Dialogue: 0,1:36:33.26,1:36:34.02,Default,,0,0,0,,I found that not only does Beijing have them too
+Dialogue: 0,1:36:34.02,1:36:36.54,Default,,0,0,0,,installing them is actually required
+Dialogue: 0,1:36:36.54,1:36:38.62,Default,,0,0,0,,I called 12369 to make a report
+Dialogue: 0,1:36:38.62,1:36:40.74,Default,,0,0,0,,And a week later
+Dialogue: 0,1:36:40.74,1:36:42.74,Default,,0,0,0,,this item was delivered:
+Dialogue: 0,1:36:50.38,1:36:52.70,Default,,0,0,0,,It all took less than half an hour
 Dialogue: 0,1:36:52.70,1:36:54.42,Default,,0,0,0,,When I was taking this video clip
-Dialogue: 0,1:36:54.42,1:36:55.86,Default,,0,0,0,,The restaurant boss came
-Dialogue: 0,1:36:55.86,1:36:58.62,Default,,0,0,0,,and said thank you for your supervision as a resident
-Dialogue: 0,1:36:58.62,1:37:01.22,Default,,0,0,0,,You are our welcome guest
-Dialogue: 0,1:37:01.22,1:37:03.26,Default,,0,0,0,,We had their meat pancakes as working meals for a year
-Dialogue: 0,1:37:06.10,1:37:07.90,Default,,0,0,0,,Sometimes when I walk by the gas station
-Dialogue: 0,1:37:07.90,1:37:09.06,Default,,0,0,0,,which is near us
-Dialogue: 0,1:37:09.06,1:37:10.70,Default,,0,0,0,,I can feel the strong smell
-Dialogue: 0,1:37:10.70,1:37:12.30,Default,,0,0,0,,of the petrol
-Dialogue: 0,1:37:12.30,1:37:15.06,Default,,0,0,0,,But I thought that gas stations are all like this all around the world
+Dialogue: 0,1:36:54.42,1:36:55.86,Default,,0,0,0,,The restaurant boss came over
+Dialogue: 0,1:36:55.86,1:36:58.62,Default,,0,0,0,,and said, “Thank you for your supervision as a resident here
+Dialogue: 0,1:36:58.62,1:37:01.22,Default,,0,0,0,,We hope to see you in our restaurant in the future”
+Dialogue: 0,1:37:01.22,1:37:03.26,Default,,0,0,0,,For the past year, our office lunches have been nothing but meat pies. 
+Dialogue: 0,1:37:06.10,1:37:07.90,Default,,0,0,0,,Sometimes when I walk by the neighborhood gas station
+Dialogue: 0,1:37:07.90,1:37:09.06,Default,,0,0,0,,(here's a gas station downstairs)
+Dialogue: 0,1:37:09.06,1:37:10.70,Default,,0,0,0,,I can smell the very strong scent of gasoline
+Dialogue: 0,1:37:10.70,1:37:12.30,Default,,0,0,0,,I can smell the very strong scent of gasoline
+Dialogue: 0,1:37:12.30,1:37:15.06,Default,,0,0,0,,But I thought that all gas stations worldwide are like this
 Dialogue: 0,1:37:15.06,1:37:17.42,Default,,0,0,0,,until I went to the United States
-Dialogue: 0,1:37:17.42,1:37:19.86,Default,,0,0,0,,I saw this on their petrol gun
-Dialogue: 0,1:37:19.86,1:37:22.66,Default,,0,0,0,,which is called “petrol gas recycling equipment”
-Dialogue: 0,1:37:22.66,1:37:24.62,Default,,0,0,0,,I thought it was another hi-tech stuff
-Dialogue: 0,1:37:24.62,1:37:26.18,Default,,0,0,0,,until I discovered this
-Dialogue: 0,1:37:26.18,1:37:26.98,Default,,0,0,0,,when I came back to Beijing
-Dialogue: 0,1:37:26.98,1:37:28.78,Default,,0,0,0,,We already have it for a long time
-Dialogue: 0,1:37:28.78,1:37:30.90,Default,,0,0,0,,and this has been another required facility since 2008
-Dialogue: 0,1:37:30.90,1:37:34.02,Default,,0,0,0,,but many of them are not repaired on time
-Dialogue: 0,1:37:34.02,1:37:34.70,Default,,0,0,0,,which releases a lot of gas
-Dialogue: 0,1:37:34.70,1:37:37.18,Default,,0,0,0,,Then I called 12369
+Dialogue: 0,1:37:17.42,1:37:19.86,Default,,0,0,0,,I saw this thing on their gas pump nozzles
+Dialogue: 0,1:37:19.86,1:37:22.66,Default,,0,0,0,,it's called “gasoline vapor recovery equipment”
+Dialogue: 0,1:37:22.66,1:37:24.62,Default,,0,0,0,,I thought it was another high-tech thing
+Dialogue: 0,1:37:24.62,1:37:26.18,Default,,0,0,0,,until I came back to Beijing and discovered
+Dialogue: 0,1:37:26.18,1:37:26.98,Default,,0,0,0,,We've had these things for ages
+Dialogue: 0,1:37:26.98,1:37:28.78,Default,,0,0,0,,and they've been required since 2008
+Dialogue: 0,1:37:28.78,1:37:30.90,Default,,0,0,0,,but many people don't maintain them properly
+Dialogue: 0,1:37:30.90,1:37:34.02,Default,,0,0,0,,so they release a lot of gasoline vapor
+Dialogue: 0,1:37:34.02,1:37:34.70,Default,,0,0,0,,Then
+Dialogue: 0,1:37:34.70,1:37:37.18,Default,,0,0,0,,I called 12369 again
 Dialogue: 0,1:37:40.74,1:37:41.98,Default,,0,0,0,,If you look at it facing the sun,
 Dialogue: 0,1:37:41.98,1:37:43.46,Default,,0,0,0,,there’s a lot coming out.
 Dialogue: 0,1:37:43.46,1:37:44.62,Default,,0,0,0,,That means there’s definitely a problem.
@@ -2682,3 +2681,4 @@ Dialogue: 0,1:42:48.22,1:42:50.66,Default,,0,0,0,,And so I stare at it,
 Dialogue: 0,1:42:50.66,1:42:53.42,Default,,0,0,0,,just like I stare at you. 
 Dialogue: 0,1:42:53.42,1:42:56.46,Default,,0,0,0,,And so I protect it, 
 Dialogue: 0,1:42:56.46,1:42:58.82,Default,,0,0,0,,as much as I protect you.
+

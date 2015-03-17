@@ -388,95 +388,95 @@ Dialogue: 0,0:16:49.46,0:16:51.46,Default,,0,0,0,,zeigte der Doktor sie der Fami
 Dialogue: 0,0:16:51.49,0:16:54.98,Default,,0,0,0,,Sie fragten: "Können Sie mir sagen, warum meine Frau Krebs hat?"
 Dialogue: 0,0:16:54.98,0:16:57.85,Default,,0,0,0,,Er sagte, “Ich kann nur sagen, dass, durch meine medizinische Erfahrung, 
 Dialogue: 0,0:16:57.85,0:16:59.54,Default,,0,0,0,,mein Verdacht die Luftverschmutzung ist.
-Dialogue: 0,0:16:59.55,0:17:05.06,Default,,0,0,0,,(As particulate matter increases and air pollution worsens, so to does the risk of lung cancer, and particle matter is classified as a primary carcinogen for humans.)
-Dialogue: 0,0:17:05.13,0:17:06.83,Default,,0,0,0,,When he told me this I had a questoin
-Dialogue: 0,0:17:06.83,0:17:09.33,Default,,0,0,0,,Doesn't lung cancer have an incubation period
-Dialogue: 0,0:17:09.33,0:17:11.01,Default,,0,0,0,,of at least ten years or so?
-Dialogue: 0,0:17:11.01,0:17:13.28,Default,,0,0,0,,But we only started hearing about air pollution two years ago, right?
-Dialogue: 0,0:17:13.28,0:17:16.49,Default,,0,0,0,,Then how could it lead to lung cancer this quickly?
-Dialogue: 0,0:17:17.03,0:17:18.79,Default,,0,0,0,,So I went to NASA for a small favor
-Dialogue: 0,0:17:18.79,0:17:20.27,Default,,0,0,0,,and asked if they could send over satellite images
-Dialogue: 0,0:17:20.27,0:17:22.27,Default,,0,0,0,,of the air over North China from the past 10 years
-Dialogue: 0,0:17:22.61,0:17:24.04,Default,,0,0,0,,This is what I got
+Dialogue: 0,0:16:59.55,0:17:05.06,Default,,0,0,0,,(Da Feinstaub in der Luft zunimmt und die Verschmutzung schlimmer wird, wird auch das Risiko für Lungenkrebs höher.  Feinstaub ist als Haupt-Krebserreger für Menschen klassifiziert.)
+Dialogue: 0,0:17:05.13,0:17:06.83,Default,,0,0,0,,Als er mir das sagte, hatte ich eine Frage
+Dialogue: 0,0:17:06.83,0:17:09.33,Default,,0,0,0,,Hat Lungenkrebs nicht eine Inkubationszeit
+Dialogue: 0,0:17:09.33,0:17:11.01,Default,,0,0,0,,von mindestens 10 Jahren oder so?
+Dialogue: 0,0:17:11.01,0:17:13.28,Default,,0,0,0,,Aber von der Verschmutzung haben wir vor zwei Jahren zu hören begonnen, richtig?
+Dialogue: 0,0:17:13.28,0:17:16.49,Default,,0,0,0,,Wie konnte es also so schnell zu Lungenkrebs führen?
+Dialogue: 0,0:17:17.03,0:17:18.79,Default,,0,0,0,,Darum bin ich für einen kleinen Gefallen zur NASA gegangen.
+Dialogue: 0,0:17:18.79,0:17:20.27,Default,,0,0,0,,Ich fragt, ob sie mir Satellitenfotos senden könnten
+Dialogue: 0,0:17:20.27,0:17:22.27,Default,,0,0,0,,von Nord China aus den vergangenen 10 Jahren 
+Dialogue: 0,0:17:22.61,0:17:24.04,Default,,0,0,0,,Das ist, was ich erhielt
 Dialogue: 0,0:17:24.04,0:17:26.04,Default,,0,0,0,,2012
-Dialogue: 0,0:17:26.04,0:17:27.70,Default,,0,0,0,,The air over Beijing
+Dialogue: 0,0:17:26.04,0:17:27.70,Default,,0,0,0,,Die Luft über Peking
 Dialogue: 0,0:17:27.70,0:17:29.20,Default,,0,0,0,,2011
-Dialogue: 0,0:17:29.20,0:17:30.96,Default,,0,0,0,,Beijing in December
+Dialogue: 0,0:17:29.20,0:17:30.96,Default,,0,0,0,,Peking im Dezember
 Dialogue: 0,0:17:30.96,0:17:32.48,Default,,0,0,0,,2010
-Dialogue: 0,0:17:32.48,0:17:33.68,Default,,0,0,0,,The air over North China
+Dialogue: 0,0:17:32.48,0:17:33.68,Default,,0,0,0,,Die Luft über Nord-China
 Dialogue: 0,0:17:33.68,0:17:35.31,Default,,0,0,0,,2009
-Dialogue: 0,0:17:35.31,0:17:36.54,Default,,0,0,0,,The air over North China
-Dialogue: 0,0:17:36.54,0:17:38.02,Default,,0,0,0,,Let's look at 10 years ago
-Dialogue: 0,0:17:38.02,0:17:40.02,Default,,0,0,0,,North China in 2005
-Dialogue: 0,0:17:40.02,0:17:41.69,Default,,0,0,0,,But I couldn't believe it
-Dialogue: 0,0:17:41.69,0:17:44.13,Default,,0,0,0,,I was living under these skies in North China at that time
-Dialogue: 0,0:17:44.13,0:17:46.74,Default,,0,0,0,,How could I have been unaware of any air pollution for 10 years?
-Dialogue: 0,0:17:46.74,0:17:49.86,Default,,0,0,0,,So I sought out our country's head of the Olympic air quality assurance group
-Dialogue: 0,0:17:49.86,0:17:51.12,Default,,0,0,0,,An academic named Dr. Tang Xiaoyan
-Dialogue: 0,0:17:51.12,0:17:53.42,Default,,0,0,0,,She gave me this graph
-Dialogue: 0,0:17:54.03,0:17:55.42,Default,,0,0,0,,This is 2004
-Dialogue: 0,0:17:55.42,0:17:57.42,Default,,0,0,0,,Eleven years ago
-Dialogue: 0,0:17:57.42,0:17:59.51,Default,,0,0,0,,Back then, we hadn't yet started monitoring PM2.5 levels
-Dialogue: 0,0:17:59.52,0:18:00.58,Default,,0,0,0,,But we have the levels of PM10
-Dialogue: 0,0:18:00.58,0:18:02.53,Default,,0,0,0,,He said according to estimates at the time
-Dialogue: 0,0:18:02.53,0:18:03.62,Default,,0,0,0,,At that time
-Dialogue: 0,0:18:03.62,0:18:05.05,Default,,0,0,0,,when it was very polluted
-Dialogue: 0,0:18:05.05,0:18:06.80,Default,,0,0,0,,PM2.5 could have reached 300-400
-Dialogue: 0,0:18:06.80,0:18:08.80,Default,,0,0,0,,Today we would classify that as very unhealthy pollution
-Dialogue: 0,0:18:09.25,0:18:10.37,Default,,0,0,0,,I asked him
-Dialogue: 0,0:18:10.37,0:18:12.02,Default,,0,0,0,,Could it really be that I was that blind?
-Dialogue: 0,0:18:12.02,0:18:14.02,Default,,0,0,0,,I was in Beijing in 2004
-Dialogue: 0,0:18:14.02,0:18:16.43,Default,,0,0,0,,He said, look at this picture
-Dialogue: 0,0:18:16.43,0:18:18.72,Default,,0,0,0,,What is that?
-Dialogue: 0,0:18:18.95,0:18:21.47,Default,,0,0,0,,I said, that's probably smog, right?
-Dialogue: 0,0:18:21.47,0:18:23.31,Default,,0,0,0,,Then how come I didn't know at the time?
-Dialogue: 0,0:18:23.31,0:18:24.42,Default,,0,0,0,,He said, you should look up
-Dialogue: 0,0:18:24.42,0:18:26.02,Default,,0,0,0,,what the news headlines were on that day
-Dialogue: 0,0:18:26.02,0:18:30.05,Default,,0,0,0,,“Beijing Capital Airport Experiences the Most Delays in Recent Years Due to Fog” - December 2, 2004, Sina News
-Dialogue: 0,0:18:30.05,0:18:32.05,Default,,0,0,0,,Back then we thought it was just fog
-Dialogue: 0,0:18:32.05,0:18:34.05,Default,,0,0,0,,We kept calling it “fog”
-Dialogue: 0,0:18:34.05,0:18:36.05,Default,,0,0,0,,So after I saw this picture,
-Dialogue: 0,0:18:36.05,0:18:37.60,Default,,0,0,0,,as a former reporter
-Dialogue: 0,0:18:37.60,0:18:39.60,Default,,0,0,0,,I was full of remorse
-Dialogue: 0,0:18:39.60,0:18:42.13,Default,,0,0,0,,because all those years I was reporting I always thought that
-Dialogue: 0,0:18:42.13,0:18:43.73,Default,,0,0,0,,I was reporting on pollution across the country
-Dialogue: 0,0:18:43.73,0:18:44.70,Default,,0,0,0,,But I always thought
-Dialogue: 0,0:18:44.70,0:18:47.41,Default,,0,0,0,,it was only called pollution when I heard explosions in mines
-Dialogue: 0,0:18:47.41,0:18:49.52,Default,,0,0,0,,it was only called pollution when I saw smoke from factory chimneys
-Dialogue: 0,0:18:49.52,0:18:52.38,Default,,0,0,0,,I never thought that those of us who lived in a metropolitan urban center
-Dialogue: 0,0:18:52.38,0:18:53.90,Default,,0,0,0,,the sky we saw everyday
-Dialogue: 0,0:18:53.90,0:18:54.90,Default,,0,0,0,,was also pollution
-Dialogue: 0,0:18:54.90,0:18:56.53,Default,,0,0,0,,At that time I wasn't a reporter anymore
-Dialogue: 0,0:18:56.53,0:18:58.53,Default,,0,0,0,,I had already become a bystander
-Dialogue: 0,0:18:59.54,0:19:01.32,Default,,0,0,0,,But I still had a question
-Dialogue: 0,0:19:01.32,0:19:03.32,Default,,0,0,0,,If it really was like this,
-Dialogue: 0,0:19:03.32,0:19:04.84,Default,,0,0,0,,when I was young every family
-Dialogue: 0,0:19:04.84,0:19:06.48,Default,,0,0,0,,was burning kerosene stoves, right?
-Dialogue: 0,0:19:06.48,0:19:07.77,Default,,0,0,0,,Every night we would
-Dialogue: 0,0:19:07.77,0:19:09.60,Default,,0,0,0,,sleep and awaken to the smell of smoke
-Dialogue: 0,0:19:09.60,0:19:12.12,Default,,0,0,0,,How come I never heard about people back then getting lung cancer?
-Dialogue: 0,0:19:12.12,0:19:13.65,Default,,0,0,0,,I kept asking this question
-Dialogue: 0,0:19:13.67,0:19:15.22,Default,,0,0,0,,until I met professor He Xingzhou
-Dialogue: 0,0:19:15.22,0:19:17.65,Default,,0,0,0,,who has been researching this topic for over 30 years
-Dialogue: 0,0:19:17.65,0:19:19.65,Default,,0,0,0,,He gave me a book of data
-Dialogue: 0,0:19:20.05,0:19:21.45,Default,,0,0,0,,This
-Dialogue: 0,0:19:21.45,0:19:29.39,Default,,0,0,0,,A Survey of the Relationship Between Air Pollution and Cause of Death for 26 Chinese cities 1976-1981
-Dialogue: 0,0:19:29.39,0:19:30.77,Default,,0,0,0,,So everyone can see clearly
-Dialogue: 0,0:19:30.80,0:19:32.81,Default,,0,0,0,,I've put the conclusion up on the screen here
-Dialogue: 0,0:19:32.81,0:19:34.01,Default,,0,0,0,,It's very simple
-Dialogue: 0,0:19:34.01,0:19:35.62,Default,,0,0,0,,The air pollution from back then
-Dialogue: 0,0:19:35.62,0:19:38.72,Default,,0,0,0,,already correlated with death rates from lung cancer
-Dialogue: 0,0:19:38.72,0:19:41.12,Default,,0,0,0,,The air pollution back then was the result of burning coal
-Dialogue: 0,0:19:41.12,0:19:43.22,Default,,0,0,0,,It just happened to be the case that this data
-Dialogue: 0,0:19:43.22,0:19:45.22,Default,,0,0,0,,was considered internal information at that time
-Dialogue: 0,0:19:47.42,0:19:48.62,Default,,0,0,0,,It wasn’t that people at that time
-Dialogue: 0,0:19:48.62,0:19:49.66,Default,,0,0,0,,couldn't smell the suffocating smoke
-Dialogue: 0,0:19:49.66,0:19:51.66,Default,,0,0,0,,But the warmth and energy that coal brought
-Dialogue: 0,0:19:51.66,0:19:52.78,Default,,0,0,0,,was more important at the time
-Dialogue: 0,0:19:52.78,0:19:54.06,Default,,0,0,0,,Around 1980,
-Dialogue: 0,0:19:54.06,0:19:55.94,Default,,0,0,0,,there were 3,700 factories inside Beijing
-Dialogue: 0,0:19:56.10,0:19:58.46,Default,,0,0,0,,for a large agricultural country eager to develop,
-Dialogue: 0,0:19:58.46,0:20:00.66,Default,,0,0,0,,smokestacks were a sign of progress
+Dialogue: 0,0:17:35.31,0:17:36.54,Default,,0,0,0,,Die Luft über Nord-China
+Dialogue: 0,0:17:36.54,0:17:38.02,Default,,0,0,0,,Schauen wir 10 Jahre zurück
+Dialogue: 0,0:17:38.02,0:17:40.02,Default,,0,0,0,,Nord-China 2005
+Dialogue: 0,0:17:40.02,0:17:41.69,Default,,0,0,0,,Aber ich konnte es nicht glauben.
+Dialogue: 0,0:17:41.69,0:17:44.13,Default,,0,0,0,,Ich lebte unter diesem Himmer in Nord-China zu dieser Zeit.
+Dialogue: 0,0:17:44.13,0:17:46.74,Default,,0,0,0,,Wie konnte ich diesen Smog 10 Jahre nicht bemerken?
+Dialogue: 0,0:17:46.74,0:17:49.86,Default,,0,0,0,,Also habe ich unsere Landes-Behörde für die Luftqualität während der Olympischen Spiele aufgesucht.
+Dialogue: 0,0:17:49.86,0:17:51.12,Default,,0,0,0,,Einen Akademiker namens Dr. Tang Xiaoyan
+Dialogue: 0,0:17:51.12,0:17:53.42,Default,,0,0,0,,Sie gab mir diesen Graph
+Dialogue: 0,0:17:54.03,0:17:55.42,Default,,0,0,0,,Das ist 2004
+Dialogue: 0,0:17:55.42,0:17:57.42,Default,,0,0,0,,vor 11 Jahren
+Dialogue: 0,0:17:57.42,0:17:59.51,Default,,0,0,0,,Damals hatten wir PM2.5 noch nicht zu messen begonnen.
+Dialogue: 0,0:17:59.52,0:18:00.58,Default,,0,0,0,,Doch wir hatten die Werte für PM10
+Dialogue: 0,0:18:00.58,0:18:02.53,Default,,0,0,0,,Sie sagte, auf Basis damaliger Schätzungen
+Dialogue: 0,0:18:02.53,0:18:03.62,Default,,0,0,0,,konnten zu einer Zeit
+Dialogue: 0,0:18:03.62,0:18:05.05,Default,,0,0,0,,in der die Luft sehr verschmutzt war
+Dialogue: 0,0:18:05.05,0:18:06.80,Default,,0,0,0,,PM2.5-Wert von 300-400 gegeben haben.
+Dialogue: 0,0:18:06.80,0:18:08.80,Default,,0,0,0,,Heute würden wir das als ungesunde Luftverschmutzung nennen.
+Dialogue: 0,0:18:09.25,0:18:10.37,Default,,0,0,0,,Ich fragte sie
+Dialogue: 0,0:18:10.37,0:18:12.02,Default,,0,0,0,,Konnte ich wirklich so blind sein?
+Dialogue: 0,0:18:12.02,0:18:14.02,Default,,0,0,0,,Ich war 2004 in Peking.
+Dialogue: 0,0:18:14.02,0:18:16.43,Default,,0,0,0,,Sie sagte: "Schau dieses Foto an.
+Dialogue: 0,0:18:16.43,0:18:18.72,Default,,0,0,0,,Was ist das?"
+Dialogue: 0,0:18:18.95,0:18:21.47,Default,,0,0,0,,Ich sagte: "Das ist wahrscheinlich Smog, richtig?"
+Dialogue: 0,0:18:21.47,0:18:23.31,Default,,0,0,0,,Wie kam es also, dass ich das damals nicht wusste?
+Dialogue: 0,0:18:23.31,0:18:24.42,Default,,0,0,0,,Sie sagte, ich solle nachschlagen
+Dialogue: 0,0:18:24.42,0:18:26.02,Default,,0,0,0,,was die Zeitungen an diesem Tag berichteten.
+Dialogue: 0,0:18:26.02,0:18:30.05,Default,,0,0,0,,“Der Flughafen von Peking hat wegen Nebel die meisten Verspätungen der letzten Jahre.” - 2. Dezember, 2004, Sina News
+Dialogue: 0,0:18:30.05,0:18:32.05,Default,,0,0,0,,Damals dachten wir, es wäre nur Nebel.
+Dialogue: 0,0:18:32.05,0:18:34.05,Default,,0,0,0,,Wir nannten es weiterhin "Nebel".
+Dialogue: 0,0:18:34.05,0:18:36.05,Default,,0,0,0,,Nachdem ich dieses Bild sah, 
+Dialogue: 0,0:18:36.05,0:18:37.60,Default,,0,0,0,,als ehemaliger Reporter
+Dialogue: 0,0:18:37.60,0:18:39.60,Default,,0,0,0,,war ich woller Gewissensbisse
+Dialogue: 0,0:18:39.60,0:18:42.13,Default,,0,0,0,,denn all die ganzen Jahre habe ich gedacht
+Dialogue: 0,0:18:42.13,0:18:43.73,Default,,0,0,0,,ich würde über die Luftverschmutzung des Landes berichten.
+Dialogue: 0,0:18:43.73,0:18:44.70,Default,,0,0,0,,Aber ich dachte immer
+Dialogue: 0,0:18:44.70,0:18:47.41,Default,,0,0,0,,es wird nur "Luftverschmutzung" genannt, wenn man Explosionen in Minen hört
+Dialogue: 0,0:18:47.41,0:18:49.52,Default,,0,0,0,,er wird nur "Luftverschmutzung" genannt, wenn man Rauch aus Schornsteinen sieht.
+Dialogue: 0,0:18:49.52,0:18:52.38,Default,,0,0,0,,Ich dachte nie, dass es die unter uns, die in Metropolen lebten, betraf.
+Dialogue: 0,0:18:52.38,0:18:53.90,Default,,0,0,0,,Die Luft, die wir jeden Tag sahen
+Dialogue: 0,0:18:53.90,0:18:54.90,Default,,0,0,0,,war auch verschmutzt.
+Dialogue: 0,0:18:54.90,0:18:56.53,Default,,0,0,0,,Als ich keine Reporterin mehr war
+Dialogue: 0,0:18:56.53,0:18:58.53,Default,,0,0,0,,war ich bereits zum Zuschauer geworden.
+Dialogue: 0,0:18:59.54,0:19:01.32,Default,,0,0,0,,Aber ich hatte immernoch eine Frage
+Dialogue: 0,0:19:01.32,0:19:03.32,Default,,0,0,0,,Wenn es wirklich so war,
+Dialogue: 0,0:19:03.32,0:19:04.84,Default,,0,0,0,,als ich jung war hatte jede Familie
+Dialogue: 0,0:19:04.84,0:19:06.48,Default,,0,0,0,,einen Kerosinofen, richtig?
+Dialogue: 0,0:19:06.48,0:19:07.77,Default,,0,0,0,,Jede Nacht wachten wir auf
+Dialogue: 0,0:19:07.77,0:19:09.60,Default,,0,0,0,,durch den Geruch des Rauchs
+Dialogue: 0,0:19:09.60,0:19:12.12,Default,,0,0,0,,Wie kommt es, dass ich damals nie von Leuten gehört hatte, die Lungenkrebs bekamen?
+Dialogue: 0,0:19:12.12,0:19:13.65,Default,,0,0,0,,Ich habe diese Frage immer wieder gestellt
+Dialogue: 0,0:19:13.67,0:19:15.22,Default,,0,0,0,,Bis ich Professor He Xingzhou traf,
+Dialogue: 0,0:19:15.22,0:19:17.65,Default,,0,0,0,,der diese Thema seit 30 Jahren untersucht.
+Dialogue: 0,0:19:17.65,0:19:19.65,Default,,0,0,0,,Er gab mir ein Buch Daten
+Dialogue: 0,0:19:20.05,0:19:21.45,Default,,0,0,0,,Dieses.
+Dialogue: 0,0:19:21.45,0:19:29.39,Default,,0,0,0,,Eine Untersuchung der Beziehung zwischen Luftverschmutzung und Todesursachen in 26 chinesischen Städten von 1976-1981
+Dialogue: 0,0:19:29.39,0:19:30.77,Default,,0,0,0,,Dadurch ist klar ersichtlich
+Dialogue: 0,0:19:30.80,0:19:32.81,Default,,0,0,0,,Die Zusammenfassung ist auf dem Beamer zu sehen.
+Dialogue: 0,0:19:32.81,0:19:34.01,Default,,0,0,0,,Es ist ganz einfach
+Dialogue: 0,0:19:34.01,0:19:35.62,Default,,0,0,0,,Die Luftversmutzung damals
+Dialogue: 0,0:19:35.62,0:19:38.72,Default,,0,0,0,,korrelierte bereits mit der Todesrate durch Lungenkrebs
+Dialogue: 0,0:19:38.72,0:19:41.12,Default,,0,0,0,,Die Luftverschmutzung damals entstand durch die Verbrennung von Kohle.
+Dialogue: 0,0:19:41.12,0:19:43.22,Default,,0,0,0,,Es war tatsächlich so, dass diese Daten
+Dialogue: 0,0:19:43.22,0:19:45.22,Default,,0,0,0,,als "interne Information" betrachtet wurden.
+Dialogue: 0,0:19:47.42,0:19:48.62,Default,,0,0,0,,Es ist nicht so, dass die Leute damals
+Dialogue: 0,0:19:48.62,0:19:49.66,Default,,0,0,0,,den erdrückenden Rauch nicht riechen konnten.
+Dialogue: 0,0:19:49.66,0:19:51.66,Default,,0,0,0,,Aber die Wärme und Energie, die Kohle brachte,
+Dialogue: 0,0:19:51.66,0:19:52.78,Default,,0,0,0,,war damals wichtiger.
+Dialogue: 0,0:19:52.78,0:19:54.06,Default,,0,0,0,,In den 80ern
+Dialogue: 0,0:19:54.06,0:19:55.94,Default,,0,0,0,,gab es 3700 Fabriken in Peking.
+Dialogue: 0,0:19:56.10,0:19:58.46,Default,,0,0,0,,Für ein Land der Agrarkultur, nach Entwicklung strebend,
+Dialogue: 0,0:19:58.46,0:20:00.66,Default,,0,0,0,,waren Schornsteine ein Zeichen des Fortschritts.
 Dialogue: 0,0:20:00.66,0:20:03.02,Default,,0,0,0,,For some people, they are just two smokestacks
 Dialogue: 0,0:20:03.02,0:20:05.74,Default,,0,0,0,,For some people, they are reference points to direct you home
 Dialogue: 0,0:20:06.46,0:20:08.82,Default,,0,0,0,,We had absolutely no experience or consciousness of pollution

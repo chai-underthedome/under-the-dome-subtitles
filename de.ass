@@ -687,9 +687,9 @@ Dialogue: 0,0:27:06.38,0:27:10.06,Default,,0,0,0,,Es starben 12000 Menschen im S
 Dialogue: 0,0:27:10.06,0:27:11.30,Default,,0,0,0,,Die Lungen der Toten wurden untersucht
 Dialogue: 0,0:27:11.30,0:27:13.50,Default,,0,0,0,,und nähere Prüfung ergab, sie starben, da sie
 Dialogue: 0,0:27:13.50,0:27:15.90,Default,,0,0,0,,in ausgedehntem Maß Industrieruß ausgesetzt waren, einem Nebenprodukt der Kohleverbrennung
-Dialogue: 0,0:27:15.90,0:27:17.98,Default,,0,0,0,,und einer kurzzeitigen Mehrbelastung durch 
+Dialogue: 0,0:27:15.90,0:27:17.98,Default,,0,0,0,,und einer kurzzeitigen Mehrbelastung durch
 Dialogue: 0,0:27:17.98,0:27:19.22,Default,,0,0,0,,hochkonzentrierten Feinstaub mit Schwermetallen
-Dialogue: 0,0:27:19.22,0:27:21.26,Default,,0,0,0,,Die "Coalition for Clean Air" berechnete, 
+Dialogue: 0,0:27:19.22,0:27:21.26,Default,,0,0,0,,Die "Coalition for Clean Air" berechnete,
 Dialogue: 0,0:27:21.26,0:27:22.66,Default,,0,0,0,,die Konzentration der Vermutzung in London damals
 Dialogue: 0,0:27:22.66,0:27:24.58,Default,,0,0,0,,hat die Chinas um Längen übertroffen.
 Dialogue: 0,0:27:24.58,0:27:26.50,Default,,0,0,0,,PM2.5 damals jedoch nicht gemessen wurde.
@@ -707,7 +707,7 @@ Dialogue: 0,0:27:55.22,0:27:56.78,Default,,0,0,0,,Und es beschloss, diese Energi
 Dialogue: 0,0:27:56.78,0:27:58.06,Default,,0,0,0,,Diese Kurve zeigt das Wachstum von Kohle als Energiequelle.
 Dialogue: 0,0:28:00.14,0:28:03.10,Default,,0,0,0,,Indien ist auf einem ähnlichen Weg.
 Dialogue: 0,0:28:03.10,0:28:06.54,Default,,0,0,0,,Indien wird in naher Zukunft der zweitgrößte Kohle-Konsument sein.
-Dialogue: 0,0:28:06.54,0:28:08.18,Default,,0,0,0,,Aber bis jetzt hat Indien noch keine Standards 
+Dialogue: 0,0:28:06.54,0:28:08.18,Default,,0,0,0,,Aber bis jetzt hat Indien noch keine Standards
 Dialogue: 0,0:28:08.18,0:28:11.06,Default,,0,0,0,,für den Ausstoß in seiner Industrie wichtigen Schadstoffe gesetzt
 Dialogue: 0,0:28:11.06,0:28:14.34,Default,,0,0,0,,Indien leidet ebenfalls an schwerer Luftverschmutzung.
 Dialogue: 0,0:28:14.34,0:28:17.46,Default,,0,0,0,,Wo wird nun die ganze Kohle in China verwendet?
@@ -748,564 +748,564 @@ Dialogue: 0,0:29:55.54,0:29:58.38,Default,,0,0,0,,der an den Kanten austritt.
 Dialogue: 0,0:29:58.70,0:29:59.74,Default,,0,0,0,,Dieser Rauch
 Dialogue: 0,0:29:59.74,0:30:01.18,Default,,0,0,0,,wird unkontrolliert ausgestoßen
 Dialogue: 0,0:30:01.18,0:30:02.34,Default,,0,0,0,,und in die Atmosphäre gebracht.
-Dialogue: 0,0:30:02.34,0:30:03.98,Default,,0,0,0,,Why aren't you using the dust filters?
-Dialogue: 0,0:30:03.98,0:30:05.10,Default,,0,0,0,,We are using them
-Dialogue: 0,0:30:05.10,0:30:07.18,Default,,0,0,0,,Then why is there so much smoke?
-Dialogue: 0,0:30:10.50,0:30:11.98,Default,,0,0,0,,They are operating, see it's being sucked up
-Dialogue: 0,0:30:17.82,0:30:19.78,Default,,0,0,0,,Oh my god, have a look underneath
-Dialogue: 0,0:30:19.78,0:30:20.46,Default,,0,0,0,,I'm going down to see
-Dialogue: 0,0:30:20.46,0:30:23.02,Default,,0,0,0,,This has to be the most dangerous thing I've done in my career, my life
-Dialogue: 0,0:30:23.02,0:30:24.26,Default,,0,0,0,,Oh my god, it's too terrifying
+Dialogue: 0,0:30:02.34,0:30:03.98,Default,,0,0,0,,Warum benutzen sie keine Rauchfilter?
+Dialogue: 0,0:30:03.98,0:30:05.10,Default,,0,0,0,,Die benutzen wir.
+Dialogue: 0,0:30:05.10,0:30:07.18,Default,,0,0,0,,Warum ist da dann so viel Rauch?
+Dialogue: 0,0:30:10.50,0:30:11.98,Default,,0,0,0,,Sie funktionieren, sehen Sie, es wird eingesaugt.
+Dialogue: 0,0:30:17.82,0:30:19.78,Default,,0,0,0,,Oh Gott, schauen Sie mal hinunter
+Dialogue: 0,0:30:19.78,0:30:20.46,Default,,0,0,0,,Ich gehe nach unten, um es anzusehen
+Dialogue: 0,0:30:20.46,0:30:23.02,Default,,0,0,0,,Das muss die gefährlichste Sache sein, die ich in meiner Karriere getan habe, in meinem Leben.
+Dialogue: 0,0:30:23.02,0:30:24.26,Default,,0,0,0,,Oh Gott, das ist beängstigend
 Dialogue: 0,0:30:24.34,0:30:25.46,Default,,0,0,0,,Stop, stop, stop
-Dialogue: 0,0:30:25.70,0:30:26.54,Default,,0,0,0,,Someone fell
-Dialogue: 0,0:30:29.46,0:30:31.50,Default,,0,0,0,,The person who fell was Inspector Zhang Dawei
-Dialogue: 0,0:30:31.50,0:30:32.70,Default,,0,0,0,,from the MEP North China Bureau of Environmental Supervision
-Dialogue: 0,0:30:32.70,0:30:34.54,Default,,0,0,0,,We were all scared at the time
-Dialogue: 0,0:30:34.54,0:30:38.38,Default,,0,0,0,,because there weren't any lights or warning signs in the factory
-Dialogue: 0,0:30:38.38,0:30:41.74,Default,,0,0,0,,There was a pit about 3 meters deep filled with steel and cement
-Dialogue: 0,0:30:41.74,0:30:44.42,Default,,0,0,0,,Dawei wanted to go down and check for emissions from this place
-Dialogue: 0,0:30:44.42,0:30:46.14,Default,,0,0,0,,and he fell in
-Dialogue: 0,0:30:46.14,0:30:47.82,Default,,0,0,0,,Fortunately he wasn't injured seriously
-Dialogue: 0,0:30:47.82,0:30:50.58,Default,,0,0,0,,so we took him to the hospital and then back to Beijing that night
-Dialogue: 0,0:30:51.94,0:30:55.06,Default,,0,0,0,,But what surprised me most was we put in so much effort,
-Dialogue: 0,0:30:55.06,0:30:58.77,Default,,0,0,0,,had so much trouble, and despite finding clear evidence of pollution
-Dialogue: 0,0:30:58.77,0:31:01.78,Default,,0,0,0,,in the end, this company was not penalized in any way
-Dialogue: 0,0:31:03.14,0:31:04.16,Default,,0,0,0,,I asked Dawei why
-Dialogue: 0,0:31:04.17,0:31:05.57,Default,,0,0,0,,He said, “You should ask my boss”
+Dialogue: 0,0:30:25.70,0:30:26.54,Default,,0,0,0,,Jemand ist gestürzt
+Dialogue: 0,0:30:29.46,0:30:31.50,Default,,0,0,0,,Die gestürzte Person war Inspector Zhang Dawei
+Dialogue: 0,0:30:31.50,0:30:32.70,Default,,0,0,0,,vom MEP North China Bureau of Environmental Supervision
+Dialogue: 0,0:30:32.70,0:30:34.54,Default,,0,0,0,,Wir waren alle verängstigt,
+Dialogue: 0,0:30:34.54,0:30:38.38,Default,,0,0,0,,denn es gab kein Licht und auch keine Warnschilder.
+Dialogue: 0,0:30:38.38,0:30:41.74,Default,,0,0,0,,Da war ein Loch. 3 Meter tief und gefüllt mit Stahl und Zement.
+Dialogue: 0,0:30:41.74,0:30:44.42,Default,,0,0,0,,Dawei wollte hinunter gehen um die Emmission zu prüfen
+Dialogue: 0,0:30:44.42,0:30:46.14,Default,,0,0,0,,und fiel hinein.
+Dialogue: 0,0:30:46.14,0:30:47.82,Default,,0,0,0,,Glücklicherweise wurde er nicht schwer verletzt.
+Dialogue: 0,0:30:47.82,0:30:50.58,Default,,0,0,0,,Wir brachten in noch in dieser Nacht ins Pekinger Krankenhaus.
+Dialogue: 0,0:30:51.94,0:30:55.06,Default,,0,0,0,,Am meisten überraschte mich nach all diesen Anstrengungen,
+Dialogue: 0,0:30:55.06,0:30:58.77,Default,,0,0,0,,nach so viel Ärger und ungeachtet der klaren Beweise für Umweltverschmutzung
+Dialogue: 0,0:30:58.77,0:31:01.78,Default,,0,0,0,,wurde die Firma am Ende nicht einmal bestraft.
+Dialogue: 0,0:31:03.14,0:31:04.16,Default,,0,0,0,,Ich fragte Dawei warum.
+Dialogue: 0,0:31:04.17,0:31:05.57,Default,,0,0,0,,Er sagte, “Das solltest Du meinen Chef fragen.”
 Dialogue: 0,0:31:05.57,0:31:06.70,Default,,0,0,0,,Xiong Yuehui - MEP Department of Science, Technology and Standards
-Dialogue: 0,0:31:06.70,0:31:09.90,Default,,0,0,0,,Over 60% of steel firms
-Dialogue: 0,0:31:09.90,0:31:11.46,Default,,0,0,0,,have not completed the approval process
-Dialogue: 0,0:31:11.46,0:31:13.30,Default,,0,0,0,,They did not bother to consult environmental protection law
-Dialogue: 0,0:31:13.30,0:31:15.78,Default,,0,0,0,,but only tried to stop the approval process
-Dialogue: 0,0:31:15.78,0:31:18.90,Default,,0,0,0,,They stopped the approval process whether production is legal or not
-Dialogue: 0,0:31:18.90,0:31:22.06,Default,,0,0,0,,They know there is no chance, so they act with utter recklessness
-Dialogue: 0,0:31:22.06,0:31:23.30,Default,,0,0,0,,Their operations are completely unlicensed
-Dialogue: 0,0:31:23.30,0:31:26.90,Default,,0,0,0,,The inspectors don't even want to go or touch this industry in any way
-Dialogue: 0,0:31:26.90,0:31:28.90,Default,,0,0,0,,Can you really shut them down?
-Dialogue: 0,0:31:28.90,0:31:30.54,Default,,0,0,0,,Can you really stop them?
-Dialogue: 0,0:31:30.54,0:31:31.90,Default,,0,0,0,,Why can't we shut them down?
-Dialogue: 0,0:31:31.90,0:31:33.22,Default,,0,0,0,,You must be kidding
-Dialogue: 0,0:31:33.22,0:31:35.18,Default,,0,0,0,,How many jobs do you create when you produce ten million tons of steel?
-Dialogue: 0,0:31:35.18,0:31:36.54,Default,,0,0,0,,One hundred thousand jobs
-Dialogue: 0,0:31:36.78,0:31:39.10,Default,,0,0,0,,How important is the steel industry in Hebei?
-Dialogue: 0,0:31:39.10,0:31:42.86,Default,,0,0,0,,It's so important that you can’t simply shut them down
-Dialogue: 0,0:31:43.10,0:31:46.90,Default,,0,0,0,,This province has a huge amount of heavy industry scattered throughout it,
-Dialogue: 0,0:31:46.90,0:31:48.54,Default,,0,0,0,,consuming large quantities of coal,
-Dialogue: 0,0:31:48.54,0:31:52.06,Default,,0,0,0,,without effective pollution controls
-Dialogue: 0,0:31:52.06,0:31:53.74,Default,,0,0,0,,and the industries can not be forced to shut down
-Dialogue: 0,0:31:53.74,0:31:55.10,Default,,0,0,0,,What are the consequences of this?
-Dialogue: 0,0:31:55.10,0:31:56.58,Default,,0,0,0,,I have a good friend, Hao
-Dialogue: 0,0:31:56.58,0:31:58.10,Default,,0,0,0,,who was also colleague of mine on {\i1}News Investigation{\i0}
-Dialogue: 0,0:31:58.10,0:31:59.30,Default,,0,0,0,,She was the one who went with me ten years ago
-Dialogue: 0,0:31:59.30,0:32:00.78,Default,,0,0,0,,to Shanxi to report on the local pollution
-Dialogue: 0,0:32:00.78,0:32:02.30,Default,,0,0,0,,She knew I was from Linfen (in Shanxi) and
-Dialogue: 0,0:32:02.30,0:32:03.94,Default,,0,0,0,,sometimes she would jokingly send me pictures
-Dialogue: 0,0:32:03.94,0:32:05.58,Default,,0,0,0,,She would say, “I heard your hometown is now
-Dialogue: 0,0:32:05.58,0:32:08.58,Default,,0,0,0,,the most polluted city on the planet.”
-Dialogue: 0,0:32:08.58,0:32:09.70,Default,,0,0,0,,I was speechless
-Dialogue: 0,0:32:09.70,0:32:12.94,Default,,0,0,0,,But after 10 years I sent this picture to her
-Dialogue: 0,0:32:15.70,0:32:16.74,Default,,0,0,0,,Let’s take a closer look
-Dialogue: 0,0:32:19.54,0:32:21.70,Default,,0,0,0,,Celebrating the fact that our city's air
-Dialogue: 0,0:32:21.70,0:32:24.22,Default,,0,0,0,,is no longer the most polluted of 74 cities in China (laughter)
-Dialogue: 0,0:32:24.22,0:32:26.42,Default,,0,0,0,,This was a real banner in Hebei
-Dialogue: 0,0:32:26.42,0:32:29.94,Default,,0,0,0,,Unfortunately, this city was once again the most polluted city on the list (3 months later)
-Dialogue: 0,0:32:29.94,0:32:34.42,Default,,0,0,0,,But this kind of joke really makes me sad
-Dialogue: 0,0:32:34.42,0:32:37.06,Default,,0,0,0,,And for people living in Beijing
-Dialogue: 0,0:32:37.06,0:32:39.26,Default,,0,0,0,,every time the wind blows from the south
-Dialogue: 0,0:32:39.26,0:32:41.30,Default,,0,0,0,,the pollution from Hebei moves towards us like this
-Dialogue: 0,0:32:41.30,0:32:43.86,Default,,0,0,0,,You can't keep the air out with a wall
-Dialogue: 0,0:32:43.86,0:32:45.90,Default,,0,0,0,,So this what they mean when they say
-Dialogue: 0,0:32:45.90,0:32:47.78,Default,,0,0,0,,“Breath together and live together”
-Dialogue: 0,0:32:47.78,0:32:49.94,Default,,0,0,0,,I have another friend, called Fan
-Dialogue: 0,0:32:49.94,0:32:52.10,Default,,0,0,0,,She is from Jiangsu
-Dialogue: 0,0:32:52.10,0:32:53.78,Default,,0,0,0,,I used to argue with Hao
-Dialogue: 0,0:32:53.78,0:32:56.02,Default,,0,0,0,,about which province is more polluted, Hebei or Shanxi
-Dialogue: 0,0:32:56.02,0:32:57.50,Default,,0,0,0,,Fan used to say, offhand
-Dialogue: 0,0:32:57.50,0:32:59.90,Default,,0,0,0,,“Well, we southerners don't really have any pollution”
-Dialogue: 0,0:33:01.38,0:33:02.98,Default,,0,0,0,,Now Eastern China also experiences severe pollution
-Dialogue: 0,0:33:05.46,0:33:06.22,Default,,0,0,0,,But Fan was quite surprised
-Dialogue: 0,0:33:06.22,0:33:08.38,Default,,0,0,0,,She said, “It’s impossible,
-Dialogue: 0,0:33:08.38,0:33:10.26,Default,,0,0,0,,at least Eastern China’s pollution can't have anything to do with coal
-Dialogue: 0,0:33:10.26,0:33:12.02,Default,,0,0,0,,because I’ve never seen coal in my whole life”
-Dialogue: 0,0:33:12.02,0:33:12.86,Default,,0,0,0,,Right
-Dialogue: 0,0:33:12.86,0:33:15.38,Default,,0,0,0,,I showed her this image
-Dialogue: 0,0:33:15.38,0:33:17.54,Default,,0,0,0,,These are the iron and steel factories near your house
-Dialogue: 0,0:33:17.54,0:33:19.38,Default,,0,0,0,,These are power plants near your house
-Dialogue: 0,0:33:19.38,0:33:22.70,Default,,0,0,0,,These are cement factories near your house
-Dialogue: 0,0:33:22.70,0:33:26.54,Default,,0,0,0,,In Jiangsu there’s one power plant for every 30 square kilometers
-Dialogue: 0,0:33:26.54,0:33:29.42,Default,,0,0,0,,And what is the current state of emissions from these companies?
-Dialogue: 0,0:33:29.42,0:33:33.94,Default,,0,0,0,,Here we can see their emissions in real time
-Dialogue: 0,0:33:33.94,0:33:36.34,Default,,0,0,0,,The red spots indicate emissions exceeding the standards
-Dialogue: 0,0:33:36.34,0:33:37.90,Default,,0,0,0,,As we zoom in,
-Dialogue: 0,0:33:37.90,0:33:39.26,Default,,0,0,0,,you can see how many firms in the east
-Dialogue: 0,0:33:39.26,0:33:42.54,Default,,0,0,0,,are emitting pollutants in excess of the limits
-Dialogue: 0,0:33:42.54,0:33:44.22,Default,,0,0,0,,Among them, Shanghai
-Dialogue: 0,0:33:44.22,0:33:45.82,Default,,0,0,0,,which burns a lot of coal itself,
-Dialogue: 0,0:33:45.82,0:33:48.54,Default,,0,0,0,,is burning the largest quantity of coal per unit of area
-Dialogue: 0,0:33:48.54,0:33:49.78,Default,,0,0,0,,of all the metropolitan cities
-Dialogue: 0,0:33:49.78,0:33:51.22,Default,,0,0,0,,10 kilograms of coal are burned
-Dialogue: 0,0:33:51.22,0:33:52.98,Default,,0,0,0,,for every square meter of land
-Dialogue: 0,0:33:52.98,0:33:56.06,Default,,0,0,0,,What are the consequences of burning more coal?
-Dialogue: 0,0:33:56.06,0:33:57.86,Default,,0,0,0,,One problem I never thought about
-Dialogue: 0,0:33:57.86,0:33:59.86,Default,,0,0,0,,is that high quality coal will become increasingly scarce
-Dialogue: 0,0:33:59.86,0:34:00.46,Default,,0,0,0,,Right?
-Dialogue: 0,0:34:00.46,0:34:01.58,Default,,0,0,0,,So what should we do?
-Dialogue: 0,0:34:01.58,0:34:04.02,Default,,0,0,0,,So lower quality coal will become more common
-Dialogue: 0,0:34:04.02,0:34:06.38,Default,,0,0,0,,How low can the quality be?
-Dialogue: 0,0:34:06.38,0:34:08.22,Default,,0,0,0,,This is common coal
-Dialogue: 0,0:34:08.22,0:34:11.78,Default,,0,0,0,,What about this, is this coal too?
-Dialogue: 0,0:34:11.78,0:34:13.10,Default,,0,0,0,,At first I did not think this was coal
-Dialogue: 0,0:34:13.10,0:34:14.06,Default,,0,0,0,,this must be wood,
-Dialogue: 0,0:34:14.06,0:34:17.02,Default,,0,0,0,,you can still see the texture and fossils on top
-Dialogue: 0,0:34:17.02,0:34:18.74,Default,,0,0,0,,But people from coal washing factories told me that
-Dialogue: 0,0:34:18.74,0:34:19.38,Default,,0,0,0,,this is really coal
-Dialogue: 0,0:34:19.38,0:34:20.62,Default,,0,0,0,,It's called lignite, or brown coal
-Dialogue: 0,0:34:20.62,0:34:22.26,Default,,0,0,0,,It’s the youngest coal in the world
-Dialogue: 0,0:34:22.26,0:34:24.54,Default,,0,0,0,,It’s so young that the level of coalification is extremely low
-Dialogue: 0,0:34:24.54,0:34:26.14,Default,,0,0,0,,When it is burnt, half of it
-Dialogue: 0,0:34:26.14,0:34:28.98,Default,,0,0,0,,will turn to black smog, floating in the air
-Dialogue: 0,0:34:28.98,0:34:30.90,Default,,0,0,0,,How much brown coal have we used?
-Dialogue: 0,0:34:30.90,0:34:35.10,Default,,0,0,0,,This is a graph of brown coal production in recent years
-Dialogue: 0,0:34:35.10,0:34:36.82,Default,,0,0,0,,And these are the consequences
-Dialogue: 0,0:34:36.82,0:34:39.50,Default,,0,0,0,,On October 21, 2013
-Dialogue: 0,0:34:39.50,0:34:41.82,Default,,0,0,0,,on the first day the district heating was turned on in Harbin
-Dialogue: 0,0:34:41.82,0:34:42.98,Default,,0,0,0,,There was so much smog that
-Dialogue: 0,0:34:42.98,0:34:45.34,Default,,0,0,0,,that PM2.5 index exceeded 1000
-Dialogue: 0,0:34:45.34,0:34:47.26,Default,,0,0,0,,This was how Harbin people spent that day
-Dialogue: 0,0:34:49.10,0:34:51.50,Default,,0,0,0,,I talked with people from Harbin’s environmental protection bureau
-Dialogue: 0,0:34:51.50,0:34:55.14,Default,,0,0,0,,and mentioned that I heard buses got lost over those two days
-Dialogue: 0,0:34:55.14,0:34:56.86,Default,,0,0,0,,He smiled bitterly and said
-Dialogue: 0,0:34:56.86,0:34:59.75,Default,,0,0,0,,Never mind the buses, even our own bureau director got lost (laughter)
-Dialogue: 0,0:35:00.34,0:35:02.86,Default,,0,0,0,,He said when he was inspecting sites on that day
-Dialogue: 0,0:35:02.86,0:35:06.06,Default,,0,0,0,,nobody recognized him because of the smog
-Dialogue: 0,0:35:06.06,0:35:07.06,Default,,0,0,0,,The smog in Harbin
-Dialogue: 0,0:35:07.06,0:35:08.18,Default,,0,0,0,,was caused by burning
-Dialogue: 0,0:35:08.18,0:35:09.90,Default,,0,0,0,,over 20 million tons of brown coal
-Dialogue: 0,0:35:09.90,0:35:13.90,Default,,0,0,0,,Plus, in 2013, several hundred thousand coal burning boilers like these across China
-Dialogue: 0,0:35:13.90,0:35:15.26,Default,,0,0,0,,did not comply with any environmental standard
-Dialogue: 0,0:35:15.26,0:35:16.90,Default,,0,0,0,,and were not regulated at all
-Dialogue: 0,0:35:16.90,0:35:17.70,Default,,0,0,0,,The coal was burned
-Dialogue: 0,0:35:17.70,0:35:18.50,Default,,0,0,0,,and pollutants were emitted
-Dialogue: 0,0:35:18.50,0:35:19.78,Default,,0,0,0,,and released into the atmosphere
-Dialogue: 0,0:35:19.78,0:35:21.94,Default,,0,0,0,,When you look down from above
-Dialogue: 0,0:35:21.94,0:35:23.86,Default,,0,0,0,,it was as if 12 million people were
-Dialogue: 0,0:35:23.86,0:35:26.86,Default,,0,0,0,,buried under cement
-Dialogue: 0,0:35:26.86,0:35:29.34,Default,,0,0,0,,Coal itself does not mean pollution
-Dialogue: 0,0:35:29.34,0:35:31.42,Default,,0,0,0,,Germany also uses brown coal
-Dialogue: 0,0:35:31.42,0:35:34.38,Default,,0,0,0,,But in Germany they first clean and wash the brown coal to improve its quality
-Dialogue: 0,0:35:34.38,0:35:35.90,Default,,0,0,0,,Coal can be cleaned
-Dialogue: 0,0:35:35.90,0:35:38.90,Default,,0,0,0,,The British wash 95% of their coal
-Dialogue: 0,0:35:38.90,0:35:41.26,Default,,0,0,0,,And what about China?
-Dialogue: 0,0:35:41.26,0:35:44.86,Default,,0,0,0,,We wash less than half of our coal
-Dialogue: 0,0:35:44.86,0:35:47.90,Default,,0,0,0,,The other half, nearly several hundred million tons of coal
-Dialogue: 0,0:35:47.90,0:35:50.34,Default,,0,0,0,,contained the practically useless and highly polluting and inefficient
-Dialogue: 0,0:35:50.34,0:35:51.74,Default,,0,0,0,,material called ash
-Dialogue: 0,0:35:51.74,0:35:54.30,Default,,0,0,0,,But we transport it with trains, with trucks
-Dialogue: 0,0:35:54.30,0:35:57.42,Default,,0,0,0,,around the world and burn it in cooking stoves
-Dialogue: 0,0:35:57.42,0:35:59.42,Default,,0,0,0,,Completely useless
-Dialogue: 0,0:35:59.42,0:36:00.94,Default,,0,0,0,,The result is
-Dialogue: 0,0:36:00.94,0:36:04.14,Default,,0,0,0,,that most of the brown coal is burnt in people's homes
-Dialogue: 0,0:36:04.14,0:36:05.42,Default,,0,0,0,,Even in urban areas in China,
-Dialogue: 0,0:36:05.42,0:36:07.50,Default,,0,0,0,,one quarter of people burn brown coal
-Dialogue: 0,0:36:08.34,0:36:09.34,Default,,0,0,0,,They don't burn a lot of coal
-Dialogue: 0,0:36:09.34,0:36:10.54,Default,,0,0,0,,only 20 percent of the country's total
-Dialogue: 0,0:36:10.54,0:36:12.62,Default,,0,0,0,,but the sulfur dioxide emitted from this burning
-Dialogue: 0,0:36:13.26,0:36:16.38,Default,,0,0,0,,is equivalent to the emissions from all the power plants together
-Dialogue: 0,0:36:16.38,0:36:18.30,Default,,0,0,0,,That's how much of a difference washing coal can make
-Dialogue: 0,0:36:18.30,0:36:21.30,Default,,0,0,0,,The most terrifying thing is, it’s highly toxic
-Dialogue: 0,0:36:21.30,0:36:24.34,Default,,0,0,0,,In Beijing, the toxicity of PM2.5 during winter
-Dialogue: 0,0:36:24.34,0:36:27.02,Default,,0,0,0,,is far greater than it in summer
-Dialogue: 0,0:36:27.02,0:36:28.30,Default,,0,0,0,,The carcinogen content in winter
-Dialogue: 0,0:36:28.30,0:36:29.90,Default,,0,0,0,,is 25 times higher than in summer
-Dialogue: 0,0:36:29.90,0:36:31.18,Default,,0,0,0,,Why is PM2.5 so toxic in winter?
-Dialogue: 0,0:36:31.18,0:36:34.10,Default,,0,0,0,,Mostly because people are burning scrap coal
-Dialogue: 0,0:36:34.10,0:36:36.26,Default,,0,0,0,,This type of coal emits an extremely large quantity of carcinogens
-Dialogue: 0,0:36:37.50,0:36:38.66,Default,,0,0,0,,For many years Chinese people
-Dialogue: 0,0:36:38.66,0:36:41.66,Default,,0,0,0,,have been suffering from the consequences of burning scrap coal
-Dialogue: 0,0:36:42.58,0:36:43.90,Default,,0,0,0,,In Xuanwei (Yunnan) there’s a town called Hutou
-Dialogue: 0,0:36:43.90,0:36:45.02,Default,,0,0,0,,Burning scrap coal means it now has
-Dialogue: 0,0:36:45.02,0:36:47.82,Default,,0,0,0,,one of the highest incidence rates of lung cancer in the world
-Dialogue: 0,0:36:50.86,0:36:52.82,Default,,0,0,0,,This person is in the late stages of lung cancer
-Dialogue: 0,0:36:52.82,0:36:54.46,Default,,0,0,0,,He was coughing up blood
-Dialogue: 0,0:36:54.46,0:36:57.34,Default,,0,0,0,,He was too weak to brush away the mosquitoes
-Dialogue: 0,0:36:57.34,0:37:01.18,Default,,0,0,0,,so he asked someone to put flypaper on his body
-Dialogue: 0,0:37:04.18,0:37:06.66,Default,,0,0,0,,This old man was photographed with all the people close to him
-Dialogue: 0,0:37:06.66,0:37:09.18,Default,,0,0,0,,whose lives were taken by lung cancer over these years
-Dialogue: 0,0:37:11.86,0:37:14.38,Default,,0,0,0,,There are even entire families that have been wiped out
-Dialogue: 0,0:37:15.86,0:37:18.70,Default,,0,0,0,,We always hear that that China is still a developing country,
-Dialogue: 0,0:37:18.70,0:37:20.50,Default,,0,0,0,,and that environmental protection is a luxury we cannot afford
-Dialogue: 0,0:37:21.50,0:37:23.82,Default,,0,0,0,,But it’s often the poorest people
-Dialogue: 0,0:37:23.82,0:37:25.02,Default,,0,0,0,,who suffer the most from pollution
-Dialogue: 0,0:37:25.02,0:37:27.10,Default,,0,0,0,,They are the most likely to be hurt
-Dialogue: 0,0:37:27.10,0:37:29.14,Default,,0,0,0,,They are the ones whose voices need most to be heard
-Dialogue: 0,0:37:29.14,0:37:30.74,Default,,0,0,0,,They need help the most
+Dialogue: 0,0:31:06.70,0:31:09.90,Default,,0,0,0,,Mehr als 60% der Stahl-Firmen
+Dialogue: 0,0:31:09.90,0:31:11.46,Default,,0,0,0,,haben den Zulassungsprozess nicht abgeschlossen.
+Dialogue: 0,0:31:11.46,0:31:13.30,Default,,0,0,0,,Sie kümmerten sich nicht um das Umweltschutzgesetz,
+Dialogue: 0,0:31:13.30,0:31:15.78,Default,,0,0,0,,nur darum, den Prüfungsprozess zu verhindern.
+Dialogue: 0,0:31:15.78,0:31:18.90,Default,,0,0,0,,Sie haben die Prüfung gestoppt, ob die Produktion legal war oder nicht.
+Dialogue: 0,0:31:18.90,0:31:22.06,Default,,0,0,0,,Sie wissen, es gibt keine Chance und gehen vöölig rücksichtlos vor.
+Dialogue: 0,0:31:22.06,0:31:23.30,Default,,0,0,0,,Der Betrieb ist unlizensiert.
+Dialogue: 0,0:31:23.30,0:31:26.90,Default,,0,0,0,,Die Inspektoren wollen garnicht mit dieser Industrie in Kontakt kommen.
+Dialogue: 0,0:31:26.90,0:31:28.90,Default,,0,0,0,,Kann man sie wirklich schließen?
+Dialogue: 0,0:31:28.90,0:31:30.54,Default,,0,0,0,,Kann man sie aufhalten?
+Dialogue: 0,0:31:30.54,0:31:31.90,Default,,0,0,0,,Warum können wir sie nicht abschalten?
+Dialogue: 0,0:31:31.90,0:31:33.22,Default,,0,0,0,,Ist das ein Scherz?
+Dialogue: 0,0:31:33.22,0:31:35.18,Default,,0,0,0,,Wie viele Jobs schafft man durch die Produktion von 10 Millionen Tonnen Stahl?
+Dialogue: 0,0:31:35.18,0:31:36.54,Default,,0,0,0,,100000 Jobs
+Dialogue: 0,0:31:36.78,0:31:39.10,Default,,0,0,0,,Wie wichtig ist die Stahlindustrie in Hebei?
+Dialogue: 0,0:31:39.10,0:31:42.86,Default,,0,0,0,,Sie ist so wichtig, man kann sie nicht einfach schließen.
+Dialogue: 0,0:31:43.10,0:31:46.90,Default,,0,0,0,,Diese Provinz ist durchwachsen von Schwerindustrie,
+Dialogue: 0,0:31:46.90,0:31:48.54,Default,,0,0,0,,verbraucht Unmengen Kohle,
+Dialogue: 0,0:31:48.54,0:31:52.06,Default,,0,0,0,,ohne effektive Umweltkontrollen
+Dialogue: 0,0:31:52.06,0:31:53.74,Default,,0,0,0,,und die Anlagen können nicht stillgelegt werden.
+Dialogue: 0,0:31:53.74,0:31:55.10,Default,,0,0,0,,Was sind die Konsequenzen?
+Dialogue: 0,0:31:55.10,0:31:56.58,Default,,0,0,0,,Ich habe eine gute Freundin, Hao,
+Dialogue: 0,0:31:56.58,0:31:58.10,Default,,0,0,0,,Sie war mein Kollegin bei {\i1}News Investigation{\i0}
+Dialogue: 0,0:31:58.10,0:31:59.30,Default,,0,0,0,,Sie war vor 10 Jahren dabei, als wir nach Shanxi gingen
+Dialogue: 0,0:31:59.30,0:32:00.78,Default,,0,0,0,,um über die Umweltverschmutzung zu berichten.
+Dialogue: 0,0:32:00.78,0:32:02.30,Default,,0,0,0,,Sie wusste, ich war aus Linfen (in Shanxi) und 
+Dialogue: 0,0:32:02.30,0:32:03.94,Default,,0,0,0,,manchmal sendete sie mir aus Spaß Bilder.
+Dialogue: 0,0:32:03.94,0:32:05.58,Default,,0,0,0,,Mit den Worten, “Ich hörte, Deine Heimatstadt
+Dialogue: 0,0:32:05.58,0:32:08.58,Default,,0,0,0,,ist die meistverschmutzte Stadt des Planeten.”
+Dialogue: 0,0:32:08.58,0:32:09.70,Default,,0,0,0,,Ich war sprachlos.
+Dialogue: 0,0:32:09.70,0:32:12.94,Default,,0,0,0,,10 Jahre später sendete ich ihr ein Bild.
+Dialogue: 0,0:32:15.70,0:32:16.74,Default,,0,0,0,,Schauen wir das genau an.
+Dialogue: 0,0:32:19.54,0:32:21.70,Default,,0,0,0,,Wir feierten die Tatsache, dass unsere Stadt
+Dialogue: 0,0:32:21.70,0:32:24.22,Default,,0,0,0,,nicht mehr zu den 74 verschmutztesten Städten in China gehört. (Gelächter)
+Dialogue: 0,0:32:24.22,0:32:26.42,Default,,0,0,0,,Das Banner ist wirklich aus Hebei
+Dialogue: 0,0:32:26.42,0:32:29.94,Default,,0,0,0,,Unglüclicherweise waren sie mal wieder oben auf der Liste (3 Monate danach)
+Dialogue: 0,0:32:29.94,0:32:34.42,Default,,0,0,0,,Diese Art Witze macht mich wirklich traurig.
+Dialogue: 0,0:32:34.42,0:32:37.06,Default,,0,0,0,,Für Menschen in Peking
+Dialogue: 0,0:32:37.06,0:32:39.26,Default,,0,0,0,,zieht der Schmutz vom Süden von Hebei
+Dialogue: 0,0:32:39.26,0:32:41.30,Default,,0,0,0,,zu uns wie hier.
+Dialogue: 0,0:32:41.30,0:32:43.86,Default,,0,0,0,,Man kann die Luft nicht mit einer Mauer fernhalten.
+Dialogue: 0,0:32:43.86,0:32:45.90,Default,,0,0,0,,Das meinen sie, wenn sie sagen
+Dialogue: 0,0:32:45.90,0:32:47.78,Default,,0,0,0,,“Atmet zusammen und lebt zusammen”
+Dialogue: 0,0:32:47.78,0:32:49.94,Default,,0,0,0,,Meine andere Freundin, Fan genannt
+Dialogue: 0,0:32:49.94,0:32:52.10,Default,,0,0,0,,Sie ist von Jiangsu
+Dialogue: 0,0:32:52.10,0:32:53.78,Default,,0,0,0,,Ich habe oft mit Hao diskutiert
+Dialogue: 0,0:32:53.78,0:32:56.02,Default,,0,0,0,,welche Provinz verschmutzter ist, Hebei oder Shanxi
+Dialogue: 0,0:32:56.02,0:32:57.50,Default,,0,0,0,,Fan sagte immer lässig
+Dialogue: 0,0:32:57.50,0:32:59.90,Default,,0,0,0,,“Naja, im Süden haben wir nicht wirklich Luftverschmutzung”
+Dialogue: 0,0:33:01.38,0:33:02.98,Default,,0,0,0,,Ost-China hat nun auch Probleme mit Luftverschmutzung.
+Dialogue: 0,0:33:05.46,0:33:06.22,Default,,0,0,0,,Aber Fan war sehr überrascht.
+Dialogue: 0,0:33:06.22,0:33:08.38,Default,,0,0,0,,Sie sagte, “Das ist unmöglich,
+Dialogue: 0,0:33:08.38,0:33:10.26,Default,,0,0,0,,zumindest kann Ost-China’s Luftverschmutzung nicht von Kohle kommen.
+Dialogue: 0,0:33:10.26,0:33:12.02,Default,,0,0,0,,denn ich habe mein ganzes Leben keine Kohle gesehen”
+Dialogue: 0,0:33:12.02,0:33:12.86,Default,,0,0,0,,Korrekt.
+Dialogue: 0,0:33:12.86,0:33:15.38,Default,,0,0,0,,Ich habe ihr dieses Bild gezeigt.
+Dialogue: 0,0:33:15.38,0:33:17.54,Default,,0,0,0,,Diese Metal- und Stahl-Fabriken sind in deiner nähe
+Dialogue: 0,0:33:17.54,0:33:19.38,Default,,0,0,0,,Diese Kraftwerke sind nah deinem Haus
+Dialogue: 0,0:33:19.38,0:33:22.70,Default,,0,0,0,,Diese Zement-Fabriken auch.
+Dialogue: 0,0:33:22.70,0:33:26.54,Default,,0,0,0,,In Jiangsu gibt es alle 30 km² ein Kraftwerk.
+Dialogue: 0,0:33:26.54,0:33:29.42,Default,,0,0,0,,Wie steht es um die Emissionen dieser Firmen?
+Dialogue: 0,0:33:29.42,0:33:33.94,Default,,0,0,0,,Hier sieht man die Emission in Echtzeit.
+Dialogue: 0,0:33:33.94,0:33:36.34,Default,,0,0,0,,Rot bedeitet, Überschreiten der Emissions-Standards.
+Dialogue: 0,0:33:36.34,0:33:37.90,Default,,0,0,0,,Wenn man es vergrößert
+Dialogue: 0,0:33:37.90,0:33:39.26,Default,,0,0,0,,sieht man wie viele Firmen im Osten
+Dialogue: 0,0:33:39.26,0:33:42.54,Default,,0,0,0,,Schadstoffe über dem Limit ausstoßen.
+Dialogue: 0,0:33:42.54,0:33:44.22,Default,,0,0,0,,Auch dabei: Shanghai
+Dialogue: 0,0:33:44.22,0:33:45.82,Default,,0,0,0,,das selbst eine Menge Kohle verfeuert.
+Dialogue: 0,0:33:45.82,0:33:48.54,Default,,0,0,0,,es verfeuert die Größte Pro-Einheit-Menge
+Dialogue: 0,0:33:48.54,0:33:49.78,Default,,0,0,0,,von allen Großstädten
+Dialogue: 0,0:33:49.78,0:33:51.22,Default,,0,0,0,,10 Kilogramm Kohle werden für 
+Dialogue: 0,0:33:51.22,0:33:52.98,Default,,0,0,0,,jeden m² Land verfeuert.
+Dialogue: 0,0:33:52.98,0:33:56.06,Default,,0,0,0,,Was passiert, wenn mehr Kohle verfeuert wird?
+Dialogue: 0,0:33:56.06,0:33:57.86,Default,,0,0,0,,Eine Problem, an das ich nie dachte, ist
+Dialogue: 0,0:33:57.86,0:33:59.86,Default,,0,0,0,,dass Qualitätskohle rar wird
+Dialogue: 0,0:33:59.86,0:34:00.46,Default,,0,0,0,,Korrekt?
+Dialogue: 0,0:34:00.46,0:34:01.58,Default,,0,0,0,,Was sollen wir also tun?
+Dialogue: 0,0:34:01.58,0:34:04.02,Default,,0,0,0,,Kohle minderer Qualität wird als üblicher.
+Dialogue: 0,0:34:04.02,0:34:06.38,Default,,0,0,0,,Wie niedrig kann die Qualität sein?
+Dialogue: 0,0:34:06.38,0:34:08.22,Default,,0,0,0,,Das ist normale Kohle.
+Dialogue: 0,0:34:08.22,0:34:11.78,Default,,0,0,0,,Und das? Ist das auch Kohle?
+Dialogue: 0,0:34:11.78,0:34:13.10,Default,,0,0,0,,Zuerst dacht ich, dass nicht.
+Dialogue: 0,0:34:13.10,0:34:14.06,Default,,0,0,0,,Das musste Holz sein.
+Dialogue: 0,0:34:14.06,0:34:17.02,Default,,0,0,0,,Man sieht sogar noch ein Fossil darauf.
+Dialogue: 0,0:34:17.02,0:34:18.74,Default,,0,0,0,,Aber Leute in Kohle-Waschungs-Firmen erzählten
+Dialogue: 0,0:34:18.74,0:34:19.38,Default,,0,0,0,,Das ist echte Kohle.
+Dialogue: 0,0:34:19.38,0:34:20.62,Default,,0,0,0,,Man nennt es Lignit oder Braunkohle
+Dialogue: 0,0:34:20.62,0:34:22.26,Default,,0,0,0,,Das ist die jüngste Kohle der Welt.
+Dialogue: 0,0:34:22.26,0:34:24.54,Default,,0,0,0,,Es ist so jung, die Inkohlung ist extrem gering
+Dialogue: 0,0:34:24.54,0:34:26.14,Default,,0,0,0,,Beim Verbrennen wird die Hälfte
+Dialogue: 0,0:34:26.14,0:34:28.98,Default,,0,0,0,,sich in schwarzen Smog in der Luft verwandeln.
+Dialogue: 0,0:34:28.98,0:34:30.90,Default,,0,0,0,,Wie viel Braunkohle haben wir benutzt?
+Dialogue: 0,0:34:30.90,0:34:35.10,Default,,0,0,0,,Dieser Graph zeigt die Braunkohle Produktion der letzten Jahre.
+Dialogue: 0,0:34:35.10,0:34:36.82,Default,,0,0,0,,Das sind die Konsequenzen.
+Dialogue: 0,0:34:36.82,0:34:39.50,Default,,0,0,0,,Am 21. Oktober 2013
+Dialogue: 0,0:34:39.50,0:34:41.82,Default,,0,0,0,,als die Fernwärme in Harbin angeschaltet wurde,
+Dialogue: 0,0:34:41.82,0:34:42.98,Default,,0,0,0,,gab es so viel Smog
+Dialogue: 0,0:34:42.98,0:34:45.34,Default,,0,0,0,,dass der PM2.5 Wert über 1000 lag.
+Dialogue: 0,0:34:45.34,0:34:47.26,Default,,0,0,0,,So verbrachte Harbin den Tag.
+Dialogue: 0,0:34:49.10,0:34:51.50,Default,,0,0,0,,Ich habe mit Leuten aus Harbins Umweltschutzbehörde gesprochen
+Dialogue: 0,0:34:51.50,0:34:55.14,Default,,0,0,0,,und erwähnte, ich hörte Busse seien verschollen in diesen 2 Tagen.
+Dialogue: 0,0:34:55.14,0:34:56.86,Default,,0,0,0,,Er lächelte bitter und sagte
+Dialogue: 0,0:34:56.86,0:34:59.75,Default,,0,0,0,,Vergessen Sie die Busse. Selbst unser Direktor war verschollen. (laughter)
+Dialogue: 0,0:35:00.34,0:35:02.86,Default,,0,0,0,,Es sagte, als er die Schauplätze untersuchte
+Dialogue: 0,0:35:02.86,0:35:06.06,Default,,0,0,0,,konnte ihn im Smog niemand sehen.
+Dialogue: 0,0:35:06.06,0:35:07.06,Default,,0,0,0,,Der Smog in Harbin
+Dialogue: 0,0:35:07.06,0:35:08.18,Default,,0,0,0,,wurde verursacht durch die Verbrennung
+Dialogue: 0,0:35:08.18,0:35:09.90,Default,,0,0,0,,von über 20 Millionen Tonnen Braunkohle.
+Dialogue: 0,0:35:09.90,0:35:13.90,Default,,0,0,0,,Außerdem verstießen 2013 mehrere hundert tausend Kohleverbrennungsanlagen wie diese in China
+Dialogue: 0,0:35:13.90,0:35:15.26,Default,,0,0,0,,gegen den Umweltstandard
+Dialogue: 0,0:35:15.26,0:35:16.90,Default,,0,0,0,,und wurde nicht kontrolliert.
+Dialogue: 0,0:35:16.90,0:35:17.70,Default,,0,0,0,,Die Kohle verbrannte,
+Dialogue: 0,0:35:17.70,0:35:18.50,Default,,0,0,0,,die Schadstoffe traten aus
+Dialogue: 0,0:35:18.50,0:35:19.78,Default,,0,0,0,,in die Atmosphäre.
+Dialogue: 0,0:35:19.78,0:35:21.94,Default,,0,0,0,,Wenn man von oben herab blickt
+Dialogue: 0,0:35:21.94,0:35:23.86,Default,,0,0,0,,war es, als wären 12 Millionen Menschen
+Dialogue: 0,0:35:23.86,0:35:26.86,Default,,0,0,0,,unter Zement begraben.
+Dialogue: 0,0:35:26.86,0:35:29.34,Default,,0,0,0,,Kohle als solches bedeutet nicht Umweltverschmutzung.
+Dialogue: 0,0:35:29.34,0:35:31.42,Default,,0,0,0,,Deutschland benutzt auch Braunkohle
+Dialogue: 0,0:35:31.42,0:35:34.38,Default,,0,0,0,,Aber in Deutschland wäscht man die Kohle, um die Qualität zu verbessern.
+Dialogue: 0,0:35:34.38,0:35:35.90,Default,,0,0,0,,Kohle kann man säubern.
+Dialogue: 0,0:35:35.90,0:35:38.90,Default,,0,0,0,,Die Briten waschen 95% ihrer Kohle.
+Dialogue: 0,0:35:38.90,0:35:41.26,Default,,0,0,0,,Und in China?
+Dialogue: 0,0:35:41.26,0:35:44.86,Default,,0,0,0,,Wir waschen nicht mal die Hälfte unserer Kohle
+Dialogue: 0,0:35:44.86,0:35:47.90,Default,,0,0,0,,Die anderer Häfte, mehrere hundred Millionen Tonnen Kohle,
+Dialogue: 0,0:35:47.90,0:35:50.34,Default,,0,0,0,,enthält das praktisch nutzlose, verschmutzende und ineffiziente
+Dialogue: 0,0:35:50.34,0:35:51.74,Default,,0,0,0,,Material "Asche"
+Dialogue: 0,0:35:51.74,0:35:54.30,Default,,0,0,0,,Aber wir transportieren es mit Zügen, Lastern
+Dialogue: 0,0:35:54.30,0:35:57.42,Default,,0,0,0,,rund um die Welt und verbrennen es in Öfen.
+Dialogue: 0,0:35:57.42,0:35:59.42,Default,,0,0,0,,Komplett nutzlos.
+Dialogue: 0,0:35:59.42,0:36:00.94,Default,,0,0,0,,Das Ergebnis ist,
+Dialogue: 0,0:36:00.94,0:36:04.14,Default,,0,0,0,,dass die meiste Kohle in Wohnungen verfeuert wird.
+Dialogue: 0,0:36:04.14,0:36:05.42,Default,,0,0,0,,Auch in den Stadtgebieten Chinas,
+Dialogue: 0,0:36:05.42,0:36:07.50,Default,,0,0,0,,verfeuern ein Viertel der Leute Braunkohle
+Dialogue: 0,0:36:08.34,0:36:09.34,Default,,0,0,0,,Sie verfeuern nicht viel Kohle.
+Dialogue: 0,0:36:09.34,0:36:10.54,Default,,0,0,0,,Nur 20% im Land
+Dialogue: 0,0:36:10.54,0:36:12.62,Default,,0,0,0,,aber das Schwefeldioxid aus der Verfeuerung
+Dialogue: 0,0:36:13.26,0:36:16.38,Default,,0,0,0,,ist vergleichbar mit der Emission aller Kraftwerke zusammen.
+Dialogue: 0,0:36:16.38,0:36:18.30,Default,,0,0,0,,So viel macht das Waschen der Kohle aus.
+Dialogue: 0,0:36:18.30,0:36:21.30,Default,,0,0,0,,Am erschreckendsten ist, es ist hochgiftig
+Dialogue: 0,0:36:21.30,0:36:24.34,Default,,0,0,0,,In Peking, liegt die PM2.5 Toxizität im Winter
+Dialogue: 0,0:36:24.34,0:36:27.02,Default,,0,0,0,,weit über der im Sommer.
+Dialogue: 0,0:36:27.02,0:36:28.30,Default,,0,0,0,,Der krebserregende Inhalt im Winter
+Dialogue: 0,0:36:28.30,0:36:29.90,Default,,0,0,0,,ist 25 mal höher als im Sommer.
+Dialogue: 0,0:36:29.90,0:36:31.18,Default,,0,0,0,,Warum ist PM2.5 im Winter so giftig?
+Dialogue: 0,0:36:31.18,0:36:34.10,Default,,0,0,0,,Hauptsächlich weil Leute minderwertige Kohle verheizen.
+Dialogue: 0,0:36:34.10,0:36:36.26,Default,,0,0,0,,Dieser Kohle-Typ setzt extrem hohe Mengen Krebserreger frei.
+Dialogue: 0,0:36:37.50,0:36:38.66,Default,,0,0,0,,Viele Jahre haben Chinesen
+Dialogue: 0,0:36:38.66,0:36:41.66,Default,,0,0,0,,unter den Konsequenzen der Verfeuerung schlechter Kohle gelitten.
+Dialogue: 0,0:36:42.58,0:36:43.90,Default,,0,0,0,,In Xuanwei (Yunnan) liegt die Stadt Hutou
+Dialogue: 0,0:36:43.90,0:36:45.02,Default,,0,0,0,,Durch minderwertige Kohle hat sie nun
+Dialogue: 0,0:36:45.02,0:36:47.82,Default,,0,0,0,,eine der höchsten Lungenkrebsraten der Welt
+Dialogue: 0,0:36:50.86,0:36:52.82,Default,,0,0,0,,Diese Person hat Lungenkrebs im Endstadium.
+Dialogue: 0,0:36:52.82,0:36:54.46,Default,,0,0,0,,Er hustete Blut.
+Dialogue: 0,0:36:54.46,0:36:57.34,Default,,0,0,0,,Er war zu schwach, die Mosquitos weg zu wischen,
+Dialogue: 0,0:36:57.34,0:37:01.18,Default,,0,0,0,,also bat er jemand, seinen Körper mit Fliegenfängern zu versehen.
+Dialogue: 0,0:37:04.18,0:37:06.66,Default,,0,0,0,,Dieser alte Mann wurde mit all seinen Lieben fotografiert,
+Dialogue: 0,0:37:06.66,0:37:09.18,Default,,0,0,0,,deren Leben durch Lungenkrebs über die Jahre genommen wurde.
+Dialogue: 0,0:37:11.86,0:37:14.38,Default,,0,0,0,,Ganze Familien wurden ausgelöscht.
+Dialogue: 0,0:37:15.86,0:37:18.70,Default,,0,0,0,,Wir hören oft, dass China immer noch ein Entwicklungsland ist.,
+Dialogue: 0,0:37:18.70,0:37:20.50,Default,,0,0,0,,und das Umweltschutz ein Luxux ist, den wir uns nicht leisten können.
+Dialogue: 0,0:37:21.50,0:37:23.82,Default,,0,0,0,,Aber es sind oft die Ärmsten,
+Dialogue: 0,0:37:23.82,0:37:25.02,Default,,0,0,0,,die an der Verschmutzung leiden.
+Dialogue: 0,0:37:25.02,0:37:27.10,Default,,0,0,0,,Sie sind am verwundbarsten.
+Dialogue: 0,0:37:27.10,0:37:29.14,Default,,0,0,0,,Auf ihre Stimmen sollten wir am meisten hören.
+Dialogue: 0,0:37:29.14,0:37:30.74,Default,,0,0,0,,Sie brauchen am nötigsten Hilfe.
 Dialogue: 0,0:37:31.78,0:37:34.78,Default,,0,0,0,,These past few years, our coal consumption has been extremely high
-Dialogue: 0,0:37:34.78,0:37:36.58,Default,,0,0,0,,As a result, the quality of the coal we use has decreased
-Dialogue: 0,0:37:36.58,0:37:38.06,Default,,0,0,0,,We also don't wash our coal
-Dialogue: 0,0:37:38.06,0:37:39.66,Default,,0,0,0,,and there are almost no controls on emissions
-Dialogue: 0,0:37:39.66,0:37:41.14,Default,,0,0,0,,This is the result
-Dialogue: 0,0:37:42.02,0:37:42.78,Default,,0,0,0,,The places in China
-Dialogue: 0,0:37:42.78,0:37:44.86,Default,,0,0,0,,with the most coal consumption
-Dialogue: 0,0:37:44.86,0:37:48.06,Default,,0,0,0,,also have the highest concentrations of PM2.5
-Dialogue: 0,0:37:48.10,0:37:50.38,Default,,0,0,0,,I mean, the easiest way to clean up the environment
-Dialogue: 0,0:37:50.38,0:37:52.66,Default,,0,0,0,,is to lower our consumption of coal to below 2 billion tons
-Dialogue: 0,0:37:52.66,0:37:54.22,Default,,0,0,0,,This will guarantee blue skies
-Dialogue: 0,0:37:54.22,0:37:55.54,Default,,0,0,0,,If we can’t reach this goal,
-Dialogue: 0,0:37:55.54,0:37:57.54,Default,,0,0,0,,we can try to centralize the burning of coal
-Dialogue: 0,0:37:57.54,0:37:59.66,Default,,0,0,0,,and replace scrap coal burning with use in coal power plants instead
-Dialogue: 0,0:37:59.66,0:38:01.30,Default,,0,0,0,,As a next step,
-Dialogue: 0,0:38:01.30,0:38:02.62,Default,,0,0,0,,if we still can’t accomplish this,
-Dialogue: 0,0:38:02.62,0:38:05.02,Default,,0,0,0,,we can try to wash the scrap coal we use
-Dialogue: 0,0:38:05.02,0:38:07.70,Default,,0,0,0,,If all the scrap coal is washed, how would that affect emissions?
-Dialogue: 0,0:38:07.70,0:38:09.14,Default,,0,0,0,,It would halve our emissions at the very least
-Dialogue: 0,0:38:09.14,0:38:10.98,Default,,0,0,0,,We can make two changes at present
-Dialogue: 0,0:38:10.98,0:38:13.06,Default,,0,0,0,,First, we must reduce consumption of coal
-Dialogue: 0,0:38:13.06,0:38:14.22,Default,,0,0,0,,or we can wash our coal
-Dialogue: 0,0:38:14.22,0:38:15.96,Default,,0,0,0,,{\i1}Article 23 Atmospheric Protection Law{\i0}
-Dialogue: 0,0:38:15.96,0:38:16.98,Default,,0,0,0,,The government promotes washing and upgrading coal
-Dialogue: 0,0:38:16.98,0:38:18.30,Default,,0,0,0,,Reduction of the sulfur and ash content in coal
-Dialogue: 0,0:38:18.30,0:38:19.54,Default,,0,0,0,,Restrictions on extracting coal with high sulfur and ash content
-Dialogue: 0,0:38:19.54,0:38:21.12,Default,,0,0,0,,{\i1}Article 1 of the Ten atmosphere protection articles{\i0}
-Dialogue: 0,0:38:21.12,0:38:22.21,Default,,0,0,0,,Overhaul small-scale coal burners
-Dialogue: 0,0:38:22.21,0:38:23.87,Default,,0,0,0,,Accelerating de-sulfurization and reducing nitrogen compounds and ash
-Dialogue: 0,0:38:23.87,0:38:28.58,Default,,0,0,0,,In 2014, PM2.5 has been reduced 11.1% from its original level in 74 cities
-Dialogue: 0,0:38:28.93,0:38:31.98,Default,,0,0,0,,but only 8 cities met the standards set by the government
-Dialogue: 0,0:38:31.98,0:38:34.18,Default,,0,0,0,,If we could effectively carry out all of the current environmental protection measures
-Dialogue: 0,0:38:34.18,0:38:36.70,Default,,0,0,0,,Just the ones we already have right now, have them 100% enforced,
-Dialogue: 0,0:38:36.70,0:38:39.70,Default,,0,0,0,,our ash emission and sulfur dioxide emission
-Dialogue: 0,0:38:39.70,0:38:41.06,Default,,0,0,0,,would be 60% lower than current levels,
-Dialogue: 0,0:38:41.06,0:38:43.42,Default,,0,0,0,,our nitrogen oxide emission would be 35% lower
-Dialogue: 0,0:38:43.42,0:38:45.58,Default,,0,0,0,,In order to solve the environmental problem in China
-Dialogue: 0,0:38:45.58,0:38:47.30,Default,,0,0,0,,first, we need to have better management
-Dialogue: 0,0:38:47.30,0:38:49.30,Default,,0,0,0,,Second, we still need better management
-Dialogue: 0,0:38:49.30,0:38:51.42,Default,,0,0,0,,Third, is still better management
-Dialogue: 0,0:38:51.42,0:38:52.58,Default,,0,0,0,,President Xi Jinping said
-Dialogue: 0,0:38:52.58,0:38:55.70,Default,,0,0,0,,“The dignity of the law depends on its enforcement.”
-Dialogue: 0,0:38:56.26,0:38:57.38,Default,,0,0,0,,China took only 30 years
-Dialogue: 0,0:38:57.38,0:38:59.06,Default,,0,0,0,,to complete an industrialization process
-Dialogue: 0,0:38:59.06,0:39:00.26,Default,,0,0,0,,that took a hundred years in other countries
-Dialogue: 0,0:39:00.26,0:39:02.34,Default,,0,0,0,,Therefore, on top of the pollution from coal
-Dialogue: 0,0:39:02.34,0:39:03.98,Default,,0,0,0,,we have to account for
-Dialogue: 0,0:39:03.98,0:39:05.06,Default,,0,0,0,,the pollution from oil as well
-Dialogue: 0,0:39:05.06,0:39:07.10,Default,,0,0,0,,So what happens to our oil?
-Dialogue: 0,0:39:07.10,0:39:08.86,Default,,0,0,0,,Most of our oil is burnt by vehicles
-Dialogue: 0,0:39:08.86,0:39:11.22,Default,,0,0,0,,In ten years, the number of vehicles in China
-Dialogue: 0,0:39:11.22,0:39:12.54,Default,,0,0,0,,has increased by about 100 million
-Dialogue: 0,0:39:12.54,0:39:14.90,Default,,0,0,0,,Looking specifically at Beijing in 2010
-Dialogue: 0,0:39:14.90,0:39:17.06,Default,,0,0,0,,how many cars were added in that one year?
-Dialogue: 0,0:39:17.06,0:39:18.02,Default,,0,0,0,,800,000 more
-Dialogue: 0,0:39:18.02,0:39:19.06,Default,,0,0,0,,What does 800,000 cars mean?
-Dialogue: 0,0:39:19.06,0:39:23.58,Default,,0,0,0,,If all these cars were placed end-to-end, they would stretch from Beijing to Shenzhen
-Dialogue: 0,0:39:23.58,0:39:24.66,Default,,0,0,0,,and then back to Beijing
-Dialogue: 0,0:39:24.66,0:39:27.18,Default,,0,0,0,,That's one year's increase
-Dialogue: 0,0:39:27.18,0:39:28.94,Default,,0,0,0,,The result is as follows
-Dialogue: 0,0:39:28.94,0:39:31.34,Default,,0,0,0,,The primary source of PM2.5 within Beijing
-Dialogue: 0,0:39:31.34,0:39:34.26,Default,,0,0,0,,is these vehicles
-Dialogue: 0,0:39:34.26,0:39:35.94,Default,,0,0,0,,But there is another city that surprised me
-Dialogue: 0,0:39:35.94,0:39:39.66,Default,,0,0,0,,This city is under haze for over 200 days per year
-Dialogue: 0,0:39:41.34,0:39:43.34,Default,,0,0,0,,You can guess which city that is
-Dialogue: 0,0:39:46.02,0:39:47.34,Default,,0,0,0,,Which one?
-Dialogue: 0,0:39:50.62,0:39:52.54,Default,,0,0,0,,Let's try another picture
-Dialogue: 0,0:39:52.54,0:39:54.10,Default,,0,0,0,,Qinghai you say?
+Dialogue: 0,0:37:34.78,0:37:36.58,Default,,0,0,0,,Als Ergebnis hat die Qualität der Kohle 
+Dialogue: 0,0:37:36.58,0:37:38.06,Default,,0,0,0,,sogar abgenommen. Wir waschen unsere Kohle auch nicht
+Dialogue: 0,0:37:38.06,0:37:39.66,Default,,0,0,0,,und es gibt kaum Emissions-Regularien.
+Dialogue: 0,0:37:39.66,0:37:41.14,Default,,0,0,0,,Das ist das Ergebnis.
+Dialogue: 0,0:37:42.02,0:37:42.78,Default,,0,0,0,,Die Orte Chinas
+Dialogue: 0,0:37:42.78,0:37:44.86,Default,,0,0,0,,mit dem höchsten Kohleverbrauch
+Dialogue: 0,0:37:44.86,0:37:48.06,Default,,0,0,0,,haben auch die höchste PM2.5 Konzentration
+Dialogue: 0,0:37:48.10,0:37:50.38,Default,,0,0,0,,Ich sage, der einfachste Weg die Umwelt zu reinigen,
+Dialogue: 0,0:37:50.38,0:37:52.66,Default,,0,0,0,,ist den Kohlekonsum unter 2 Milliarden Tonnen zu senken.
+Dialogue: 0,0:37:52.66,0:37:54.22,Default,,0,0,0,,Das garantiert einen blauen Himmel.
+Dialogue: 0,0:37:54.22,0:37:55.54,Default,,0,0,0,,Wenn wir das erreichen,
+Dialogue: 0,0:37:55.54,0:37:57.54,Default,,0,0,0,,können wir die Kohleverbrennung zentralisieren
+Dialogue: 0,0:37:57.54,0:37:59.66,Default,,0,0,0,,und schlechte Kohle durch Nutzung von Kohlekraftwerke ersetzen.
+Dialogue: 0,0:37:59.66,0:38:01.30,Default,,0,0,0,,Als nächsten Schritt
+Dialogue: 0,0:38:01.30,0:38:02.62,Default,,0,0,0,,wenn das noch nicht reicht,
+Dialogue: 0,0:38:02.62,0:38:05.02,Default,,0,0,0,,können wir die minderwertige Kohle waschen.
+Dialogue: 0,0:38:05.02,0:38:07.70,Default,,0,0,0,,Wenn die Minderwertige Kohle gewaschen würde, wie würde das die Emmission beeinflussen?
+Dialogue: 0,0:38:07.70,0:38:09.14,Default,,0,0,0,,Es würde sie jedes Jahr halbieren.
+Dialogue: 0,0:38:09.14,0:38:10.98,Default,,0,0,0,,Gegenwärtig können wir zwei Veränderungen machen.
+Dialogue: 0,0:38:10.98,0:38:13.06,Default,,0,0,0,,Zuerst müssen wir unseren Kohlekonsum reduzieren
+Dialogue: 0,0:38:13.06,0:38:14.22,Default,,0,0,0,,oder wir können unsere Kohle waschen.
+Dialogue: 0,0:38:14.22,0:38:15.96,Default,,0,0,0,,{\i1}Article 23 Gesetz zum Schutz der Atmosphäre{\i0}
+Dialogue: 0,0:38:15.96,0:38:16.98,Default,,0,0,0,,Die Regierung fördert Waschen und Verbessern von Kohle.
+Dialogue: 0,0:38:16.98,0:38:18.30,Default,,0,0,0,,Reduktion von Schwefel und Asche in Kohle.
+Dialogue: 0,0:38:18.30,0:38:19.54,Default,,0,0,0,,Beschränkungen bei der Förderung hochschwefliger und aschehaltiger Kohle.
+Dialogue: 0,0:38:19.54,0:38:21.12,Default,,0,0,0,,{\i1}Article 1 der zehn Artikel zum Schutz der Atmosphäre{\i0}
+Dialogue: 0,0:38:21.12,0:38:22.21,Default,,0,0,0,,Überholung kleiner Kohlebrenner.
+Dialogue: 0,0:38:22.21,0:38:23.87,Default,,0,0,0,,Beschleunigung der Entschwefelung und Reduktion der Stickstoffverbindungen und Asche
+Dialogue: 0,0:38:23.87,0:38:28.58,Default,,0,0,0,,2014 verringerte sich PM2.5 um 11.1% in 74 Städten
+Dialogue: 0,0:38:28.93,0:38:31.98,Default,,0,0,0,,Aber nur 8 Städte erreichten den Standard der Regierung.
+Dialogue: 0,0:38:31.98,0:38:34.18,Default,,0,0,0,,Könnten wir die Umweltschutzmaßnahmen effektiv durchführen
+Dialogue: 0,0:38:34.18,0:38:36.70,Default,,0,0,0,,Nur die, die wir gerade haben, 100% durchgesetzt,
+Dialogue: 0,0:38:36.70,0:38:39.70,Default,,0,0,0,,würden unsere Asche Emission und Schwefeldioxid-Emission
+Dialogue: 0,0:38:39.70,0:38:41.06,Default,,0,0,0,,um 60% vom aktuellen Level absenken,
+Dialogue: 0,0:38:41.06,0:38:43.42,Default,,0,0,0,,Unsere  Stickoxydemissionswerte wären 35% niedriger
+Dialogue: 0,0:38:43.42,0:38:45.58,Default,,0,0,0,,Um die Umwelt-Probleme in China zu lösen
+Dialogue: 0,0:38:45.58,0:38:47.30,Default,,0,0,0,,muss zuerst eine bessere Verwaltung her.
+Dialogue: 0,0:38:47.30,0:38:49.30,Default,,0,0,0,,Zweitens, brauche wir eine bessere Verwaltung.
+Dialogue: 0,0:38:49.30,0:38:51.42,Default,,0,0,0,,Und drittens eine bessere Verwaltung.
+Dialogue: 0,0:38:51.42,0:38:52.58,Default,,0,0,0,,Präsident Xi Jinping sagte
+Dialogue: 0,0:38:52.58,0:38:55.70,Default,,0,0,0,,“The Stellung eines Gesetzes hängt von dessen Durchführung ab.”
+Dialogue: 0,0:38:56.26,0:38:57.38,Default,,0,0,0,,China benötigte nur 30 Jahre
+Dialogue: 0,0:38:57.38,0:38:59.06,Default,,0,0,0,,um einen Industrialisierungsprozess abzuschließen.
+Dialogue: 0,0:38:59.06,0:39:00.26,Default,,0,0,0,,Das dauerte hundert Jahre in anderen Ländern.
+Dialogue: 0,0:39:00.26,0:39:02.34,Default,,0,0,0,,Deshalb, zusätzlich zur Verschmutzung durch Kohle
+Dialogue: 0,0:39:02.34,0:39:03.98,Default,,0,0,0,,müssen wir uns auch um die
+Dialogue: 0,0:39:03.98,0:39:05.06,Default,,0,0,0,,Verschmutzung durch Öl kümmern.
+Dialogue: 0,0:39:05.06,0:39:07.10,Default,,0,0,0,,Was passiert denn mit unserem Öl?
+Dialogue: 0,0:39:07.10,0:39:08.86,Default,,0,0,0,,Das meiste wird in Fahrzeugen verbrannt.
+Dialogue: 0,0:39:08.86,0:39:11.22,Default,,0,0,0,,In zehn Jahren hat sich die Anzahl Autos um 
+Dialogue: 0,0:39:11.22,0:39:12.54,Default,,0,0,0,,100 Millionen vergrößert.
+Dialogue: 0,0:39:12.54,0:39:14.90,Default,,0,0,0,,Schaut man speziell auf Peking in 2010
+Dialogue: 0,0:39:14.90,0:39:17.06,Default,,0,0,0,,Wie viele Autos kamen in diesem Jahr dazu?
+Dialogue: 0,0:39:17.06,0:39:18.02,Default,,0,0,0,,800.000
+Dialogue: 0,0:39:18.02,0:39:19.06,Default,,0,0,0,,Was bedeuten 800.000 mehr Autos?
+Dialogue: 0,0:39:19.06,0:39:23.58,Default,,0,0,0,,Würde man all diese Autos aneinanderreihen, wäre das die Strecke von Peking nach to Shenzhen
+Dialogue: 0,0:39:23.58,0:39:24.66,Default,,0,0,0,,und zurück nach Peking.
+Dialogue: 0,0:39:24.66,0:39:27.18,Default,,0,0,0,,Der Anstieg in einem Jahr.
+Dialogue: 0,0:39:27.18,0:39:28.94,Default,,0,0,0,,Das Ergebnis:
+Dialogue: 0,0:39:28.94,0:39:31.34,Default,,0,0,0,,Die Primärquelle von PM2.5 in Peking
+Dialogue: 0,0:39:31.34,0:39:34.26,Default,,0,0,0,,sind diese Autos.
+Dialogue: 0,0:39:34.26,0:39:35.94,Default,,0,0,0,,Aber eine andere Stadt überraschte mich
+Dialogue: 0,0:39:35.94,0:39:39.66,Default,,0,0,0,,Diese Stadt ist 200 Tage im Jahr im Dunst eingehüllt.
+Dialogue: 0,0:39:41.34,0:39:43.34,Default,,0,0,0,,Wissen Sie, welche Stadt das ist?
+Dialogue: 0,0:39:46.02,0:39:47.34,Default,,0,0,0,,Welche?
+Dialogue: 0,0:39:50.62,0:39:52.54,Default,,0,0,0,,Versuchen wir ein anderes Bild
+Dialogue: 0,0:39:52.54,0:39:54.10,Default,,0,0,0,,Sie meinen Qinghai?
 Dialogue: 0,0:39:54.10,0:39:56.78,Default,,0,0,0,,Qingdao?
 Dialogue: 0,0:39:56.78,0:39:59.18,Default,,0,0,0,,Hangzhou
-Dialogue: 0,0:39:59.18,0:40:00.66,Default,,0,0,0,,To be honest I am as shocked as you are
-Dialogue: 0,0:40:00.66,0:40:02.38,Default,,0,0,0,,because I always thought
-Dialogue: 0,0:40:02.38,0:40:04.82,Default,,0,0,0,,These were the scenes of misty rain described in all those famous poems.
-Dialogue: 0,0:40:04.82,0:40:06.78,Default,,0,0,0,,Later I made a call to the Hangzhou MEP
-Dialogue: 0,0:40:06.78,0:40:07.90,Default,,0,0,0,,and they confirmed this
-Dialogue: 0,0:40:07.90,0:40:10.42,Default,,0,0,0,,Because the rate of vehicle ownership per capita in Hangzhou
-Dialogue: 0,0:40:10.42,0:40:11.10,Default,,0,0,0,,is the highest among all cities in China
-Dialogue: 0,0:40:11.10,0:40:13.22,Default,,0,0,0,,On average, there is one car for every two people.
-Dialogue: 0,0:40:13.22,0:40:14.38,Default,,0,0,0,,So the vehicles of Hangzhou
-Dialogue: 0,0:40:14.38,0:40:16.38,Default,,0,0,0,,contribute nearly 40% of its air pollution
-Dialogue: 0,0:40:16.38,0:40:19.50,Default,,0,0,0,,Do more cars necessarily mean more pollution?
-Dialogue: 0,0:40:19.50,0:40:20.74,Default,,0,0,0,,Here’s a question we often hear
-Dialogue: 0,0:40:20.74,0:40:22.42,Default,,0,0,0,,Aren’t there more cars in Tokyo than in Beijing?
-Dialogue: 0,0:40:22.42,0:40:25.46,Default,,0,0,0,,Why don’t we see such severe pollution in Tokyo?
-Dialogue: 0,0:40:25.46,0:40:28.26,Default,,0,0,0,,This is the explanation given by the Beijing Municipal Commission of Transport:
-Dialogue: 0,0:40:28.26,0:40:31.94,Default,,0,0,0,,More than 90% of Tokyo's residents commute by rail
-Dialogue: 0,0:40:31.94,0:40:34.26,Default,,0,0,0,,Less than 6% of them drive
-Dialogue: 0,0:40:34.26,0:40:35.90,Default,,0,0,0,,What about in Beijing?
-Dialogue: 0,0:40:35.90,0:40:37.70,Default,,0,0,0,,34% of Beijing residents drive cars
-Dialogue: 0,0:40:37.70,0:40:40.26,Default,,0,0,0,,And they drive in the city center, usually stuck in traffic jams
-Dialogue: 0,0:40:40.26,0:40:41.46,Default,,0,0,0,,When they are stuck their cars are idling
-Dialogue: 0,0:40:41.46,0:40:42.62,Default,,0,0,0,,which doubles the rate of emissions
-Dialogue: 0,0:40:42.62,0:40:44.98,Default,,0,0,0,,And when they brake, even more heavy metals are released
-Dialogue: 0,0:40:44.98,0:40:47.34,Default,,0,0,0,,So every day during rush hour in Beijing
-Dialogue: 0,0:40:47.34,0:40:49.94,Default,,0,0,0,,how much PM2.5 is emitted in one hour
-Dialogue: 0,0:40:49.94,0:40:51.58,Default,,0,0,0,,within the 6th ring?
-Dialogue: 0,0:40:51.58,0:40:52.30,Default,,0,0,0,,One ton
-Dialogue: 0,0:40:53.18,0:40:54.86,Default,,0,0,0,,How many Beijing residents would choose to drive
-Dialogue: 0,0:40:54.86,0:40:56.02,Default,,0,0,0,,if they are going somewhere within 5km?
-Dialogue: 0,0:40:57.74,0:40:59.18,Default,,0,0,0,,Close to half
-Dialogue: 0,0:40:59.18,0:41:00.82,Default,,0,0,0,,12% of all residents
-Dialogue: 0,0:41:00.82,0:41:03.94,Default,,0,0,0,,would drive within 2km
-Dialogue: 0,0:41:03.94,0:41:05.46,Default,,0,0,0,,And 7%
-Dialogue: 0,0:41:05.46,0:41:06.66,Default,,0,0,0,,would drive within 1km
-Dialogue: 0,0:41:06.66,0:41:07.74,Default,,0,0,0,,How far is 1km?
-Dialogue: 0,0:41:07.74,0:41:09.14,Default,,0,0,0,,That’s a trip to the supermarket
-Dialogue: 0,0:41:09.14,0:41:10.98,Default,,0,0,0,,or greengrocer's
-Dialogue: 0,0:41:10.98,0:41:13.38,Default,,0,0,0,,Do we really love driving so much?
-Dialogue: 0,0:41:13.38,0:41:15.06,Default,,0,0,0,,Perhaps a few of us do
-Dialogue: 0,0:41:15.06,0:41:17.42,Default,,0,0,0,,But there can’t be so many irrational people, right?
-Dialogue: 0,0:41:17.42,0:41:20.58,Default,,0,0,0,,My family owns a car, but after our child was born we made a rule
-Dialogue: 0,0:41:20.58,0:41:22.26,Default,,0,0,0,,basically we would only drive for our parents, our kid
-Dialogue: 0,0:41:22.26,0:41:23.38,Default,,0,0,0,,or when we go to the airport or hospital
-Dialogue: 0,0:41:23.38,0:41:26.82,Default,,0,0,0,,When my husband goes to work every day, he rides a bicycle
-Dialogue: 0,0:41:26.82,0:41:28.26,Default,,0,0,0,,This is how you ride a bicycle
-Dialogue: 0,0:41:28.26,0:41:29.18,Default,,0,0,0,,in front of our apartment building
-Dialogue: 0,0:41:30.90,0:41:32.26,Default,,0,0,0,,That’s the only way to ride
-Dialogue: 0,0:41:32.26,0:41:34.22,Default,,0,0,0,,Why?
-Dialogue: 0,0:41:34.22,0:41:36.02,Default,,0,0,0,,This is our bicycle lane
-Dialogue: 0,0:41:36.02,0:41:38.70,Default,,0,0,0,,It’s almost always full of cars
-Dialogue: 0,0:41:38.70,0:41:39.82,Default,,0,0,0,,Beijing has over 5 million vehicles
-Dialogue: 0,0:41:39.82,0:41:41.98,Default,,0,0,0,,but only half of them have a parking space
-Dialogue: 0,0:41:41.98,0:41:43.46,Default,,0,0,0,,But no car can park in the air
-Dialogue: 0,0:41:43.46,0:41:45.06,Default,,0,0,0,,so you find them in bicycle lanes
-Dialogue: 0,0:41:45.06,0:41:46.54,Default,,0,0,0,,and on sidewalks
-Dialogue: 0,0:41:46.54,0:41:48.14,Default,,0,0,0,,That’s how they park
-Dialogue: 0,0:41:48.14,0:41:50.22,Default,,0,0,0,,Of course, humanity is the same throughout the world
-Dialogue: 0,0:41:50.22,0:41:51.82,Default,,0,0,0,,Without regulations, this can happen anywhere
-Dialogue: 0,0:41:51.82,0:41:53.58,Default,,0,0,0,,Let’s check London
-Dialogue: 0,0:41:53.58,0:41:55.54,Default,,0,0,0,,It seems they also parked like this in the old days
-Dialogue: 0,0:41:55.54,0:41:58.54,Default,,0,0,0,,then the parking meters were installed
-Dialogue: 0,0:41:58.54,0:42:00.22,Default,,0,0,0,,and they parked like this
-Dialogue: 0,0:42:00.22,0:42:03.26,Default,,0,0,0,,Then London raised its parking fee and congestion charge
-Dialogue: 0,0:42:03.26,0:42:04.74,Default,,0,0,0,,so they parked like this
-Dialogue: 0,0:42:04.74,0:42:06.38,Default,,0,0,0,,A few days ago, I heard that people are trying the same thing in Shenzhen
-Dialogue: 0,0:42:06.38,0:42:08.90,Default,,0,0,0,,they started to charge high parking fees
-Dialogue: 0,0:42:08.90,0:42:13.98,Default,,0,0,0,,Then the folks in Shenzhen parked like this (laughter)
-Dialogue: 0,0:42:13.98,0:42:15.66,Default,,0,0,0,,The same thing happened in Tokyo 50 years ago
-Dialogue: 0,0:42:15.66,0:42:16.58,Default,,0,0,0,,It’s not that easy
-Dialogue: 0,0:42:16.58,0:42:17.86,Default,,0,0,0,,It took them a long time
-Dialogue: 0,0:42:17.86,0:42:19.74,Default,,0,0,0,,to clear the cars out of the way one by one
-Dialogue: 0,0:42:19.74,0:42:22.66,Default,,0,0,0,,This is a test of meticulous city management.
-Dialogue: 0,0:42:22.66,0:42:24.86,Default,,0,0,0,,Car-lovers have another question
-Dialogue: 0,0:42:24.86,0:42:26.82,Default,,0,0,0,,As this photo shows
-Dialogue: 0,0:42:26.82,0:42:29.86,Default,,0,0,0,,there are no vehicles in Beijing at midnight, are there?
-Dialogue: 0,0:42:29.86,0:42:32.26,Default,,0,0,0,,Why is the pollution still so severe?
-Dialogue: 0,0:42:32.26,0:42:34.86,Default,,0,0,0,,Is it really caused by cars?
-Dialogue: 0,0:42:34.86,0:42:36.26,Default,,0,0,0,,This question also troubled me for a long time
-Dialogue: 0,0:42:36.26,0:42:38.22,Default,,0,0,0,,Until the Chinese Academy of Sciences showed me this chart
-Dialogue: 0,0:42:40.70,0:42:42.98,Default,,0,0,0,,Before every dawn in Beijing
-Dialogue: 0,0:42:42.98,0:42:44.66,Default,,0,0,0,,There’s always a peak in pollution
-Dialogue: 0,0:42:44.66,0:42:46.50,Default,,0,0,0,,It shows up consistently every day
-Dialogue: 0,0:42:46.50,0:42:48.10,Default,,0,0,0,,At this peak, carbon emissions are about twice as high
-Dialogue: 0,0:42:48.10,0:42:50.38,Default,,0,0,0,,as the peak in the afternoon on the same day
-Dialogue: 0,0:42:50.38,0:42:52.50,Default,,0,0,0,,So what exactly is this?
-Dialogue: 0,0:42:52.50,0:42:53.74,Default,,0,0,0,,I wanted to know the answer as well
-Dialogue: 0,0:42:53.74,0:42:55.06,Default,,0,0,0,,So we went to Yanqing district of Beijing
-Dialogue: 0,0:42:56.00,0:42:58.00,Default,,0,0,0,,Yanqing - Kangzhuang Toll Station, 2:30am 11 October 2014
-Dialogue: 0,0:42:59.18,0:43:00.14,Default,,0,0,0,,Inspector: Halt!
-Dialogue: 0,0:43:00.14,0:43:02.14,Default,,0,0,0,,Vehicle type: Futian Aoling
-Dialogue: 0,0:43:02.14,0:43:04.14,Default,,0,0,0,,Displayed emissions standard: National Standard 4
-Dialogue: 0,0:43:04.54,0:43:06.46,Default,,0,0,0,,This truck doesn't have the basic equipment for a Standard 4
-Dialogue: 0,0:43:06.46,0:43:08.14,Default,,0,0,0,,Chai: So in fact it's not a Standard 4 vehicle
-Dialogue: 0,0:43:08.14,0:43:09.06,Default,,0,0,0,,Driver: So what should I do?
-Dialogue: 0,0:43:09.06,0:43:10.34,Default,,0,0,0,,Driver: I just bought this new truck
-Dialogue: 0,0:43:10.70,0:43:12.14,Default,,0,0,0,,This is my environmental protection label
-Dialogue: 0,0:43:12.14,0:43:13.58,Default,,0,0,0,,It was issued this year
-Dialogue: 0,0:43:16.00,0:43:17.96,Default,,0,0,0,,Random inspection of another vehicle
-Dialogue: 0,0:43:17.96,0:43:19.10,Default,,0,0,0,,Vehicle type: Chang'an Kaima
-Dialogue: 0,0:43:19.10,0:43:20.62,Default,,0,0,0,,Displayed emissions standard: National Standard 3
-Dialogue: 0,0:43:20.62,0:43:22.02,Default,,0,0,0,,What does 3.29 mean?
-Dialogue: 0,0:43:22.02,0:43:23.18,Default,,0,0,0,,It’s above the limit
-Dialogue: 0,0:43:23.18,0:43:24.42,Default,,0,0,0,,This is even beyond Standard 1
-Dialogue: 0,0:43:24.42,0:43:26.42,Default,,0,0,0,,So it has no emission control device at all?
-Dialogue: 0,0:43:26.42,0:43:28.14,Default,,0,0,0,,No, basically no emission control at all
-Dialogue: 0,0:43:28.14,0:43:28.90,Default,,0,0,0,,He has the green label
-Dialogue: 0,0:43:29.38,0:43:30.62,Default,,0,0,0,,It says Standard 3
-Dialogue: 0,0:43:30.62,0:43:31.26,Default,,0,0,0,,Who issued it?
-Dialogue: 0,0:43:31.26,0:43:33.98,Default,,0,0,0,,Hebei Province Department of Environmental Protection
-Dialogue: 0,0:43:33.98,0:43:35.42,Default,,0,0,0,,When I bought it they said it was Standard 3
-Dialogue: 0,0:43:35.42,0:43:37.50,Default,,0,0,0,,How could I know? I was just buying a truck
-Dialogue: 0,0:43:37.50,0:43:39.50,Default,,0,0,0,,Finally, the car was not given an on the spot fine
-Dialogue: 0,0:43:40.66,0:43:41.94,Default,,0,0,0,,His truck is on the green channel
-Dialogue: 0,0:43:41.94,0:43:43.50,Default,,0,0,0,,It's carrying eggs, milk, and oil
-Dialogue: 0,0:43:43.50,0:43:44.86,Default,,0,0,0,,It’s part of the city’s supply system
-Dialogue: 0,0:43:44.86,0:43:48.01,Default,,0,0,0,,According to the regulations, we should not penalize this truck
-Dialogue: 0,0:43:48.01,0:43:50.30,Default,,0,0,0,,Li Kunsheng, Director of Beijing Municipal Environmental Protection Bureau, Vehicular Emissions Department
-Dialogue: 0,0:43:50.30,0:43:51.12,Default,,0,0,0,,Fake cars are common
-Dialogue: 0,0:43:51.12,0:43:53.70,Default,,0,0,0,,Or if we put it in more serious terms, fake cars are everywhere
-Dialogue: 0,0:43:53.70,0:43:55.06,Default,,0,0,0,,It's a secret kept within the automotive industry
-Dialogue: 0,0:43:55.06,0:43:56.94,Default,,0,0,0,,90% of basic environmental protection devices are not installed
-Dialogue: 0,0:43:56.94,0:43:58.46,Default,,0,0,0,,So how does that play out in terms of emissions?
-Dialogue: 0,0:43:58.46,0:44:00.34,Default,,0,0,0,,If 30,000 [noncompliant] vehicles enter the city
-Dialogue: 0,0:44:00.34,0:44:02.86,Default,,0,0,0,,It's equivalent to several million [compliant] vehicles on the road at night
-Dialogue: 0,0:44:04.74,0:44:09.38,Default,,0,0,0,,What kind of emissions result if emission control devices are not used?
-Dialogue: 0,0:44:09.38,0:44:10.98,Default,,0,0,0,,The quantity of particulate emissions
-Dialogue: 0,0:44:10.98,0:44:12.82,Default,,0,0,0,,from just one vehicle [with no safeguards]
-Dialogue: 0,0:44:12.82,0:44:15.98,Default,,0,0,0,,Is 500 times the emissions from a vehicle of National Standard 4
-Dialogue: 0,0:44:15.98,0:44:17.66,Default,,0,0,0,,Diesel cars do not make up a big proportion of vehicles
-Dialogue: 0,0:44:17.66,0:44:18.90,Default,,0,0,0,,It’s similar to the case of scrap coal
-Dialogue: 0,0:44:18.90,0:44:19.82,Default,,0,0,0,,There are not many
-Dialogue: 0,0:44:19.82,0:44:21.14,Default,,0,0,0,,Only 17% of all cars are diesel
-Dialogue: 0,0:44:21.14,0:44:23.22,Default,,0,0,0,,but their emissions of nitrogen oxides
-Dialogue: 0,0:44:23.22,0:44:25.70,Default,,0,0,0,,make up 70% of all vehicle emissions
-Dialogue: 0,0:44:25.70,0:44:27.42,Default,,0,0,0,,and as for their emission of primary particles
-Dialogue: 0,0:44:27.42,0:44:28.54,Default,,0,0,0,,relative to all vehicles?
+Dialogue: 0,0:39:59.18,0:40:00.66,Default,,0,0,0,,Um ehrlich zu sein bin ich genau so schockiert wie Sie
+Dialogue: 0,0:40:00.66,0:40:02.38,Default,,0,0,0,,weil ich immer dachte
+Dialogue: 0,0:40:02.38,0:40:04.82,Default,,0,0,0,,Dies seien die Szenen nebligen Regens, die in all den berühmten Gedichten beschrieben wurden.
+Dialogue: 0,0:40:04.82,0:40:06.78,Default,,0,0,0,,Später rief ich das Hangzhou MEP an
+Dialogue: 0,0:40:06.78,0:40:07.90,Default,,0,0,0,,und sie bestätigten es.
+Dialogue: 0,0:40:07.90,0:40:10.42,Default,,0,0,0,,Weil der Anteil der Fahrzeugbesitzer der Bevölkerung in Hangzhou der höchste
+Dialogue: 0,0:40:10.42,0:40:11.10,Default,,0,0,0,,von allen Städten Chinas ist.
+Dialogue: 0,0:40:11.10,0:40:13.22,Default,,0,0,0,,Im Durchschnitt hat jede zweite Person ein Auto.
+Dialogue: 0,0:40:13.22,0:40:14.38,Default,,0,0,0,,Daher tragen die Fahrzeuge
+Dialogue: 0,0:40:14.38,0:40:16.38,Default,,0,0,0,, in Hangzhou fast 40% zur Luftverschmutzung bei.
+Dialogue: 0,0:40:16.38,0:40:19.50,Default,,0,0,0,,Bedeuten mehr Autos zwangsläufig mehr Verschmutzung?
+Dialogue: 0,0:40:19.50,0:40:20.74,Default,,0,0,0,,Das ist eine Frage, die wir oft hören.
+Dialogue: 0,0:40:20.74,0:40:22.42,Default,,0,0,0,,Gibt es in Tokyo nicht mehr Autos als in Peking?
+Dialogue: 0,0:40:22.42,0:40:25.46,Default,,0,0,0,,Warum sehen wir keine so starke Luftverschmutzung in Tokyo?
+Dialogue: 0,0:40:25.46,0:40:28.26,Default,,0,0,0,,Dies ist die Erklärung der Transportkommission der Stadtverwaltung Pekings:
+Dialogue: 0,0:40:28.26,0:40:31.94,Default,,0,0,0,,Mehr als 90% der Bewohner von Tokyo pendeln per Bahn,
+Dialogue: 0,0:40:31.94,0:40:34.26,Default,,0,0,0,,weniger als 6% fahren mit dem Auto
+Dialogue: 0,0:40:34.26,0:40:35.90,Default,,0,0,0,,Wie sieht das in Peking aus?
+Dialogue: 0,0:40:35.90,0:40:37.70,Default,,0,0,0,,34% der Bewohner Pekings fahren Auto
+Dialogue: 0,0:40:37.70,0:40:40.26,Default,,0,0,0,,und sie fahren im Stadtzentrum, normalerweise stecken sie im Stau
+Dialogue: 0,0:40:40.26,0:40:41.46,Default,,0,0,0,,When sie stehen, sind die Autos im Leerlauf
+Dialogue: 0,0:40:41.46,0:40:42.62,Default,,0,0,0,,was die Emissionen verdoppelt
+Dialogue: 0,0:40:42.62,0:40:44.98,Default,,0,0,0,,und wenn sie bremsen, werden sogar noch mehr Schwermetalle ausgestoßen
+Dialogue: 0,0:40:44.98,0:40:47.34,Default,,0,0,0,,Wieviel PM2.5 wird also in Peking
+Dialogue: 0,0:40:47.34,0:40:49.94,Default,,0,0,0,,täglich während der Rush-Hour
+Dialogue: 0,0:40:49.94,0:40:51.58,Default,,0,0,0,,innerhalb des sechsten Rings?
+Dialogue: 0,0:40:51.58,0:40:52.30,Default,,0,0,0,,Eine Tonne.
+Dialogue: 0,0:40:53.18,0:40:54.86,Default,,0,0,0,,Wieviele Bewohner Pekings würden das Auto nehmen
+Dialogue: 0,0:40:54.86,0:40:56.02,Default,,0,0,0,,wenn sie weniger als 5km fahren müssen?
+Dialogue: 0,0:40:57.74,0:40:59.18,Default,,0,0,0,,Fast die Hälfte.
+Dialogue: 0,0:40:59.18,0:41:00.82,Default,,0,0,0,,12% aller Bewohner
+Dialogue: 0,0:41:00.82,0:41:03.94,Default,,0,0,0,,würden bei weniger als 2km fahren
+Dialogue: 0,0:41:03.94,0:41:05.46,Default,,0,0,0,,und 7%
+Dialogue: 0,0:41:05.46,0:41:06.66,Default,,0,0,0,,würden bei weniger als 1km fahren
+Dialogue: 0,0:41:06.66,0:41:07.74,Default,,0,0,0,,Wie weit ist 1km?
+Dialogue: 0,0:41:07.74,0:41:09.14,Default,,0,0,0,,Das ist der Weg zum Supermarkt
+Dialogue: 0,0:41:09.14,0:41:10.98,Default,,0,0,0,,oder Gemüseladen.
+Dialogue: 0,0:41:10.98,0:41:13.38,Default,,0,0,0,,Lieben wir das Autofahren wirklich so sehr?
+Dialogue: 0,0:41:13.38,0:41:15.06,Default,,0,0,0,,Vielleicht manche von uns
+Dialogue: 0,0:41:15.06,0:41:17.42,Default,,0,0,0,,Aber es könne doch nicht so viele Leute so irrational sein, oder?
+Dialogue: 0,0:41:17.42,0:41:20.58,Default,,0,0,0,,Meine Familie hat ein Auto, aber nachdem unser Kind geboren wurde machten wir uns zur Regel
+Dialogue: 0,0:41:20.58,0:41:22.26,Default,,0,0,0,,daß wir nur für unsere Eltern oder unser Kind fahren, oder
+Dialogue: 0,0:41:22.26,0:41:23.38,Default,,0,0,0,,wenn wir zum Flughafen oder Krankenhaus müssen
+Dialogue: 0,0:41:23.38,0:41:26.82,Default,,0,0,0,,Wenn mein Mann jeden Tag zur Arbeit geht, fährt er Fahrrad
+Dialogue: 0,0:41:26.82,0:41:28.26,Default,,0,0,0,,So kann man vor unserem Wohnblock
+Dialogue: 0,0:41:28.26,0:41:29.18,Default,,0,0,0,,Fahrrad fahren.
+Dialogue: 0,0:41:30.90,0:41:32.26,Default,,0,0,0,,Das ist die einzige Möglichkeit.
+Dialogue: 0,0:41:32.26,0:41:34.22,Default,,0,0,0,,Warum?
+Dialogue: 0,0:41:34.22,0:41:36.02,Default,,0,0,0,,Dies ist unsere Fahrradspur
+Dialogue: 0,0:41:36.02,0:41:38.70,Default,,0,0,0,,Sie ist fast immer voll Autos.
+Dialogue: 0,0:41:38.70,0:41:39.82,Default,,0,0,0,,In Peking gibt es über 5 Millionen Fahrzeuge,
+Dialogue: 0,0:41:39.82,0:41:41.98,Default,,0,0,0,,aber nur die Hälfte hat einen Parkplatz.
+Dialogue: 0,0:41:41.98,0:41:43.46,Default,,0,0,0,,Aber kein Auto kann in der Luft parken,
+Dialogue: 0,0:41:43.46,0:41:45.06,Default,,0,0,0,,also findet man sie auf Fahrradspuren
+Dialogue: 0,0:41:45.06,0:41:46.54,Default,,0,0,0,,und Gehwegen.
+Dialogue: 0,0:41:46.54,0:41:48.14,Default,,0,0,0,,So parken sie.
+Dialogue: 0,0:41:48.14,0:41:50.22,Default,,0,0,0,,Natürlich sind Menschen überall auf der Welt gleich.
+Dialogue: 0,0:41:50.22,0:41:51.82,Default,,0,0,0,,Ohne Vorschriften kann das überall passieren.
+Dialogue: 0,0:41:51.82,0:41:53.58,Default,,0,0,0,,Schauen wir uns London an.
+Dialogue: 0,0:41:53.58,0:41:55.54,Default,,0,0,0,,Früher wurde hier anscheinend auch so geparkt.
+Dialogue: 0,0:41:55.54,0:41:58.54,Default,,0,0,0,,Dann wurden Parkuhren installiert
+Dialogue: 0,0:41:58.54,0:42:00.22,Default,,0,0,0,,und sie parkten so.
+Dialogue: 0,0:42:00.22,0:42:03.26,Default,,0,0,0,,Dann erhöhte London die Parkgebühren und die City-Maut
+Dialogue: 0,0:42:03.26,0:42:04.74,Default,,0,0,0,,und sie parkten so.
+Dialogue: 0,0:42:04.74,0:42:06.38,Default,,0,0,0,,Vor ein paar Tagen habe ich gehört, daß man das Gleiche in Shenzhen versucht.
+Dialogue: 0,0:42:06.38,0:42:08.90,Default,,0,0,0,,Sie fangen an, hohe Parkgebühren zu erheben
+Dialogue: 0,0:42:08.90,0:42:13.98,Default,,0,0,0,,Und dann parkten die Leute in Shenzhen so. (lacht)
+Dialogue: 0,0:42:13.98,0:42:15.66,Default,,0,0,0,,Das Gleiche ist vor 50 Jahren in Tokyo passiert.
+Dialogue: 0,0:42:15.66,0:42:16.58,Default,,0,0,0,,So einfach ist das nicht.
+Dialogue: 0,0:42:16.58,0:42:17.86,Default,,0,0,0,,Es hat lange gedauert,
+Dialogue: 0,0:42:17.86,0:42:19.74,Default,,0,0,0,,die Autos eins nach dem anderen aus dem Weg zu schaffen.
+Dialogue: 0,0:42:19.74,0:42:22.66,Default,,0,0,0,,Das ist eine Probe für sorgfältige Stadtverwaltung.
+Dialogue: 0,0:42:22.66,0:42:24.86,Default,,0,0,0,,Autoliebhaber haben eine andere Frage:
+Dialogue: 0,0:42:24.86,0:42:26.82,Default,,0,0,0,,Wie dieses Foto zeigt
+Dialogue: 0,0:42:26.82,0:42:29.86,Default,,0,0,0,,sind in Peking um Mitternacht keine Autos.
+Dialogue: 0,0:42:29.86,0:42:32.26,Default,,0,0,0,,Warum ist die Luftverschmutzung trotzdem so schlimm?
+Dialogue: 0,0:42:32.26,0:42:34.86,Default,,0,0,0,,Ist das wirklich von Autos verursacht?
+Dialogue: 0,0:42:34.86,0:42:36.26,Default,,0,0,0,,Diese Frage hat auch mich lange Zeit beschäftigt,
+Dialogue: 0,0:42:36.26,0:42:38.22,Default,,0,0,0,,bis mir die Chinesische Akademie der Wissenschaft dieses Diagramm gezeigt hat.
+Dialogue: 0,0:42:40.70,0:42:42.98,Default,,0,0,0,,Immer vor Sonnenaufgang in Peking
+Dialogue: 0,0:42:42.98,0:42:44.66,Default,,0,0,0,,gibt es einen Höchstwert in der Luftverschmutzung.
+Dialogue: 0,0:42:44.66,0:42:46.50,Default,,0,0,0,,Er erscheint immer wieder, jeden Tag
+Dialogue: 0,0:42:46.50,0:42:48.10,Default,,0,0,0,,Zu diesem Zeitpunkt ist der Karbon-Emissionswert etwa
+Dialogue: 0,0:42:48.10,0:42:50.38,Default,,0,0,0,,doppelt so hoch wie der Spitzenwert am Nachmittag des gleichen Tages.
+Dialogue: 0,0:42:50.38,0:42:52.50,Default,,0,0,0,,Was genau ist das?
+Dialogue: 0,0:42:52.50,0:42:53.74,Default,,0,0,0,,Ich wollte auch die Antwort wissen,
+Dialogue: 0,0:42:53.74,0:42:55.06,Default,,0,0,0,,also ging ich zum Yanqing Distrikt in Peking
+Dialogue: 0,0:42:56.00,0:42:58.00,Default,,0,0,0,,Yanqing - Kangzhuang Zollstation, 2:30 morgens 11 Oktober 2014
+Dialogue: 0,0:42:59.18,0:43:00.14,Default,,0,0,0,,Inspektor: Halt!
+Dialogue: 0,0:43:00.14,0:43:02.14,Default,,0,0,0,,Fahrzeugtyp: Futian Aoling
+Dialogue: 0,0:43:02.14,0:43:04.14,Default,,0,0,0,,Angezeigter Emissionsstandard: Nationaler Standard 4
+Dialogue: 0,0:43:04.54,0:43:06.46,Default,,0,0,0,,Dieser Laster hat nicht die Grundausstattung eines Standard 4
+Dialogue: 0,0:43:06.46,0:43:08.14,Default,,0,0,0,,Chai: Also ist es nicht wirklich ein Standard 4 Fahrzeug
+Dialogue: 0,0:43:08.14,0:43:09.06,Default,,0,0,0,,Fahrer: Was soll ich tun?
+Dialogue: 0,0:43:09.06,0:43:10.34,Default,,0,0,0,,Fahrer: Ich habe gerade diesen neuen Laster gekauft
+Dialogue: 0,0:43:10.70,0:43:12.14,Default,,0,0,0,,Das ist mein Umweltkennzeichen
+Dialogue: 0,0:43:12.14,0:43:13.58,Default,,0,0,0,,Es wurde dieses Jahr ausgestellt
+Dialogue: 0,0:43:16.00,0:43:17.96,Default,,0,0,0,,Zufällige Kontrolle eines anderen Fahrzeugs
+Dialogue: 0,0:43:17.96,0:43:19.10,Default,,0,0,0,,Fahrzeugtyp: Chang'an Kaima
+Dialogue: 0,0:43:19.10,0:43:20.62,Default,,0,0,0,,Angezeigter Emissionsstandard: Nationaler Standard 3
+Dialogue: 0,0:43:20.62,0:43:22.02,Default,,0,0,0,,was bedeutet 3.29?
+Dialogue: 0,0:43:22.02,0:43:23.18,Default,,0,0,0,,Das ist über dem Limit
+Dialogue: 0,0:43:23.18,0:43:24.42,Default,,0,0,0,,Das ist nicht mal Standard 1
+Dialogue: 0,0:43:24.42,0:43:26.42,Default,,0,0,0,,Es hat also gar keine Emissionskontrolle?
+Dialogue: 0,0:43:26.42,0:43:28.14,Default,,0,0,0,,Nein, faktisch keine Emissionskontrolle
+Dialogue: 0,0:43:28.14,0:43:28.90,Default,,0,0,0,,Es hat die grüne Plakette
+Dialogue: 0,0:43:29.38,0:43:30.62,Default,,0,0,0,,Die bedeutet Standard 3
+Dialogue: 0,0:43:30.62,0:43:31.26,Default,,0,0,0,,Wer hat sie ausgegeben?
+Dialogue: 0,0:43:31.26,0:43:33.98,Default,,0,0,0,,Die Umweltbehörde von Hebei
+Dialogue: 0,0:43:33.98,0:43:35.42,Default,,0,0,0,,Als ich es kaufte, sagten sie, es sei Standard 3
+Dialogue: 0,0:43:35.42,0:43:37.50,Default,,0,0,0,,Woher sollte ich das wissen? Ich habe nur einen Laster gekauft.
+Dialogue: 0,0:43:37.50,0:43:39.50,Default,,0,0,0,,Zu guter Letzt wurde ihm keine Geldstrafe auferlegt.
+Dialogue: 0,0:43:40.66,0:43:41.94,Default,,0,0,0,,Sein Laster ist auf dem grünen Kanal
+Dialogue: 0,0:43:41.94,0:43:43.50,Default,,0,0,0,,Er befördert Eier, Milch und Öl
+Dialogue: 0,0:43:43.50,0:43:44.86,Default,,0,0,0,,Er ist Teil des städtischen Versorgungssystems
+Dialogue: 0,0:43:44.86,0:43:48.01,Default,,0,0,0,,Nach Vorschrift sollen wir diesen Laster nicht bestrafen
+Dialogue: 0,0:43:48.01,0:43:50.30,Default,,0,0,0,,Li Kunsheng, Direktor des städtischen Umweltbüros von Peking, Abteilung Fahrzeugabgase
+Dialogue: 0,0:43:50.30,0:43:51.12,Default,,0,0,0,,Gefälschte Wagen sind normal
+Dialogue: 0,0:43:51.12,0:43:53.70,Default,,0,0,0,,oder wenn wir es ernster ausdrücken wollen, gefältschte Fahrzeuge sind überall
+Dialogue: 0,0:43:53.70,0:43:55.06,Default,,0,0,0,,Es ist ein Geheimnis der Fahrzeugindustrie
+Dialogue: 0,0:43:55.06,0:43:56.94,Default,,0,0,0,,90% der elementaren Umweltschutzvorrichtungen werden nicht installiert
+Dialogue: 0,0:43:56.94,0:43:58.46,Default,,0,0,0,,Was bedeutet das für die Emissionen?
+Dialogue: 0,0:43:58.46,0:44:00.34,Default,,0,0,0,,Wenn 30,000 [nicht konforme] Fahrzeuge in die Stadt fahren
+Dialogue: 0,0:44:00.34,0:44:02.86,Default,,0,0,0,,ist das gleichbedeutend mit mehreren Millionen [konformen] Fahrzeugen, die nachts fahren.
+Dialogue: 0,0:44:04.74,0:44:09.38,Default,,0,0,0,,Was für Emissionen resultieren daraus, daß Umweltschutzvorrichtungen nicht verwendet werden?
+Dialogue: 0,0:44:09.38,0:44:10.98,Default,,0,0,0,,Die Menge der Partikelemissionen
+Dialogue: 0,0:44:10.98,0:44:12.82,Default,,0,0,0,,nur eines Fahrzeugs [ohne Schutzmaßnahmen]
+Dialogue: 0,0:44:12.82,0:44:15.98,Default,,0,0,0,,entspricht den Emissionen von 500 Fahrzeugen mit Nationalem Standard 4
+Dialogue: 0,0:44:15.98,0:44:17.66,Default,,0,0,0,,Der Anteil von Dieselfahrzeugen ist klein
+Dialogue: 0,0:44:17.66,0:44:18.90,Default,,0,0,0,,Es ist genauso wie mit schlechter Kohle.
+Dialogue: 0,0:44:18.90,0:44:19.82,Default,,0,0,0,,Es gibt nicht viele
+Dialogue: 0,0:44:19.82,0:44:21.14,Default,,0,0,0,,nur 17% aller Autos sind Diesel
+Dialogue: 0,0:44:21.14,0:44:23.22,Default,,0,0,0,,aber ihr Ausstoß von Stickstoffoxiden
+Dialogue: 0,0:44:23.22,0:44:25.70,Default,,0,0,0,,macht 70% aller Fahrzeugemissionen aus
+Dialogue: 0,0:44:25.70,0:44:27.42,Default,,0,0,0,,und ihre Emission von Primärpartikeln
+Dialogue: 0,0:44:27.42,0:44:28.54,Default,,0,0,0,,relativ zu allen Fahrzeugen?
 Dialogue: 0,0:44:28.54,0:44:30.50,Default,,0,0,0,,99%
-Dialogue: 0,0:44:30.50,0:44:32.02,Default,,0,0,0,,There's an even scarier aspect to this too
-Dialogue: 0,0:44:32.02,0:44:34.46,Default,,0,0,0,,The particulates in diesel vehicle emissions
-Dialogue: 0,0:44:34.46,0:44:36.78,Default,,0,0,0,,have exceptionally high toxicity
-Dialogue: 0,0:44:36.78,0:44:38.06,Default,,0,0,0,,PAHs are carcinogens
-Dialogue: 0,0:44:38.06,0:44:41.66,Default,,0,0,0,,But diesel vehicles emit PAHs on steroids
-Dialogue: 0,0:44:41.66,0:44:45.86,Default,,0,0,0,,Nitro-PAHs, which are an order of magnitude more carcinogenic
-Dialogue: 0,0:44:45.86,0:44:47.94,Default,,0,0,0,,When I saw those drivers of diesel vehicles in Yanqing
-Dialogue: 0,0:44:47.94,0:44:51.82,Default,,0,0,0,,I realized that they themselves are the biggest victims of their own diesel emissions
-Dialogue: 0,0:44:51.82,0:44:54.46,Default,,0,0,0,,They are a group at very high risk for cancer
-Dialogue: 0,0:44:54.46,0:44:57.86,Default,,0,0,0,,Besides, it seems fairly unreasonable to punish these people
-Dialogue: 0,0:44:57.86,0:45:00.06,Default,,0,0,0,,They spent their own money
-Dialogue: 0,0:45:00.06,0:45:01.66,Default,,0,0,0,,They bought vehicles with legal certificates
-Dialogue: 0,0:45:01.66,0:45:02.82,Default,,0,0,0,,issued by the government
-Dialogue: 0,0:45:02.82,0:45:04.46,Default,,0,0,0,,What reason do we have to fine them?
-Dialogue: 0,0:45:04.46,0:45:05.86,Default,,0,0,0,,If we want to blame someone
-Dialogue: 0,0:45:05.86,0:45:07.18,Default,,0,0,0,,shouldn’t we start with those
-Dialogue: 0,0:45:07.18,0:45:08.90,Default,,0,0,0,,responsible for manufacturing these fake vehicles?
-Dialogue: 0,0:45:09.09,0:45:10.67,Default,,0,0,0,,Chai: Could you explain why
-Dialogue: 0,0:45:10.67,0:45:13.92,Default,,0,0,0,,the emission devices weren't installed during production?
-Dialogue: 0,0:45:13.92,0:45:15.92,Default,,0,0,0,,Boss: Well, there are trucks for export
-Dialogue: 0,0:45:15.92,0:45:19.33,Default,,0,0,0,,exporting to Africa and other places
-Dialogue: 0,0:45:19.33,0:45:21.27,Default,,0,0,0,,There are also National Standard 1 and 2
-Dialogue: 0,0:45:21.27,0:45:22.99,Default,,0,0,0,,and European Standard 1 and 2 and 0 as well
-Dialogue: 0,0:45:22.99,0:45:24.09,Default,,0,0,0,,And some African ones
-Dialogue: 0,0:45:24.09,0:45:26.93,Default,,0,0,0,,But your trucks have National Standard 4 labels on them
-Dialogue: 0,0:45:26.93,0:45:31.43,Default,,0,0,0,,Well... perhaps they... export... like if they export
-Dialogue: 0,0:45:31.43,0:45:32.52,Default,,0,0,0,,They are sold for export
-Dialogue: 0,0:45:32.52,0:45:37.12,Default,,0,0,0,,Ummm... so that's how it happened
-Dialogue: 0,0:45:37.12,0:45:39.01,Default,,0,0,0,,You mean you put the wrong labels on by mistake?
-Dialogue: 0,0:45:39.92,0:45:41.98,Default,,0,0,0,,Yeah, maybe they stuck, stuck, something of their own
-Dialogue: 0,0:45:41.98,0:45:43.11,Default,,0,0,0,,Someone wants the cars
-Dialogue: 0,0:45:43.11,0:45:45.12,Default,,0,0,0,,So, so, so, we sold them (laughter)
-Dialogue: 0,0:45:45.58,0:45:47.90,Default,,0,0,0,,I don’t know how our African brothers would feel after hearing this
-Dialogue: 0,0:45:47.90,0:45:50.34,Default,,0,0,0,,A business always has its rationalizations
-Dialogue: 0,0:45:50.34,0:45:51.46,Default,,0,0,0,,and reasons
-Dialogue: 0,0:45:51.46,0:45:53.42,Default,,0,0,0,,But what makes me curious is
-Dialogue: 0,0:45:53.42,0:45:54.42,Default,,0,0,0,,for more than ten years
-Dialogue: 0,0:45:54.42,0:45:56.78,Default,,0,0,0,,if such fake manufacturers are so common and widespread,
-Dialogue: 0,0:45:56.78,0:45:58.10,Default,,0,0,0,,and are known by the supervisory departments
-Dialogue: 0,0:45:58.10,0:45:59.54,Default,,0,0,0,,why aren't they dealt with?
-Dialogue: 0,0:45:59.54,0:46:01.02,Default,,0,0,0,,Don’t we have laws?
-Dialogue: 0,0:46:01.02,0:46:03.14,Default,,0,0,0,,Don’t we have regulations
-Dialogue: 0,0:46:03.14,0:46:04.38,Default,,0,0,0,,to recall defective automotive products?
-Dialogue: 0,0:46:04.38,0:46:06.30,Default,,0,0,0,,Such products can surely be recalled, can't they?
-Dialogue: 0,0:46:06.30,0:46:08.26,Default,,0,0,0,,However, from 2004 to today
-Dialogue: 0,0:46:08.26,0:46:09.62,Default,,0,0,0,,how many times has this law been applied
-Dialogue: 0,0:46:09.62,0:46:11.74,Default,,0,0,0,,to these kinds of vehicles?
-Dialogue: 0,0:46:11.74,0:46:12.86,Default,,0,0,0,,Not even once
-Dialogue: 0,0:46:12.86,0:46:13.78,Default,,0,0,0,,Why?
-Dialogue: 0,0:46:13.78,0:46:15.58,Default,,0,0,0,,This is the answer I got
-Dialogue: 0,0:46:15.58,0:46:16.98,Default,,0,0,0,,only when the defects pose unreasonable danger
-Dialogue: 0,0:46:16.98,0:46:19.74,Default,,0,0,0,,towards the safety of people or their property
-Dialogue: 0,0:46:19.74,0:46:22.02,Default,,0,0,0,,can the product be recalled
-Dialogue: 0,0:46:22.02,0:46:23.06,Default,,0,0,0,,They say
-Dialogue: 0,0:46:23.06,0:46:24.10,Default,,0,0,0,,leaving environmental protection devices out of manufacturing
-Dialogue: 0,0:46:24.10,0:46:25.02,Default,,0,0,0,,has nothing to do with safety
-Dialogue: 0,0:46:25.02,0:46:26.54,Default,,0,0,0,,It won’t kill anyone
-Dialogue: 0,0:46:26.54,0:46:29.10,Default,,0,0,0,,so there’s no reason for a recall
-Dialogue: 0,0:46:29.10,0:46:31.66,Default,,0,0,0,,Then do we have the right to fine the manufacturers or make them destroy their products?
-Dialogue: 0,0:46:31.66,0:46:32.50,Default,,0,0,0,,We do
-Dialogue: 0,0:46:32.50,0:46:34.34,Default,,0,0,0,,The “Atmospheric Pollution Prevention Act” states that:
-Dialogue: 0,0:46:34.34,0:46:36.10,Default,,0,0,0,,You can make these factories stop their illegal production
-Dialogue: 0,0:46:36.10,0:46:36.62,Default,,0,0,0,,You can fine them
-Dialogue: 0,0:46:36.62,0:46:38.10,Default,,0,0,0,,You can also confiscate and destroy their products
-Dialogue: 0,0:46:38.10,0:46:40.94,Default,,0,0,0,,More than ten years have passed since 2002
-Dialogue: 0,0:46:40.94,0:46:43.58,Default,,0,0,0,,How many times has this law been used?
-Dialogue: 0,0:46:43.58,0:46:46.30,Default,,0,0,0,,Not even once
-Dialogue: 0,0:46:46.30,0:46:47.18,Default,,0,0,0,,Why?
-Dialogue: 0,0:46:47.18,0:46:48.70,Default,,0,0,0,,This is the answer I got
-Dialogue: 0,0:46:48.70,0:46:53.50,Default,,0,0,0,,This law can only be enforced by the departments with the legal right of supervision
-Dialogue: 0,0:46:53.50,0:46:54.74,Default,,0,0,0,,Everyone says
-Dialogue: 0,0:46:54.74,0:46:57.66,Default,,0,0,0,,I don’t know which department that is
-Dialogue: 0,0:46:57.66,0:47:00.14,Default,,0,0,0,,Since there are only a few departments related to automotive management
-Dialogue: 0,0:47:00.14,0:47:01.54,Default,,0,0,0,,I just called them one by one
-Dialogue: 0,0:47:01.54,0:47:04.22,Default,,0,0,0,,First I asked the Ministry of Environmental Protection
-Dialogue: 0,0:47:04.22,0:47:05.62,Default,,0,0,0,,They said:
-Dialogue: 0,0:47:05.62,0:47:08.34,Default,,0,0,0,,As far as we know, it’s not us
-Dialogue: 0,0:47:08.34,0:47:10.06,Default,,0,0,0,,Then I asked the Ministry of Industry and Information Technology
-Dialogue: 0,0:47:10.06,0:47:13.26,Default,,0,0,0,,They say: It’s definitely not us
-Dialogue: 0,0:47:13.26,0:47:15.90,Default,,0,0,0,,Then I asked the General Administration of Quality Supervision and Inspection, they said:
-Dialogue: 0,0:47:15.90,0:47:18.54,Default,,0,0,0,,It should be all three of us
-Dialogue: 0,0:47:18.54,0:47:20.38,Default,,0,0,0,,I think they do have a reason to be confused
-Dialogue: 0,0:47:20.38,0:47:21.62,Default,,0,0,0,,Why doesn’t the law
-Dialogue: 0,0:47:21.62,0:47:24.06,Default,,0,0,0,,just clarify who is in charge of this management?
-Dialogue: 0,0:47:24.06,0:47:25.82,Default,,0,0,0,,I had to turn to the National People’s Congress
-Dialogue: 0,0:47:25.82,0:47:27.54,Default,,0,0,0,,So I called the NPC
-Dialogue: 0,0:47:27.54,0:47:29.50,Default,,0,0,0,,And this was their reply:
-Dialogue: 0,0:47:29.50,0:47:33.34,Default,,0,0,0,,The issue of this law's execution is indeed unclear
-Dialogue: 0,0:47:33.34,0:47:35.54,Default,,0,0,0,,This is a very rare case in our legislative process
-Dialogue: 0,0:47:35.54,0:47:38.99,Default,,0,0,0,,Why would it exist nowhere else but in Article 53 of the Law on Atmosphere?
-Dialogue: 0,0:47:38.99,0:47:40.17,Default,,0,0,0,,Ding Yan - Director of MEP Vehicular Pollution Research Institute
-Dialogue: 0,0:47:40.17,0:47:40.82,Default,,0,0,0,,We asked them (NPC) back then
-Dialogue: 0,0:47:40.82,0:47:42.34,Default,,0,0,0,,Why did you write the Law on Atmosphere like this?
-Dialogue: 0,0:47:42.34,0:47:43.42,Default,,0,0,0,,Why don’t you just let us take charge of it?
-Dialogue: 0,0:47:43.42,0:47:45.82,Default,,0,0,0,,They replied that because when they were making this law
-Dialogue: 0,0:47:45.82,0:47:47.26,Default,,0,0,0,,many departments opposed it
-Dialogue: 0,0:47:47.26,0:47:48.30,Default,,0,0,0,,saying that the MEP should not be in charge
-Dialogue: 0,0:47:48.30,0:47:50.14,Default,,0,0,0,,so the bill could not pass
-Dialogue: 0,0:47:50.14,0:47:53.14,Default,,0,0,0,,In the end the NPC had to use a vague term to make it pass
-Dialogue: 0,0:47:53.14,0:47:55.22,Default,,0,0,0,,So it says that only departments with executive authority can enforce this law
-Dialogue: 0,0:47:55.22,0:47:57.26,Default,,0,0,0,,It sounds like all three departments are responsible for supervision
-Dialogue: 0,0:47:57.26,0:47:58.78,Default,,0,0,0,,But in reality we cannot control it
-Dialogue: 0,0:47:58.78,0:47:59.82,Default,,0,0,0,,Their certificates are all valid
-Dialogue: 0,0:47:59.82,0:48:01.14,Default,,0,0,0,,so are the vehicles' types
-Dialogue: 0,0:48:01.14,0:48:02.78,Default,,0,0,0,,The MEP issues them green labels
-Dialogue: 0,0:48:02.78,0:48:03.70,Default,,0,0,0,,of National Standard 4
-Dialogue: 0,0:48:03.70,0:48:05.74,Default,,0,0,0,,but not a single department actually goes out and looks at the cars
-Dialogue: 0,0:48:05.74,0:48:07.34,Default,,0,0,0,,which are in fact only up to Standard 1
-Dialogue: 0,0:48:07.34,0:48:09.62,Default,,0,0,0,,If you (at the MEP) assert you have legal authority, no one can deny that
-Dialogue: 0,0:48:09.62,0:48:10.54,Default,,0,0,0,,So why don't you just execute the law?
-Dialogue: 0,0:48:10.54,0:48:13.82,Default,,0,0,0,,The MEP is indeed suspected of not doing its best, I admit this
-Dialogue: 0,0:48:13.82,0:48:16.02,Default,,0,0,0,,The situation is that we didn’t pursue this issue further
-Dialogue: 0,0:48:16.02,0:48:18.90,Default,,0,0,0,,So after so many years your law enforcement powers are still completely toothless?
-Dialogue: 0,0:48:18.90,0:48:21.94,Default,,0,0,0,,Nowadays I don't dare open my mouth out of fear that people will see I have no teeth.
-Dialogue: 0,0:48:21.94,0:48:23.14,Default,,0,0,0,,That’s the awkward thing about the MEP's situation.
-Dialogue: 0,0:48:25.38,0:48:26.78,Default,,0,0,0,,This isn't just awkward for the MEP
-Dialogue: 0,0:48:26.78,0:48:28.14,Default,,0,0,0,,Truck companies are also in an awkward position
-Dialogue: 0,0:48:28.14,0:48:30.38,Default,,0,0,0,,The truck company with fake emissions stickers said
-Dialogue: 0,0:48:30.38,0:48:32.82,Default,,0,0,0,,If the MEP can enforce the law
-Dialogue: 0,0:48:32.82,0:48:34.30,Default,,0,0,0,,and impound those “fake” trucks
-Dialogue: 0,0:48:34.30,0:48:36.46,Default,,0,0,0,,I guarantee we would build “real” trucks the very next day
-Dialogue: 0,0:48:36.70,0:48:37.82,Default,,0,0,0,,Otherwise, if we build "real" trucks
-Dialogue: 0,0:48:37.82,0:48:38.78,Default,,0,0,0,,and others build "fake" trucks
-Dialogue: 0,0:48:38.78,0:48:40.22,Default,,0,0,0,,we would be bankrupt tomorrow
-Dialogue: 0,0:48:40.22,0:48:43.06,Default,,0,0,0,,So I asked Ding Yan, do you think this perspective is reasonable?
-Dialogue: 0,0:48:43.06,0:48:44.14,Default,,0,0,0,,He said “Yes”
-Dialogue: 0,0:48:44.14,0:48:46.90,Default,,0,0,0,,Not enforcing the law forces people to cheat
-Dialogue: 0,0:48:47.90,0:48:49.54,Default,,0,0,0,,The truck company owner also said
-Dialogue: 0,0:48:49.54,0:48:53.86,Default,,0,0,0,,National Standard 4 has already been set and it applies to all new vehicles
-Dialogue: 0,0:48:53.86,0:48:56.34,Default,,0,0,0,,But National Standard 4 compliant fuel is still scarce
-Dialogue: 0,0:48:56.34,0:48:58.90,Default,,0,0,0,,and the fuel quality is not as high as it should be
-Dialogue: 0,0:48:58.90,0:49:00.58,Default,,0,0,0,,When we were in Yanqing
-Dialogue: 0,0:49:00.58,0:49:03.06,Default,,0,0,0,,and randomly checked this diesel truck
-Dialogue: 0,0:49:03.06,0:49:04.70,Default,,0,0,0,,The diesel gas came from Beijing
-Dialogue: 0,0:49:04.70,0:49:07.46,Default,,0,0,0,,and was expected to be of high quality, the highest level in China
-Dialogue: 0,0:49:07.46,0:49:09.46,Default,,0,0,0,,But when the diesel test results came out,
-Dialogue: 0,0:49:09.46,0:49:13.10,Default,,0,0,0,,the (sulfur content) was 25 times higher than European, Japanese, and US diesel
-Dialogue: 0,0:49:13.10,0:49:14.62,Default,,0,0,0,,That's the top level of quality
-Dialogue: 0,0:49:14.62,0:49:17.38,Default,,0,0,0,,What about the quality of our gasoline?
-Dialogue: 0,0:49:17.38,0:49:20.50,Default,,0,0,0,,This is a table I got from Chinese Research Academy of Environmental Science
-Dialogue: 0,0:49:20.50,0:49:22.58,Default,,0,0,0,,This table pains me every time I look at it
-Dialogue: 0,0:49:22.58,0:49:24.54,Default,,0,0,0,,because I cannot understand it at all
-Dialogue: 0,0:49:24.54,0:49:26.26,Default,,0,0,0,,Fortunately they gave me the conclusion
-Dialogue: 0,0:49:26.26,0:49:28.22,Default,,0,0,0,,This shows our national fuel quality is
-Dialogue: 0,0:49:28.22,0:49:30.86,Default,,0,0,0,,normally two or three grades lower than fuel found in developed countries.
-Dialogue: 0,0:49:30.86,0:49:32.30,Default,,0,0,0,,If we can raise our national fuel quality by just one grade
-Dialogue: 0,0:49:32.30,0:49:34.14,Default,,0,0,0,,we can reduce emissions by 10%
-Dialogue: 0,0:49:34.14,0:49:35.86,Default,,0,0,0,,It seems like we have some good fuel available in China
-Dialogue: 0,0:49:35.86,0:49:37.38,Default,,0,0,0,,We have Standard 4 and higher quality fuel
-Dialogue: 0,0:49:37.38,0:49:39.98,Default,,0,0,0,,but these only make up 3% of China's total fuels
-Dialogue: 0,0:49:39.98,0:49:41.82,Default,,0,0,0,,This is Hangzhou's problem
-Dialogue: 0,0:49:41.82,0:49:43.18,Default,,0,0,0,,Hangzhou has money and
-Dialogue: 0,0:49:43.18,0:49:44.38,Default,,0,0,0,,wants to buy high quality fuel
-Dialogue: 0,0:49:44.38,0:49:46.58,Default,,0,0,0,,But until 2013 there was no high quality fuel available
-Dialogue: 0,0:49:46.58,0:49:47.98,Default,,0,0,0,,Even after a huge effort
-Dialogue: 0,0:49:47.98,0:49:50.22,Default,,0,0,0,,the best you can manage is Standard 3 fuel
-Dialogue: 0,0:49:50.22,0:49:52.46,Default,,0,0,0,,Even in Beijing, it looks like our sulfur content
-Dialogue: 0,0:49:52.46,0:49:53.58,Default,,0,0,0,,is on the same level as Europe's
-Dialogue: 0,0:49:53.58,0:49:55.06,Default,,0,0,0,,on the same level as America's
-Dialogue: 0,0:49:55.06,0:49:57.22,Default,,0,0,0,,But look at the four items in this box
+Dialogue: 0,0:44:30.50,0:44:32.02,Default,,0,0,0,,Es gibt einen noch beunruhigenderen Aspekt dabei.
+Dialogue: 0,0:44:32.02,0:44:34.46,Default,,0,0,0,,Die Partikel in Dieselemissionen
+Dialogue: 0,0:44:34.46,0:44:36.78,Default,,0,0,0,,sind extrem toxisch
+Dialogue: 0,0:44:36.78,0:44:38.06,Default,,0,0,0,,PAHs sind krebserregend
+Dialogue: 0,0:44:38.06,0:44:41.66,Default,,0,0,0,,Aber Dieselfahrzeuge stoßen PAHs auf steroiden aus
+Dialogue: 0,0:44:41.66,0:44:45.86,Default,,0,0,0,,Nitro-PAHs, die eine Größenordnung krebserregender sind.
+Dialogue: 0,0:44:45.86,0:44:47.94,Default,,0,0,0,,Als ich die Fahrer der Dieselfahrzeuge in Yanqing sah
+Dialogue: 0,0:44:47.94,0:44:51.82,Default,,0,0,0,,erkannte ich, daß sie selbst die größten Opfer ihrer eigenen Dieselemissionen sind
+Dialogue: 0,0:44:51.82,0:44:54.46,Default,,0,0,0,,Sie sind eine Gruppe mit großem Krebsrisiko.
+Dialogue: 0,0:44:54.46,0:44:57.86,Default,,0,0,0,,Außerdem scheint es ziemlich unangemessen, diese Leute zu bestrafen
+Dialogue: 0,0:44:57.86,0:45:00.06,Default,,0,0,0,,Sie haben ihr eigenes Geld ausgegeben
+Dialogue: 0,0:45:00.06,0:45:01.66,Default,,0,0,0,,Sie haben Fahrzeuge mit legalen Zertifikaten gekauft
+Dialogue: 0,0:45:01.66,0:45:02.82,Default,,0,0,0,,die von der Regierung ausgegeben wurden.
+Dialogue: 0,0:45:02.82,0:45:04.46,Default,,0,0,0,,Mit welchem Grund sollen wir eine Geldstrafe gegen sie verhängen?
+Dialogue: 0,0:45:04.46,0:45:05.86,Default,,0,0,0,,Wenn wir jemandem die Schuld geben,
+Dialogue: 0,0:45:05.86,0:45:07.18,Default,,0,0,0,,sollten wir nicht mit denen anfangen
+Dialogue: 0,0:45:07.18,0:45:08.90,Default,,0,0,0,,die dafür verantwortlich sind, diese gefälschten Fahrzeuge zu produzieren?
+Dialogue: 0,0:45:09.09,0:45:10.67,Default,,0,0,0,,Chai: Können Sie erklären, warum
+Dialogue: 0,0:45:10.67,0:45:13.92,Default,,0,0,0,,die Umweltvorrichtungen bei der Produktion nicht installiert wurden?
+Dialogue: 0,0:45:13.92,0:45:15.92,Default,,0,0,0,,Boss: Naja, es gibt Laster für den Export
+Dialogue: 0,0:45:15.92,0:45:19.33,Default,,0,0,0,,nach Afrika und anderswo
+Dialogue: 0,0:45:19.33,0:45:21.27,Default,,0,0,0,,Es gibt auch welche mit Nationalem Standard 1 und 2
+Dialogue: 0,0:45:21.27,0:45:22.99,Default,,0,0,0,,und europäischen Standard 1 und 2 und auch 0
+Dialogue: 0,0:45:22.99,0:45:24.09,Default,,0,0,0,,und ein paar afrikanische.
+Dialogue: 0,0:45:24.09,0:45:26.93,Default,,0,0,0,,Aber Ihre Laster haben Plaketten für den Nationalen Standard 4
+Dialogue: 0,0:45:26.93,0:45:31.43,Default,,0,0,0,,Naja... vielleicht... Export... wenn sie exportiert
+Dialogue: 0,0:45:31.43,0:45:32.52,Default,,0,0,0,,Sie werden für den Export verkauft
+Dialogue: 0,0:45:32.52,0:45:37.12,Default,,0,0,0,,Ähm... so ist das passiert
+Dialogue: 0,0:45:37.12,0:45:39.01,Default,,0,0,0,,Sie meinen, Sie haben aus Versehen die falschen Plaketten aufgeklebt?
+Dialogue: 0,0:45:39.92,0:45:41.98,Default,,0,0,0,,Ja, vielleicht wurden irgendwelche eingenen aufgeklebt
+Dialogue: 0,0:45:41.98,0:45:43.11,Default,,0,0,0,,Jemand wollte die Autos
+Dialogue: 0,0:45:43.11,0:45:45.12,Default,,0,0,0,,also, also haben wir sie verkauft (lacht)
+Dialogue: 0,0:45:45.58,0:45:47.90,Default,,0,0,0,,Ich weiß nicht, wie unsere afrikanischen Brüder sich fühlen würden, wenn sie das hören.
+Dialogue: 0,0:45:47.90,0:45:50.34,Default,,0,0,0,,Ein Betrieb hat immer seine Rationalisierung
+Dialogue: 0,0:45:50.34,0:45:51.46,Default,,0,0,0,,und Gründe
+Dialogue: 0,0:45:51.46,0:45:53.42,Default,,0,0,0,,aber was mich neugierig macht ist,
+Dialogue: 0,0:45:53.42,0:45:54.42,Default,,0,0,0,,Wenn über ein Jahrzehnt
+Dialogue: 0,0:45:54.42,0:45:56.78,Default,,0,0,0,,solche falschen Hersteller so verbreitet sind,
+Dialogue: 0,0:45:56.78,0:45:58.10,Default,,0,0,0,,und den überprüfenden Behörden bekannt sind,
+Dialogue: 0,0:45:58.10,0:45:59.54,Default,,0,0,0,,warum wird nichts gegen sie unternommen?
+Dialogue: 0,0:45:59.54,0:46:01.02,Default,,0,0,0,,Haben wir keine Gesetze?
+Dialogue: 0,0:46:01.02,0:46:03.14,Default,,0,0,0,,Haben wir keine Vorschriften
+Dialogue: 0,0:46:03.14,0:46:04.38,Default,,0,0,0,,um unzureichende Autos zurückzurufen?
+Dialogue: 0,0:46:04.38,0:46:06.30,Default,,0,0,0,,Solche Produkte können sicher zurückgerufen werden, oder?
+Dialogue: 0,0:46:06.30,0:46:08.26,Default,,0,0,0,,Aber seit 2004 bis heute
+Dialogue: 0,0:46:08.26,0:46:09.62,Default,,0,0,0,,wie oft wurde diese Gesetz
+Dialogue: 0,0:46:09.62,0:46:11.74,Default,,0,0,0,,auf diese Art Fahrzeuge angewandt?
+Dialogue: 0,0:46:11.74,0:46:12.86,Default,,0,0,0,,Nicht ein einziges Mal
+Dialogue: 0,0:46:12.86,0:46:13.78,Default,,0,0,0,,Warum?
+Dialogue: 0,0:46:13.78,0:46:15.58,Default,,0,0,0,,Dies ist die Antwort, die mir gegeben wurde:
+Dialogue: 0,0:46:15.58,0:46:16.98,Default,,0,0,0,,Nur, wenn die Defekte eine unzumutbare Gefahr
+Dialogue: 0,0:46:16.98,0:46:19.74,Default,,0,0,0,,für die Sicherheit von Menschen oder Besitz darstellen
+Dialogue: 0,0:46:19.74,0:46:22.02,Default,,0,0,0,,kann das Produkt zurückgerufen werden.
+Dialogue: 0,0:46:22.02,0:46:23.06,Default,,0,0,0,,Sie sagen, die Umweltschutzvorrichtungen
+Dialogue: 0,0:46:23.06,0:46:24.10,Default,,0,0,0,,aus der Produktion wegzulassen
+Dialogue: 0,0:46:24.10,0:46:25.02,Default,,0,0,0,,habe nichts mit Sicherheit zu tun.
+Dialogue: 0,0:46:25.02,0:46:26.54,Default,,0,0,0,,Es bringe niemanden um,
+Dialogue: 0,0:46:26.54,0:46:29.10,Default,,0,0,0,,also sei kein Grund für einen Rückruf vorhanden.
+Dialogue: 0,0:46:29.10,0:46:31.66,Default,,0,0,0,,Haben wir also kein Recht, den Herstellern Geldstrafen aufzuerlegen oder sie ihre Produkte zerstören zu lassen?
+Dialogue: 0,0:46:31.66,0:46:32.50,Default,,0,0,0,,Doch,
+Dialogue: 0,0:46:32.50,0:46:34.34,Default,,0,0,0,,Der “Atmospheric Pollution Prevention Act” sagt:
+Dialogue: 0,0:46:34.34,0:46:36.10,Default,,0,0,0,,Man kann diese Fabriken dazu bringen, ihre illegale Produktion zu stoppen
+Dialogue: 0,0:46:36.10,0:46:36.62,Default,,0,0,0,,Man kann sie auch mit Geldstrafen belegen
+Dialogue: 0,0:46:36.62,0:46:38.10,Default,,0,0,0,,Man kann auch ihre Produkte konfiszieren und zerstören
+Dialogue: 0,0:46:38.10,0:46:40.94,Default,,0,0,0,,Seit 2002 sind mehr als zehn Jahre vergangen
+Dialogue: 0,0:46:40.94,0:46:43.58,Default,,0,0,0,,Wie viele Male wurde dieses Gesetz angewendet?
+Dialogue: 0,0:46:43.58,0:46:46.30,Default,,0,0,0,,Nicht ein einziges Mal
+Dialogue: 0,0:46:46.30,0:46:47.18,Default,,0,0,0,,Warum?
+Dialogue: 0,0:46:47.18,0:46:48.70,Default,,0,0,0,,Dies ist die Antwort, die mir gegeben wurde:
+Dialogue: 0,0:46:48.70,0:46:53.50,Default,,0,0,0,,Dieses Gesetz kann nur von Behörden mit gesetzlichem Recht zur Überwachung vollstreckt werden.
+Dialogue: 0,0:46:53.50,0:46:54.74,Default,,0,0,0,,Jeder sagt
+Dialogue: 0,0:46:54.74,0:46:57.66,Default,,0,0,0,,Ich weiß nicht, welche Behörde das ist.
+Dialogue: 0,0:46:57.66,0:47:00.14,Default,,0,0,0,,Da es nur wenige Behörden in Verbindung zu Verkehrsmanagement gibt
+Dialogue: 0,0:47:00.14,0:47:01.54,Default,,0,0,0,,habe ich einfach eine nach der anderen angerufen.
+Dialogue: 0,0:47:01.54,0:47:04.22,Default,,0,0,0,,Zuerst fragte ich das Umweltministerium.
+Dialogue: 0,0:47:04.22,0:47:05.62,Default,,0,0,0,,Sie sagten:
+Dialogue: 0,0:47:05.62,0:47:08.34,Default,,0,0,0,,So weit wir wissen, sind wir dafür nicht zuständig.
+Dialogue: 0,0:47:08.34,0:47:10.06,Default,,0,0,0,,Dann fragte ich das Ministerium für Industrie und Informationstechnologie
+Dialogue: 0,0:47:10.06,0:47:13.26,Default,,0,0,0,,Sie sagen: dafür sind wir definitiv nicht zuständig.
+Dialogue: 0,0:47:13.26,0:47:15.90,Default,,0,0,0,,Dann fragte ich die Allgemeine Verwaltung für Qualitätssicherung und Kontrolle, und sie sagten:
+Dialogue: 0,0:47:15.90,0:47:18.54,Default,,0,0,0,,Dafür sollten wir alle drei zuständig sein.
+Dialogue: 0,0:47:18.54,0:47:20.38,Default,,0,0,0,,Ich glaube, sie haben Grund, verwirrt zu sein.
+Dialogue: 0,0:47:20.38,0:47:21.62,Default,,0,0,0,,Warum legt das Gesetz nicht einfach fest
+Dialogue: 0,0:47:21.62,0:47:24.06,Default,,0,0,0,,wer für diese Regelung zuständig ist?
+Dialogue: 0,0:47:24.06,0:47:25.82,Default,,0,0,0,,Ich mußte mich an den Nationalen Volkskongress wenden.
+Dialogue: 0,0:47:25.82,0:47:27.54,Default,,0,0,0,,Also habe ich den NVK angerufen.
+Dialogue: 0,0:47:27.54,0:47:29.50,Default,,0,0,0,,Dies war ihre Antwort:
+Dialogue: 0,0:47:29.50,0:47:33.34,Default,,0,0,0,,Die Ausführung dieses Gesetzes ist tatsächlich unklar.
+Dialogue: 0,0:47:33.34,0:47:35.54,Default,,0,0,0,,Das ist ein sehr seltener Fall in unserer Gesetzgebung.
+Dialogue: 0,0:47:35.54,0:47:38.99,Default,,0,0,0,,Warum sollte es nirgendwo anders als im Artikel 53 des Gesetzes zur Atmosphäre vorkommen?
+Dialogue: 0,0:47:38.99,0:47:40.17,Default,,0,0,0,,Ding Yan - Direktor des "MEP Vehicular Pollution Research Institute"
+Dialogue: 0,0:47:40.17,0:47:40.82,Default,,0,0,0,,Wir haben sie (NVK) damals gefragt
+Dialogue: 0,0:47:40.82,0:47:42.34,Default,,0,0,0,,Warum haben Sie das Gesetz zur Atmosphäre so geschrieben?
+Dialogue: 0,0:47:42.34,0:47:43.42,Default,,0,0,0,,Warum lassen Sie uns nicht einfach die Verantwortung übernehmen?
+Dialogue: 0,0:47:43.42,0:47:45.82,Default,,0,0,0,,Sie antworteten, daß, als sie das Gesetz gemacht haben
+Dialogue: 0,0:47:45.82,0:47:47.26,Default,,0,0,0,,viele Abteilungen dagegen waren und meinten
+Dialogue: 0,0:47:47.26,0:47:48.30,Default,,0,0,0,,daß das MEP nicht verantwortlich sein sollte
+Dialogue: 0,0:47:48.30,0:47:50.14,Default,,0,0,0,,also konnte der Antrag nicht durchkommen.
+Dialogue: 0,0:47:50.14,0:47:53.14,Default,,0,0,0,,Zum Schluß mußte der NVK eine vage Formulierung benutzen, um das Gesetz durchzubringen.
+Dialogue: 0,0:47:53.14,0:47:55.22,Default,,0,0,0,,Daher heißt es, nur Behörden mit exekutiver Amtsbefugnis dürfen dieses Gesetz durchsetzen.
+Dialogue: 0,0:47:55.22,0:47:57.26,Default,,0,0,0,,Es hört sich an, als ob alle drei Behörden für die Überwachung zuständig seien
+Dialogue: 0,0:47:57.26,0:47:58.78,Default,,0,0,0,,aber tatsächlich können wir es nicht kontrollieren.
+Dialogue: 0,0:47:58.78,0:47:59.82,Default,,0,0,0,,Ihre Zertifikate sind alle gültig
+Dialogue: 0,0:47:59.82,0:48:01.14,Default,,0,0,0,,genauso wie die Fahrzeugtypen
+Dialogue: 0,0:48:01.14,0:48:02.78,Default,,0,0,0,,Das MEP stellt ihnen grüne Plaketten aus
+Dialogue: 0,0:48:02.78,0:48:03.70,Default,,0,0,0,,über Nationalen Standard 4
+Dialogue: 0,0:48:03.70,0:48:05.74,Default,,0,0,0,,aber nicht eine einzige Behörde geht tatsächlich hin und schaut die Autos an
+Dialogue: 0,0:48:05.74,0:48:07.34,Default,,0,0,0,,Die eigentlich nur Standard 1 sind.
+Dialogue: 0,0:48:07.34,0:48:09.62,Default,,0,0,0,,Wenn Sie (im MEP) Ihre gesetzliche Authorität durchsetzen, kann das niemand leugnen.
+Dialogue: 0,0:48:09.62,0:48:10.54,Default,,0,0,0,,Warum setzen Sie das Gesetz nicht einfach durch?
+Dialogue: 0,0:48:10.54,0:48:13.82,Default,,0,0,0,,Das MEP wird tatsächlich verdächtigt, nicht sein Bestes zu tun, das gebe ich zu.
+Dialogue: 0,0:48:13.82,0:48:16.02,Default,,0,0,0,,Die Situation ist die, daß wir dieses Thema nicht weiterverfolgen
+Dialogue: 0,0:48:16.02,0:48:18.90,Default,,0,0,0,,Nach so vielen Jahren ist Ihre Strafverfolgungsbefugnis immer noch vollständig zahnlos?
+Dialogue: 0,0:48:18.90,0:48:21.94,Default,,0,0,0,,Dieser Tage wage ich es nicht, meinen Mund aufzumachen, weil ich befürchte, man sieht, daß ich keine Zähne habe.
+Dialogue: 0,0:48:21.94,0:48:23.14,Default,,0,0,0,,Das ist das Unangenehme an der Situation des MEP.
+Dialogue: 0,0:48:25.38,0:48:26.78,Default,,0,0,0,,Das ist nicht nur unangenhem für das MEP
+Dialogue: 0,0:48:26.78,0:48:28.14,Default,,0,0,0,,Lastwagenfirmen sind auch in einer unangenehmen Lage
+Dialogue: 0,0:48:28.14,0:48:30.38,Default,,0,0,0,,Die Lastwagenfirma mit falschen Emissionsplaketten sagte
+Dialogue: 0,0:48:30.38,0:48:32.82,Default,,0,0,0,,Wenn das MEP das Gesetz durchsetzen kann
+Dialogue: 0,0:48:32.82,0:48:34.30,Default,,0,0,0,,und diese “gefälschten” Laster beschlagnahmt
+Dialogue: 0,0:48:34.30,0:48:36.46,Default,,0,0,0,,kann ich garantieren, daß wir schon am nächsten Tag “richtige” Laster bauen.
+Dialogue: 0,0:48:36.70,0:48:37.82,Default,,0,0,0,,Ansonsten, wenn wir "richtige" Laster bauen würden
+Dialogue: 0,0:48:37.82,0:48:38.78,Default,,0,0,0,,und andere bauen "gefälschte"
+Dialogue: 0,0:48:38.78,0:48:40.22,Default,,0,0,0,,würden wir morgen Bankrott gehen.
+Dialogue: 0,0:48:40.22,0:48:43.06,Default,,0,0,0,,Ich fragte Ding Yan, ob er diese Sichtweise als vernünftig ansieht?
+Dialogue: 0,0:48:43.06,0:48:44.14,Default,,0,0,0,,Er sagte “Ja”
+Dialogue: 0,0:48:44.14,0:48:46.90,Default,,0,0,0,,Das Gesetz nicht durchzusetzen, zwingt die Leute, zu betrügen.
+Dialogue: 0,0:48:47.90,0:48:49.54,Default,,0,0,0,,Der Besitzer der Lastwagenfirma sagte auch:
+Dialogue: 0,0:48:49.54,0:48:53.86,Default,,0,0,0,,Der Nationale Standard 4 wurde schon verabschiedet und ist anwendbar auf alle neuen Fahrzeuge
+Dialogue: 0,0:48:53.86,0:48:56.34,Default,,0,0,0,,aber zum Nationalen Standard 4 konformer Kraftstoff ist immer noch rar
+Dialogue: 0,0:48:56.34,0:48:58.90,Default,,0,0,0,,und die Qualität des Kraftstoffs ist nicht so hoch, wie sie sein sollte.
+Dialogue: 0,0:48:58.90,0:49:00.58,Default,,0,0,0,,Als wir in Yanqing waren
+Dialogue: 0,0:49:00.58,0:49:03.06,Default,,0,0,0,,und zufällig diesen Diesellaster überprüft haben
+Dialogue: 0,0:49:03.06,0:49:04.70,Default,,0,0,0,,kam der Diesel aus Peking
+Dialogue: 0,0:49:04.70,0:49:07.46,Default,,0,0,0,,und wir erwarteten gute Qualität, die beste in China
+Dialogue: 0,0:49:07.46,0:49:09.46,Default,,0,0,0,,aber als die Diesel Testresultate kamen,
+Dialogue: 0,0:49:09.46,0:49:13.10,Default,,0,0,0,,war der (Schwefelgehalt) 25 mal höher als europäischer, japanischer oder US Diesel
+Dialogue: 0,0:49:13.10,0:49:14.62,Default,,0,0,0,,Das ist die höchste Qualitätsstufe.
+Dialogue: 0,0:49:14.62,0:49:17.38,Default,,0,0,0,,Was ist mit der Qualität unseres Kraftstoffs?
+Dialogue: 0,0:49:17.38,0:49:20.50,Default,,0,0,0,,Dies ist eine Tabelle, die ich von der Chinesischen Forschungsakademie für Umweltforschung bekommen habe.
+Dialogue: 0,0:49:20.50,0:49:22.58,Default,,0,0,0,,Diese Tabelle tut mir weh, wann immer ich sie mir anschaue
+Dialogue: 0,0:49:22.58,0:49:24.54,Default,,0,0,0,,weil ich sie einfach nicht verstehen kann.
+Dialogue: 0,0:49:24.54,0:49:26.26,Default,,0,0,0,,Zum Glück haben sie mir das Ergebnis gegeben.
+Dialogue: 0,0:49:26.26,0:49:28.22,Default,,0,0,0,,Dies zeigt, daß unsere Kraftstoffqualität
+Dialogue: 0,0:49:28.22,0:49:30.86,Default,,0,0,0,,normalerweise zwei oder drei Stufen schlechter ist als Kraftstoff in entwickelten Ländern.
+Dialogue: 0,0:49:30.86,0:49:32.30,Default,,0,0,0,,Wenn wir unsere nationale Kraftstoffqualität nur um eine Stufe verbessern können,
+Dialogue: 0,0:49:32.30,0:49:34.14,Default,,0,0,0,,können wir unsere Emissionen um 10% reduzieren.
+Dialogue: 0,0:49:34.14,0:49:35.86,Default,,0,0,0,,Es scheint, daß es in China guten Kraftstoff gibt.
+Dialogue: 0,0:49:35.86,0:49:37.38,Default,,0,0,0,,Wir haben Standard 4 und Kraftstoff mit besserer Qualität
+Dialogue: 0,0:49:37.38,0:49:39.98,Default,,0,0,0,,aber die machen nur 3% von Chinas Kraftstoff aus.
+Dialogue: 0,0:49:39.98,0:49:41.82,Default,,0,0,0,,Das ist Hangzhou's Problem
+Dialogue: 0,0:49:41.82,0:49:43.18,Default,,0,0,0,,Hangzhou hat Geld und
+Dialogue: 0,0:49:43.18,0:49:44.38,Default,,0,0,0,,möchte guten Kraftstoff kaufen
+Dialogue: 0,0:49:44.38,0:49:46.58,Default,,0,0,0,,aber bis 2013 war kein hochqualitativer Kraftstoff verfügbar.
+Dialogue: 0,0:49:46.58,0:49:47.98,Default,,0,0,0,,Selbst mit großem Aufwand ist
+Dialogue: 0,0:49:47.98,0:49:50.22,Default,,0,0,0,,das Beste was Du erreichen kannst Standard 3 Kraftstoff.
+Dialogue: 0,0:49:50.22,0:49:52.46,Default,,0,0,0,,In Peking scheint es, daß unser Schwefelgehalt
+Dialogue: 0,0:49:52.46,0:49:53.58,Default,,0,0,0,,auf dem gleichen Level ist wie in Europa
+Dialogue: 0,0:49:53.58,0:49:55.06,Default,,0,0,0,,auf dem gleichen Level wie Amerika.
+Dialogue: 0,0:49:55.06,0:49:57.22,Default,,0,0,0,,Aber schauen Sie auf die vier Punkte in diesem Kasten.
 Dialogue: 0,0:49:57.22,0:50:01.26,Default,,0,0,0,,These cryptic figures carry a hidden danger
 Dialogue: 0,0:50:01.26,0:50:01.98,Default,,0,0,0,,They either
 Dialogue: 0,0:50:01.98,0:50:03.06,Default,,0,0,0,,increase oxidants in the atmosphere

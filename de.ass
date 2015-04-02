@@ -15,17 +15,17 @@ Audio File: ../../Downloads/Chai Jings review Under the Dome  Investigating Chin
 Video File: ../../Downloads/Chai Jings review Under the Dome  Investigating Chinas Smog - Standard Quality 360p [File2HD.com].mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1890
-Active Line: 1914
-Video Position: 115726
+Video Zoom Percent: 1.000000
+Scroll Position: 1795
+Active Line: 1806
+Video Position: 108390
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
-Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.54,0:00:06.04,Default,,0,0,0,,Dieses Diagramm zeigt Pekings Feinstaubbelastung im Januar 2013
 Dialogue: 0,0:00:06.12,0:00:08.58,Default,,0,0,0,,An 25 Tagen in einem Monat wurden hohe Feinstaubwerte gemessen
 Dialogue: 0,0:00:08.70,0:00:10.20,Default,,0,0,0,,Zu dieser Zeit war ich in Peking
@@ -1549,7 +1549,7 @@ Dialogue: 0,0:58:56.58,0:58:58.90,Default,,0,0,0,,haben Sie diese Fahrzeuge sich
 Dialogue: 0,0:58:58.90,0:59:01.06,Default,,0,0,0,,Das sind Baufahrzeuge.
 Dialogue: 0,0:59:01.06,0:59:02.86,Default,,0,0,0,,Einmal in der Hebei Provinz habe ich eins gesehen
 Dialogue: 0,0:59:02.86,0:59:04.86,Default,,0,0,0,,und ich dachte, irgendetwas brennt da vorne.
-Dialogue: 0,0:59:04.86,0:59:06.14,Default,,0,0,0,,Als ich es überholte erkannte ich, 
+Dialogue: 0,0:59:04.86,0:59:06.14,Default,,0,0,0,,Als ich es überholte erkannte ich,
 Dialogue: 0,0:59:06.14,0:59:07.62,Default,,0,0,0,,dass es den schwarzen Rauch verursachte.
 Dialogue: 0,0:59:07.62,0:59:10.32,Default,,0,0,0,,Wir folgten ihm in ein Dorf
 Dialogue: 0,0:59:10.32,0:59:11.77,Default,,0,0,0,,Der Eingang sah so aus
@@ -1586,757 +1586,642 @@ Dialogue: 0,1:00:13.73,1:00:15.22,Default,,0,0,0,,“Die EPB hat die Befugnis un
 Dialogue: 0,1:00:15.22,1:00:17.46,Default,,0,0,0,,Sie… haben die Verpflichtung… Sie haben die Verpflichtung, aber keine Authorität
 Dialogue: 0,1:00:19.02,1:00:21.06,Default,,0,0,0,,Als der Besitzer fertig war
 Dialogue: 0,1:00:21.06,1:00:22.74,Default,,0,0,0,,waren wir alle sprachlos.
-Dialogue: 0,1:00:22.74,1:00:26.10,Default,,0,0,0,,All we could do was take our diesel can and leave
-Dialogue: 0,1:00:26.10,1:00:28.38,Default,,0,0,0,,He'd put it so ruthlessly
-Dialogue: 0,1:00:28.38,1:00:30.90,Default,,0,0,0,,From coal, to oil, and on down the list
-Dialogue: 0,1:00:30.90,1:00:33.58,Default,,0,0,0,,We consume so much coal and oil
-Dialogue: 0,1:00:33.58,1:00:36.62,Default,,0,0,0,,Our coal and oil quality is relatively low
-Dialogue: 0,1:00:36.62,1:00:38.02,Default,,0,0,0,,We don't do enough to clean it
-Dialogue: 0,1:00:38.02,1:00:41.02,Default,,0,0,0,,and when we emit, we don't regulate that enough either
-Dialogue: 0,1:00:41.02,1:00:43.30,Default,,0,0,0,,All along, I have wanted to know why
-Dialogue: 0,1:00:43.30,1:00:44.82,Default,,0,0,0,,until this gas station owner
-Dialogue: 0,1:00:44.82,1:00:47.66,Default,,0,0,0,,Without even realizing it himself, in a single sentence
-Dialogue: 0,1:00:47.66,1:00:49.34,Default,,0,0,0,,cut straight to the heart of the matter
-Dialogue: 0,1:00:55.42,1:00:56.30,Default,,0,0,0,,Less than half of our coal is washed
-Dialogue: 0,1:00:56.30,1:00:57.14,Default,,0,0,0,,There are no restrictions
-Dialogue: 0,1:00:57.14,1:00:57.86,Default,,0,0,0,,There are no standards
-Dialogue: 0,1:00:57.86,1:00:59.02,Default,,0,0,0,,There are no national regulations
-Dialogue: 0,1:00:59.20,1:01:00.09,Default,,0,0,0,,Requirements for coal washing: none
-Dialogue: 0,1:01:00.14,1:01:02.46,Default,,0,0,0,,What about the steel industry in Hebei?
-Dialogue: 0,1:01:02.46,1:01:05.42,Default,,0,0,0,,It's reached the point where nothing can stop them
-Dialogue: 0,1:01:05.42,1:01:06.26,Default,,0,0,0,,Polluting companies: unstoppable
-Dialogue: 0,1:01:06.26,1:01:08.02,Default,,0,0,0,,The operators of this truck
-Dialogue: 0,1:01:08.02,1:01:08.94,Default,,0,0,0,,have not been fined
-Dialogue: 0,1:01:08.94,1:01:12.02,Default,,0,0,0,,No penalties have been applied in 14 years? No, never
-Dialogue: 0,1:01:12.02,1:01:13.14,Default,,0,0,0,,Over-emitting vehicles: enforcement responsibility unclear, cannot be recalled
-Dialogue: 0,1:01:13.14,1:01:14.90,Default,,0,0,0,,Over 90% are individuals from the petrochemical industry
-Dialogue: 0,1:01:14.90,1:01:17.42,Default,,0,0,0,,I don’t think the environmental protection authorities understand
-Dialogue: 0,1:01:17.42,1:01:18.34,Default,,0,0,0,,Petroleum standards: unregulatable
-Dialogue: 0,1:01:18.34,1:01:19.98,Default,,0,0,0,,This is the conundrum of environmental protection
-Dialogue: 0,1:01:19.98,1:01:21.46,Default,,0,0,0,,Now I don't dare open my mouth
-Dialogue: 0,1:01:21.46,1:01:22.74,Default,,0,0,0,,I fear that people will notice I have no teeth
-Dialogue: 0,1:01:22.74,1:01:24.74,Default,,0,0,0,,Environmental protection authorities have an obligation and the authority
-Dialogue: 0,1:01:24.74,1:01:26.90,Default,,0,0,0,,You have an obligation, but not the authority
-Dialogue: 0,1:01:26.90,1:01:28.90,Default,,0,0,0,,Petroleum product quality: no inspection authority
-Dialogue: 0,1:01:28.90,1:01:30.90,Default,,0,0,0,,“Isn't that the conundrum of environmental protection?”
-Dialogue: 0,1:01:31.02,1:01:35.06,Default,,0,0,0,,So one night there was an environmental protection professional
-Dialogue: 0,1:01:35.06,1:01:36.82,Default,,0,0,0,,who sent me this photo
-Dialogue: 0,1:01:38.86,1:01:41.82,Default,,0,0,0,,This is a photo taken in 1999
-Dialogue: 0,1:01:41.82,1:01:43.22,Default,,0,0,0,,He graduated from university that year
-Dialogue: 0,1:01:43.22,1:01:44.70,Default,,0,0,0,,He said he was motivated by a calling
-Dialogue: 0,1:01:44.70,1:01:46.74,Default,,0,0,0,,So he went to work for the Environmental Protection Bureau
-Dialogue: 0,1:01:46.74,1:01:48.62,Default,,0,0,0,,He wanted to make a difference
-Dialogue: 0,1:01:48.62,1:01:54.74,Default,,0,0,0,,He said, “Sometimes, I feel like I'm nothing more than a mascot." (laughter)
-Dialogue: 0,1:01:54.74,1:01:55.74,Default,,0,0,0,,So I tried to console him
-Dialogue: 0,1:01:55.74,1:01:57.54,Default,,0,0,0,,I said, “Why do you think so?”
-Dialogue: 0,1:01:57.54,1:02:01.38,Default,,0,0,0,,He said, “You are an investigative reporter
-Dialogue: 0,1:02:01.38,1:02:03.58,Default,,0,0,0,,you must know this better than me”
-Dialogue: 0,1:02:03.58,1:02:05.58,Default,,0,0,0,,2004 interview
-Dialogue: 0,1:02:06.54,1:02:09.06,Default,,0,0,0,,(Suppose) you didn’t get the government approval for land use do you dare to build?
-Dialogue: 0,1:02:09.06,1:02:10.42,Default,,0,0,0,,Ren Baoming - Legal representative, Hongta Coal Washing & Coking Factory
-Dialogue: 0,1:02:10.42,1:02:11.38,Default,,0,0,0,,We wouldn't dare
-Dialogue: 0,1:02:11.94,1:02:13.66,Default,,0,0,0,,Suppose you don’t get the approval from the Administration for Industry and Commerce
-Dialogue: 0,1:02:13.66,1:02:14.78,Default,,0,0,0,,Or the approval from Taxation Bureau
-Dialogue: 0,1:02:14.78,1:02:15.54,Default,,0,0,0,,Do you dare to build?
-Dialogue: 0,1:02:15.54,1:02:16.90,Default,,0,0,0,,No, no
-Dialogue: 0,1:02:16.90,1:02:18.50,Default,,0,0,0,,So why, when you don't have EPB approval, it's all fine?
-Dialogue: 0,1:02:18.50,1:02:20.42,Default,,0,0,0,,We should have EPB approval
-Dialogue: 0,1:02:20.42,1:02:20.98,Default,,0,0,0,,We ought to
-Dialogue: 0,1:02:20.98,1:02:21.94,Default,,0,0,0,,Eventually, we will get it
-Dialogue: 0,1:02:22.74,1:02:23.82,Default,,0,0,0,,Eventually, we will get it
-Dialogue: 0,1:02:23.82,1:02:24.54,Default,,0,0,0,,Exactly
-Dialogue: 0,1:02:25.42,1:02:27.44,Default,,0,0,0,,Did you know about these situations?
-Dialogue: 0,1:02:27.44,1:02:28.58,Default,,0,0,0,,We have taken steps
-Dialogue: 0,1:02:28.58,1:02:29.53,Default,,0,0,0,,Zeng Shumao - Bureau Chief, Environmental Protection Bureau of Xiaoyi City, Shanxi
-Dialogue: 0,1:02:29.53,1:02:31.34,Default,,0,0,0,,On-site checking, inquiries and records
-Dialogue: 0,1:02:31.34,1:02:32.86,Default,,0,0,0,,then impose a penalty
-Dialogue: 0,1:02:32.86,1:02:35.74,Default,,0,0,0,,But the fact is he still went ahead and built, and even went into production
-Dialogue: 0,1:02:36.18,1:02:38.30,Default,,0,0,0,,We finished the procedure that was required
-Dialogue: 0,1:02:38.30,1:02:40.10,Default,,0,0,0,,We issued the Letter of Penalty that was required
-Dialogue: 0,1:02:41.18,1:02:43.82,Default,,0,0,0,,There is nothing we can do if the enterprises do not stop
-Dialogue: 0,1:02:43.82,1:02:44.90,Default,,0,0,0,,This is a kind of helplessness
-Dialogue: 0,1:02:44.90,1:02:47.18,Default,,0,0,0,,Then what you've got here should be considered illegal construction
-Dialogue: 0,1:02:47.70,1:02:49.78,Default,,0,0,0,,Oh well, it's hard to find factories that do not violate regulations
-Dialogue: 0,1:02:49.78,1:02:50.94,Default,,0,0,0,,Zhang Xuguang - Mayor, Xiaoyi City, Shanxi
-Dialogue: 0,1:02:50.94,1:02:52.62,Default,,0,0,0,,The government’s attitude towards coal coking
-Dialogue: 0,1:02:52.62,1:02:54.02,Default,,0,0,0,,We are always cool-headed
-Dialogue: 0,1:02:54.02,1:02:55.78,Default,,0,0,0,,after we took steps
-Dialogue: 0,1:02:55.78,1:02:59.18,Default,,0,0,0,,Previous trends were stopped by us
-Dialogue: 0,1:02:59.18,1:03:00.50,Default,,0,0,0,,They were stopped
-Dialogue: 0,1:03:00.50,1:03:03.54,Default,,0,0,0,,If they stopped, why are there more than 30 projects still violating regulations?
-Dialogue: 0,1:03:03.54,1:03:07.42,Default,,0,0,0,,As the Xiaoyi municipal government, our attitude is clear and firm
-Dialogue: 0,1:03:07.42,1:03:08.90,Default,,0,0,0,,If your attitude is clear and firm
-Dialogue: 0,1:03:08.90,1:03:10.26,Default,,0,0,0,,Then these unlawful projects should be
-Dialogue: 0,1:03:10.26,1:03:11.82,Default,,0,0,0,,Not one should have started
-Dialogue: 0,1:03:13.44,1:03:15.26,Default,,0,0,0,,Liu Xiangdong - Bureau Chief, Shanxi Provincial Environmental Protection Bureau
-Dialogue: 0,1:03:15.26,1:03:18.86,Default,,0,0,0,,This cat, it's the local government's cat
-Dialogue: 0,1:03:18.86,1:03:21.54,Default,,0,0,0,,Whether this cat can catch mice or not
-Dialogue: 0,1:03:21.54,1:03:23.62,Default,,0,0,0,,and how many mice it can catch, is decided by the local government
-Dialogue: 0,1:03:23.62,1:03:24.74,Default,,0,0,0,,It is not decided by the environmental protection authority
-Dialogue: 0,1:03:24.74,1:03:29.62,Default,,0,0,0,,We walked for hundreds of meters along the coastline and saw the same black chemical silt
-Dialogue: 0,1:03:29.62,1:03:31.98,Default,,0,0,0,,We could smell 4-5 different kinds of chemicals
-Dialogue: 0,1:03:31.98,1:03:35.18,Default,,0,0,0,,The odor here is the kind of smell that stings your nose
-Dialogue: 0,1:03:35.18,1:03:36.26,Default,,0,0,0,,What is that smell?
-Dialogue: 0,1:03:36.26,1:03:37.57,Default,,0,0,0,,Chen Zhiming - Vice General Manager, Zhejiang Haizheng Pharmaceutical
-Dialogue: 0,1:03:37.57,1:03:39.42,Default,,0,0,0,,My sense of smell may not be as sensitive as yours
-Dialogue: 0,1:03:40.22,1:03:41.66,Default,,0,0,0,,You said that you cannot smell it
-Dialogue: 0,1:03:44.38,1:03:49.58,Default,,0,0,0,,My sensitivity is not as good as yours (laughter)
-Dialogue: 0,1:03:52.58,1:03:53.26,Default,,0,0,0,,One ton of steel
-Dialogue: 0,1:03:53.26,1:03:56.26,Default,,0,0,0,,if you cut all the costs of environmental protection measures
-Dialogue: 0,1:03:56.26,1:04:00.14,Default,,0,0,0,,you could save 100 RMB ($16) per ton
-Dialogue: 0,1:04:00.14,1:04:03.58,Default,,0,0,0,,For one ton of coal, you could save 156 RMB ($25)
-Dialogue: 0,1:04:03.58,1:04:08.62,Default,,0,0,0,,On one truck, if you avoid installing any environmental protection equipment you can save 20,000 RMB ($3,200)
-Dialogue: 0,1:04:08.62,1:04:10.62,Default,,0,0,0,,If you avoid upgrading petroleum products by a single grade
-Dialogue: 0,1:04:10.62,1:04:13.66,Default,,0,0,0,,you can save 50 billion RMB ($8 billion)
-Dialogue: 0,1:04:13.66,1:04:14.82,Default,,0,0,0,,10 years ago
-Dialogue: 0,1:04:14.82,1:04:16.94,Default,,0,0,0,,I asked what the smell in the air was
-Dialogue: 0,1:04:16.94,1:04:19.38,Default,,0,0,0,,I received no answer
-Dialogue: 0,1:04:19.38,1:04:21.62,Default,,0,0,0,,Now I know
-Dialogue: 0,1:04:21.62,1:04:24.58,Default,,0,0,0,,It is the stink of money
-Dialogue: 0,1:04:24.58,1:04:25.90,Default,,0,0,0,,In that interview I recorded years ago
-Dialogue: 0,1:04:25.90,1:04:28.38,Default,,0,0,0,,the local secretary said to me:
-Dialogue: 0,1:04:28.38,1:04:32.42,Default,,0,0,0,,“You absolutely must film my achievements in pollution management!”
-Dialogue: 0,1:04:32.42,1:04:34.30,Default,,0,0,0,,So he made me film this clip
-Dialogue: 0,1:04:39.34,1:04:42.74,Default,,0,0,0,,He was quite satisfied and said
-Dialogue: 0,1:04:42.74,1:04:47.14,Default,,0,0,0,,Miss Chai, I demolished this smokestack especially for you! (laughter)
-Dialogue: 0,1:04:47.14,1:04:48.98,Default,,0,0,0,,3 years later, I went there again
-Dialogue: 0,1:04:48.98,1:04:52.10,Default,,0,0,0,,An even larger smokestack had been built in the same place (laughter)
-Dialogue: 0,1:04:52.10,1:04:53.54,Default,,0,0,0,,Actually, environmental protection facilities were installed at the same time
-Dialogue: 0,1:04:53.54,1:04:55.78,Default,,0,0,0,,But when I asked: "Have the facilities ever been used?"
-Dialogue: 0,1:04:55.78,1:04:57.86,Default,,0,0,0,,The manager rubbed his hands together, and answered, "Yes… Soon, soon."
-Dialogue: 0,1:05:00.06,1:05:01.62,Default,,0,0,0,,At that time the local secretary said to me:
-Dialogue: 0,1:05:01.62,1:05:03.74,Default,,0,0,0,,“Everyone tells me, 'Environmental Protection, Environmental Protection...'
-Dialogue: 0,1:05:03.74,1:05:07.50,Default,,0,0,0,,Let me ask you, who would dare slow down China's economic development?"
-Dialogue: 0,1:05:07.50,1:05:09.06,Default,,0,0,0,,I am also keen to know the answer
-Dialogue: 0,1:05:09.06,1:05:11.90,Default,,0,0,0,,So 10 years later, I visited a steel market in Hebei Province
-Dialogue: 0,1:05:13.38,1:05:16.54,Default,,0,0,0,,When I went in it was quite empty
-Dialogue: 0,1:05:16.54,1:05:18.70,Default,,0,0,0,,The raw steel was already rusting
-Dialogue: 0,1:05:18.70,1:05:20.30,Default,,0,0,0,,hidden in the wild grass
-Dialogue: 0,1:05:20.30,1:05:22.78,Default,,0,0,0,,Some of it had even become birds' nests
-Dialogue: 0,1:05:22.78,1:05:25.38,Default,,0,0,0,,I asked this young steel salesman:
-Dialogue: 0,1:05:25.38,1:05:26.90,Default,,0,0,0,,“How is your business?”
-Dialogue: 0,1:05:26.90,1:05:29.66,Default,,0,0,0,,He replied: “Do you see any trucks coming to carry the steel?”
-Dialogue: 0,1:05:29.66,1:05:30.90,Default,,0,0,0,,He said, “So many steel enterprises
-Dialogue: 0,1:05:30.90,1:05:32.26,Default,,0,0,0,,all produce completely identical,
-Dialogue: 0,1:05:32.26,1:05:34.46,Default,,0,0,0,,low–end products
-Dialogue: 0,1:05:34.46,1:05:37.94,Default,,0,0,0,,They compete with each other only on the basis of quantity
-Dialogue: 0,1:05:37.94,1:05:40.06,Default,,0,0,0,,At this point I'd rather be selling cabbages!”
-Dialogue: 0,1:05:41.70,1:05:43.90,Default,,0,0,0,,When we produce one ton of steel
-Dialogue: 0,1:05:43.90,1:05:45.70,Default,,0,0,0,,how many resources will we consume?
-Dialogue: 0,1:05:47.58,1:05:49.02,Default,,0,0,0,,600 kilograms of coal
-Dialogue: 0,1:05:49.02,1:05:50.38,Default,,0,0,0,,3 to 6 tons of water
-Dialogue: 0,1:05:50.38,1:05:51.70,Default,,0,0,0,,And what pollutants will we emit?
-Dialogue: 0,1:05:51.70,1:05:53.06,Default,,0,0,0,,1.53 kilograms of sulfur dioxide
-Dialogue: 0,1:05:53.06,1:05:54.78,Default,,0,0,0,,1 kilogram of smoke and soot
-Dialogue: 0,1:05:54.78,1:05:58.74,Default,,0,0,0,,And what is the profit for producing one ton of steel?
-Dialogue: 0,1:05:58.74,1:05:59.74,Default,,0,0,0,,You can take a guess
-Dialogue: 0,1:06:02.22,1:06:03.06,Default,,0,0,0,,How much?
+Dialogue: 0,1:00:22.74,1:00:26.10,Default,,0,0,0,,Wir konnten nur unseren Diesel nehmen und gehen.
+Dialogue: 0,1:00:26.10,1:00:28.38,Default,,0,0,0,,Er sagte es so rücksichtslos.
+Dialogue: 0,1:00:28.38,1:00:30.90,Default,,0,0,0,,Von Kohle, zu Öl und weiter auf der Liste.
+Dialogue: 0,1:00:30.90,1:00:33.58,Default,,0,0,0,,Wir konsumieren so viel Öl
+Dialogue: 0,1:00:33.58,1:00:36.62,Default,,0,0,0,,Die Qualität unserer Kohle is relativ gering.
+Dialogue: 0,1:00:36.62,1:00:38.02,Default,,0,0,0,,Wir tun nicht genug zur Säuberung
+Dialogue: 0,1:00:38.02,1:00:41.02,Default,,0,0,0,,und was wir ausstoßen regulieren wir auch nicht genug.
+Dialogue: 0,1:00:41.02,1:00:43.30,Default,,0,0,0,,Die ganze Zeit wollte ich wissen warum
+Dialogue: 0,1:00:43.30,1:00:44.82,Default,,0,0,0,,bis zu dem Treffen an der Tankstelle.
+Dialogue: 0,1:00:44.82,1:00:47.66,Default,,0,0,0,,Ohne es zu bemerken hat er in nur einem Satz
+Dialogue: 0,1:00:47.66,1:00:49.34,Default,,0,0,0,,direkt das Herz der Sache getroffen.
+Dialogue: 0,1:00:55.42,1:00:56.30,Default,,0,0,0,,Weniger als die hälfte unserer Kohle wird gewaschen.
+Dialogue: 0,1:00:56.30,1:00:57.14,Default,,0,0,0,,Es gibt keine Restriktionen.
+Dialogue: 0,1:00:57.14,1:00:57.86,Default,,0,0,0,,Es gibt keine Standards.
+Dialogue: 0,1:00:57.86,1:00:59.02,Default,,0,0,0,,Es gibt keine nationalen Regularien.
+Dialogue: 0,1:00:59.20,1:01:00.09,Default,,0,0,0,,Anforderung Kohle zu waschen: keine
+Dialogue: 0,1:01:00.14,1:01:02.46,Default,,0,0,0,,Wie sieht es mit der Stahlindustrie in Hebei aus?
+Dialogue: 0,1:01:02.46,1:01:05.42,Default,,0,0,0,,Es ist an einem Punkt angelangt, wo man es nicht mehr aufhalten kann.
+Dialogue: 0,1:01:05.42,1:01:06.26,Default,,0,0,0,,Verschmutzer: nicht aufzuhalten
+Dialogue: 0,1:01:06.26,1:01:08.02,Default,,0,0,0,,Der Fahrer dieses Lasters
+Dialogue: 0,1:01:08.02,1:01:08.94,Default,,0,0,0,,wurde nicht bestraft.
+Dialogue: 0,1:01:08.94,1:01:12.02,Default,,0,0,0,,Es wurde in 14 Jahren nie Strafen angewandt? - Nein, nie
+Dialogue: 0,1:01:12.02,1:01:13.14,Default,,0,0,0,,Über-emmititerende Fahrzeige: Verantworklichkeit unklar
+Dialogue: 0,1:01:13.14,1:01:14.90,Default,,0,0,0,,Mehr als 90% der Mitglieder sind von der Öl-Industrie
+Dialogue: 0,1:01:14.90,1:01:17.42,Default,,0,0,0,,Ich glaube nicht, dass die Umweltschutzbehörde das versteht.
+Dialogue: 0,1:01:17.42,1:01:18.34,Default,,0,0,0,,Öl-Norm: unregulierbar
+Dialogue: 0,1:01:18.34,1:01:19.98,Default,,0,0,0,,Das ist das Umweltschutz-Rätsel
+Dialogue: 0,1:01:19.98,1:01:21.46,Default,,0,0,0,,Aktuell wage ich nicht, den Mund zu öffnen
+Dialogue: 0,1:01:21.46,1:01:22.74,Default,,0,0,0,,ich habe Angst, man stellt fest, dass ich zahnlos bin.
+Dialogue: 0,1:01:22.74,1:01:24.74,Default,,0,0,0,,Umwetschutzbehörden haben die Verpflichtung und die Authorität
+Dialogue: 0,1:01:24.74,1:01:26.90,Default,,0,0,0,,ie haben die Verpflichtung, aber keine Authorität
+Dialogue: 0,1:01:26.90,1:01:28.90,Default,,0,0,0,,Treibstoff-Qualität: Keine Befugnis zur Inspektion
+Dialogue: 0,1:01:28.90,1:01:30.90,Default,,0,0,0,,“Ist das nicht das Umweltschutz-Rätsel?”
+Dialogue: 0,1:01:31.02,1:01:35.06,Default,,0,0,0,,Eines Nachts sendete mir ein Umweltschutz-Experte
+Dialogue: 0,1:01:35.06,1:01:36.82,Default,,0,0,0,,dieses Foto
+Dialogue: 0,1:01:38.86,1:01:41.82,Default,,0,0,0,,Es ist von 1999
+Dialogue: 0,1:01:41.82,1:01:43.22,Default,,0,0,0,,Er schloß in diesem Jahr die Hochschule ab.
+Dialogue: 0,1:01:43.22,1:01:44.70,Default,,0,0,0,,Er sagte, er war motiviert durch einen Aufruf.
+Dialogue: 0,1:01:44.70,1:01:46.74,Default,,0,0,0,,Also begann er für die Umweltschutzbehörde zu arbeiten.
+Dialogue: 0,1:01:46.74,1:01:48.62,Default,,0,0,0,,Er wollte etwas verändern.
+Dialogue: 0,1:01:48.62,1:01:54.74,Default,,0,0,0,,Er sagte, “Manchmal glaube ich, ich bin nicht mehr als ein Maskottchen." (Lachen)
+Dialogue: 0,1:01:54.74,1:01:55.74,Default,,0,0,0,,Ich versuchte ihn zu trösten.
+Dialogue: 0,1:01:55.74,1:01:57.54,Default,,0,0,0,,Ich sagte, “Warum denkst Du das?”
+Dialogue: 0,1:01:57.54,1:02:01.38,Default,,0,0,0,,Er sagte, “Du bist eine investigative Reporterin,
+Dialogue: 0,1:02:01.38,1:02:03.58,Default,,0,0,0,,Du musst das besser wissen als ich”
+Dialogue: 0,1:02:03.58,1:02:05.58,Default,,0,0,0,,Interview 2004
+Dialogue: 0,1:02:06.54,1:02:09.06,Default,,0,0,0,,(Angenommen) Sie bekämen keine Bauerlaubnis. Würden Sie trotzdem bauen?
+Dialogue: 0,1:02:09.06,1:02:10.42,Default,,0,0,0,,Ren Baoming - Gesetzlicher Vertreter, Hongta Kohlenwäsche & Kokerei
+Dialogue: 0,1:02:10.42,1:02:11.38,Default,,0,0,0,,Wäre uns egal.
+Dialogue: 0,1:02:11.94,1:02:13.66,Default,,0,0,0,,Und ohne Erlaubnis der Industrie-und Handelskammer
+Dialogue: 0,1:02:13.66,1:02:14.78,Default,,0,0,0,,oder von der Steuerbehörde
+Dialogue: 0,1:02:14.78,1:02:15.54,Default,,0,0,0,,Wagen Sie den Bau?
+Dialogue: 0,1:02:15.54,1:02:16.90,Default,,0,0,0,,Nein, nein
+Dialogue: 0,1:02:16.90,1:02:18.50,Default,,0,0,0,,Also warum ist, wenn sie keine EPB Erlaubnis haben, alles OK?
+Dialogue: 0,1:02:18.50,1:02:20.42,Default,,0,0,0,,Wir sollte die EPB Erlaubnis haben
+Dialogue: 0,1:02:20.42,1:02:20.98,Default,,0,0,0,,Wir sollen sie haben
+Dialogue: 0,1:02:20.98,1:02:21.94,Default,,0,0,0,,Am Ende kriegen wir sie.
+Dialogue: 0,1:02:22.74,1:02:23.82,Default,,0,0,0,,Am Ende kriegen wir sie.
+Dialogue: 0,1:02:23.82,1:02:24.54,Default,,0,0,0,,Oh
+Dialogue: 0,1:02:25.42,1:02:27.44,Default,,0,0,0,,Wussten Sie von dieser Situation?
+Dialogue: 0,1:02:27.44,1:02:28.58,Default,,0,0,0,,Wir haben Schritte unternommen
+Dialogue: 0,1:02:28.58,1:02:29.53,Default,,0,0,0,,Zeng Shumao - Amtschef, Umweltschutzamt der Xiaoyi City, Shanxi
+Dialogue: 0,1:02:29.53,1:02:31.34,Default,,0,0,0,,Vorort Besichtigungen, Befragung, Dokumentation
+Dialogue: 0,1:02:31.34,1:02:32.86,Default,,0,0,0,,dann eine Strafe verhängen.
+Dialogue: 0,1:02:32.86,1:02:35.74,Default,,0,0,0,,Aber tatsächlich hat er weiter gebaut und ist sogar in Produktion gegangen.
+Dialogue: 0,1:02:36.18,1:02:38.30,Default,,0,0,0,,Wir haben die verlangte Prozedur durchgeführt.
+Dialogue: 0,1:02:38.30,1:02:40.10,Default,,0,0,0,,Wir haben den Strafbescheid ausgestellt
+Dialogue: 0,1:02:41.18,1:02:43.82,Default,,0,0,0,,Wir können nichts tun, wenn die Firma nicht aufhört.
+Dialogue: 0,1:02:43.82,1:02:44.90,Default,,0,0,0,,Wir sind da hilflos.
+Dialogue: 0,1:02:44.90,1:02:47.18,Default,,0,0,0,,Dann sollte man so etwas als illegale Bebauung handhaben.
+Dialogue: 0,1:02:47.70,1:02:49.78,Default,,0,0,0,,Oh naja, es ist schwer Firmen zu finden, die die Regularien beachten.
+Dialogue: 0,1:02:49.78,1:02:50.94,Default,,0,0,0,,Zhang Xuguang - Bürgermeister, Xiaoyi City, Shanxi
+Dialogue: 0,1:02:50.94,1:02:52.62,Default,,0,0,0,,Die Einstellung der Regierung zur Steinkohleverkokung
+Dialogue: 0,1:02:52.62,1:02:54.02,Default,,0,0,0,,ist immer besonnen.
+Dialogue: 0,1:02:54.02,1:02:55.78,Default,,0,0,0,,Nachdem wir einschritten
+Dialogue: 0,1:02:55.78,1:02:59.18,Default,,0,0,0,,wurden vorige Entwicklungen gestoppt
+Dialogue: 0,1:02:59.18,1:03:00.50,Default,,0,0,0,,Sie wurden gestoppt.
+Dialogue: 0,1:03:00.50,1:03:03.54,Default,,0,0,0,,Wenn sie aufhörten, warum gibt es mehr als 30 Projekte, die immernoch dagegen verstoßen?
+Dialogue: 0,1:03:03.54,1:03:07.42,Default,,0,0,0,,Als Stadtregierung von Xiaoyi ist unsere Einstellungen klar und fest.
+Dialogue: 0,1:03:07.42,1:03:08.90,Default,,0,0,0,,Wenn sie so klar und fest ist
+Dialogue: 0,1:03:08.90,1:03:10.26,Default,,0,0,0,,Hätte nicht eines dieser ungesetzlichen
+Dialogue: 0,1:03:10.26,1:03:11.82,Default,,0,0,0,,Projekte starten dürfen.
+Dialogue: 0,1:03:13.44,1:03:15.26,Default,,0,0,0,,Liu Xiangdong - Amtschef, Provinz Shanxi, Umweltschutzbehörde
+Dialogue: 0,1:03:15.26,1:03:18.86,Default,,0,0,0,,Diese Katze ist die Katze der lokalen Regierung
+Dialogue: 0,1:03:18.86,1:03:21.54,Default,,0,0,0,,Ob die Katze Mäuse fängt oder nicht und wie viele Mäuse,
+Dialogue: 0,1:03:21.54,1:03:23.62,Default,,0,0,0,,wird von der lokalen Regierung entschieden.
+Dialogue: 0,1:03:23.62,1:03:24.74,Default,,0,0,0,,Nicht von der Umweltbehörde.
+Dialogue: 0,1:03:24.74,1:03:29.62,Default,,0,0,0,,Wir liefen hunderte Meter entlang der Küste und sahen den selben schwarzen Chemie-Schlick
+Dialogue: 0,1:03:29.62,1:03:31.98,Default,,0,0,0,,Wir konnten 4-5 Chemikalien riechen.
+Dialogue: 0,1:03:31.98,1:03:35.18,Default,,0,0,0,,Der Geruch hier sticht in der Nase.
+Dialogue: 0,1:03:35.18,1:03:36.26,Default,,0,0,0,,Was riecht da so?
+Dialogue: 0,1:03:36.26,1:03:37.57,Default,,0,0,0,,Chen Zhiming - Vize Generaldirektor, Zhejiang Haizheng Pharmaceutical
+Dialogue: 0,1:03:37.57,1:03:39.42,Default,,0,0,0,,Mein Geruchssinn ist vielleicht nicht so gut wie Ihrer
+Dialogue: 0,1:03:40.22,1:03:41.66,Default,,0,0,0,,Sie sagte, Sie riechen das nicht.
+Dialogue: 0,1:03:44.38,1:03:49.58,Default,,0,0,0,,Ich bin nicht so sensibel wie Sie. (Lachen)
+Dialogue: 0,1:03:52.58,1:03:53.26,Default,,0,0,0,,Eine Tonne Stahl.
+Dialogue: 0,1:03:53.26,1:03:56.26,Default,,0,0,0,,Wenn man die den Umweltschutz vernachlässigt
+Dialogue: 0,1:03:56.26,1:04:00.14,Default,,0,0,0,,spart man 100 RMB ($16) pro Tonne.
+Dialogue: 0,1:04:00.14,1:04:03.58,Default,,0,0,0,,Für eine Tonne Kohle spart man 156 RMB ($25)
+Dialogue: 0,1:04:03.58,1:04:08.62,Default,,0,0,0,,Mit einem Laster ohne Absgasschutz spart man 20.000 RMB ($3.200)
+Dialogue: 0,1:04:08.62,1:04:10.62,Default,,0,0,0,,Wenn man Öl-Produkte nichtmal ein Grad aufwertet
+Dialogue: 0,1:04:10.62,1:04:13.66,Default,,0,0,0,,spart man 50 Milliarden RMB ($8 Milliarden)
+Dialogue: 0,1:04:13.66,1:04:14.82,Default,,0,0,0,,Vor 10 Jahren
+Dialogue: 0,1:04:14.82,1:04:16.94,Default,,0,0,0,,Habe ich gefragt, was da so riecht
+Dialogue: 0,1:04:16.94,1:04:19.38,Default,,0,0,0,,Ich habe keine Antwort bekommen.
+Dialogue: 0,1:04:19.38,1:04:21.62,Default,,0,0,0,,Jetzt weiss ich, dass es der Gestank
+Dialogue: 0,1:04:21.62,1:04:24.58,Default,,0,0,0,,von Geld war.
+Dialogue: 0,1:04:24.58,1:04:25.90,Default,,0,0,0,,In dem Interview damals
+Comment: 0,1:04:25.90,1:04:28.38,Default,,0,0,0,,sagt der lokale Sekretär zu mir:
+Dialogue: 0,1:04:28.38,1:04:32.42,Default,,0,0,0,,“Sie müssen meine Errungenschaft im Verschmutzungsmanagement filmen!”
+Dialogue: 0,1:04:32.42,1:04:34.30,Default,,0,0,0,,Er bracht mich dazu, diesen Ausschnitt zu filmen.
+Dialogue: 0,1:04:39.34,1:04:42.74,Default,,0,0,0,,Er war ziemlich zufrieden und sagte
+Dialogue: 0,1:04:42.74,1:04:47.14,Default,,0,0,0,,Frau Chai, diesen Schorstein habe ich für Sie zerstört! (Lachen)
+Dialogue: 0,1:04:47.14,1:04:48.98,Default,,0,0,0,,3 Jahre später bin ich wieder dort hin
+Dialogue: 0,1:04:48.98,1:04:52.10,Default,,0,0,0,,Ein noch größerer Schornstein war gebaut worden am selben Platz (Lachen)
+Dialogue: 0,1:04:52.10,1:04:53.54,Default,,0,0,0,,Tatsächlich wurden Rauchgaswäscher installiert
+Dialogue: 0,1:04:53.54,1:04:55.78,Default,,0,0,0,,Aber auf die Frage: "Wurden die Wäscher je benutzt?"
+Dialogue: 0,1:04:55.78,1:04:57.86,Default,,0,0,0,,rieb sich der Manager die Hände und sagte "Ja … bald, bald."
+Dialogue: 0,1:05:00.06,1:05:01.62,Default,,0,0,0,,Damals sagte der lokale Sekretärzu mir:
+Dialogue: 0,1:05:01.62,1:05:03.74,Default,,0,0,0,,"Jeder sagt "Umweltschutz, Umweltschutz...'
+Dialogue: 0,1:05:03.74,1:05:07.50,Default,,0,0,0,,Ich frage Sie, wer wagt es, Chinas ökonomisches Wachstum zu bremsen?"
+Dialogue: 0,1:05:07.50,1:05:11.90,Default,,0,0,0,,Ich war neugierig auf die Antwort, und 10 Jahre später besuchte ich einen Stahlmarkt in der Hebei Provinz
+Dialogue: 0,1:05:13.38,1:05:16.54,Default,,0,0,0,,Als ich hinein ging war es ziemlich leer.
+Dialogue: 0,1:05:16.54,1:05:20.30,Default,,0,0,0,,Der rohe Stahl rostete schon, Gras wuchs darüber.
+Dialogue: 0,1:05:20.30,1:05:22.78,Default,,0,0,0,,Manche waren Vogelnester geworden
+Dialogue: 0,1:05:22.78,1:05:25.38,Default,,0,0,0,,Ich habe diesen jungen Stahlverkäufer gefragt:
+Dialogue: 0,1:05:25.38,1:05:26.90,Default,,0,0,0,,"Wie laufen die Geschäfte?"
+Dialogue: 0,1:05:26.90,1:05:29.66,Default,,0,0,0,,Er antwortet: "Sehen Sie Laster Stahl wegfahren?"
+Dialogue: 0,1:05:29.66,1:05:34.46,Default,,0,0,0,,Er sagte, "So viele Stahl-Firmen produzieren identische, billige Produkte.
+Dialogue: 0,1:05:34.46,1:05:37.94,Default,,0,0,0,,Sie They konkurrieren nur anhand von Masse und Preis.
+Dialogue: 0,1:05:37.94,1:05:40.06,Default,,0,0,0,,Ich könnte genau so gut Kohl verkaufen!"
+Dialogue: 0,1:05:41.70,1:05:45.70,Default,,0,0,0,,Wieviele Ressourcen benötigt die Herstellung einer Tonne Stahl?
+Dialogue: 0,1:05:47.58,1:05:49.02,Default,,0,0,0,,600 Kilogramm Kohle
+Dialogue: 0,1:05:49.02,1:05:50.38,Default,,0,0,0,,3 bis 6 Tonnen Wasser
+Dialogue: 0,1:05:50.38,1:05:51.70,Default,,0,0,0,,Und welche Schadstoffe setzte es frei?
+Dialogue: 0,1:05:51.70,1:05:53.06,Default,,0,0,0,,1,53 kg Schwefeldioxid
+Dialogue: 0,1:05:53.06,1:05:54.78,Default,,0,0,0,,1 kg of Rauch und Ruß
+Dialogue: 0,1:05:54.78,1:05:58.74,Default,,0,0,0,,Und wie viel verdient man an einer Tonne Stahl?
+Dialogue: 0,1:05:58.74,1:05:59.74,Default,,0,0,0,,Raten Sie mal
+Dialogue: 0,1:06:02.22,1:06:03.06,Default,,0,0,0,,Wie viel?
 Dialogue: 0,1:06:04.26,1:06:05.30,Default,,0,0,0,,RMB 1000 ($160)?
-Dialogue: 0,1:06:06.58,1:06:09.18,Default,,0,0,0,,Not even enough to buy a pickled egg
-Dialogue: 0,1:06:09.18,1:06:12.66,Default,,0,0,0,,One ton of stell, in 2014
-Dialogue: 0,1:06:12.66,1:06:14.22,Default,,0,0,0,,was less than 2 RMB ($0.30)
-Dialogue: 0,1:06:14.22,1:06:16.10,Default,,0,0,0,,What about when we burn one ton of coal?
-Dialogue: 0,1:06:16.10,1:06:18.34,Default,,0,0,0,,How much pollution will we release?
-Dialogue: 0,1:06:18.34,1:06:19.58,Default,,0,0,0,,1.53 kilograms of sulfur dioxide
-Dialogue: 0,1:06:19.58,1:06:21.02,Default,,0,0,0,,3 to 9 kilograms of nitrogen dioxide
-Dialogue: 0,1:06:21.02,1:06:22.38,Default,,0,0,0,,2 kilograms of carbon monoxide
-Dialogue: 0,1:06:22.38,1:06:23.54,Default,,0,0,0,,9-11 kilograms of soot
-Dialogue: 0,1:06:23.54,1:06:27.70,Default,,0,0,0,,Can you guess how much profit there is in one ton of coal?
-Dialogue: 0,1:06:27.70,1:06:29.98,Default,,0,0,0,,Two pickled eggs?
-Dialogue: 0,1:06:29.98,1:06:31.98,Default,,0,0,0,,You're still overestimating
-Dialogue: 0,1:06:31.98,1:06:35.30,Default,,0,0,0,,You couldn't even afford a soda 
-Dialogue: 0,1:06:35.30,1:06:37.78,Default,,0,0,0,,Of our 36 different heavy industries
-Dialogue: 0,1:06:37.78,1:06:40.46,Default,,0,0,0,,22 are in serious overproduction
-Dialogue: 0,1:06:40.46,1:06:41.86,Default,,0,0,0,,Mr Cao Xianghong from Sinopec
-Dialogue: 0,1:06:41.86,1:06:43.58,Default,,0,0,0,,said one thing that was very accurate:
-Dialogue: 0,1:06:43.58,1:06:45.62,Default,,0,0,0,,“It's like a person who looks big
-Dialogue: 0,1:06:45.62,1:06:48.14,Default,,0,0,0,,but it's all fat and no muscle.”
-Dialogue: 0,1:06:48.14,1:06:53.94,Default,,0,0,0,,But these enterprises are still receiving  large subsidies
-Dialogue: 0,1:06:53.94,1:06:57.66,Default,,0,0,0,,You can see here, between 2011 – 2013
-Dialogue: 0,1:06:57.66,1:07:00.58,Default,,0,0,0,,the government has given these publicly traded steel companies
-Dialogue: 0,1:07:00.58,1:07:02.10,Default,,0,0,0,,this many subsidies
-Dialogue: 0,1:07:02.10,1:07:03.58,Default,,0,0,0,,In order to prevent one of the companies
-Dialogue: 0,1:07:03.58,1:07:04.94,Default,,0,0,0,,from being taken off the stock exchange
-Dialogue: 0,1:07:04.94,1:07:06.78,Default,,0,0,0,,the government subsidized it every other year
-Dialogue: 0,1:07:06.78,1:07:07.98,Default,,0,0,0,,How much has it been subsidized?
-Dialogue: 0,1:07:07.98,1:07:11.94,Default,,0,0,0,,Tens, thousands, ten thousands, billions...
-Dialogue: 0,1:07:13.30,1:07:16.22,Default,,0,0,0,,2 billion RMB ($320 million) 
-Dialogue: 0,1:07:16.22,1:07:19.18,Default,,0,0,0,,Two years later, another 2 billion RMB
-Dialogue: 0,1:07:19.18,1:07:22.14,Default,,0,0,0,,Another one of these companies which had already posted severe losses
-Dialogue: 0,1:07:22.14,1:07:26.74,Default,,0,0,0,,hung a slogan in their office after receiving the subsidy
-Dialogue: 0,1:07:26.74,1:07:29.82,Default,,0,0,0,,It reads: “With intense struggle and indomitable spirit,
-Dialogue: 0,1:07:29.82,1:07:33.02,Default,,0,0,0,,we vow that our steel will be 100 RMB ($16) cheaper than XX Corporation's.”
-Dialogue: 0,1:07:33.02,1:07:37.34,Default,,0,0,0,,That's why the Deputy Head of the Central Bank, Mr Liu Shiyu, has called these companies ‘zombie companies’
-Dialogue: 0,1:07:37.34,1:07:39.54,Default,,0,0,0,,They are consuming huge amounts of financial resources
-Dialogue: 0,1:07:39.54,1:07:42.78,Default,,0,0,0,,They are going to bring a huge amount of unforeseeable risk to our real economy
-Dialogue: 0,1:07:42.78,1:07:45.22,Default,,0,0,0,,And these companies are still expanding, even now
-Dialogue: 0,1:07:45.22,1:07:47.90,Default,,0,0,0,,Two days ago I received a letter from a little girl
-Dialogue: 0,1:07:47.90,1:07:50.66,Default,,0,0,0,,She said to me, a coke plant near her home
-Dialogue: 0,1:07:50.66,1:07:53.54,Default,,0,0,0,,is expanding and is going to demolish her family's house
-Dialogue: 0,1:07:53.54,1:07:56.02,Default,,0,0,0,,Her dad refused to agree, and so he was beaten
-Dialogue: 0,1:07:56.02,1:07:57.50,Default,,0,0,0,,She hoped I could help her
-Dialogue: 0,1:07:59.14,1:08:01.62,Default,,0,0,0,,This is the same little girl I interviewed ten years ago
-Dialogue: 0,1:08:01.62,1:08:04.22,Default,,0,0,0,,Little Wang Huiqing, who had never seen stars or white clouds
-Dialogue: 0,1:08:04.22,1:08:05.74,Default,,0,0,0,,I asked her, “How is your health these days?”
-Dialogue: 0,1:08:05.74,1:08:07.26,Default,,0,0,0,,She told me, “Auntie, I can't worry about my health now.
-Dialogue: 0,1:08:07.26,1:08:09.58,Default,,0,0,0,,I just want my whole family to have a place to live.”
-Dialogue: 0,1:08:11.14,1:08:13.74,Default,,0,0,0,,Thank goodness, when I gave her a call two days ago she said
-Dialogue: 0,1:08:13.74,1:08:16.14,Default,,0,0,0,,the owner of the coke plant had just been taken away by the authorities (laughter)
-Dialogue: 0,1:08:17.98,1:08:21.22,Default,,0,0,0,,But, as for these industries that are already considered to be excessively over-producing
-Dialogue: 0,1:08:21.22,1:08:23.86,Default,,0,0,0,,in half of the provinces of China, they are still listed as ‘key industries’
-Dialogue: 0,1:08:23.86,1:08:26.38,Default,,0,0,0,,in the 25th Five-Year Plan for economic development.
-Dialogue: 0,1:08:26.38,1:08:28.38,Default,,0,0,0,,There is a simple underlying reason
-Dialogue: 0,1:08:28.38,1:08:32.22,Default,,0,0,0,,If we urbanize and continue to develop we only need to increase urbanization by 1%
-Dialogue: 0,1:08:32.22,1:08:33.58,Default,,0,0,0,,and all this excess supply could easily be consumed
-Dialogue: 0,1:08:33.58,1:08:35.34,Default,,0,0,0,,Where there is housing development, there is demand for steel
-Dialogue: 0,1:08:35.34,1:08:36.98,Default,,0,0,0,,Where there is road construction there will be cars
-Dialogue: 0,1:08:36.98,1:08:37.50,Default,,0,0,0,,Right?
-Dialogue: 0,1:08:38.82,1:08:40.78,Default,,0,0,0,,Mr Jiang from Tsinghua University told me
-Dialogue: 0,1:08:40.78,1:08:44.34,Default,,0,0,0,,China's urban development is itself in a severe state of over-production
-Dialogue: 0,1:08:44.34,1:08:46.82,Default,,0,0,0,,The situation is even worse than in industry
-Dialogue: 0,1:08:46.82,1:08:48.14,Default,,0,0,0,,I didn't really believe it
-Dialogue: 0,1:08:48.14,1:08:49.66,Default,,0,0,0,,because I feel like over the past 30 years
-Dialogue: 0,1:08:49.66,1:08:51.94,Default,,0,0,0,,social changes in ordinary families such as mine
-Dialogue: 0,1:08:51.94,1:08:53.22,Default,,0,0,0,,and improvement in general living standards
-Dialogue: 0,1:08:53.22,1:08:55.02,Default,,0,0,0,,were all achieved thanks to urbanization
-Dialogue: 0,1:08:55.94,1:09:00.06,Default,,0,0,0,,When I was young my little sister and I grew up in a traditional house
-Dialogue: 0,1:09:00.06,1:09:01.58,Default,,0,0,0,,It had 300 years of history
-Dialogue: 0,1:09:01.58,1:09:03.10,Default,,0,0,0,,It housed a dozen families
-Dialogue: 0,1:09:03.10,1:09:06.78,Default,,0,0,0,,Later, our living conditions improved when we moved into housing provided by my mom’s work unit
-Dialogue: 0,1:09:06.78,1:09:10.86,Default,,0,0,0,,The accommodation we were given was 12 square meters and housed five of us
-Dialogue: 0,1:09:10.86,1:09:14.30,Default,,0,0,0,,When we slept at night we added another wooden plank
-Dialogue: 0,1:09:14.30,1:09:16.54,Default,,0,0,0,,to the bed frame and put a chair underneath to hold it up
-Dialogue: 0,1:09:16.54,1:09:17.86,Default,,0,0,0,,Then it became a double bed
-Dialogue: 0,1:09:19.14,1:09:20.94,Default,,0,0,0,,This was the window of my bedroom
-Dialogue: 0,1:09:20.94,1:09:23.10,Default,,0,0,0,,Wasn’t it nice?
-Dialogue: 0,1:09:23.10,1:09:25.38,Default,,0,0,0,,In reality the bedroom was very small, there was no window
-Dialogue: 0,1:09:25.38,1:09:27.46,Default,,0,0,0,,so I could only hang a picture on the wall
-Dialogue: 0,1:09:27.46,1:09:30.50,Default,,0,0,0,,It represented the fantasies of a very young creative spirit
-Dialogue: 0,1:09:32.46,1:09:35.02,Default,,0,0,0,,This picture was taken when I was about to go off to university
-Dialogue: 0,1:09:35.02,1:09:36.50,Default,,0,0,0,,It shows what our county seat looked like
-Dialogue: 0,1:09:36.50,1:09:39.06,Default,,0,0,0,,I used to walk to school along this road
-Dialogue: 0,1:09:39.06,1:09:41.34,Default,,0,0,0,,This is what it was like back in those days
-Dialogue: 0,1:09:41.34,1:09:43.14,Default,,0,0,0,,The changes in living standards my family saw over the years
-Dialogue: 0,1:09:43.14,1:09:45.98,Default,,0,0,0,,proves that there are millions of households all in need of new construction
-Dialogue: 0,1:09:45.98,1:09:46.86,Default,,0,0,0,,(Mr Jiang) asked me
-Dialogue: 0,1:09:46.86,1:09:48.82,Default,,0,0,0,,“Hasn't it been a long time since you last went back to Shanxi?”
-Dialogue: 0,1:09:48.82,1:09:49.66,Default,,0,0,0,,I said he was right
-Dialogue: 0,1:09:49.66,1:09:51.46,Default,,0,0,0,,He said, “Why don’t you go back and have a look?”
-Dialogue: 0,1:09:51.46,1:09:53.86,Default,,0,0,0,,This year I took my child to visit Shanxi
-Dialogue: 0,1:09:53.86,1:09:56.54,Default,,0,0,0,,and took this video with my phone along the way
-Dialogue: 0,1:10:08.79,1:10:13.96,Default,,0,0,0,,(Billboards advertising new apartment complexes)
-Dialogue: 0,1:10:49.86,1:10:52.70,Default,,0,0,0,,I am happy to see some changes happening in my hometown
-Dialogue: 0,1:10:52.70,1:10:55.34,Default,,0,0,0,,because people there need wealth, they need development
-Dialogue: 0,1:10:55.34,1:10:56.78,Default,,0,0,0,,But what surprises me
-Dialogue: 0,1:10:56.78,1:10:59.22,Default,,0,0,0,,is that I saw so many advertisements for real estate
-Dialogue: 0,1:10:59.26,1:11:00.94,Default,,0,0,0,,within the city, and so many construction sites
-Dialogue: 0,1:11:00.94,1:11:02.38,Default,,0,0,0,,But they're empty
-Dialogue: 0,1:11:02.42,1:11:04.82,Default,,0,0,0,,I then asked a relative who has invested a lot in the local housing market
-Dialogue: 0,1:11:04.82,1:11:07.10,Default,,0,0,0,,how many flats in this particular development have been sold
-Dialogue: 0,1:11:07.10,1:11:08.66,Default,,0,0,0,,He said, only 20-30% have been sold
-Dialogue: 0,1:11:08.66,1:11:10.14,Default,,0,0,0,,I asked, “How come they've sold so few?”
-Dialogue: 0,1:11:10.14,1:11:11.66,Default,,0,0,0,,He hesitated and said:
-Dialogue: 0,1:11:11.66,1:11:13.02,Default,,0,0,0,,“Since the real name policy was implemented 
-Dialogue: 0,1:11:13.02,1:11:15.50,Default,,0,0,0,,for government officials buying real estate, they haven’t been selling too well.”
-Dialogue: 0,1:11:15.50,1:11:19.46,Default,,0,0,0,,(My relative) booked a local hotel for my family
-Dialogue: 0,1:11:19.46,1:11:21.18,Default,,0,0,0,,I was so shocked when I arrived at the hotel gate
-Dialogue: 0,1:11:21.18,1:11:25.14,Default,,0,0,0,,because it claims to be a “five-star hotel”
-Dialogue: 0,1:11:25.14,1:11:27.38,Default,,0,0,0,,and I was booked into the “Presidential Suite”
-Dialogue: 0,1:11:27.38,1:11:28.46,Default,,0,0,0,,I said, “No you don’t have to!”
-Dialogue: 0,1:11:28.46,1:11:29.54,Default,,0,0,0,,He said, “Don’t worry
-Dialogue: 0,1:11:29.54,1:11:33.30,Default,,0,0,0,,It only costs 200 RMB ($32 USD).” (laughter)
-Dialogue: 0,1:11:33.30,1:11:36.66,Default,,0,0,0,,We drove our car into the parking lot
-Dialogue: 0,1:11:36.66,1:11:39.94,Default,,0,0,0,,and it didn't have a single light, it was in total darkness
-Dialogue: 0,1:11:39.94,1:11:42.98,Default,,0,0,0,,And then this middle-aged guy came along carrying a big flashlight
-Dialogue: 0,1:11:42.98,1:11:44.10,Default,,0,0,0,,to light our way
-Dialogue: 0,1:11:44.10,1:11:46.42,Default,,0,0,0,,He guided us into the hotel lobby
-Dialogue: 0,1:11:46.42,1:11:49.70,Default,,0,0,0,,He then continued to use his big flashlight and led us down the corridors to our room
-Dialogue: 0,1:11:49.70,1:11:53.58,Default,,0,0,0,,There were no lights in the entire hotel because nobody was staying in it
-Dialogue: 0,1:11:55.46,1:11:56.30,Default,,0,0,0,,When I got back to Beijing
-Dialogue: 0,1:11:56.30,1:11:57.98,Default,,0,0,0,,I brought this up with Professor Jiang
-Dialogue: 0,1:11:57.98,1:12:01.94,Default,,0,0,0,,He told me, "The Shanxi that you witnessed is a microcosm of the rest of the country
-Dialogue: 0,1:12:01.94,1:12:05.10,Default,,0,0,0,,In China we lose 80 traditional villages everyday
-Dialogue: 0,1:12:05.10,1:12:07.94,Default,,0,0,0,,Houses have an average lifespan of a mere 30 years
-Dialogue: 0,1:12:07.94,1:12:09.82,Default,,0,0,0,,There are more than 200 municipalities in China
-Dialogue: 0,1:12:09.82,1:12:14.22,Default,,0,0,0,,184 of which have plans to become so-called “international metropolises” 
-Dialogue: 0,1:12:14.22,1:12:15.58,Default,,0,0,0,,We have a population of 1.3 billion
-Dialogue: 0,1:12:15.58,1:12:18.54,Default,,0,0,0,,If we take into account the plans laid out by these municipalities
-Dialogue: 0,1:12:18.54,1:12:20.46,Default,,0,0,0,,the population adds up to 3.4 billion
-Dialogue: 0,1:12:21.34,1:12:24.50,Default,,0,0,0,,I came to Beijing carrying a small suitcase in 1998 
-Dialogue: 0,1:12:24.50,1:12:28.70,Default,,0,0,0,,I studied, worked and found, in this city
-Dialogue: 0,1:12:28.70,1:12:30.50,Default,,0,0,0,,a sense of self-worth and belonging  
-Dialogue: 0,1:12:30.50,1:12:33.46,Default,,0,0,0,,If China hadn’t been urbanized, I’d still be back in Shanxi 
-Dialogue: 0,1:12:33.46,1:12:35.66,Default,,0,0,0,,Working a menial job that my parents found for me
-Dialogue: 0,1:12:35.66,1:12:38.30,Default,,0,0,0,,Wearing blue overalls and spending the rest of my life using an abacus
-Dialogue: 0,1:12:38.30,1:12:45.22,Default,,0,0,0,,Cities gave us our personal freedom and gave this nation three decades of prosperity  
-Dialogue: 0,1:12:45.22,1:12:47.58,Default,,0,0,0,,When there are 300-400 million people knocking on our cities’ doors
-Dialogue: 0,1:12:47.58,1:12:49.98,Default,,0,0,0,,Urbanization becomes an unavoidable reality 
+Dialogue: 0,1:06:06.58,1:06:09.18,Default,,0,0,0,,Nicht genug um ein eingelegtes Ei zu kaufen
+Dialogue: 0,1:06:09.18,1:06:14.22,Default,,0,0,0,,2014 war der Gewinn an einer Tonne Stahl weniger als 2 RMB ($0.30)
+Dialogue: 0,1:06:14.22,1:06:16.10,Default,,0,0,0,,Was wenn wir eine Tonne Kohle verbrennen?
+Dialogue: 0,1:06:16.10,1:06:18.34,Default,,0,0,0,,Welche Schadstoffe werden freigesetzt?
+Dialogue: 0,1:06:18.34,1:06:19.58,Default,,0,0,0,,1,53 kg Schwefeldioxid
+Dialogue: 0,1:06:19.58,1:06:21.02,Default,,0,0,0,,3 bis 9 kg of Stickstoffdioxid
+Dialogue: 0,1:06:21.02,1:06:22.38,Default,,0,0,0,,2 kg Kohlenmonoxid
+Dialogue: 0,1:06:22.38,1:06:23.54,Default,,0,0,0,,9-11 kg Ruß
+Dialogue: 0,1:06:23.54,1:06:27.70,Default,,0,0,0,,Was meinen Sie wie viel man an einer Tonne Kohle verdient?
+Dialogue: 0,1:06:27.70,1:06:29.98,Default,,0,0,0,,Zwei eingelegte Eier?
+Dialogue: 0,1:06:29.98,1:06:31.98,Default,,0,0,0,,Sie überschätzen das.
+Dialogue: 0,1:06:31.98,1:06:35.30,Default,,0,0,0,,Man könnte nicht mal eine Softdrink kaufen.
+Dialogue: 0,1:06:35.30,1:06:40.46,Default,,0,0,0,,Von unseren 36 Schwerindustrien, sind 22 in ernster Überproduktion
+Dialogue: 0,1:06:40.46,1:06:43.58,Default,,0,0,0,,Mr Cao Xianghong von Sinopec sagt etwas sehr akkurates:
+Dialogue: 0,1:06:43.58,1:06:48.14,Default,,0,0,0,,"Es ist wie eine groß aussehende Person. Aber es ist nur Fett, keine Muskeln."
+Dialogue: 0,1:06:48.14,1:06:53.94,Default,,0,0,0,,Aber diese Firmen werden immer noch stark subventioniert.
+Dialogue: 0,1:06:53.94,1:06:57.66,Default,,0,0,0,,Man sieht hier, zwischen 2011 und 2013
+Dialogue: 0,1:06:57.66,1:07:02.10,Default,,0,0,0,,hat die Regierung viele Subventionen an diese börsennotierten Stahlunternehmen gegeben.
+Dialogue: 0,1:07:02.10,1:07:05.09,Default,,0,0,0,,Um zu verhindern, dass eine dieser Firmen von der Börse genommen wird,
+Dialogue: 0,1:07:05.09,1:07:06.78,Default,,0,0,0,,hat die Regierung sie jedes Jahr subventioniert.
+Dialogue: 0,1:07:06.78,1:07:07.98,Default,,0,0,0,,Wie viel an Subventionen?
+Dialogue: 0,1:07:07.98,1:07:11.94,Default,,0,0,0,,Tausende, Zehntausende, Milliarden ...
+Dialogue: 0,1:07:13.30,1:07:16.22,Default,,0,0,0,,2 Milliarden RMB ($320 Millionen)
+Dialogue: 0,1:07:16.22,1:07:19.18,Default,,0,0,0,,Zwei Jahre später wieder 2 Milliarden RMB.
+Dialogue: 0,1:07:19.18,1:07:23.40,Default,,0,0,0,,Eine andere Firma, die bereits viele Verluste erlitten hatte
+Dialogue: 0,1:07:23.40,1:07:26.90,Default,,0,0,0,,hing einen Slogan in ihr Büro nach Erhalt der Subvention:
+Dialogue: 0,1:07:26.90,1:07:33.02,Default,,0,0,0,,"Mit intensiven Kampf und unbeugsamen Geist, geloben wir, dass unser Stahl 100 RMB ($16) billiger ist als der von Firma X."
+Dialogue: 0,1:07:33.02,1:07:37.34,Default,,0,0,0,,Darum nannte der Stellvertretender Leiter der Zentralbank, Herr Liu Shiyu, diese Firmen ‘Zombie Firmen'
+Dialogue: 0,1:07:37.34,1:07:39.54,Default,,0,0,0,,Sie verbrauchen große finanzielle Ressourcen.
+Dialogue: 0,1:07:39.54,1:07:42.78,Default,,0,0,0,,Sie setzen unsere echte Wirtschaft einem großen, unvorhersehbaren Risiko aus.
+Dialogue: 0,1:07:42.78,1:07:45.22,Default,,0,0,0,,Und diese Firmen expandieren sogar jetzt noch.
+Dialogue: 0,1:07:45.22,1:07:47.90,Default,,0,0,0,,Vor zwei Tagen erhielt ich den Brief eines kleinen Mädchens.
+Dialogue: 0,1:07:47.90,1:07:53.54,Default,,0,0,0,,Sie sagte, ein Kokswerk bei ihr expandiert und wird das Haus ihrer Familie abreissen.
+Dialogue: 0,1:07:53.54,1:07:56.02,Default,,0,0,0,,Ihr Vater weigerte sich und wurde verprügelt.
+Dialogue: 0,1:07:56.02,1:07:57.50,Default,,0,0,0,,Sie hoffte, ich könne Ihr helfen.
+Dialogue: 0,1:07:59.14,1:08:01.62,Default,,0,0,0,,Das ist das selbe Mädchen, dass ich vor 2 Jahre interviewt habe.
+Dialogue: 0,1:08:01.62,1:08:04.22,Default,,0,0,0,,Kleine Wang Huiqing, die nie Sterne oder weiße Wolken gesehen hat.
+Dialogue: 0,1:08:04.22,1:08:05.74,Default,,0,0,0,,Ich fragte sie, "Was macht Deine Gesundheit?"
+Dialogue: 0,1:08:05.74,1:08:09.58,Default,,0,0,0,,Sie sagte, "Ich kann mich jetzt nicht um meine Gesundheit kümmern. Ich will nur, dass meine Familie einen Ort zum Wohnen hat."
+Dialogue: 0,1:08:11.14,1:08:13.08,Default,,0,0,0,,Als ich sie vor 2 Tagen anrief sagte sie zum Glück,
+Dialogue: 0,1:08:13.08,1:08:16.14,Default,,0,0,0,,dass der Besitzer des Werkes von der Regierung abgezogen wurde.
+Dialogue: 0,1:08:17.98,1:08:21.22,Default,,0,0,0,,Aber diese Industrien, die bereits als ernst überproduzierend betrachtet werden
+Dialogue: 0,1:08:21.22,1:08:23.86,Default,,0,0,0,,sind in der Hälfte der Provincen Chinas als "Schlüssel-Industrien" 
+Dialogue: 0,1:08:23.86,1:08:26.38,Default,,0,0,0,,im 12. Fünf-Jahres-Plan der Wirtschaftsentwicklung gelistet.
+Dialogue: 0,1:08:26.38,1:08:28.38,Default,,0,0,0,,Der Grund dahinter ist einfach.
+Dialogue: 0,1:08:28.38,1:08:30.49,Default,,0,0,0,,Wenn wir verstädtern und die uns weiter entwickeln, müssen wir nur
+Dialogue: 0,1:08:30.49,1:08:33.58,Default,,0,0,0,,die Urbanisierung um 1% erhöhen und könnten das Überangebot gut verbrauchen.
+Dialogue: 0,1:08:33.58,1:08:35.34,Default,,0,0,0,,Wo Konstruktion ist, ist Bedarf für Stahl.
+Dialogue: 0,1:08:35.34,1:08:36.98,Default,,0,0,0,,Wo Straßen gebaut werden, werden Autos sein.
+Dialogue: 0,1:08:36.98,1:08:37.50,Default,,0,0,0,,Richtig?
+Dialogue: 0,1:08:38.82,1:08:40.78,Default,,0,0,0,,Herr Jiang von der Tsinghua University sagte mir
+Dialogue: 0,1:08:40.78,1:08:44.34,Default,,0,0,0,,Chinas Stadtentwicklung ist selbst in starker Überproduktion.
+Dialogue: 0,1:08:44.34,1:08:46.82,Default,,0,0,0,,Die Situation ist schlimmer als die der Industrie.
+Dialogue: 0,1:08:46.82,1:08:49.66,Default,,0,0,0,,Ich habe das nicht wirklich geglaubt, weil ich in den letzten 30 Jahren
+Dialogue: 0,1:08:49.66,1:08:53.22,Default,,0,0,0,,das Gefühl hatte, die sozialen Veränderungen normaler Familien wie meiner und der gehobene Lebensstandard
+Dialogue: 0,1:08:53.22,1:08:55.02,Default,,0,0,0,,sind Errungenschaften der Urbanisierung.
+Dialogue: 0,1:08:55.94,1:09:00.06,Default,,0,0,0,,Das traditionelle Haus, in dem ich mit meiner Schwester aufwuchs, 
+Dialogue: 0,1:09:00.06,1:09:03.10,Default,,0,0,0,,hat 300 Jahre Geschichte und beherbergte ein dutzend Familien.
+Dialogue: 0,1:09:03.10,1:09:06.78,Default,,0,0,0,,Später verbesserten sich unsere Bedingungen als wir in Wohnungen der Firma meiner Mutter zogen.
+Dialogue: 0,1:09:06.78,1:09:10.86,Default,,0,0,0,,Die Unterkunft hatte 12m² und beherbergte uns 5 Personen.
+Dialogue: 0,1:09:10.86,1:09:16.54,Default,,0,0,0,,Als wir nachts schließen haben wir Holzbretter in den Bettkasten und mit einem Stuhl gestützt.
+Dialogue: 0,1:09:16.54,1:09:17.86,Default,,0,0,0,,So wurde es ein Doppelbett.
+Dialogue: 0,1:09:19.14,1:09:20.94,Default,,0,0,0,,Das war das Fenster in meinem Schlafzimmer.
+Dialogue: 0,1:09:20.94,1:09:23.10,Default,,0,0,0,,War es nicht schön?
+Dialogue: 0,1:09:23.10,1:09:27.46,Default,,0,0,0,,Tatsächlich gab es in dem kleinen Zimmer kein Fenster, also habe ich ein Bild aufgehängt.
+Dialogue: 0,1:09:27.46,1:09:30.50,Default,,0,0,0,,Es repräsentierte die Fantasie eines sehr jungen kreativen Geistes.
+Dialogue: 0,1:09:32.46,1:09:35.02,Default,,0,0,0,,Das Bild wurde kurz vor meinem Studium an der Universität gemacht.
+Dialogue: 0,1:09:35.02,1:09:36.50,Default,,0,0,0,,Es zeigt mir, wie unsere Kreisstadt aussah.
+Dialogue: 0,1:09:36.50,1:09:39.06,Default,,0,0,0,,Ich bin immer diese Straße entlang gelaufen.
+Dialogue: 0,1:09:39.06,1:09:41.34,Default,,0,0,0,,So war es damals.
+Dialogue: 0,1:09:41.34,1:09:43.38,Default,,0,0,0,,Die Veränderungen des Lebensstandards, die meine Familie über die Jahre saw
+Dialogue: 0,1:09:43.38,1:09:45.98,Default,,0,0,0,,bewiesen, dass Millionen Haushalte neuer Bauten bedurften.
+Dialogue: 0,1:09:45.98,1:09:46.86,Default,,0,0,0,,(Herr Jiang) fragte mich
+Dialogue: 0,1:09:46.86,1:09:48.82,Default,,0,0,0,,"Ist es nicht lange her, seit Sie in Shanxi waren?"
+Dialogue: 0,1:09:48.82,1:09:49.66,Default,,0,0,0,,Ich gab ihm Recht.
+Dialogue: 0,1:09:49.66,1:09:51.46,Default,,0,0,0,,Es sagte "Warum gehen Sie nicht zurück und schauen mal?"
+Dialogue: 0,1:09:51.46,1:09:56.54,Default,,0,0,0,,Dieses Jahr nahm ich mein Kind mit nach Shanxi und habe das Video auf dem Weg gemacht.
+Dialogue: 0,1:10:08.79,1:10:13.96,Default,,0,0,0,,(Reklametafeln bewerben neue Apartment-Komplexe)
+Dialogue: 0,1:10:49.86,1:10:55.34,Default,,0,0,0,,Ich bin froh, das sich in meine Heimatstadt etwas verändert, denn die Menschen dort brauchen Wohlstand und Entwicklung.
+Dialogue: 0,1:10:55.34,1:11:00.94,Default,,0,0,0,,Aber was mit überraschte, war, dass ich so viele Baustellen und Reklametaflen für Gebäude sah
+Dialogue: 0,1:11:00.94,1:11:02.38,Default,,0,0,0,,doch sie waren leer.
+Dialogue: 0,1:11:02.42,1:11:05.00,Default,,0,0,0,,Dann fragte ich Verwandte, die viel in den lokalen Wohnungsmarkt investiert hatten
+Dialogue: 0,1:11:05.00,1:11:07.10,Default,,0,0,0,,wie viel Wohnungen dort denn verkauft wurden.
+Dialogue: 0,1:11:07.10,1:11:08.66,Default,,0,0,0,,Er sagte, nur 20-30% wurden verkauft.
+Dialogue: 0,1:11:08.66,1:11:10.14,Default,,0,0,0,,Ich fragte, "Wie kommt es zu so wenig Verkäufen?"
+Dialogue: 0,1:11:10.14,1:11:11.66,Default,,0,0,0,,Er zögerte und sagte:
+Dialogue: 0,1:11:11.66,1:11:13.76,Default,,0,0,0,,"Seit Regierungsangehörige ihren echten Namen beim Immobilienkauf 
+Dialogue: 0,1:11:13.76,1:11:15.50,Default,,0,0,0,,angeben müssen, haben sie sich nicht so gut verkauft."
+Dialogue: 0,1:11:15.50,1:11:21.18,Default,,0,0,0,,(Mein Verwadter) hat ein lokales Hotel für uns gebucht und ich war schockiert als ich am Eingangstor ankam
+Dialogue: 0,1:11:21.18,1:11:27.38,Default,,0,0,0,,denn es besagte ein "5-Sterne-Hotel" zu sein und ich war in die "Präsidenten-Suite" gebucht.
+Dialogue: 0,1:11:27.38,1:11:28.46,Default,,0,0,0,,Ich sagte, "Nein, das müssen Sie nicht!"
+Dialogue: 0,1:11:28.46,1:11:29.54,Default,,0,0,0,,Er sagte, "Keine Sorge
+Dialogue: 0,1:11:29.54,1:11:33.30,Default,,0,0,0,,es kostet nur 200 RMB ($32 USD)."
+Dialogue: 0,1:11:33.30,1:11:39.94,Default,,0,0,0,,Wir fuhren zum unbeleuchteten Parkplatz, es war völlig finster.
+Dialogue: 0,1:11:39.94,1:11:44.10,Default,,0,0,0,,Und dann kam ein Herr mittleren Alters mit einer großen Taschenlampe und uns den Weg zu leuchten.
+Dialogue: 0,1:11:44.10,1:11:46.42,Default,,0,0,0,,Er führte uns zur Hotel-Lobby.
+Dialogue: 0,1:11:46.42,1:11:49.70,Default,,0,0,0,,Er nutzte die Taschenlampe weiter, um uns zu unserem Zimmer zu bringen.
+Dialogue: 0,1:11:49.70,1:11:53.58,Default,,0,0,0,,Es gab dort kein Licht, weil niemand dort übernachtet.
+Dialogue: 0,1:11:55.46,1:11:57.98,Default,,0,0,0,,Zurück in Peking, berichtete ich Professor Jiang davon.
+Dialogue: 0,1:11:57.98,1:12:01.94,Default,,0,0,0,,Er erzählte mir, "Das Shanxi, das Du gesehen hast, ist ein Mikrokosmos vom Rest des Landes.
+Dialogue: 0,1:12:01.94,1:12:05.10,Default,,0,0,0,,In China verlieren wir 80 traditionelle Dörfer jeden Tag.
+Dialogue: 0,1:12:05.10,1:12:07.94,Default,,0,0,0,,Häuser haben eine Lebensdauer von gerade einmal 30 Jahren.
+Dialogue: 0,1:12:07.94,1:12:10.42,Default,,0,0,0,,Es gibt mehr als 200 Gemeinden in China
+Dialogue: 0,1:12:10.42,1:12:14.22,Default,,0,0,0,,184 davon wollen eine sog. "Internationale Metropole" werden.
+Dialogue: 0,1:12:14.22,1:12:15.58,Default,,0,0,0,,Unsere Population liegt bei 1,3 Milliarden.
+Dialogue: 0,1:12:15.58,1:12:20.46,Default,,0,0,0,,If we take into account the plans laid out by these municipalities the population adds up to 3.4 billion
+Dialogue: 0,1:12:21.34,1:12:24.50,Default,,0,0,0,,I came to Beijing carrying a small suitcase in 1998
+Dialogue: 0,1:12:24.50,1:12:30.50,Default,,0,0,0,,I studied, worked and found in this city a sense of self-worth and belonging
+Dialogue: 0,1:12:30.50,1:12:35.66,Default,,0,0,0,,If China hadn't been urbanized, I'd still be in Shanxi, working a menial job that my parents found for me
+Dialogue: 0,1:12:35.66,1:12:38.30,Default,,0,0,0,,Wearing blue overalls and using an abacus for the rest of my life
+Dialogue: 0,1:12:38.30,1:12:45.22,Default,,0,0,0,,Cities gave us our personal freedom and gave this nation three decades of prosperity
+Dialogue: 0,1:12:45.22,1:12:49.98,Default,,0,0,0,,When there are 300-400 million people knocking on our cities' doors, urbanization is an unavoidable reality
 Dialogue: 0,1:12:49.98,1:12:53.38,Default,,0,0,0,,and those who enter will bring unimaginable culture and wealth to this country
-Dialogue: 0,1:12:53.38,1:12:55.82,Default,,0,0,0,,But if we don't change our current model of using capital
-Dialogue: 0,1:12:55.82,1:12:59.90,Default,,0,0,0,,to fuel industry and urban development, what will be the consequences?  
-Dialogue: 0,1:12:59.90,1:13:02.66,Default,,0,0,0,,The Development Research Center of the State Council projects that in 15 years 
-Dialogue: 0,1:13:02.70,1:13:04.86,Default,,0,0,0,,our coal consumption will rise to 6 billion tons
-Dialogue: 0,1:13:04.86,1:13:07.30,Default,,0,0,0,,while the number of vehicles will rise to 400 million
+Dialogue: 0,1:12:53.38,1:12:56.30,Default,,0,0,0,,But if we don't change our current model of using capital
+Dialogue: 0,1:12:56.30,1:12:59.90,Default,,0,0,0,,to fuel industry and urban development, what will be the consequences?
+Dialogue: 0,1:12:59.90,1:13:03.25,Default,,0,0,0,,The Development Research Center of the State Council projects that in 15 years our
+Dialogue: 0,1:13:03.25,1:13:07.30,Default,,0,0,0,,coal consumption will rise to 6 billion tons, while the number of vehicles will rise to 400 million
 Dialogue: 0,1:13:07.30,1:13:08.30,Default,,0,0,0,,So what does that mean for us?
 Dialogue: 0,1:13:08.34,1:13:09.94,Default,,0,0,0,,Professor Ni of Tsinghua University told me
-Dialogue: 0,1:13:09.94,1:13:12.82,Default,,0,0,0,,“This means that even before we run out of natural resources,  
-Dialogue: 0,1:13:12.82,1:13:14.82,Default,,0,0,0,,we will have exhausted the capacity of our environment.”
-Dialogue: 0,1:13:14.82,1:13:15.94,Default,,0,0,0,,This means that now in China
-Dialogue: 0,1:13:15.98,1:13:20.70,Default,,0,0,0,,the pollution and traffic jams have just started
-Dialogue: 0,1:13:24.53,1:13:25.68,Default,,0,0,0,,The needs of a country
+Dialogue: 0,1:13:09.94,1:13:12.46,Default,,0,0,0,,"This means that even before we run out of natural resources
+Dialogue: 0,1:13:12.46,1:13:14.82,Default,,0,0,0,,we will have exhausted the capacity of our environment."
+Dialogue: 0,1:13:14.82,1:13:20.70,Default,,0,0,0,,This means that now in China the pollution and traffic jams have just started
+Dialogue: 0,1:13:22.98,1:13:25.68,Default,,0,0,0,,National requirements stipulate that cities, including
 Dialogue: 0,1:13:25.68,1:13:27.68,Default,,0,0,0,,Beijing
-Dialogue: 0,1:13:29.77,1:13:32.56,Default,,0,0,0,,Nanjing, Xi'an, Chengdu
-Dialogue: 0,1:13:32.69,1:13:34.10,Default,,0,0,0,,
-Dialogue: 0,1:14:32.50,1:14:34.62,Default,,0,0,0,,This photo was taken during the November 2014 APEC summit in Beijing
-Dialogue: 0,1:14:34.62,1:14:39.50,Default,,0,0,0,,One morning, my husband took me to a place he often visited as a child 
-Dialogue: 0,1:14:39.50,1:14:44.34,Default,,0,0,0,,His father taught him ice skating, swimming, and fishing there   
-Dialogue: 0,1:14:45.78,1:14:49.62,Default,,0,0,0,,He said he loved to look at the texture of the ice in winter 
+Dialogue: 0,1:13:30.08,1:13:32.56,Default,,0,0,0,,Nanjing, Xi'an and Chengdu
+Dialogue: 0,1:13:32.69,1:13:39.60,Default,,0,0,0,,14 cities in total, as defined by their city limits
+Dialogue: 0,1:13:40.20,1:13:44.51,Default,,0,0,0,,were demanded by the State Council to stop projects that do not comply with environmental regulations
+Dialogue: 0,1:13:44.70,1:13:49.71,Default,,0,0,0,,demanding they reduce administrative regulations on businesses
+Dialogue: 0,1:13:52.71,1:14:01.00,Default,,0,0,0,,demanding local governments abolish policies favoring businesses that adversely affect the public
+Dialogue: 0,1:14:03.70,1:14:12.70,Default,,0,0,0,,demanding they implement policies taking resource limits into account
+Dialogue: 0,1:14:15.00,1:14:23.00,Default,,0,0,0,,and give them economic incentives for observing the limits
+Dialogue: 0,1:14:32.50,1:14:34.62,Default,,0,0,0,,This photo was taken during the APEC summit in Beijing
+Dialogue: 0,1:14:34.62,1:14:39.50,Default,,0,0,0,,One morning, my husband took me to a place he often visited as a child
+Dialogue: 0,1:14:39.50,1:14:44.34,Default,,0,0,0,,His father taught him ice skating, swimming, and fishing there
+Dialogue: 0,1:14:45.78,1:14:49.62,Default,,0,0,0,,He said he loved to look at the texture of the ice in winter
 Dialogue: 0,1:14:49.62,1:14:52.74,Default,,0,0,0,,It spread all the way to the corner turret of the Forbidden City
-Dialogue: 0,1:14:52.74,1:14:57.82,Default,,0,0,0,,That was his memory of this elegant and ancient city 
-Dialogue: 0,1:14:57.82,1:15:02.22,Default,,0,0,0,,We looked at this scene together like a kid staring at the last piece of candy  
+Dialogue: 0,1:14:52.74,1:14:57.82,Default,,0,0,0,,That was his memory of this elegant and ancient city
+Dialogue: 0,1:14:57.82,1:15:02.22,Default,,0,0,0,,We looked at this scene together like a kid staring at the last piece of candy
 Dialogue: 0,1:15:02.22,1:15:04.42,Default,,0,0,0,,You know that if you don't eat it, it will melt
 Dialogue: 0,1:15:04.42,1:15:06.38,Default,,0,0,0,,But you also know that once you eat it, it will disappear
-Dialogue: 0,1:15:06.38,1:15:09.66,Default,,0,0,0,,Now we felt that same sense of sweetness, anxiety and frustration 
-Dialogue: 0,1:15:09.66,1:15:10.74,Default,,0,0,0,,Wang Yuesi, Researcher, Chinese Academy of Sciences, Institute of Atmospheric Physics
-Dialogue: 0,1:15:10.74,1:15:12.66,Default,,0,0,0,,I am a native of Beijing
-Dialogue: 0,1:15:12.66,1:15:14.50,Default,,0,0,0,,When I was a child, the sky was blue and the clouds were white
-Dialogue: 0,1:15:14.50,1:15:17.02,Default,,0,0,0,,The canal water was so clear we could see the bottom, we could catch fish with our hands
-Dialogue: 0,1:15:17.02,1:15:18.94,Default,,0,0,0,,I also grew up here
-Dialogue: 0,1:15:18.94,1:15:20.98,Default,,0,0,0,,I also remember what it was like when I was still a child
+Dialogue: 0,1:15:06.38,1:15:09.66,Default,,0,0,0,,Now we felt that same sense of sweetness, anxiety and frustration
+Dialogue: 0,1:15:10.74,1:15:14.50,Default,,0,0,0,,I am a native of Beijing, when I was a child, the sky was blue and the clouds were white
+Dialogue: 0,1:15:14.50,1:15:17.02,Default,,0,0,0,,The canals were so clear we could see the bottom, we could catch fish with our hands
+Dialogue: 0,1:15:17.02,1:15:20.98,Default,,0,0,0,,I also grew up here, and I also still remember what it was like when I was a child
 Dialogue: 0,1:15:20.98,1:15:23.38,Default,,0,0,0,,Standing on Chang'an Avenue, we could see all the way to the Western Hills
-Dialogue: 0,1:15:23.38,1:15:25.98,Default,,0,0,0,,Having clean air is not an impossible task
-Dialogue: 0,1:15:25.98,1:15:27.62,Default,,0,0,0,,It's completely achievable
+Dialogue: 0,1:15:23.38,1:15:27.62,Default,,0,0,0,,Having clean air is not an impossible task, it's completely achievable
 Dialogue: 0,1:15:27.62,1:15:29.78,Default,,0,0,0,,It just depends how determined you are
-Dialogue: 0,1:15:29.78,1:15:35.34,Default,,0,0,0,,I hope and believe that with dedication and hard work, we'll be able to keep our "APEC Blue"  
-Dialogue: 0,1:15:37.18,1:15:39.26,Default,,0,0,0,,When I got back, I asked the experts at the Chinese Academy of Sciences: 
-Dialogue: 0,1:15:39.26,1:15:43.38,Default,,0,0,0,,“Can you tell me, what would it take if we want to keep our APEC Blue?”
+Dialogue: 0,1:15:29.78,1:15:35.34,Default,,0,0,0,,I hope and believe that with dedication and hard work, we'll be able to keep our "APEC Blue"
+Dialogue: 0,1:15:37.18,1:15:39.26,Default,,0,0,0,,When I got back, I asked the experts at the Chinese Academy of Sciences:
+Dialogue: 0,1:15:39.26,1:15:43.38,Default,,0,0,0,,"Can you tell me, what would it take if we want to keep our APEC Blue?"
 Dialogue: 0,1:15:44.22,1:15:48.38,Default,,0,0,0,,He said, we must cut emissions of sulfur dioxide by this much against 2013 levels
 Dialogue: 0,1:15:48.38,1:15:49.78,Default,,0,0,0,,nitrogen oxide by this much
 Dialogue: 0,1:15:49.78,1:15:51.26,Default,,0,0,0,,and PM2.5 by this much
-Dialogue: 0,1:15:51.26,1:15:56.02,Default,,0,0,0,,In short, we would have to cut our pollutants by more than half in exchange for that blue sky  
+Dialogue: 0,1:15:51.26,1:15:56.02,Default,,0,0,0,,In short, we would have to cut our pollutants by more than half in exchange for that blue sky
 Dialogue: 0,1:15:57.23,1:15:59.70,Default,,0,0,0,,During the APEC Summit, China and the US issued a joint statement
 Dialogue: 0,1:15:59.92,1:16:02.37,Default,,0,0,0,,China pledged that its carbon emissions will peak around 2030
 Dialogue: 0,1:16:02.37,1:16:05.05,Default,,0,0,0,,and non-fossil energy sources will make up 20% of its energy infrastructure
-Dialogue: 0,1:16:05.05,1:16:06.54,Default,,0,0,0,,Coal dominates our country's energy infrastructure
-Dialogue: 0,1:16:06.54,1:16:08.26,Default,,0,0,0,,and is a source of both carbon emissions and smog
-Dialogue: 0,1:16:08.26,1:16:10.22,Default,,0,0,0,,Reducing our carbon output and cutting toxic emissions go hand in hand
-Dialogue: 0,1:16:10.22,1:16:13.90,Default,,0,0,0,,When I set the goal for 2030, I specified that should be our peak
-Dialogue: 0,1:16:13.90,1:16:16.10,Default,,0,0,0,,It is actually a “reverse coercion system.”
+Dialogue: 0,1:16:05.05,1:16:07.92,Default,,0,0,0,,Coal dominates China's energy infrastructure, and is a source of both carbon emissions and smog
+Dialogue: 0,1:16:07.92,1:16:09.46,Default,,0,0,0,,Reducing coal use addresses both problems
+Dialogue: 0,1:16:09.46,1:16:11.66,Default,,0,0,0,,Xie Zhenhua, Vice-Chairman, National Development and Reform Commission
+Dialogue: 0,1:16:11.66,1:16:16.10,Default,,0,0,0,,When I set the goal for 2030, I specified that should be our peak. It's actually creating an incentive
 Dialogue: 0,1:16:16.10,1:16:18.50,Default,,0,0,0,,So we will start moving on the green, low-carbon path
 Dialogue: 0,1:16:18.50,1:16:22.50,Default,,0,0,0,,People may ask, to protect the environment, do we really have to sacrifice economic development?
 Dialogue: 0,1:16:22.50,1:16:23.78,Default,,0,0,0,,That's a debt you have to settle
 Dialogue: 0,1:16:23.78,1:16:26.54,Default,,0,0,0,,If you've acted wrongly before, you have to make up for it now
 Dialogue: 0,1:16:26.54,1:16:30.06,Default,,0,0,0,,The real problem now becomes, how do we increase the employment rate and the average income?
 Dialogue: 0,1:16:30.06,1:16:30.98,Default,,0,0,0,,Through transformation
-Dialogue: 0,1:16:30.98,1:16:35.10,Default,,0,0,0,,What if during this transformation some workers in some industries lose their jobs?  
-Dialogue: 0,1:16:35.18,1:16:40.54,Default,,0,0,0,,Right now, China's energy-saving and environmental protection industries generate over 3.7 trillion RMB ($590 billion) a year
-Dialogue: 0,1:16:40.54,1:16:44.10,Default,,0,0,0,,and employ around 39 million people
+Dialogue: 0,1:16:30.98,1:16:35.10,Default,,0,0,0,,What if during this transformation, some workers in some industries lose their jobs?
+Dialogue: 0,1:16:35.18,1:16:40.54,Default,,0,0,0,,Right now, China's energy-saving and environmental protection industries generate over
+Dialogue: 0,1:16:40.54,1:16:44.10,Default,,0,0,0,,3.7 trillion RMB ($590 billion) a year, and employ around 39 million people
 Dialogue: 0,1:16:44.10,1:16:45.50,Default,,0,0,0,,Don't forget, this is an industry too
 Dialogue: 0,1:16:45.50,1:16:51.06,Default,,0,0,0,,But many people may wonder, will the Chinese government keep investing in economic growth?
-Dialogue: 0,1:16:51.06,1:16:52.94,Default,,0,0,0,,If we want to maintain the rate of economic growth
-Dialogue: 0,1:16:52.94,1:16:57.22,Default,,0,0,0,,the way to do it is precisely through green, low-carbon, recycling-focused programs 
-Dialogue: 0,1:16:57.22,1:16:58.66,Default,,0,0,0,,Consider the Great Smog of 1952 in London
-Dialogue: 0,1:16:58.66,1:16:59.86,Default,,0,0,0,,or the smog crisis in Los Angeles
+Dialogue: 0,1:16:51.06,1:16:54.18,Default,,0,0,0,,If we want to maintain the rate of economic growth, the way to do it
+Dialogue: 0,1:16:54.18,1:16:57.22,Default,,0,0,0,,is precisely through green, low-carbon, recycling-focused programs
+Dialogue: 0,1:16:57.22,1:16:59.86,Default,,0,0,0,,Consider the Great Smog of 1952 in London or the smog crisis in Los Angeles
 Dialogue: 0,1:16:59.86,1:17:02.02,Default,,0,0,0,,It took them six to seven decades to solve their problems
 Dialogue: 0,1:17:02.02,1:17:03.30,Default,,0,0,0,,We can learn from their experience
 Dialogue: 0,1:17:03.30,1:17:06.70,Default,,0,0,0,,We will get through this stage much more quickly than they did
-Dialogue: 0,1:17:08.10,1:17:09.02,Default,,0,0,0,,Before, I was worried that
-Dialogue: 0,1:17:09.02,1:17:10.38,Default,,0,0,0,,Beijing is still expanding
+Dialogue: 0,1:17:08.10,1:17:10.38,Default,,0,0,0,,Before, I was worried that Beijing is still expanding
 Dialogue: 0,1:17:10.38,1:17:12.58,Default,,0,0,0,,The number of cars is still increasing
-Dialogue: 0,1:17:12.58,1:17:14.14,Default,,0,0,0,,Can pollution there really be reduced? 
+Dialogue: 0,1:17:12.58,1:17:14.14,Default,,0,0,0,,Can pollution there really be reduced?
 Dialogue: 0,1:17:14.14,1:17:16.38,Default,,0,0,0,,But this is Los Angeles
 Dialogue: 0,1:17:16.38,1:17:18.10,Default,,0,0,0,,A place very similar to Beijing
-Dialogue: 0,1:17:18.10,1:17:19.02,Default,,0,0,0,,It also has mountains on three sides
-Dialogue: 0,1:17:19.02,1:17:20.78,Default,,0,0,0,,So it's hard for polluted air to disperse
-Dialogue: 0,1:17:20.78,1:17:21.78,Default,,0,0,0,,That’s why LA has also experienced large-scale photochemical smog
-Dialogue: 0,1:17:21.78,1:17:25.22,Default,,0,0,0,,That’s why LA has also experienced large-scale photochemical smog
+Dialogue: 0,1:17:18.10,1:17:20.78,Default,,0,0,0,,It also has mountains on three sides, so it's hard for polluted air to disperse
+Dialogue: 0,1:17:20.78,1:17:25.22,Default,,0,0,0,,That's why LA has also experienced large-scale photochemical smog
 Dialogue: 0,1:17:25.22,1:17:26.90,Default,,0,0,0,,You can look at 1950
-Dialogue: 0,1:17:26.90,1:17:28.98,Default,,0,0,0,,These cans were sold in shops in Hollywood
-Dialogue: 0,1:17:28.98,1:17:30.42,Default,,0,0,0,,These cans were sold in shops in Hollywood
-Dialogue: 0,1:17:30.42,1:17:32.42,Default,,0,0,0,,They contained Los Angeles air
-Dialogue: 0,1:17:32.42,1:17:33.50,Default,,0,0,0,,The can has a slogan on it
-Dialogue: 0,1:17:33.50,1:17:34.70,Default,,0,0,0,,“Buy one for somebody you hate!”
-Dialogue: 0,1:17:34.70,1:17:36.10,Default,,0,0,0,,“Buy one for somebody you hate!”
-Dialogue: 0,1:17:36.10,1:17:37.02,Default,,0,0,0,,You can imagine the feelings and resentment of those who lived in LA at the time
-Dialogue: 0,1:17:37.02,1:17:39.58,Default,,0,0,0,,You can imagine the feelings and resentment of those who lived in LA at the time
-Dialogue: 0,1:17:39.58,1:17:41.66,Default,,0,0,0,,However, since 1970
-Dialogue: 0,1:17:41.66,1:17:43.66,Default,,0,0,0,,The number of cars in LA is still increasing
-Dialogue: 0,1:17:43.66,1:17:44.98,Default,,0,0,0,,It has actually tripled
-Dialogue: 0,1:17:44.98,1:17:45.82,Default,,0,0,0,,It has actually tripled
-Dialogue: 0,1:17:45.82,1:17:48.38,Default,,0,0,0,,But what about emissions? 
+Dialogue: 0,1:17:26.90,1:17:32.42,Default,,0,0,0,,These cans were sold in shops in Hollywood, containing Los Angeles air
+Dialogue: 0,1:17:32.42,1:17:36.10,Default,,0,0,0,,The can has a slogan on it: "Buy one for somebody you hate!"
+Dialogue: 0,1:17:36.10,1:17:39.58,Default,,0,0,0,,You can imagine the feelings and resentment of those who lived in LA at the time
+Dialogue: 0,1:17:39.58,1:17:43.66,Default,,0,0,0,,However, the number of cars in LA has been increasing since 1970
+Dialogue: 0,1:17:43.66,1:17:45.82,Default,,0,0,0,,It has actually tripled
+Dialogue: 0,1:17:45.82,1:17:48.38,Default,,0,0,0,,But what about emissions?
 Dialogue: 0,1:17:48.38,1:17:50.54,Default,,0,0,0,,They have decreased by 75%
 Dialogue: 0,1:17:50.54,1:17:52.14,Default,,0,0,0,,How did they do it?
-Dialogue: 0,1:17:52.14,1:17:53.30,Default,,0,0,0,,I went to LA to find out 
-Dialogue: 0,1:17:53.30,1:17:54.30,Default,,0,0,0,,I went to LA to find out
+Dialogue: 0,1:17:52.14,1:17:54.30,Default,,0,0,0,,I went to LA to find out
 Dialogue: 0,1:17:59.26,1:18:01.90,Default,,0,0,0,,We are now in the air over Santa Monica
 Dialogue: 0,1:18:02.30,1:18:04.66,Default,,0,0,0,,You can see a layer of haze over there
 Dialogue: 0,1:18:04.66,1:18:05.86,Default,,0,0,0,,That's the smog
-Dialogue: 0,1:18:06.18,1:18:09.50,Default,,0,0,0,,We've often seen these tall buildings in Hollywood movies
-Dialogue: 0,1:18:09.50,1:18:12.66,Default,,0,0,0,,But Los Angeles is not really a city of skyscrapers
-Dialogue: 0,1:18:12.66,1:18:14.98,Default,,0,0,0,,All around those skyscrapers is a  flat expanse of one- and two-story buildings
-Dialogue: 0,1:18:14.98,1:18:16.46,Default,,0,0,0,,All around those skyscrapers is a  flat expanse of one- and two-story buildings
-Dialogue: 0,1:18:16.46,1:18:19.82,Default,,0,0,0,,This low-density urban development means you have to drive to get around in LA
-Dialogue: 0,1:18:19.82,1:18:24.46,Default,,0,0,0,,This low-density urban development means you have to drive to get around in LA
-Dialogue: 0,1:18:26.06,1:18:28.18,Default,,0,0,0,,Los Angeles’ sprawl is considered a classic case of failed urban planning
-Dialogue: 0,1:18:28.18,1:18:29.90,Default,,0,0,0,,Los Angeles’ sprawl is considered a classic case of failed urban planning
-Dialogue: 0,1:18:29.90,1:18:30.82,Default,,0,0,0,,Its public transportation has not been developed or utilized to its fullest potential
-Dialogue: 0,1:18:30.82,1:18:32.98,Default,,0,0,0,,Its public transportation has not been developed or utilized to its fullest potential
+Dialogue: 0,1:18:06.18,1:18:12.66,Default,,0,0,0,,We've often seen these tall buildings in Hollywood movies, but Los Angeles isn't really a skyscraper city
+Dialogue: 0,1:18:12.66,1:18:16.46,Default,,0,0,0,,All around those skyscrapers is a flat expanse of one- and two-story buildings
+Dialogue: 0,1:18:16.46,1:18:24.46,Default,,0,0,0,,This low-density urban development means you have to drive to get around in LA
+Dialogue: 0,1:18:26.06,1:18:29.90,Default,,0,0,0,,Los Angeles' sprawl is considered a classic case of failed urban planning
+Dialogue: 0,1:18:29.90,1:18:32.98,Default,,0,0,0,,Its public transportation has not been developed or utilized to its fullest potential
 Dialogue: 0,1:18:32.98,1:18:35.02,Default,,0,0,0,,This has caused an inevitable increase in car ownership
-Dialogue: 0,1:18:35.70,1:18:38.82,Default,,0,0,0,,In a city of 1.7 million people, there are about 1.3 million cars
-Dialogue: 0,1:18:38.82,1:18:40.38,Default,,0,0,0,,That's almost one car per person
-Dialogue: 0,1:18:40.38,1:18:41.38,Default,,0,0,0,,In the whole of California
-Dialogue: 0,1:18:41.38,1:18:42.98,Default,,0,0,0,,850 million trips are made every day 
-Dialogue: 0,1:18:42.98,1:18:44.90,Default,,0,0,0,,850 million trips are made every day
-Dialogue: 0,1:18:44.90,1:18:46.06,Default,,0,0,0,,If you add up all the fuel
-Dialogue: 0,1:18:46.06,1:18:48.46,Default,,0,0,0,,It's enough to travel to the moon and back 1,600 times
-Dialogue: 0,1:18:56.54,1:18:57.22,Default,,0,0,0,,Over there is a beer brewery,
-Dialogue: 0,1:18:57.22,1:18:58.10,Default,,0,0,0,,and over there are huge warehouses
-Dialogue: 0,1:18:58.10,1:18:59.74,Default,,0,0,0,,This truck just came from the port of Long Beach
-Dialogue: 0,1:18:59.74,1:19:01.90,Default,,0,0,0,,This truck just came from the port of Long Beach
+Dialogue: 0,1:18:35.70,1:18:40.38,Default,,0,0,0,,In a city of 1.7 million people, there are about 1.3 million cars - that's almost one car per person
+Dialogue: 0,1:18:40.38,1:18:44.90,Default,,0,0,0,,850 million trips are made every day in the whole of California
+Dialogue: 0,1:18:44.90,1:18:48.46,Default,,0,0,0,,If you add up all the fuel, it's enough to travel to the moon and back 1,600 times
+Dialogue: 0,1:18:51.00,1:18:52.38,Default,,0,0,0,,California Air Resources Board
+Dialogue: 0,1:18:52.38,1:18:56.34,Default,,0,0,0,,Inspection and enforcement vehicle near an industrial zone in Irvine, CA, July 7, 2014
+Dialogue: 0,1:18:56.54,1:18:59.60,Default,,0,0,0,,Over there is a beer brewery, and over there are huge warehouses
+Dialogue: 0,1:18:59.60,1:19:01.90,Default,,0,0,0,,This truck just came from the port of Long Beach
 Dialogue: 0,1:19:01.90,1:19:04.14,Default,,0,0,0,,Take a look at this big Optimus Prime-looking guy
-Dialogue: 0,1:19:04.14,1:19:05.06,Default,,0,0,0,,18 wheels
-Dialogue: 0,1:19:05.06,1:19:07.10,Default,,0,0,0,,Over 20 meters long
-Dialogue: 0,1:19:07.10,1:19:08.46,Default,,0,0,0,,Its quality is like a tank or armored vehicle
-Dialogue: 0,1:19:08.46,1:19:10.82,Default,,0,0,0,,Its quality is like a tank or armored vehicle
-Dialogue: 0,1:19:24.78,1:19:26.62,Default,,0,0,0,,CARB estimates that
-Dialogue: 0,1:19:26.62,1:19:27.62,Default,,0,0,0,,71% of the carcinogens in Southern California’s atmosphere come from diesel vehicles
-Dialogue: 0,1:19:27.62,1:19:29.54,Default,,0,0,0,,71% of the carcinogens in Southern California’s atmosphere come from diesel vehicles
-Dialogue: 0,1:19:29.54,1:19:31.22,Default,,0,0,0,,71% of the carcinogens in Southern California’s atmosphere come from diesel vehicles
-Dialogue: 0,1:19:31.22,1:19:32.62,Default,,0,0,0,,So all diesel vehicles are required to install a diesel particulate filter (DPF)
-Dialogue: 0,1:19:32.62,1:19:34.06,Default,,0,0,0,,So all diesel vehicles are required to install a diesel particulate filter (DPF)
-Dialogue: 0,1:19:34.06,1:19:35.34,Default,,0,0,0,,This is a special type of filter
-Dialogue: 0,1:19:35.34,1:19:37.14,Default,,0,0,0,,It's like putting a dust mask on your truck
+Dialogue: 0,1:19:04.14,1:19:10.82,Default,,0,0,0,,18 wheels and over 20 meters long, it's built like a tank or some armored vehicle
+Dialogue: 0,1:19:12.64,1:19:14.95,Default,,0,0,0,,California has 1,061,745 diesel vehicles
+Dialogue: 0,1:19:14.95,1:19:17.20,Default,,0,0,0,,Each vehicle consumes an average of 35.2 litres of fuel each day
+Dialogue: 0,1:19:24.78,1:19:31.22,Default,,0,0,0,,CARB estimates that 71% of the carcinogens in Southern California's atmosphere come from diesel vehicles
+Dialogue: 0,1:19:31.22,1:19:34.06,Default,,0,0,0,,So all diesel vehicles are required to install a diesel particulate filter (DPF)
+Dialogue: 0,1:19:34.06,1:19:37.14,Default,,0,0,0,,This is a special type of filter, it's like putting a dust mask on your truck
 Dialogue: 0,1:19:37.14,1:19:39.58,Default,,0,0,0,,It can filter out 99% of particles
-Dialogue: 0,1:19:41.94,1:19:43.62,Default,,0,0,0,,This driver is from Mexico
-Dialogue: 0,1:19:43.62,1:19:45.18,Default,,0,0,0,,He drives an old 2005 model truck
-Dialogue: 0,1:19:45.18,1:19:47.10,Default,,0,0,0,,The law says he must install a DPF
-Dialogue: 0,1:19:47.10,1:19:48.26,Default,,0,0,0,,But he hasn't installed one 
-Dialogue: 0,1:19:48.26,1:19:50.30,Default,,0,0,0,,Although his truck's emission level is within compliance
-Dialogue: 0,1:19:50.30,1:19:52.10,Default,,0,0,0,,He will be still be fined $1,000 US dollars
+Dialogue: 0,1:19:41.94,1:19:45.18,Default,,0,0,0,,This driver is from Mexico, he drives an old 2005 model truck
+Dialogue: 0,1:19:45.18,1:19:48.26,Default,,0,0,0,,The law says he must install a DPF, but he hasn't done it
+Dialogue: 0,1:19:48.26,1:19:52.10,Default,,0,0,0,,Although his truck's emission level is within compliance, he will be still be fined $1,000
 Dialogue: 0,1:19:53.14,1:19:55.66,Default,,0,0,0,,Why didn't you install the DPF?
 Dialogue: 0,1:19:55.66,1:19:57.54,Default,,0,0,0,,Not much money
 Dialogue: 0,1:19:57.54,1:19:59.06,Default,,0,0,0,,He was waiting till the last minute
-Dialogue: 0,1:19:59.06,1:20:02.18,Default,,0,0,0,,He makes around $4,000 a month
-Dialogue: 0,1:20:02.18,1:20:03.18,Default,,0,0,0,,Now he has to pay a $1,000 ticket
-Dialogue: 0,1:20:03.18,1:20:04.50,Default,,0,0,0,,That's a pretty high price
-Dialogue: 0,1:20:05.46,1:20:07.70,Default,,0,0,0,,Sir, how many kids do you have?
-Dialogue: 0,1:20:08.34,1:20:10.62,Default,,0,0,0,,Six
-Dialogue: 0,1:20:13.10,1:20:15.02,Default,,0,0,0,,What if he still doesn’t install the DPF?
-Dialogue: 0,1:20:15.02,1:20:15.86,Default,,0,0,0,,We'll keep ticketing him
-Dialogue: 0,1:20:15.86,1:20:17.30,Default,,0,0,0,,If you still don’t comply, 
-Dialogue: 0,1:20:17.30,1:20:19.26,Default,,0,0,0,,We'll report you to the DMV 
-Dialogue: 0,1:20:19.26,1:20:21.06,Default,,0,0,0,,And not allow you to renew your license plates
-Dialogue: 0,1:20:21.06,1:20:22.10,Default,,0,0,0,,If you can't renew your plates, 
-Dialogue: 0,1:20:22.10,1:20:23.74,Default,,0,0,0,,You can't drive, so you can't make money
-Dialogue: 0,1:20:26.18,1:20:27.14,Default,,0,0,0,,To manage its pollution, 
-Dialogue: 0,1:20:27.14,1:20:30.34,Default,,0,0,0,,California had to enact the strictest standards for new motor vehicles
-Dialogue: 0,1:20:30.34,1:20:32.78,Default,,0,0,0,,The Environmental Protection Agency (EPA) has the authority to inspect any new vehicle
-Dialogue: 0,1:20:32.78,1:20:33.70,Default,,0,0,0,,It has the right to inspect any car in use with up to 12,000 miles on it
-Dialogue: 0,1:20:33.70,1:20:36.30,Default,,0,0,0,,It has the right to inspect any car in use with up to 12,000 miles on it
-Dialogue: 0,1:20:36.30,1:20:37.66,Default,,0,0,0,,If it finds a factory has been violating the regulations
-Dialogue: 0,1:20:37.66,1:20:39.54,Default,,0,0,0,,It will fine the car manufacturer $25,000 for each day since the vehicle left the factory
-Dialogue: 0,1:20:39.54,1:20:42.22,Default,,0,0,0,,It will fine the car manufacturer $25,000 for each day since the vehicle left the factory
-Dialogue: 0,1:20:42.22,1:20:44.02,Default,,0,0,0,,The EPA has the authority to require car manufacturers to recall all affected vehicles
-Dialogue: 0,1:20:44.02,1:20:45.30,Default,,0,0,0,,The EPA has the authority to require car manufacturers to recall all affected vehicles
-Dialogue: 0,1:20:48.10,1:20:52.54,Default,,0,0,0,,Paul Jacobs, California Air Resource Board, Branch Chief 
-Dialogue: 0,1:20:52.54,1:20:55.26,Default,,0,0,0,,45% of the citizens want to comply and be good corporate citizens
-Dialogue: 0,1:20:55.26,1:20:57.38,Default,,0,0,0,,Another 45% say, “Well, I don’t really want to, but I’m going to because I might get caught.”
-Dialogue: 0,1:20:57.38,1:21:00.06,Default,,0,0,0,,And 10% say, “Catch me.” 
-Dialogue: 0,1:21:00.06,1:21:02.66,Default,,0,0,0,,“I'm gonna go 100 miles per hour in the left lane of the freeway, come and catch me.”
-Dialogue: 0,1:21:16.34,1:21:18.94,Default,,0,0,0,,This court settlement particularly interests me             
-Dialogue: 0,1:21:18.94,1:21:20.34,Default,,0,0,0,,I only realized afterwards that 
-Dialogue: 0,1:21:20.34,1:21:21.38,Default,,0,0,0,,The vehicle that was fined was imported from China
-Dialogue: 0,1:21:21.38,1:21:24.62,Default,,0,0,0,,The vehicle that was fined was imported from China
-Dialogue: 0,1:21:24.62,1:21:26.10,Default,,0,0,0,,It was because of environmental labeling fraud
-Dialogue: 0,1:21:26.10,1:21:28.14,Default,,0,0,0,,But this time, once they were caught, 
-Dialogue: 0,1:21:28.14,1:21:31.78,Default,,0,0,0,,They were fined about 400 million RMB [64 million USD]
-Dialogue: 0,1:21:31.78,1:21:34.06,Default,,0,0,0,,Two of the people in charge went to jail
-Dialogue: 0,1:21:34.06,1:21:35.74,Default,,0,0,0,,Human nature is the same all around the world
-Dialogue: 0,1:21:35.74,1:21:37.50,Default,,0,0,0,,In the US, you can also find people 
-Dialogue: 0,1:21:37.50,1:21:38.90,Default,,0,0,0,,who want to avoid punishment 
-Dialogue: 0,1:21:38.90,1:21:40.74,Default,,0,0,0,,or break the law
-Dialogue: 0,1:21:40.74,1:21:42.38,Default,,0,0,0,,But you can control 90% of them if you strictly enforce the law
-Dialogue: 0,1:21:42.38,1:21:44.22,Default,,0,0,0,,But you can control 90% of them if you strictly enforce the law
-Dialogue: 0,1:21:44.22,1:21:45.78,Default,,0,0,0,,If you do not enforce the law
-Dialogue: 0,1:21:45.78,1:21:47.42,Default,,0,0,0,,It will be like the Beijing Environmental Protection Bureau said
-Dialogue: 0,1:21:47.42,1:21:49.58,Default,,0,0,0,,90% of vehicles will continue to commit environmental fraud
-Dialogue: 0,1:21:51.26,1:21:53.90,Default,,0,0,0,,This year, the government is finally revising the “Atmospheric Pollution Prevention Law” 
-Dialogue: 0,1:21:53.90,1:21:55.10,Default,,0,0,0,,In the current draft, 
-Dialogue: 0,1:21:55.10,1:21:57.02,Default,,0,0,0,,it authorizes the Chinese environmental 
-Dialogue: 0,1:21:57.02,1:21:59.86,Default,,0,0,0,,protection agencies to fine or recall fraudulent vehicles
-Dialogue: 0,1:21:59.86,1:22:01.34,Default,,0,0,0,,However, it won't take effect until September 2015 at the earliest
-Dialogue: 0,1:22:01.34,1:22:02.82,Default,,0,0,0,,However, it won't take effect until September 2015 at the earliest
-Dialogue: 0,1:22:02.82,1:22:03.82,Default,,0,0,0,,So before then
-Dialogue: 0,1:22:03.82,1:22:04.86,Default,,0,0,0,,Every night, 
-Dialogue: 0,1:22:04.86,1:22:06.58,Default,,0,0,0,,at this very moment
-Dialogue: 0,1:22:06.58,1:22:08.86,Default,,0,0,0,,millions of trucks are traveling across 
-Dialogue: 0,1:22:08.86,1:22:10.46,Default,,0,0,0,,millions of trucks are traveling across 
-Dialogue: 0,1:22:10.46,1:22:12.66,Default,,0,0,0,,and polluting China's vast landscape.
-Dialogue: 0,1:22:12.66,1:22:13.86,Default,,0,0,0,,How many of these trucks have fake environmental credentials?
-Dialogue: 0,1:22:13.86,1:22:15.38,Default,,0,0,0,,How many of these trucks are emitting particles and pollution?
-Dialogue: 0,1:22:15.38,1:22:17.14,Default,,0,0,0,,This is what we're all enduring
-Dialogue: 0,1:22:18.58,1:22:19.30,Default,,0,0,0,,So before our [original] “Atmospheric Pollution Prevention Law of the People's Republic of China” expires
-Dialogue: 0,1:22:19.90,1:22:20.30,Default,,0,0,0,,So before our [original] “Atmospheric Pollution Prevention Law of the People's Republic of China” expires
-Dialogue: 0,1:22:20.30,1:22:22.94,Default,,0,0,0,,So before our [original] “Atmospheric Pollution Prevention Law of the People's Republic of China” expires
-Dialogue: 0,1:22:22.94,1:22:24.94,Default,,0,0,0,,So before our [original] “Atmospheric Pollution Prevention Law of the People's Republic of China” expires
-Dialogue: 0,1:22:24.94,1:22:27.98,Default,,0,0,0,,Can we use it at least once? 
-Dialogue: 0,1:22:27.98,1:22:29.30,Default,,0,0,0,,Can we keep it from being viewed in our history like this? 
-Dialogue: 0,1:22:29.30,1:22:30.90,Default,,0,0,0,,Can we keep it from being viewed in our history like this? 
-Dialogue: 0,1:22:30.90,1:22:31.94,Default,,0,0,0,,Can we keep it from being viewed in our history like this? 
-Dialogue: 0,1:22:35.02,1:22:35.90,Default,,0,0,0,,Back then
-Dialogue: 0,1:22:35.90,1:22:38.38,Default,,0,0,0,,When the U.S. wanted to establish strict standards
-Dialogue: 0,1:22:38.38,1:22:40.90,Default,,0,0,0,,Once the U.S. car manufacturers heard this, they immediately made the effort and caught up
-Dialogue: 0,1:22:40.90,1:22:41.86,Default,,0,0,0,,Once the U.S. car manufacturers heard this, they immediately made the effort and caught up
-Dialogue: 0,1:22:41.86,1:22:43.58,Default,,0,0,0,,They constantly sued the EPA and did not want to change
-Dialogue: 0,1:22:43.58,1:22:44.66,Default,,0,0,0,,They constantly sued the EPA and did not want to change
-Dialogue: 0,1:22:44.66,1:22:45.62,Default,,0,0,0,,Then, 
-Dialogue: 0,1:22:45.62,1:22:47.06,Default,,0,0,0,,some foreign car manufacturers said 
-Dialogue: 0,1:22:47.06,1:22:48.50,Default,,0,0,0,,“I can do it, I can comply!” 
-Dialogue: 0,1:22:48.50,1:22:49.46,Default,,0,0,0,,Once the U.S. car manufacturers heard this, 
-Dialogue: 0,1:22:49.46,1:22:50.66,Default,,0,0,0,,they immediately made the effort and caught up
-Dialogue: 0,1:22:50.66,1:22:52.02,Default,,0,0,0,,they immediately made the effort and caught up
-Dialogue: 0,1:22:52.02,1:22:52.74,Default,,0,0,0,,But sadly, 
-Dialogue: 0,1:22:52.74,1:22:54.46,Default,,0,0,0,,by then they’d lost half of their market share
-Dialogue: 0,1:22:55.94,1:22:58.10,Default,,0,0,0,,So I asked the officials in the U.S. environmental protection agencies
-Dialogue: 0,1:22:58.10,1:22:59.58,Default,,0,0,0,,“Are you afraid that you're hurting your national auto industry?”
-Dialogue: 0,1:22:59.58,1:23:03.38,Default,,0,0,0,,“Are you afraid that you're hurting your national auto industry?”
-Dialogue: 0,1:23:03.38,1:23:04.86,Default,,0,0,0,,They said 
-Dialogue: 0,1:23:04.86,1:23:06.46,Default,,0,0,0,,“Environmental protection isn't a burden”
-Dialogue: 0,1:23:06.46,1:23:07.98,Default,,0,0,0,,“It’s innovation”
-Dialogue: 0,1:23:07.98,1:23:10.34,Default,,0,0,0,,Safeguarding the past is no way to promote innovation
-Dialogue: 0,1:23:10.34,1:23:12.46,Default,,0,0,0,,The government's role  is to set standards
-Dialogue: 0,1:23:12.46,1:23:15.02,Default,,0,0,0,,and then ensure fair competition in the market
-Dialogue: 0,1:23:15.02,1:23:18.34,Default,,0,0,0,,Fair competition will win in the market
-Dialogue: 0,1:23:18.34,1:23:21.34,Default,,0,0,0,,But in China, coal  accounts for 70% of our energy consumption
-Dialogue: 0,1:23:21.34,1:23:22.78,Default,,0,0,0,,But in China, coal  accounts for 70% of our energy consumption
-Dialogue: 0,1:23:22.78,1:23:24.38,Default,,0,0,0,,Within the energy infrastructure we have, 
-Dialogue: 0,1:23:24.38,1:23:26.58,Default,,0,0,0,,how can we reduce coal?
-Dialogue: 0,1:23:26.58,1:23:28.58,Default,,0,0,0,,Let's look at this graph of how London did it. (Graph: London Air Pollution Density, µg/m3)
-Dialogue: 0,1:23:28.58,1:23:29.38,Default,,0,0,0,,Many people argue that it took London 40 or 50 years to get its air pollution under control
-Dialogue: 0,1:23:29.38,1:23:31.42,Default,,0,0,0,,Many people argue that it took London 40 or 50 years to get its air pollution under control
-Dialogue: 0,1:23:31.42,1:23:32.26,Default,,0,0,0,,Many people argue that it took London 40 or 50 years to get its air pollution under control
-Dialogue: 0,1:23:32.26,1:23:33.78,Default,,0,0,0,,So we have to wait just as long
-Dialogue: 0,1:23:33.78,1:23:36.18,Default,,0,0,0,,But is that true?
-Dialogue: 0,1:23:36.18,1:23:38.14,Default,,0,0,0,,Look at this
-Dialogue: 0,1:23:38.14,1:23:40.70,Default,,0,0,0,,In just the first ten years after they started to manage pollution, 
-Dialogue: 0,1:23:40.70,1:23:43.18,Default,,0,0,0,,they reduced pollutants by 80%
-Dialogue: 0,1:23:43.18,1:23:44.78,Default,,0,0,0,,That's a huge improvement
-Dialogue: 0,1:23:44.78,1:23:46.46,Default,,0,0,0,,Let’s see how London accomplished this
-Dialogue: 0,1:23:49.18,1:23:50.86,Default,,0,0,0,,When the Great London Smog of 1952  happened, 
-Dialogue: 0,1:23:50.86,1:23:51.90,Default,,0,0,0,,90% of England’s energy consumption was coal
-Dialogue: 0,1:23:51.90,1:23:53.74,Default,,0,0,0,,90% of England’s energy consumption was coal
-Dialogue: 0,1:23:53.74,1:23:54.74,Default,,0,0,0,,In 1953, 
-Dialogue: 0,1:23:54.74,1:23:56.26,Default,,0,0,0,,the average density of black particles 
-Dialogue: 0,1:23:56.26,1:23:58.06,Default,,0,0,0,,was 10 times higher than the European Union's standard
-Dialogue: 0,1:23:58.06,1:23:59.50,Default,,0,0,0,,The pressure to control the smog 
-Dialogue: 0,1:23:59.50,1:24:01.14,Default,,0,0,0,,was even greater than ours in China now
-Dialogue: 0,1:24:01.14,1:24:02.58,Default,,0,0,0,,The English passed the “Clean Air Act” in 1956
-Dialogue: 0,1:24:02.58,1:24:03.70,Default,,0,0,0,,The English passed the “Clean Air Act” in 1956
-Dialogue: 0,1:24:03.70,1:24:06.66,Default,,0,0,0,,At every colliery we used to run waterers on the surface
-Dialogue: 0,1:24:06.66,1:24:08.02,Default,,0,0,0,,so the coal would’ve been washed 
-Dialogue: 0,1:24:08.02,1:24:10.22,Default,,0,0,0,,before being sold on to customers
-Dialogue: 0,1:24:10.22,1:24:13.78,Default,,0,0,0,,To use ordinary coal or to to use it in an open grate would be illegal
-Dialogue: 0,1:24:13.78,1:24:15.14,Default,,0,0,0,,To use ordinary coal or to to use it in an open grate would be illegal
-Dialogue: 0,1:24:15.14,1:24:16.82,Default,,0,0,0,,And that by the way is the grate
-Dialogue: 0,1:24:16.82,1:24:18.30,Default,,0,0,0,,Do you still use it?
-Dialogue: 0,1:24:18.30,1:24:19.70,Default,,0,0,0,,We do sometimes
-Dialogue: 0,1:24:19.70,1:24:21.94,Default,,0,0,0,,It's smokeless coal. And this is called “home fire.”
-Dialogue: 0,1:24:21.94,1:24:22.94,Default,,0,0,0,,The government funded 70% of the cost of furnace renovations for citizens
-Dialogue: 0,1:24:22.94,1:24:25.26,Default,,0,0,0,,The government funded 70% of the cost of furnace renovations for citizens
-Dialogue: 0,1:24:25.70,1:24:27.10,Default,,0,0,0,,But punishments were strict as well
-Dialogue: 0,1:24:27.46,1:24:29.58,Default,,0,0,0,,Violation could result in a £100 fine
-Dialogue: 0,1:24:29.58,1:24:30.42,Default,,0,0,0,,Or even jail time
-Dialogue: 0,1:24:30.42,1:24:33.14,Default,,0,0,0,,Installation of any apparatus emitting smoke is strictly prohibited
-Dialogue: 0,1:24:33.14,1:24:34.34,Default,,0,0,0,,Installation of any apparatus emitting smoke is strictly prohibited
-Dialogue: 0,1:24:34.34,1:24:36.98,Default,,0,0,0,,Smoke wardens could inspect a shop and decide that it was selling illegal materials
-Dialogue: 0,1:24:36.98,1:24:39.02,Default,,0,0,0,,Smoke wardens could inspect a shop and decide that it was selling illegal materials
-Dialogue: 0,1:24:39.02,1:24:40.82,Default,,0,0,0,,This is the last cart of coals from a former coal mine in South Wales
-Dialogue: 0,1:24:42.62,1:24:43.58,Default,,0,0,0,,It stopped on this track in 1983
-Dialogue: 0,1:24:43.58,1:24:44.98,Default,,0,0,0,,It stopped on this track in 1983
-Dialogue: 0,1:24:45.86,1:24:47.98,Default,,0,0,0,,In the 20 years following the Great Smog of 1952, 
-Dialogue: 0,1:24:47.98,1:24:50.50,Default,,0,0,0,,oil replaced more than 20% of coal
-Dialogue: 0,1:24:50.50,1:24:52.86,Default,,0,0,0,,Natural gas replaced more than 30% of coal
-Dialogue: 0,1:24:52.86,1:24:55.26,Default,,0,0,0,,Across the whole country's energy infrastructure, 
-Dialogue: 0,1:24:55.26,1:24:56.42,Default,,0,0,0,,coal dropped from 90% to 30% of total consumption
-Dialogue: 0,1:24:56.42,1:24:57.94,Default,,0,0,0,,coal dropped from 90% to 30% of total consumption
-Dialogue: 0,1:24:57.94,1:24:58.90,Default,,0,0,0,,And heavy industry's share of the GDP also dropped 10%
-Dialogue: 0,1:24:58.90,1:25:00.02,Default,,0,0,0,,And heavy industry's share of the GDP also dropped 10%
-Dialogue: 0,1:25:00.02,1:25:01.42,Default,,0,0,0,,And heavy industry's share of the GDP also dropped 10%
-Dialogue: 0,1:25:01.42,1:25:03.38,Default,,0,0,0,,Many coal mines and coal factories closed down
-Dialogue: 0,1:25:03.38,1:25:05.30,Default,,0,0,0,,“And that's another London landmark gone.”
-Dialogue: 0,1:25:05.82,1:25:07.98,Default,,0,0,0,,Millions of people used to work for the coal industry
-Dialogue: 0,1:25:07.98,1:25:10.30,Default,,0,0,0,,How do you (miner) make money today?
-Dialogue: 0,1:25:12.02,1:25:14.02,Default,,0,0,0,,Well, you have to find alternative employment
-Dialogue: 0,1:25:14.02,1:25:15.46,Default,,0,0,0,,I’m not a rich man, 
-Dialogue: 0,1:25:15.46,1:25:17.98,Default,,0,0,0,,but at least I don’t have to worry about paying the bills
-Dialogue: 0,1:25:17.98,1:25:19.26,Default,,0,0,0,,Mining to me, it was just a job
-Dialogue: 0,1:25:19.26,1:25:20.38,Default,,0,0,0,,100 years ago
-Dialogue: 0,1:25:20.38,1:25:22.54,Default,,0,0,0,,We had a million miners in the United Kingdom
-Dialogue: 0,1:25:22.54,1:25:24.62,Default,,0,0,0,,We’ve just got tens of thousands now
-Dialogue: 0,1:25:24.62,1:25:28.10,Default,,0,0,0,,But we've got more people in jobs than ever before in our history
-Dialogue: 0,1:25:28.10,1:25:30.42,Default,,0,0,0,,If an industry is on its way out
-Dialogue: 0,1:25:30.42,1:25:32.26,Default,,0,0,0,,There is another industry coming up
-Dialogue: 0,1:25:32.58,1:25:34.14,Default,,0,0,0,,From 1960 to 1970
-Dialogue: 0,1:25:34.14,1:25:35.66,Default,,0,0,0,,In the first ten years after England began controlling its air pollution
-Dialogue: 0,1:25:35.66,1:25:37.26,Default,,0,0,0,,Not only did the economy not shrink, 
-Dialogue: 0,1:25:37.26,1:25:39.34,Default,,0,0,0,,GDP actually doubled
-Dialogue: 0,1:25:39.62,1:25:40.82,Default,,0,0,0,,Ten years after that
-Dialogue: 0,1:25:40.82,1:25:42.18,Default,,0,0,0,,The U.K had entered the age of oil and natural gas
-Dialogue: 0,1:25:42.18,1:25:43.22,Default,,0,0,0,,Its economic power quadrupled
-Dialogue: 0,1:25:43.22,1:25:44.34,Default,,0,0,0,,Its economic power quadrupled
-Dialogue: 0,1:25:47.10,1:25:48.62,Default,,0,0,0,,Once the U.K. used  cleaner energy sources, 
-Dialogue: 0,1:25:48.62,1:25:49.78,Default,,0,0,0,,oil and natural gas
-Dialogue: 0,1:25:49.78,1:25:51.94,Default,,0,0,0,,Natural gas, in particular, replaced coal 
-Dialogue: 0,1:25:51.94,1:25:54.50,Default,,0,0,0,,They achieved blue skies and white clouds
-Dialogue: 0,1:25:54.50,1:25:55.10,Default,,0,0,0,,The interesting thing is, 
-Dialogue: 0,1:25:55.10,1:25:56.78,Default,,0,0,0,,when we were in London looking for historical sources 
-Dialogue: 0,1:25:56.78,1:25:58.58,Default,,0,0,0,,on how coal contributed to air pollution
-Dialogue: 0,1:25:58.58,1:25:59.70,Default,,0,0,0,,on how coal contributed to air pollution
-Dialogue: 0,1:25:59.70,1:26:02.30,Default,,0,0,0,,The best, most thorough, 
-Dialogue: 0,1:26:02.30,1:26:05.86,Default,,0,0,0,,and most authoritative source is this one
-Dialogue: 0,1:26:05.86,1:26:08.94,Default,,0,0,0,,we could find was from a natural gas company
-Dialogue: 0,1:26:08.94,1:26:10.10,Default,,0,0,0,,The name is simple
+Dialogue: 0,1:19:59.06,1:20:02.18,Default,,0,0,0,,Er verdient etwa $4,000 pro Monat
+Dialogue: 0,1:20:02.18,1:20:03.18,Default,,0,0,0,,Nun muß er $1,000 Strafe zahlen
+Dialogue: 0,1:20:03.18,1:20:04.50,Default,,0,0,0,,Das ist ein ziemlich hoher Preis
+Dialogue: 0,1:20:05.46,1:20:07.70,Default,,0,0,0,,Wie viele Kinder haben Sie?
+Dialogue: 0,1:20:08.34,1:20:10.62,Default,,0,0,0,,Sechs
+Dialogue: 0,1:20:13.10,1:20:15.02,Default,,0,0,0,,Was, wenn er das DPF immer noch nicht installiert?
+Dialogue: 0,1:20:15.02,1:20:15.86,Default,,0,0,0,,Wir schreiben ihm weiter Strafzettel aus
+Dialogue: 0,1:20:15.86,1:20:17.30,Default,,0,0,0,,Wenn Sie immer noch nicht kooperieren,
+Dialogue: 0,1:20:17.30,1:20:19.26,Default,,0,0,0,,zeigen wir Sie beim DMV an
+Dialogue: 0,1:20:19.26,1:20:21.06,Default,,0,0,0,,und Sie könne Ihre Kennzeichen nicht erneuern
+Dialogue: 0,1:20:21.06,1:20:22.10,Default,,0,0,0,,Wenn Sie Ihre Kennzeichen nicht erneuern können
+Dialogue: 0,1:20:22.10,1:20:23.74,Default,,0,0,0,,Können Sie nicht fahren, also können Sie auch kein Geld verdienen.
+Dialogue: 0,1:20:26.18,1:20:27.14,Default,,0,0,0,,Um der Verschmutzung Herr zu werden,
+Dialogue: 0,1:20:27.14,1:20:30.34,Default,,0,0,0,,mußte Kalifornien die schärfsten Standards für Kraftfahrzeuge durchsetzen
+Dialogue: 0,1:20:30.34,1:20:32.78,Default,,0,0,0,,Die Environmental Protection Agency (EPA) kann jedes neue Fahrzeug kontrollieren
+Dialogue: 0,1:20:32.78,1:20:36.30,Default,,0,0,0,,Sie haben das Recht, jedes Auto mit bis zu 12,000 Meilen zu überprüfen
+Dialogue: 0,1:20:36.30,1:20:37.66,Default,,0,0,0,,Wenn sie eine Firma finden, die die Richtlinien nicht einhält
+Dialogue: 0,1:20:37.66,1:20:42.22,Default,,0,0,0,,muß sie $25,000 Strafe zahlen für jeden Tag seit das Auto die Fabrik verlassen hat.
+Dialogue: 0,1:20:42.22,1:20:45.30,Default,,0,0,0,,Die EPA hat das Recht, die Autohersteller zu einem Rückruf aller betroffenen Fahrzeuge zu zwingen
+Dialogue: 0,1:20:48.10,1:20:52.54,Default,,0,0,0,,Paul Jacobs, California Air Resource Board, Branch Chief
+Dialogue: 0,1:20:52.54,1:20:55.26,Default,,0,0,0,,45% der Bürger möchten die Regeln einhalten und gute "corporate citizens" sein
+Dialogue: 0,1:20:55.26,1:20:57.38,Default,,0,0,0,,Weitere 45% sagen, “Ich will nicht wirklich, aber ich werde, weil ich erwischt werden könnte"
+Dialogue: 0,1:20:57.38,1:21:00.06,Default,,0,0,0,,Und 10% sagen, “Erwisch mich doch.”
+Dialogue: 0,1:21:00.06,1:21:02.66,Default,,0,0,0,,“Ich werde 100 Meilen pro Stunde auf der linken Spur des Freeway fahren, komm und erwisch mich erst mal.”
+Dialogue: 0,1:21:16.34,1:21:18.94,Default,,0,0,0,,Diese gerichtliche Einigung interessiert mich besonders
+Dialogue: 0,1:21:18.94,1:21:20.34,Default,,0,0,0,,Ich habe erst hinterher realisiert
+Dialogue: 0,1:21:20.34,1:21:24.62,Default,,0,0,0,,Das bestrafte Fahrzeug wurde aus China importiert.
+Dialogue: 0,1:21:24.62,1:21:26.10,Default,,0,0,0,,Es war wegen Umweltplakettenfälschung.
+Dialogue: 0,1:21:26.10,1:21:28.14,Default,,0,0,0,,Aber diesmal, als sie erwischt wurden,
+Dialogue: 0,1:21:28.14,1:21:31.78,Default,,0,0,0,,mußten sie etwa 400 Millionen RMB [64 Millionen USD] Strafe zahlen
+Dialogue: 0,1:21:31.78,1:21:34.06,Default,,0,0,0,,Zwei der Verantwortlichen mußten in's Gefängnis
+Dialogue: 0,1:21:34.06,1:21:35.74,Default,,0,0,0,,Menschliche Natur ist überall auf der Welt gleich
+Dialogue: 0,1:21:35.74,1:21:37.50,Default,,0,0,0,,Auch in den USA findet man Leute
+Dialogue: 0,1:21:37.50,1:21:38.90,Default,,0,0,0,,die Strafe umgehen wollen
+Dialogue: 0,1:21:38.90,1:21:40.74,Default,,0,0,0,,oder das Gesetz brechen
+Dialogue: 0,1:21:40.74,1:21:44.22,Default,,0,0,0,,Aber man kann 90% von ihnen kontrollieren, wenn man das Gesetz durchsetzt
+Dialogue: 0,1:21:44.22,1:21:45.78,Default,,0,0,0,,Wenn man es nicht durchsetzt
+Dialogue: 0,1:21:45.78,1:21:47.42,Default,,0,0,0,,Wird es so sein, wie die Pekinger Umweltschutzbehörde sagte
+Dialogue: 0,1:21:47.42,1:21:49.58,Default,,0,0,0,,90% der Fahrzeuge werden weiterhin die Umweltschutzgesetze verletzen.
+Dialogue: 0,1:21:51.26,1:21:53.90,Default,,0,0,0,,Dieses Jahr revidiert die Regierung endlich das “Atmospheric Pollution Prevention Law”
+Dialogue: 0,1:21:53.90,1:21:55.10,Default,,0,0,0,,In der aktellen Version,
+Dialogue: 0,1:21:55.10,1:21:57.02,Default,,0,0,0,,authorisiert es die chinesischen Umweltschutzbehörden
+Dialogue: 0,1:21:57.02,1:21:59.86,Default,,0,0,0,,gefälschte Fahrzeuge mit Strafen zu belegen oder zurückzurufen
+Dialogue: 0,1:21:59.86,1:22:02.82,Default,,0,0,0,,Aber es wird frühestens September 2015 in Kraft treten.
+Dialogue: 0,1:22:02.82,1:22:03.82,Default,,0,0,0,,Und bis dahin
+Dialogue: 0,1:22:03.82,1:22:04.86,Default,,0,0,0,,jede Nacht,
+Dialogue: 0,1:22:04.86,1:22:06.58,Default,,0,0,0,,in diesem Moment
+Dialogue: 0,1:22:06.58,1:22:10.46,Default,,0,0,0,,fahren Millionen von Lastwagen durch die chinesische Landschaft
+Dialogue: 0,1:22:10.46,1:22:12.66,Default,,0,0,0,,und verschmutzen sie.
+Dialogue: 0,1:22:12.66,1:22:13.86,Default,,0,0,0,,Wie viele dieser Lastwagen haben gefälschte Plaketten?
+Dialogue: 0,1:22:13.86,1:22:15.38,Default,,0,0,0,,Wie viele stoßen Partikel und Verschmutzung aus?
+Dialogue: 0,1:22:15.38,1:22:17.14,Default,,0,0,0,,Das ist es, was wir alle aushalten müssen
+Dialogue: 0,1:22:18.58,1:22:24.94,Default,,0,0,0,,Also bevor unser [ursprüngliches] “Atmospheric Pollution Prevention Law of the People's Republic of China” ausläuft
+Dialogue: 0,1:22:24.94,1:22:27.98,Default,,0,0,0,,Können wir es wenigstens einmal benutzen?
+Dialogue: 0,1:22:27.98,1:22:31.94,Default,,0,0,0,,Können wir verhindern, daß es in unserer Geschichte so gesehen wird?
+Dialogue: 0,1:22:35.02,1:22:35.90,Default,,0,0,0,,Früher
+Dialogue: 0,1:22:35.90,1:22:38.38,Default,,0,0,0,,Als die USA strenge Standards aufstellen wollte
+Dialogue: 0,1:22:38.38,1:22:41.86,Default,,0,0,0,,Heulte ihre Autoindustrie auf, genau wie unsere
+Dialogue: 0,1:22:41.86,1:22:44.66,Default,,0,0,0,,Sie klagten ständig gegen die EPA und wollten sich nicht ändern
+Dialogue: 0,1:22:44.66,1:22:47.06,Default,,0,0,0,,Dann sagten einige ausländische Hersteller
+Dialogue: 0,1:22:47.06,1:22:48.50,Default,,0,0,0,,“Wir können das, wir können das einhalten!”
+Dialogue: 0,1:22:48.50,1:22:49.46,Default,,0,0,0,,Als die U.S. Hersteller das hörten,
+Dialogue: 0,1:22:49.46,1:22:52.02,Default,,0,0,0,,strengten sie sich sofort an, aufzuholen
+Dialogue: 0,1:22:52.02,1:22:52.74,Default,,0,0,0,,aber leider
+Dialogue: 0,1:22:52.74,1:22:54.46,Default,,0,0,0,,hatten sie bis dahin die Hälfte ihres Marktanteils verloren.
+Dialogue: 0,1:22:55.94,1:22:58.10,Default,,0,0,0,,Also fragte ich die Offiziellen in den Umweltschutzbehörden der USA
+Dialogue: 0,1:22:58.10,1:23:03.38,Default,,0,0,0,,“Haben Sie keine Angst, ihrer nationalen Autoindustrie zu schaden?"
+Dialogue: 0,1:23:03.38,1:23:04.86,Default,,0,0,0,,Sie sagten
+Dialogue: 0,1:23:04.86,1:23:06.46,Default,,0,0,0,,“Umweltschutz ist keine Last”
+Dialogue: 0,1:23:06.46,1:23:07.98,Default,,0,0,0,,“Es ist Innovation”
+Dialogue: 0,1:23:07.98,1:23:10.34,Default,,0,0,0,,Die Vergangenheit zu schützen ist kein Weg, um Innovation zu fördern
+Dialogue: 0,1:23:10.34,1:23:12.46,Default,,0,0,0,,Die Regierung ist dafür da, Standards zu setzen
+Dialogue: 0,1:23:12.46,1:23:15.02,Default,,0,0,0,,und für faire Konkurrenz im Markt zu sorgen
+Dialogue: 0,1:23:15.02,1:23:18.34,Default,,0,0,0,,Faire Konkurrenz wird im Markt gewinnen.
+Dialogue: 0,1:23:18.34,1:23:22.78,Default,,0,0,0,,Aber in China sorgt Kohle für 70% unseres Energieverbrauchs
+Dialogue: 0,1:23:22.78,1:23:24.38,Default,,0,0,0,,Mit der Infrastruktur, die wir haben,
+Dialogue: 0,1:23:24.38,1:23:26.58,Default,,0,0,0,,wie könne wir da Kohle reduzieren?
+Dialogue: 0,1:23:26.58,1:23:28.58,Default,,0,0,0,,Lassen Sie uns sehen, wie London es gemacht hat. (Grafik: London Dichte der Luftverschmutzung, µg/m3)
+Dialogue: 0,1:23:28.58,1:23:32.26,Default,,0,0,0,,Viele Leute argumentieren, daß London 40 bis 50 Jahre gebraucht hat, die Luftverschmutzung unter Kontrolle zu bekommen
+Dialogue: 0,1:23:32.26,1:23:33.78,Default,,0,0,0,,Also müssen wir genauso lange warten.
+Dialogue: 0,1:23:33.78,1:23:36.18,Default,,0,0,0,,Aber ist das wahr?
+Dialogue: 0,1:23:36.18,1:23:38.14,Default,,0,0,0,,Schauen Sie hier
+Dialogue: 0,1:23:38.14,1:23:40.70,Default,,0,0,0,,In nur den ersten 10 Jahren nachdem sie anfingen, die Verschmutzung anzugehen,
+Dialogue: 0,1:23:40.70,1:23:43.18,Default,,0,0,0,,haben sie die Verschmutzung um 80% reduziert
+Dialogue: 0,1:23:43.18,1:23:44.78,Default,,0,0,0,,Das ist eine riesige Verbesserung.
+Dialogue: 0,1:23:44.78,1:23:46.46,Default,,0,0,0,,Lassen Sie uns sehen, wie London das gemacht hat.
+Dialogue: 0,1:23:49.18,1:23:50.86,Default,,0,0,0,,Als der "Great London Smog" 1952 passierte,
+Dialogue: 0,1:23:50.86,1:23:53.74,Default,,0,0,0,,bestand 90% von Englands Energieverbrauch aus Kohle.
+Dialogue: 0,1:23:53.74,1:23:54.74,Default,,0,0,0,,In 1953
+Dialogue: 0,1:23:54.74,1:23:56.26,Default,,0,0,0,,war die durchschnittliche Dichte schwarzer Partikel
+Dialogue: 0,1:23:56.26,1:23:58.06,Default,,0,0,0,,10 mal höher als der Standard der Europäischen Union
+Dialogue: 0,1:23:58.06,1:23:59.50,Default,,0,0,0,,Der Druck, den Smog zu kontrollieren
+Dialogue: 0,1:23:59.50,1:24:01.14,Default,,0,0,0,,war noch höher als unserer heute in China.
+Dialogue: 0,1:24:01.14,1:24:03.70,Default,,0,0,0,,Die Engländer verabschiedeten den “Clean Air Act” in 1956
+Dialogue: 0,1:24:03.70,1:24:06.66,Default,,0,0,0,,In jeder Zeche hatten wir an der Oberfläche Wasserbecken
+Dialogue: 0,1:24:06.66,1:24:08.02,Default,,0,0,0,,also wurde die Kohle gewaschen
+Dialogue: 0,1:24:08.02,1:24:10.22,Default,,0,0,0,,befor sie den Kunden verkauft wurde
+Dialogue: 0,1:24:10.22,1:24:15.14,Default,,0,0,0,,Normale Kohle zu benutzen, oder sie in einem offenen Kamin zu benutzen, war illegal
+Dialogue: 0,1:24:15.14,1:24:16.82,Default,,0,0,0,,und das ist die offene Feuerstelle
+Dialogue: 0,1:24:16.82,1:24:18.30,Default,,0,0,0,,Benutzen Sie sie manchmal noch?
+Dialogue: 0,1:24:18.30,1:24:19.70,Default,,0,0,0,,Manchmal ja
+Dialogue: 0,1:24:19.70,1:24:21.94,Default,,0,0,0,,Das ist rauchlose Kohle. Und diese heißt “home fire.”
+Dialogue: 0,1:24:21.94,1:24:25.26,Default,,0,0,0,,Die Regierung steuerte 70% der Kosten von Kaminrenovierungen bei
+Dialogue: 0,1:24:25.70,1:24:27.10,Default,,0,0,0,,Aber Strafen waren ebenfalls hart
+Dialogue: 0,1:24:27.46,1:24:29.58,Default,,0,0,0,,Verstöße konnten eine Strafe von £100 nach sich ziehen
+Dialogue: 0,1:24:29.58,1:24:30.42,Default,,0,0,0,,Oder sogar Gefängnis.
+Dialogue: 0,1:24:30.42,1:24:34.34,Default,,0,0,0,,Installation eines Rauch ausstoßenden Apparats war strikt verboten
+Dialogue: 0,1:24:34.34,1:24:39.02,Default,,0,0,0,,"Smoke wardens" konnten einen Laden inspizieren und feststellen, daß er illegale Materialien verkaufte
+Dialogue: 0,1:24:39.02,1:24:40.82,Default,,0,0,0,,Dies ist die letzte Fuhre Kohle einer stillgelegten Mine in Südwales
+Dialogue: 0,1:24:42.62,1:24:44.98,Default,,0,0,0,,Sie hörte in 1983 auf zu arbeiten.
+Dialogue: 0,1:24:45.86,1:24:47.98,Default,,0,0,0,,In den 20 Jahren nach dem "Great Smog" von 1952,
+Dialogue: 0,1:24:47.98,1:24:50.50,Default,,0,0,0,,ersetzte Öl mehr als 20% der Kohle
+Dialogue: 0,1:24:50.50,1:24:52.86,Default,,0,0,0,,Erdgas ersetzte mehr als 30% der Kohle.
+Dialogue: 0,1:24:52.86,1:24:55.26,Default,,0,0,0,,In der kompletten Energie-Infrastruktur des Landes
+Dialogue: 0,1:24:55.26,1:24:57.94,Default,,0,0,0,,verringerte sich der Anteil der Kohle von 90% auf 30% des Gesamtverbrauchs.
+Dialogue: 0,1:24:57.94,1:25:01.42,Default,,0,0,0,,Der Anteil der Schwerindustrie am GDP fiel ebenfalls um 10%
+Dialogue: 0,1:25:01.42,1:25:03.38,Default,,0,0,0,,Viele Kohleminen und -Fabriken schlossen
+Dialogue: 0,1:25:03.38,1:25:05.30,Default,,0,0,0,,“Und ein weiteres Londoner Wahrzeichen verschwindet.”
+Dialogue: 0,1:25:05.82,1:25:07.98,Default,,0,0,0,,Millionen arbeiteten für die Kohleindustrie
+Dialogue: 0,1:25:07.98,1:25:10.30,Default,,0,0,0,,Wie verdienen Sie (Bergarbeiter) heute Geld?
+Dialogue: 0,1:25:12.02,1:25:14.02,Default,,0,0,0,,Nun, man muß andere Arbeit finden
+Dialogue: 0,1:25:14.02,1:25:15.46,Default,,0,0,0,,Ich bin nicht reich,
+Dialogue: 0,1:25:15.46,1:25:17.98,Default,,0,0,0,,aber ich brauche mir wenigstens keine Sorgen um unbezahlte Rechnungen machen
+Dialogue: 0,1:25:17.98,1:25:19.26,Default,,0,0,0,,Bergbau war für mich nur ein Job
+Dialogue: 0,1:25:19.26,1:25:20.38,Default,,0,0,0,,vor 100 Jahren
+Dialogue: 0,1:25:20.38,1:25:22.54,Default,,0,0,0,,hatten wir eine Million Bergarbeiter in Großbritannien
+Dialogue: 0,1:25:22.54,1:25:24.62,Default,,0,0,0,,Jetzt haben wir nur Zehntausende
+Dialogue: 0,1:25:24.62,1:25:28.10,Default,,0,0,0,,Aber mehr Leute haben Arbeit als je zu vor in unserer Geschichte
+Dialogue: 0,1:25:28.10,1:25:30.42,Default,,0,0,0,,Wenn eine Industrie stirbt
+Dialogue: 0,1:25:30.42,1:25:32.26,Default,,0,0,0,,Kommt eine andere Industrie auf
+Dialogue: 0,1:25:32.58,1:25:34.14,Default,,0,0,0,,Von 1960 bis 1970
+Dialogue: 0,1:25:34.14,1:25:35.66,Default,,0,0,0,,In den ersten 10 Jahren als England anfing, die Luftverschmutzung anzugehen
+Dialogue: 0,1:25:35.66,1:25:37.26,Default,,0,0,0,,verkleinerte sich die Wirtschaft nicht,
+Dialogue: 0,1:25:37.26,1:25:39.34,Default,,0,0,0,,Das GDP verdoppelte sich sogar.
+Dialogue: 0,1:25:39.62,1:25:40.82,Default,,0,0,0,,Zehn Jahre danach
+Dialogue: 0,1:25:40.82,1:25:42.18,Default,,0,0,0,,Hatte in Großbritannien das Zeitalter des Öls und Ergases angefangen
+Dialogue: 0,1:25:42.18,1:25:44.34,Default,,0,0,0,,Seine Wirtschaftskraft vervierfachte sich.
+Dialogue: 0,1:25:47.10,1:25:48.62,Default,,0,0,0,,Sobald das U.K. sauberere Energie benutzte,
+Dialogue: 0,1:25:48.62,1:25:49.78,Default,,0,0,0,,Öl und Erdgas
+Dialogue: 0,1:25:49.78,1:25:51.94,Default,,0,0,0,,ersetzte besonders Erdgas die Kohle.
+Dialogue: 0,1:25:51.94,1:25:54.50,Default,,0,0,0,,Sie erreichten blauen Himmel und weiße Wolken.
+Dialogue: 0,1:25:54.50,1:25:55.10,Default,,0,0,0,,Das interessanteste ist,
+Dialogue: 0,1:25:55.10,1:25:56.78,Default,,0,0,0,,als wir in London nach historischen Quellen suchten
+Dialogue: 0,1:25:56.78,1:25:59.70,Default,,0,0,0,,wie Kohle zur Luftverschmutzung beitrug
+Dialogue: 0,1:25:59.70,1:26:02.30,Default,,0,0,0,,war die beste, gründlichste,
+Dialogue: 0,1:26:02.30,1:26:05.86,Default,,0,0,0,,und zuverlässigste Quelle, die wir
+Dialogue: 0,1:26:05.86,1:26:08.94,Default,,0,0,0,,finden konnten eine Erdgasfirma
+Dialogue: 0,1:26:08.94,1:26:10.10,Default,,0,0,0,,Der Name ist einfach
 Dialogue: 0,1:26:10.10,1:26:12.90,Default,,0,0,0,,“Guilty Chimneys”
-Dialogue: 0,1:26:12.90,1:26:14.14,Default,,0,0,0,,Natural gas quickly gained market share through competition
-Dialogue: 0,1:26:14.14,1:26:15.78,Default,,0,0,0,,Natural gas quickly gained market share through competition
-Dialogue: 0,1:26:15.78,1:26:17.74,Default,,0,0,0,,And replaced its opponent
-Dialogue: 0,1:26:17.74,1:26:19.58,Default,,0,0,0,,The U.K. Secretary of State for Energy and Climate Change asked me
-Dialogue: 0,1:26:19.58,1:26:20.58,Default,,0,0,0,,Do you know what London's economic level was at the beginning of the environmental reforms?
-Dialogue: 0,1:26:20.58,1:26:21.86,Default,,0,0,0,,Do you know what London's economic level was at the beginning of the environmental reforms?
-Dialogue: 0,1:26:21.86,1:26:23.94,Default,,0,0,0,,Do you know what London's economic level was at the beginning of the environmental reforms?
-Dialogue: 0,1:26:23.94,1:26:25.06,Default,,0,0,0,,Their per capita GDP was the same as China's
-Dialogue: 0,1:26:25.06,1:26:25.94,Default,,0,0,0,,Their per capita GDP was the same as China's
-Dialogue: 0,1:26:25.94,1:26:28.86,Default,,0,0,0,,Most importantly, the government shouldn't subsidize backward-thinking, polluting, unprofitable businesses
-Dialogue: 0,1:26:28.86,1:26:30.34,Default,,0,0,0,,Most importantly, the government shouldn't subsidize backward-thinking, polluting, unprofitable businesses
-Dialogue: 0,1:26:30.34,1:26:32.86,Default,,0,0,0,,Most importantly, the government shouldn't subsidize backward-thinking, polluting, unprofitable businesses
-Dialogue: 0,1:26:32.86,1:26:33.90,Default,,0,0,0,,The government needs to give new, 
-Dialogue: 0,1:26:33.90,1:26:35.74,Default,,0,0,0,,innovative companies a fair chance to compete
-Dialogue: 0,1:26:35.74,1:26:38.06,Default,,0,0,0,,If you do, they will surprise you
-Dialogue: 0,1:26:38.06,1:26:39.78,Default,,0,0,0,,London’s success story tells us
-Dialogue: 0,1:26:39.78,1:26:43.78,Default,,0,0,0,,China needs to leave the era of coal and enter the era of oil and natural gas
-Dialogue: 0,1:26:43.78,1:26:46.94,Default,,0,0,0,,Only if we do that can we have cleaner air
-Dialogue: 0,1:26:46.94,1:26:48.94,Default,,0,0,0,,Today in the world, 
-Dialogue: 0,1:26:48.94,1:26:50.94,Default,,0,0,0,,the share of natural gas in energy consumption is fairly high
-Dialogue: 0,1:26:50.94,1:26:51.94,Default,,0,0,0,,the share of natural gas in energy consumption is fairly high
-Dialogue: 0,1:26:51.94,1:26:54.10,Default,,0,0,0,,Natural gas accounts for around 24% of the world’s energy consumption
-Dialogue: 0,1:26:54.10,1:26:56.18,Default,,0,0,0,,because natural gas is a relatively clean energy source
-Dialogue: 0,1:26:56.18,1:26:58.54,Default,,0,0,0,,How about China?
-Dialogue: 0,1:26:58.54,1:27:01.14,Default,,0,0,0,,Just 5% of our energy comes from natural gas
-Dialogue: 0,1:27:01.14,1:27:02.82,Default,,0,0,0,,Why is this number so low?
-Dialogue: 0,1:27:02.82,1:27:03.54,Default,,0,0,0,,The standard answer I've heard since I was young is
-Dialogue: 0,1:27:03.54,1:27:05.98,Default,,0,0,0,,The standard answer I've heard since I was young is
-Dialogue: 0,1:27:05.98,1:27:07.42,Default,,0,0,0,,It's because we're a country 
-Dialogue: 0,1:27:07.42,1:27:09.22,Default,,0,0,0,,with lots of coal
-Dialogue: 0,1:27:09.22,1:27:11.30,Default,,0,0,0,,insufficient oil
-Dialogue: 0,1:27:11.30,1:27:13.38,Default,,0,0,0,,and not enough natural gas
-Dialogue: 0,1:27:13.38,1:27:14.78,Default,,0,0,0,,Is that really true?
-Dialogue: 0,1:27:14.78,1:27:15.90,Default,,0,0,0,,It's true
-Dialogue: 0,1:27:15.90,1:27:17.46,Default,,0,0,0,,But is it the whole story?
-Dialogue: 0,1:27:17.46,1:27:18.86,Default,,0,0,0,,So I wrote to hang Dawei, 
-Dialogue: 0,1:27:18.86,1:27:20.98,Default,,0,0,0,,which is the Director of Mineral Resources Reserve Center in the Ministry of Land and Resources 
-Dialogue: 0,1:27:20.98,1:27:23.34,Default,,0,0,0,,He sent me a few numbers
-Dialogue: 0,1:27:23.34,1:27:26.58,Default,,0,0,0,,How much of our potential natural gas reserves have actually been investigated?
+Dialogue: 0,1:26:12.90,1:26:15.78,Default,,0,0,0,,Erdgas gewann durch Konkurrenz schnell Marktanteile
+Dialogue: 0,1:26:15.78,1:26:17.74,Default,,0,0,0,,Und ersetzte seine Gegner.
+Dialogue: 0,1:26:17.74,1:26:19.58,Default,,0,0,0,,Der britische Minister für Energie und Klimawandel fragte mich
+Dialogue: 0,1:26:19.58,1:26:23.94,Default,,0,0,0,,Wissen Sie, was Londons wirtschaftliches Level zu Beginn der Umweltreformen war?
+Dialogue: 0,1:26:23.94,1:26:25.94,Default,,0,0,0,,Ihr pro Kopf GDP war genau wie Chinas
+Dialogue: 0,1:26:25.94,1:26:32.86,Default,,0,0,0,,Insbesondere sollte die Regierung keine rückwärtsgerichteten, verschmutzenden, unprofitablen Firmen subventionieren.
+Dialogue: 0,1:26:32.86,1:26:33.90,Default,,0,0,0,,Die Regierung muß neuen,
+Dialogue: 0,1:26:33.90,1:26:35.74,Default,,0,0,0,,innovativen Firmen eine faire Chance geben, sich zu behaupten.
+Dialogue: 0,1:26:35.74,1:26:38.06,Default,,0,0,0,,Wenn sie das machen, werden sie sie überraschen.
+Dialogue: 0,1:26:38.06,1:26:39.78,Default,,0,0,0,,Londons Erfolgsgeschichte zeigt uns
+Dialogue: 0,1:26:39.78,1:26:43.78,Default,,0,0,0,,China muß die Ära der Kohle verlassen und in die Ära des Öls und des Erdgases eintreten.
+Dialogue: 0,1:26:43.78,1:26:46.94,Default,,0,0,0,,Nur, wenn wir das tun, können wir reinere Luft haben.
+Dialogue: 0,1:26:46.94,1:26:48.94,Default,,0,0,0,,Heute ist in der Welt
+Dialogue: 0,1:26:48.94,1:26:51.94,Default,,0,0,0,,der Anteil des Erdgase am Energieverbrauch ziemlich hoch
+Dialogue: 0,1:26:51.94,1:26:54.10,Default,,0,0,0,,Erdgas beträgt ungefähr 24% des weltweiten Energieverbrauchs
+Dialogue: 0,1:26:54.10,1:26:56.18,Default,,0,0,0,,weil Erdgas ein relativ sauberer Energieliferant ist.
+Dialogue: 0,1:26:56.18,1:26:58.54,Default,,0,0,0,,Aber was ist mit China?
+Dialogue: 0,1:26:58.54,1:27:01.14,Default,,0,0,0,,Nur 5% unserer Energie kommt vom Erdgas
+Dialogue: 0,1:27:01.14,1:27:02.82,Default,,0,0,0,,Warum ist diese Zahl so niedrig?
+Dialogue: 0,1:27:02.82,1:27:05.98,Default,,0,0,0,,Die Standardantwort, die ich gehört habe, seit ich klein war ist
+Dialogue: 0,1:27:05.98,1:27:07.42,Default,,0,0,0,,Weil wir ein Land
+Dialogue: 0,1:27:07.42,1:27:09.22,Default,,0,0,0,,mit viel Kohle
+Dialogue: 0,1:27:09.22,1:27:11.30,Default,,0,0,0,,unzureichend Öl
+Dialogue: 0,1:27:11.30,1:27:13.38,Default,,0,0,0,,und nicht genug Erdgas sind.
+Dialogue: 0,1:27:13.38,1:27:14.78,Default,,0,0,0,,Ist das wirklich wahr?
+Dialogue: 0,1:27:14.78,1:27:15.90,Default,,0,0,0,,Es ist wahr
+Dialogue: 0,1:27:15.90,1:27:17.46,Default,,0,0,0,,Aber ist es die Ganze Wahrheit?
+Dialogue: 0,1:27:17.46,1:27:18.86,Default,,0,0,0,,Also schrieb ich Hang Dawei,
+Dialogue: 0,1:27:18.86,1:27:20.98,Default,,0,0,0,,dem Direktor des Zentrums für Bodenschatzreserven des Ministeriums für Land und Rohstoffquellen
+Dialogue: 0,1:27:20.98,1:27:23.34,Default,,0,0,0,,Er sandte mir ein paar Zahlen
+Dialogue: 0,1:27:23.34,1:27:26.58,Default,,0,0,0,,Wie viele unserer potentiellen Erdgasreserven sind tatsächlich bisher untersucht worden?
 Dialogue: 0,1:27:26.58,1:27:27.94,Default,,0,0,0,,22%
-Dialogue: 0,1:27:27.94,1:27:30.34,Default,,0,0,0,,That means we have a lot of undiscovered natural gas under us
-Dialogue: 0,1:27:30.34,1:27:32.14,Default,,0,0,0,,That means we have a lot of undiscovered natural gas under us
-Dialogue: 0,1:27:32.14,1:27:34.02,Default,,0,0,0,,That means we have a lot of undiscovered natural gas under us
-Dialogue: 0,1:27:34.02,1:27:35.82,Default,,0,0,0,,How about oil?
+Dialogue: 0,1:27:27.94,1:27:34.02,Default,,0,0,0,,Das heißt, wir haben eine Menge unerschlossenes Erdgas unter uns
+Dialogue: 0,1:27:34.02,1:27:35.82,Default,,0,0,0,,Wie sieht es mit Öl aus?
 Dialogue: 0,1:27:38.06,1:27:40.74,Default,,0,0,0,,38%
-Dialogue: 0,1:27:40.74,1:27:42.94,Default,,0,0,0,,For the resources we have verified
-Dialogue: 0,1:27:42.94,1:27:44.02,Default,,0,0,0,,let’s say natural gas
-Dialogue: 0,1:27:44.02,1:27:45.38,Default,,0,0,0,,We’ve found 900 billion cubic meters of natural gas
-Dialogue: 0,1:27:45.38,1:27:47.78,Default,,0,0,0,,How much have we started to extract?
-Dialogue: 0,1:27:47.82,1:27:49.10,Default,,0,0,0,,100 billion cubic meters
-Dialogue: 0,1:27:49.14,1:27:50.74,Default,,0,0,0,,We have so many resources that we know are there
-Dialogue: 0,1:27:50.74,1:27:51.90,Default,,0,0,0,,We have so many resources that we know are there
-Dialogue: 0,1:27:51.90,1:27:53.38,Default,,0,0,0,,But we aren't taking advantage of them
-Dialogue: 0,1:27:53.38,1:27:54.66,Default,,0,0,0,,Why is that?
-Dialogue: 0,1:27:54.70,1:27:56.66,Default,,0,0,0,,Director Zhang Dawei sent me another reply
-Dialogue: 0,1:27:56.66,1:27:57.74,Default,,0,0,0,,Very simple
-Dialogue: 0,1:27:57.78,1:27:59.10,Default,,0,0,0,,Just a few numbers
-Dialogue: 0,1:27:59.14,1:28:02.02,Default,,0,0,0,,For instance, the United States is the biggest natural gas producer
-Dialogue: 0,1:28:02.02,1:28:03.26,Default,,0,0,0,,For instance, the United States is the biggest natural gas producer
-Dialogue: 0,1:28:03.30,1:28:06.50,Default,,0,0,0,,They have 6300 natural gas and oil companies
-Dialogue: 0,1:28:06.54,1:28:08.42,Default,,0,0,0,,How many do we have?
+Dialogue: 0,1:27:40.74,1:27:42.94,Default,,0,0,0,,Der Vorkommen, die wir verifiziert haben
+Dialogue: 0,1:27:42.94,1:27:44.02,Default,,0,0,0,,Nehmen wir Erdgas
+Dialogue: 0,1:27:44.02,1:27:45.38,Default,,0,0,0,,Wir haben 900 Milliaren Kubikmeter Erdgas gefunden
+Dialogue: 0,1:27:45.38,1:27:47.78,Default,,0,0,0,,Wieviel haben wir angefangen zu fördern?
+Dialogue: 0,1:27:47.82,1:27:49.10,Default,,0,0,0,,100 Milliarden Kubikmeter
+Dialogue: 0,1:27:49.14,1:27:51.90,Default,,0,0,0,,Wir haben so viele bekannte Vorkommen
+Dialogue: 0,1:27:51.90,1:27:53.38,Default,,0,0,0,,Aber wir nutzen sie nicht
+Dialogue: 0,1:27:53.38,1:27:54.66,Default,,0,0,0,,Warum?
+Dialogue: 0,1:27:54.70,1:27:56.66,Default,,0,0,0,,Direktor Zhang Dawei sandte mir eine weitere Antwort
+Dialogue: 0,1:27:56.66,1:27:57.74,Default,,0,0,0,,Sehr einfach
+Dialogue: 0,1:27:57.78,1:27:59.10,Default,,0,0,0,,Nur ein paar Zahlen
+Dialogue: 0,1:27:59.14,1:28:03.26,Default,,0,0,0,,Die USA zum Beispiel sind der größte Erdgasproduzent
+Dialogue: 0,1:28:03.30,1:28:06.50,Default,,0,0,0,,Sie haben 6300 Erdgas und Ölfirmen
+Dialogue: 0,1:28:06.54,1:28:08.42,Default,,0,0,0,,Wie viele haben wir?
 Dialogue: 0,1:28:08.42,1:28:09.70,Default,,0,0,0,,3
-Dialogue: 0,1:28:09.74,1:28:11.50,Default,,0,0,0,,70% of them are under one company
-Dialogue: 0,1:28:11.50,1:28:12.50,Default,,0,0,0,,70% of them are under one company
+Dialogue: 0,1:28:09.74,1:28:12.50,Default,,0,0,0,,70% sind unter einer Firma
 Dialogue: 0,1:28:12.50,1:28:13.74,Default,,0,0,0,,China National Petroleum Corporation
-Dialogue: 0,1:28:13.74,1:28:16.02,Default,,0,0,0,,America has 160 natural gas pipeline companies
-Dialogue: 0,1:28:16.06,1:28:17.46,Default,,0,0,0,,How many do we have?
+Dialogue: 0,1:28:13.74,1:28:16.02,Default,,0,0,0,,Amerika hat 160 Erdgas Pipeline Firmen
+Dialogue: 0,1:28:16.06,1:28:17.46,Default,,0,0,0,,Wie viele haben wir?
 Dialogue: 0,1:28:17.50,1:28:18.66,Default,,0,0,0,,3
-Dialogue: 0,1:28:18.70,1:28:20.90,Default,,0,0,0,,70% of them are under one company
-Dialogue: 0,1:28:20.94,1:28:22.14,Default,,0,0,0,,70% of them are under one company
+Dialogue: 0,1:28:18.70,1:28:22.14,Default,,0,0,0,,70% sind unter einer Firma
 Dialogue: 0,1:28:22.14,1:28:23.26,Default,,0,0,0,,China National Petroleum Corporation
-Dialogue: 0,1:28:23.30,1:28:24.54,Default,,0,0,0,,This is the answer he gave  me
-Dialogue: 0,1:28:24.54,1:28:26.18,Default,,0,0,0,,If we open up this market
-Dialogue: 0,1:28:26.18,1:28:28.30,Default,,0,0,0,,Our annual production of natural gas will double yearly
-Dialogue: 0,1:28:28.30,1:28:31.50,Default,,0,0,0,,Our verified reserves will double yearly
-Dialogue: 0,1:28:31.58,1:28:34.66,Default,,0,0,0,,Why have we been so slow to join the oil and gas age?
-Dialogue: 0,1:28:34.66,1:28:37.02,Default,,0,0,0,,Why can’t we develop more natural gas?
-Dialogue: 0,1:28:37.02,1:28:39.06,Default,,0,0,0,,The petrochemical industry is not open
-Dialogue: 0,1:28:39.06,1:28:40.50,Default,,0,0,0,,and each sector of the industry   
-Dialogue: 0,1:28:40.50,1:28:43.02,Default,,0,0,0,,is basically a monopoly
-Dialogue: 0,1:28:43.02,1:28:45.22,Default,,0,0,0,,and a monopoly can't innovate，
-Dialogue: 0,1:28:45.22,1:28:47.34,Default,,0,0,0,,People outside of the industry can't get into it
-Dialogue: 0,1:28:47.34,1:28:48.50,Default,,0,0,0,,It’s like an only child
-Dialogue: 0,1:28:48.50,1:28:49.54,Default,,0,0,0,,with a toy that only he can play with
-Dialogue: 0,1:28:49.54,1:28:51.26,Default,,0,0,0,,and he can play with it until he’s sick of it
-Dialogue: 0,1:28:51.26,1:28:52.14,Default,,0,0,0,,or just throw it away
-Dialogue: 0,1:28:52.14,1:28:53.62,Default,,0,0,0,,You just have to listen to what they tell you
-Dialogue: 0,1:28:54.42,1:28:56.10,Default,,0,0,0,,The oil business is related to security
-Dialogue: 0,1:28:56.10,1:28:57.58,Default,,0,0,0,,The oil business is related to security
-Dialogue: 0,1:28:57.58,1:28:59.66,Default,,0,0,0,,and if it’s not managed well the consequences can be serious
-Dialogue: 0,1:29:00.06,1:29:02.14,Default,,0,0,0,,It depends on how you understand energy security
-Dialogue: 0,1:29:02.14,1:29:04.78,Default,,0,0,0,,So, energy security is important
-Dialogue: 0,1:29:04.78,1:29:07.38,Default,,0,0,0,,But, the new technology will be welcomed 
-Dialogue: 0,1:29:07.38,1:29:08.78,Default,,0,0,0,,I’m answer this question
-Dialogue: 0,1:29:08.78,1:29:09.98,Default,,0,0,0,,As long as there is competition
-Dialogue: 0,1:29:09.98,1:29:13.02,Default,,0,0,0,,Then the industry will try its hardest to innovate and change
-Dialogue: 0,1:29:13.02,1:29:14.46,Default,,0,0,0,,You may be interested to know that
-Dialogue: 0,1:29:14.46,1:29:15.70,Default,,0,0,0,,the company that controls electricity distribution
-Dialogue: 0,1:29:15.70,1:29:17.82,Default,,0,0,0,,the company that controls electricity distribution
-Dialogue: 0,1:29:17.82,1:29:19.70,Default,,0,0,0,,around this city, London, is Chinese-owned
-Dialogue: 0,1:29:19.70,1:29:21.58,Default,,0,0,0,,Only if we bring down the price of energy
-Dialogue: 0,1:29:21.58,1:29:22.98,Default,,0,0,0,,will there be competitiveness
-Dialogue: 0,1:29:22.98,1:29:24.58,Default,,0,0,0,,I think,  
-Dialogue: 0,1:29:24.58,1:29:25.78,Default,,0,0,0,,by being open,
-Dialogue: 0,1:29:25.78,1:29:26.94,Default,,0,0,0,,you share ideas,
-Dialogue: 0,1:29:26.94,1:29:28.54,Default,,0,0,0,,you innovate, you get the best from the world
-Dialogue: 0,1:29:28.54,1:29:30.34,Default,,0,0,0,,What is the key to controlling China’s smog?
-Dialogue: 0,1:29:30.34,1:29:32.34,Default,,0,0,0,,What is the key to controlling China’s smog?
-Dialogue: 0,1:29:32.34,1:29:33.78,Default,,0,0,0,,Reform of energy systems and policies
-Dialogue: 0,1:29:36.34,1:29:37.14,Default,,0,0,0,,In preparing for this documentary
-Dialogue: 0,1:29:37.14,1:29:38.22,Default,,0,0,0,,I encountered for the first time
-Dialogue: 0,1:29:38.22,1:29:39.82,Default,,0,0,0,,China’s energy problems
-Dialogue: 0,1:29:39.82,1:29:42.42,Default,,0,0,0,,I only had a rough feeling for the problem
-Dialogue: 0,1:29:42.42,1:29:43.26,Default,,0,0,0,,China’s reform and opening up
-Dialogue: 0,1:29:43.26,1:29:44.54,Default,,0,0,0,,was not how I had originally imagined it
-Dialogue: 0,1:29:44.58,1:29:46.34,Default,,0,0,0,,Like the process of a chick hatching from its egg
-Dialogue: 0,1:29:46.34,1:29:47.54,Default,,0,0,0,,As soon as it hatches it is already complete
-Dialogue: 0,1:29:47.54,1:29:49.30,Default,,0,0,0,,and alive
-Dialogue: 0,1:29:49.30,1:29:51.06,Default,,0,0,0,,But it’s more like the process of a cicada shedding its skin
-Dialogue: 0,1:29:51.06,1:29:52.14,Default,,0,0,0,,little by little
-Dialogue: 0,1:29:52.14,1:29:54.26,Default,,0,0,0,,emerging from the skin it originally had
-Dialogue: 0,1:29:54.26,1:29:56.10,Default,,0,0,0,,And energy is the last part that remains in the shell
-Dialogue: 0,1:29:56.10,1:29:57.82,Default,,0,0,0,,And energy is the last part that remains in the shell
-Dialogue: 0,1:29:57.82,1:29:58.98,Default,,0,0,0,,It has always been considered
-Dialogue: 0,1:29:58.98,1:30:00.50,Default,,0,0,0,,important to national security
-Dialogue: 0,1:30:00.50,1:30:01.46,Default,,0,0,0,,and economic security, so it has not been treated as a commodity
-Dialogue: 0,1:30:01.46,1:30:03.38,Default,,0,0,0,,and economic security, so it has not been treated as a commodity
+Dialogue: 0,1:28:23.30,1:28:24.54,Default,,0,0,0,,Das ist die Antwort, die er mir gab
+Dialogue: 0,1:28:24.54,1:28:26.18,Default,,0,0,0,,Wenn wir diesen Markt öffnen
+Dialogue: 0,1:28:26.18,1:28:28.30,Default,,0,0,0,,wird unsere jährliche Produktion von Erdgas sich verdoppeln
+Dialogue: 0,1:28:28.30,1:28:31.50,Default,,0,0,0,,Unsere verifizierten Vorkommen werden sich jährlich verdoppeln
+Dialogue: 0,1:28:31.58,1:28:34.66,Default,,0,0,0,,Warum sind wir so langsam, das Öl und Erdgas Zeitalter zu betreten?
+Dialogue: 0,1:28:34.66,1:28:37.02,Default,,0,0,0,,Warum können wir nicht mehr Erdgas fördern?
+Dialogue: 0,1:28:37.02,1:28:39.06,Default,,0,0,0,,Die petrochemische Industrie ist nicht offen
+Dialogue: 0,1:28:39.06,1:28:40.50,Default,,0,0,0,,und jeder Sektor der Industrie
+Dialogue: 0,1:28:40.50,1:28:43.02,Default,,0,0,0,,ist faktisch ein Monopol
+Dialogue: 0,1:28:43.02,1:28:45.22,Default,,0,0,0,,und ein Monopol ist nicht innovativ,
+Dialogue: 0,1:28:45.22,1:28:47.34,Default,,0,0,0,,Leute von außerhalb der Industrie können nicht hinein.
+Dialogue: 0,1:28:47.34,1:28:48.50,Default,,0,0,0,,Wie ein Einzelkind
+Dialogue: 0,1:28:48.50,1:28:49.54,Default,,0,0,0,,mit einem Spielzeug, mit dem nur es selbt spielen kann
+Dialogue: 0,1:28:49.54,1:28:51.26,Default,,0,0,0,,und es kann damit spielen, bis es es leid ist
+Dialogue: 0,1:28:51.26,1:28:52.14,Default,,0,0,0,,oder es einfach wegschmeißen.
+Dialogue: 0,1:28:52.14,1:28:53.62,Default,,0,0,0,,Man muß nur zuhören, was sie einem erzählen.
+Dialogue: 0,1:28:54.42,1:28:57.58,Default,,0,0,0,,Das Ölgeschäft ist sicherheitsrelevant
+Dialogue: 0,1:28:57.58,1:28:59.66,Default,,0,0,0,,und wenn es nicht gut geführt wird sind die Konsequenzen schlimm
+Dialogue: 0,1:29:00.06,1:29:02.14,Default,,0,0,0,,Es kommt darauf an, wie man Energiesicherheit versteht.
+Dialogue: 0,1:29:02.14,1:29:04.78,Default,,0,0,0,,Energiesicherheit ist sehr wichtig
+Dialogue: 0,1:29:04.78,1:29:07.38,Default,,0,0,0,,aber die neuen Technologien, an denen wir zusammen arbeiten
+Dialogue: 0,1:29:07.38,1:29:08.78,Default,,0,0,0,,lösen das Problem
+Dialogue: 0,1:29:08.78,1:29:09.98,Default,,0,0,0,,So lange es Konkurrenz gibt
+Dialogue: 0,1:29:09.98,1:29:13.02,Default,,0,0,0,,wird die Industrie ihr Möglichstes tun und sich erneuern und verändern
+Dialogue: 0,1:29:13.02,1:29:14.46,Default,,0,0,0,,Es könnte Sie interessieren, daß die
+Dialogue: 0,1:29:14.46,1:29:17.82,Default,,0,0,0,,Firma, die die Elektrizitätsverteilung dieser Stadt,
+Dialogue: 0,1:29:17.82,1:29:19.70,Default,,0,0,0,,London, kontrolliert, Chinesen gehört
+Dialogue: 0,1:29:19.70,1:29:21.58,Default,,0,0,0,,Nur, wenn wir den Preis für Energie verringern
+Dialogue: 0,1:29:21.58,1:29:22.98,Default,,0,0,0,,wird es Konkurrenz geben.
+Dialogue: 0,1:29:22.98,1:29:24.58,Default,,0,0,0,,Ich glaube,
+Dialogue: 0,1:29:24.58,1:29:25.78,Default,,0,0,0,,wenn man offen ist
+Dialogue: 0,1:29:25.78,1:29:26.94,Default,,0,0,0,,teilt man Ideen,
+Dialogue: 0,1:29:26.94,1:29:28.54,Default,,0,0,0,,man erneuert, man bekommt das Beste der Welt
+Dialogue: 0,1:29:28.54,1:29:32.34,Default,,0,0,0,,Was ist der Schlüssel zu Chinas Smog?
+Dialogue: 0,1:29:32.34,1:29:33.78,Default,,0,0,0,,Reform von Energiesystemen und -Politik.
+Dialogue: 0,1:29:36.34,1:29:37.14,Default,,0,0,0,,Als ich diese Dokumentation vorbereitete
+Dialogue: 0,1:29:37.14,1:29:38.22,Default,,0,0,0,,traf ich zum ersten Manl auf die
+Dialogue: 0,1:29:38.22,1:29:39.82,Default,,0,0,0,,Energieprobleme Chinas.
+Dialogue: 0,1:29:39.82,1:29:42.42,Default,,0,0,0,,Ich hatte nur ein grobes Gefühl für das Problem.
+Dialogue: 0,1:29:42.42,1:29:43.26,Default,,0,0,0,,Chinas Reform und Öffnung
+Dialogue: 0,1:29:43.26,1:29:44.54,Default,,0,0,0,,war nicht, wie ich es mir ursprünglich vorgestellt hatte
+Dialogue: 0,1:29:44.58,1:29:46.34,Default,,0,0,0,,so wie ein Küken aus dem Ei schlüpft.
+Dialogue: 0,1:29:46.34,1:29:47.54,Default,,0,0,0,,Wenn es aus dem Ei schlüpft, ist es schon fertig
+Dialogue: 0,1:29:47.54,1:29:49.30,Default,,0,0,0,,und lebt
+Dialogue: 0,1:29:49.30,1:29:51.06,Default,,0,0,0,,Aber es ist eher wie eine Zikade, die sich häutet
+Dialogue: 0,1:29:51.06,1:29:52.14,Default,,0,0,0,,Stück für Stück
+Dialogue: 0,1:29:52.14,1:29:54.26,Default,,0,0,0,,taucht sie aus ihrer ursprünglichen Hülle auf.
+Dialogue: 0,1:29:54.26,1:29:57.82,Default,,0,0,0,,Und Energie ist der letzte Teil der in der Hülle bleibt.
+Dialogue: 0,1:29:57.82,1:29:58.98,Default,,0,0,0,,Es wurde immer als
+Dialogue: 0,1:29:58.98,1:30:00.50,Default,,0,0,0,,wichtig für die nationale Sicherheit
+Dialogue: 0,1:30:00.50,1:30:03.38,Default,,0,0,0,,und die wirtschaftliche Sicherheit angesehen, daher wurde es nicht wie eine Ware behandelt.
 Dialogue: 0,1:30:03.38,1:30:04.26,Default,,0,0,0,,It has been impossible for it to be exposed to real market forces
 Dialogue: 0,1:30:04.26,1:30:07.78,Default,,0,0,0,,It has been impossible for it to be exposed to real market forces
 Dialogue: 0,1:30:07.78,1:30:11.90,Default,,0,0,0,,But the shell itself is also paying a price
-Dialogue: 0,1:30:11.90,1:30:15.02,Default,,0,0,0,,This is a diagram showing a network of corruption 
+Dialogue: 0,1:30:11.90,1:30:15.02,Default,,0,0,0,,This is a diagram showing a network of corruption
 Dialogue: 0,1:30:15.02,1:30:18.34,Default,,0,0,0,,in the energy industry over the past two years
 Dialogue: 0,1:30:18.34,1:30:20.46,Default,,0,0,0,,Energy is a sector with a high rate of corruption
 Dialogue: 0,1:30:20.46,1:30:22.58,Default,,0,0,0,,The former director of the National Energy Administration, Liu Tienan
 Dialogue: 0,1:30:22.58,1:30:24.82,Default,,0,0,0,,during his court hearing said that
 Dialogue: 0,1:30:24.82,1:30:26.98,Default,,0,0,0,,in order to curb high rates of corruption
-Dialogue: 0,1:30:26.98,1:30:30.06,Default,,0,0,0,,those rights that should have originally belonged to the market 
+Dialogue: 0,1:30:26.98,1:30:30.06,Default,,0,0,0,,those rights that should have originally belonged to the market
 Dialogue: 0,1:30:30.06,1:30:31.70,Default,,0,0,0,,should be given back to the market
 Dialogue: 0,1:30:31.70,1:30:34.22,Default,,0,0,0,,So in June 2014
-Dialogue: 0,1:30:34.22,1:30:36.38,Default,,0,0,0,,China’s national energy security strategy 
+Dialogue: 0,1:30:34.22,1:30:36.38,Default,,0,0,0,,China’s national energy security strategy
 Dialogue: 0,1:30:36.38,1:30:37.90,Default,,0,0,0,,stated that
 Dialogue: 0,1:30:37.90,1:30:39.90,Default,,0,0,0,,energy is a commodity
 Dialogue: 0,1:30:39.90,1:30:41.42,Default,,0,0,0,,We need to build an effective market structure
@@ -2349,7 +2234,7 @@ Dialogue: 0,1:30:48.98,1:30:51.18,Default,,0,0,0,,a massive energy system
 Dialogue: 0,1:30:51.18,1:30:52.86,Default,,0,0,0,,what can we do?
 Dialogue: 0,1:30:52.86,1:30:54.90,Default,,0,0,0,,Even the world's most powerful government
 Dialogue: 0,1:30:54.90,1:30:57.18,Default,,0,0,0,,can't control pollution by itself
-Dialogue: 0,1:30:57.18,1:30:58.50,Default,,0,0,0,,It needs to rely on 
+Dialogue: 0,1:30:57.18,1:30:58.50,Default,,0,0,0,,It needs to rely on
 Dialogue: 0,1:30:58.50,1:31:00.70,Default,,0,0,0,,ordinary people like you and me
 Dialogue: 0,1:31:00.70,1:31:02.06,Default,,0,0,0,,Our choices
 Dialogue: 0,1:31:02.06,1:31:05.02,Default,,0,0,0,,and our determination
@@ -2361,7 +2246,7 @@ Dialogue: 0,1:31:15.30,1:31:17.50,Default,,0,0,0,,Over the past three years
 Dialogue: 0,1:31:17.50,1:31:18.70,Default,,0,0,0,,at the same time as providing
 Dialogue: 0,1:31:18.70,1:31:20.46,Default,,0,0,0,,air quality forecasts
 Dialogue: 0,1:31:20.46,1:31:21.70,Default,,0,0,0,,the government has also established
-Dialogue: 0,1:31:21.70,1:31:23.78,Default,,0,0,0,,the largest 
+Dialogue: 0,1:31:21.70,1:31:23.78,Default,,0,0,0,,the largest
 Dialogue: 0,1:31:23.78,1:31:24.74,Default,,0,0,0,,online monitoring network in the world
 Dialogue: 0,1:31:24.74,1:31:26.02,Default,,0,0,0,,to monitor polluting enterprises
 Dialogue: 0,1:31:26.02,1:31:28.46,Default,,0,0,0,,What we need to do is to use this data
@@ -2379,7 +2264,7 @@ Dialogue: 0,1:31:46.30,1:31:48.62,Default,,0,0,0,,China’s 6000 key enterprises
 Dialogue: 0,1:31:48.62,1:31:51.30,Default,,0,0,0,,discharge 65% of China’s waste emissions
 Dialogue: 0,1:31:51.30,1:31:53.26,Default,,0,0,0,,You can submit a report to the environmental protection authorities
 Dialogue: 0,1:31:53.26,1:31:55.22,Default,,0,0,0,,You can also share these details on Weibo
-Dialogue: 0,1:31:55.22,1:31:57.42,Default,,0,0,0,,All these with traces of blue 
+Dialogue: 0,1:31:55.22,1:31:57.42,Default,,0,0,0,,All these with traces of blue
 Dialogue: 0,1:31:57.42,1:31:59.10,Default,,0,0,0,,are enterprises reported by the public that have promised to
 Dialogue: 0,1:31:59.10,1:32:01.02,Default,,0,0,0,,take corrective actions by a certain time
 Dialogue: 0,1:32:01.02,1:32:02.54,Default,,0,0,0,,Of course the shame is that
@@ -2392,10 +2277,10 @@ Dialogue: 0,1:32:08.98,1:32:11.78,Default,,0,0,0,,a forum which was the first ti
 Dialogue: 0,1:32:11.78,1:32:12.74,Default,,0,0,0,,a forum which was the first time local environmental legislation had been drafted with public participation
 Dialogue: 0,1:32:12.74,1:32:13.70,Default,,0,0,0,,During this forum
 Dialogue: 0,1:32:13.70,1:32:14.98,Default,,0,0,0,,I heard lots of disputes
-Dialogue: 0,1:32:14.98,1:32:16.42,Default,,0,0,0,,The main dispute was around 
+Dialogue: 0,1:32:14.98,1:32:16.42,Default,,0,0,0,,The main dispute was around
 Dialogue: 0,1:32:16.42,1:32:18.30,Default,,0,0,0,,whether to force key enterprises
 Dialogue: 0,1:32:18.30,1:32:20.58,Default,,0,0,0,,to disclose information
-Dialogue: 0,1:32:20.58,1:32:21.70,Default,,0,0,0,,In the end 
+Dialogue: 0,1:32:20.58,1:32:21.70,Default,,0,0,0,,In the end
 Dialogue: 0,1:32:21.70,1:32:23.10,Default,,0,0,0,,Hebei Province published the first
 Dialogue: 0,1:32:23.10,1:32:24.58,Default,,0,0,0,,regulations with public participation
 Dialogue: 0,1:32:24.58,1:32:25.58,Default,,0,0,0,,The regulations required that
@@ -2430,12 +2315,12 @@ Dialogue: 0,1:33:14.30,1:33:17.02,Default,,0,0,0,,some people from among the mor
 Dialogue: 0,1:33:17.02,1:33:18.66,Default,,0,0,0,,are already trying
 Dialogue: 0,1:33:18.66,1:33:19.74,Default,,0,0,0,,The slogan proposed is
 Dialogue: 0,1:33:19.74,1:33:21.30,Default,,0,0,0,,“Does the new environmental law have what it takes?
-Dialogue: 0,1:33:21.30,1:33:23.70,Default,,0,0,0,,Our partners are testing it right now.” 
+Dialogue: 0,1:33:21.30,1:33:23.70,Default,,0,0,0,,Our partners are testing it right now.”
 Dialogue: 0,1:33:24.10,1:33:25.34,Default,,0,0,0,,As for ordinary people like us,
-Dialogue: 0,1:33:25.34,1:33:26.22,Default,,0,0,0,,if you don't have time to 
+Dialogue: 0,1:33:25.34,1:33:26.22,Default,,0,0,0,,if you don't have time to
 Dialogue: 0,1:33:26.22,1:33:28.30,Default,,0,0,0,,join an environmental protection organization
 Dialogue: 0,1:33:28.30,1:33:30.10,Default,,0,0,0,,then what else can you do?
-Dialogue: 0,1:33:30.10,1:33:31.26,Default,,0,0,0,,In cooperation with Friends of Nature we 
+Dialogue: 0,1:33:30.10,1:33:31.26,Default,,0,0,0,,In cooperation with Friends of Nature we
 Dialogue: 0,1:33:31.26,1:33:33.62,Default,,0,0,0,,have made a short animation
 Dialogue: 0,1:33:36.62,1:33:38.82,Default,,0,0,0,,If you're going less than 5km
 Dialogue: 0,1:33:38.82,1:33:41.70,Default,,0,0,0,,please take public transportation, ride a bike, or carpool
@@ -2490,7 +2375,7 @@ Dialogue: 0,1:35:22.34,1:35:23.30,Default,,0,0,0,,(Workers) Sorry, sorry.
 Dialogue: 0,1:35:32.50,1:35:35.94,Default,,0,0,0,,The whole process took less than five minutes
 Dialogue: 0,1:35:35.94,1:35:37.62,Default,,0,0,0,,Right before I left
 Dialogue: 0,1:35:37.62,1:35:39.38,Default,,0,0,0,,The worker who told me where to find the boss
-Dialogue: 0,1:35:39.38,1:35:39.94,Default,,0,0,0,,said, 
+Dialogue: 0,1:35:39.38,1:35:39.94,Default,,0,0,0,,said,
 Dialogue: 0,1:35:39.94,1:35:41.70,Default,,0,0,0,,“Do you know why he's afraid of you?”
 Dialogue: 0,1:35:41.70,1:35:43.74,Default,,0,0,0,,He pointed at the mobile phone in my hand
 Dialogue: 0,1:35:43.74,1:35:46.58,Default,,0,0,0,,He's afraid you'll expose him
@@ -2512,7 +2397,7 @@ Dialogue: 0,1:36:11.82,1:36:13.58,Default,,0,0,0,,until I went to London
 Dialogue: 0,1:36:13.58,1:36:14.86,Default,,0,0,0,,and had a meal in a Chinese restaurant there.
 Dialogue: 0,1:36:14.86,1:36:16.22,Default,,0,0,0,,I discovered there was no smoke smell there at all
 Dialogue: 0,1:36:16.22,1:36:17.06,Default,,0,0,0,,Why?
-Dialogue: 0,1:36:17.06,1:36:18.46,Default,,0,0,0,,The boss took me 
+Dialogue: 0,1:36:17.06,1:36:18.46,Default,,0,0,0,,The boss took me
 Dialogue: 0,1:36:18.46,1:36:19.70,Default,,0,0,0,,up to the roof
 Dialogue: 0,1:36:19.70,1:36:21.94,Default,,0,0,0,,And I saw this
 Dialogue: 0,1:36:21.94,1:36:24.38,Default,,0,0,0,,which is called a soot purifier
@@ -2530,7 +2415,7 @@ Dialogue: 0,1:36:52.70,1:36:54.42,Default,,0,0,0,,When I was taking this video c
 Dialogue: 0,1:36:54.42,1:36:55.86,Default,,0,0,0,,The restaurant boss came over
 Dialogue: 0,1:36:55.86,1:36:58.62,Default,,0,0,0,,and said, “Thank you for your supervision as a resident here
 Dialogue: 0,1:36:58.62,1:37:01.22,Default,,0,0,0,,We hope to see you in our restaurant in the future”
-Dialogue: 0,1:37:01.22,1:37:03.26,Default,,0,0,0,,For the past year, our office lunches have been nothing but meat pies. 
+Dialogue: 0,1:37:01.22,1:37:03.26,Default,,0,0,0,,For the past year, our office lunches have been nothing but meat pies.
 Dialogue: 0,1:37:06.10,1:37:07.90,Default,,0,0,0,,Sometimes when I walk by the neighborhood gas station
 Dialogue: 0,1:37:07.90,1:37:09.06,Default,,0,0,0,,(here's a gas station downstairs)
 Dialogue: 0,1:37:09.06,1:37:10.70,Default,,0,0,0,,I can smell the very strong scent of gasoline
@@ -2616,68 +2501,68 @@ Dialogue: 0,1:39:42.06,1:39:43.06,Default,,0,0,0,,Unless we bring these chemical
 Dialogue: 0,1:39:43.06,1:39:44.70,Default,,0,0,0,,Unless we bring these chemicals under better control
 Dialogue: 0,1:39:44.70,1:39:46.30,Default,,0,0,0,,We’re certainly headed for disaster
 Dialogue: 0,1:39:46.70,1:39:47.34,Default,,0,0,0,,We’re certainly headed for disaster
-Dialogue: 0,1:40:11.26,1:40:13.02,Default,,0,0,0,,This whole system
-Dialogue: 0,1:40:13.02,1:40:14.10,Default,,0,0,0,,that we call home
-Dialogue: 0,1:40:14.10,1:40:16.02,Default,,0,0,0,,People in Tokyo suffering from asthma are suing for compensation from
-Dialogue: 0,1:40:16.02,1:40:19.14,Default,,0,0,0,,the car factory owners of Tokyo and Japan
-Dialogue: 0,1:40:19.14,1:40:23.70,Default,,0,0,0,,for the harm caused by tailpipe emissions
-Dialogue: 0,1:40:23.70,1:40:26.86,Default,,0,0,0,,We have the right to know, the right to participate,
-Dialogue: 0,1:40:26.86,1:40:28.10,Default,,0,0,0,,the right to sue for damages
-Dialogue: 0,1:40:28.10,1:40:29.34,Default,,0,0,0,,Everyone join together
-Dialogue: 0,1:40:29.34,1:40:30.82,Default,,0,0,0,,Together we will make
-Dialogue: 0,1:40:30.82,1:40:32.26,Default,,0,0,0,,our generation’s
-Dialogue: 0,1:40:32.26,1:40:34.70,Default,,0,0,0,,choice to go green successful
-Dialogue: 0,1:40:34.70,1:40:37.14,Default,,0,0,0,,If you don’t know how to fix it, please stop breaking it
-Dialogue: 0,1:40:37.14,1:40:40.06,Default,,0,0,0,,You grown ups say you love us
-Dialogue: 0,1:40:40.06,1:40:42.66,Default,,0,0,0,,Please, take action
-Dialogue: 0,1:40:42.66,1:40:43.74,Default,,0,0,0,,And for me,
-Dialogue: 0,1:40:43.74,1:40:49.02,Default,,0,0,0,,it is absolutely my responsibility to do whatever it takes
-Dialogue: 0,1:40:49.02,1:40:51.62,Default,,0,0,0,,to protect my child
-Dialogue: 0,1:40:58.38,1:41:00.66,Default,,0,0,0,,When the haze gets serious, 
-Dialogue: 0,1:41:00.66,1:41:02.54,Default,,0,0,0,,there is at least one thing we can do. 
-Dialogue: 0,1:41:04.38,1:41:06.02,Default,,0,0,0,,That is to protect yourself 
-Dialogue: 0,1:41:06.02,1:41:07.58,Default,,0,0,0,,and your loved ones. 
-Dialogue: 0,1:41:07.58,1:41:11.14,Default,,0,0,0,,When I drew this little bear on paper, 
-Dialogue: 0,1:41:11.14,1:41:12.74,Default,,0,0,0,,I was reminded of, 
-Dialogue: 0,1:41:12.74,1:41:13.74,Default,,0,0,0,,when my daughter got sick, 
-Dialogue: 0,1:41:13.74,1:41:16.02,Default,,0,0,0,,all my fear of losing her 
-Dialogue: 0,1:41:16.02,1:41:18.66,Default,,0,0,0,,and all my hope of protecting her. 
-Dialogue: 0,1:41:18.66,1:41:22.14,Default,,0,0,0,,I wish that all other mothers in this world 
-Dialogue: 0,1:41:22.14,1:41:25.82,Default,,0,0,0,,would not have to feel the same. 
-Dialogue: 0,1:41:25.82,1:41:27.58,Default,,0,0,0,,Now, she has grown up, 
-Dialogue: 0,1:41:27.58,1:41:30.02,Default,,0,0,0,,healthy and recovered, 
-Dialogue: 0,1:41:30.02,1:41:32.58,Default,,0,0,0,,sturdy and lively, 
-Dialogue: 0,1:41:32.58,1:41:34.22,Default,,0,0,0,,and as chubby as before. 
-Dialogue: 0,1:41:34.22,1:41:37.86,Default,,0,0,0,,She is particularly fond of the nature and the small animals in it, 
-Dialogue: 0,1:41:37.86,1:41:40.46,Default,,0,0,0,,but many times I cannot take her outdoor. 
-Dialogue: 0,1:41:40.46,1:41:42.54,Default,,0,0,0,,So in her own little pot, 
-Dialogue: 0,1:41:42.54,1:41:44.18,Default,,0,0,0,,she has been raising a snail. 
-Dialogue: 0,1:41:44.18,1:41:45.38,Default,,0,0,0,,When she wakes up every morning, 
-Dialogue: 0,1:41:45.38,1:41:48.30,Default,,0,0,0,,she runs to the pot and gives a puff to the snail, 
-Dialogue: 0,1:41:48.30,1:41:51.34,Default,,0,0,0,,hoping to help it grow up. 
-Dialogue: 0,1:41:51.34,1:41:54.26,Default,,0,0,0,,She is so much in love with this world. 
-Dialogue: 0,1:41:54.86,1:41:57.34,Default,,0,0,0,,Tens of thousands of mothers are being pregnant with 
-Dialogue: 0,1:41:57.34,1:42:00.62,Default,,0,0,0,,or giving birth to their children, 
-Dialogue: 0,1:42:00.62,1:42:02.74,Default,,0,0,0,,to whom these rivers, 
-Dialogue: 0,1:42:02.74,1:42:04.26,Default,,0,0,0,,skies 
-Dialogue: 0,1:42:04.26,1:42:06.02,Default,,0,0,0,,and lands 
-Dialogue: 0,1:42:06.02,1:42:09.30,Default,,0,0,0,,should belong. 
-Dialogue: 0,1:42:09.30,1:42:11.34,Default,,0,0,0,,We have no right to consume 
-Dialogue: 0,1:42:11.34,1:42:12.70,Default,,0,0,0,,without controlling. 
-Dialogue: 0,1:42:12.70,1:42:14.46,Default,,0,0,0,,We have no right to complain 
-Dialogue: 0,1:42:14.46,1:42:16.62,Default,,0,0,0,,without constructing. 
-Dialogue: 0,1:42:16.62,1:42:18.42,Default,,0,0,0,,We are responsible to prove to them 
-Dialogue: 0,1:42:18.42,1:42:20.38,Default,,0,0,0,,that a world lit by energy 
-Dialogue: 0,1:42:20.38,1:42:22.50,Default,,0,0,0,,can meanwhile be clean and beautiful. 
-Dialogue: 0,1:42:26.22,1:42:28.90,Default,,0,0,0,,Every time I look into the night sky, 
-Dialogue: 0,1:42:28.90,1:42:32.34,Default,,0,0,0,,seeing this planet rotating lonely, 
-Dialogue: 0,1:42:32.34,1:42:33.26,Default,,0,0,0,,I sense a kind of 
-Dialogue: 0,1:42:33.26,1:42:37.30,Default,,0,0,0,,indescribable attachment and warmth. 
-Dialogue: 0,1:42:37.30,1:42:39.02,Default,,0,0,0,,Someday in the future, 
-Dialogue: 0,1:42:39.02,1:42:41.62,Default,,0,0,0,,I’ll leave this world, 
-Dialogue: 0,1:42:41.62,1:42:44.50,Default,,0,0,0,,but my child will continue to live in it, 
-Dialogue: 0,1:42:44.50,1:42:48.22,Default,,0,0,0,,so I’ll still be involved. 
-Dialogue: 0,1:42:48.22,1:42:50.66,Default,,0,0,0,,And so I stare at it, 
-Dialogue: 0,1:42:50.66,1:42:53.42,Default,,0,0,0,,just like I stare at you. 
-Dialogue: 0,1:42:53.42,1:42:56.46,Default,,0,0,0,,And so I protect it, 
-Dialogue: 0,1:42:56.46,1:42:58.82,Default,,0,0,0,,as much as I protect you.
+Dialogue: 0,1:40:11.26,1:40:13.02,Default,,0,0,0,,Dieses ganze System
+Dialogue: 0,1:40:13.02,1:40:14.10,Default,,0,0,0,,das wir Heimat nennen
+Dialogue: 0,1:40:14.10,1:40:16.02,Default,,0,0,0,,Menschen in Tokyo, die an Asthma leiden, Klagen gegen die
+Dialogue: 0,1:40:16.02,1:40:19.14,Default,,0,0,0,,Autohersteller Tokyos und Japans
+Dialogue: 0,1:40:19.14,1:40:23.70,Default,,0,0,0,,um Schadensersatz der Auspuffabgase wegen
+Dialogue: 0,1:40:23.70,1:40:26.86,Default,,0,0,0,,Wir haben das Recht, zu wissen, mitzumachen,
+Dialogue: 0,1:40:26.86,1:40:28.10,Default,,0,0,0,,Das Recht, um Schadensersatz zu klagen
+Dialogue: 0,1:40:28.10,1:40:29.34,Default,,0,0,0,,Kommt alle zusammen
+Dialogue: 0,1:40:29.34,1:40:30.82,Default,,0,0,0,,Zusammen werden wir
+Dialogue: 0,1:40:30.82,1:40:32.26,Default,,0,0,0,,die Entscheidung unserer Generation
+Dialogue: 0,1:40:32.26,1:40:34.70,Default,,0,0,0,,Grün zu werden, erfolgreich machen.
+Dialogue: 0,1:40:34.70,1:40:37.14,Default,,0,0,0,,Wenn Du es nicht reparieren kannst, hör bitte auf, es kaputt zu machen
+Dialogue: 0,1:40:37.14,1:40:40.06,Default,,0,0,0,,Ihr erwachsenen sagt, ihr liebt uns
+Dialogue: 0,1:40:40.06,1:40:42.66,Default,,0,0,0,,Bitte, werdet aktiv
+Dialogue: 0,1:40:42.66,1:40:43.74,Default,,0,0,0,,Und für mich
+Dialogue: 0,1:40:43.74,1:40:49.02,Default,,0,0,0,,ist es absolut meine Verantwortung, alles zu tun
+Dialogue: 0,1:40:49.02,1:40:51.62,Default,,0,0,0,,um mein Kind zu schützen
+Dialogue: 0,1:40:58.38,1:41:00.66,Default,,0,0,0,,Wenn der Smog stark wird,
+Dialogue: 0,1:41:00.66,1:41:02.54,Default,,0,0,0,,können wir wenigstens eins tun.
+Dialogue: 0,1:41:04.38,1:41:06.02,Default,,0,0,0,,Uns selbst zu schützen
+Dialogue: 0,1:41:06.02,1:41:07.58,Default,,0,0,0,,und die, die wir lieben.
+Dialogue: 0,1:41:07.58,1:41:11.14,Default,,0,0,0,,Als ich diesen kleinem Bären auf Papier zeichnete,
+Dialogue: 0,1:41:11.14,1:41:12.74,Default,,0,0,0,,erinnerte es mich daran,
+Dialogue: 0,1:41:12.74,1:41:13.74,Default,,0,0,0,,als meine Tochter krank wurde,
+Dialogue: 0,1:41:13.74,1:41:16.02,Default,,0,0,0,,all meine Angst, sie zu verlieren
+Dialogue: 0,1:41:16.02,1:41:18.66,Default,,0,0,0,,und all meine Hoffnung, sie zu beschützen.
+Dialogue: 0,1:41:18.66,1:41:22.14,Default,,0,0,0,,Ich wünschte, alle Mütter der Welt
+Dialogue: 0,1:41:22.14,1:41:25.82,Default,,0,0,0,,müssten nicht genauso fühlen.
+Dialogue: 0,1:41:25.82,1:41:27.58,Default,,0,0,0,,Nun ist sie größer geworden,
+Dialogue: 0,1:41:27.58,1:41:30.02,Default,,0,0,0,,gesund und erholt,
+Dialogue: 0,1:41:30.02,1:41:32.58,Default,,0,0,0,,robust und lebendig,
+Dialogue: 0,1:41:32.58,1:41:34.22,Default,,0,0,0,,und pummelig wie vorher.
+Dialogue: 0,1:41:34.22,1:41:37.86,Default,,0,0,0,,Besonders mag sie die Natur und die kleinen Tiere in ihr,
+Dialogue: 0,1:41:37.86,1:41:40.46,Default,,0,0,0,,aber oft kann ich sie nicht nach draußen lassen.
+Dialogue: 0,1:41:40.46,1:41:42.54,Default,,0,0,0,,Also zieht sie in ihrem eigenen kleinen Topf
+Dialogue: 0,1:41:42.54,1:41:44.18,Default,,0,0,0,,eine Schnecke auf.
+Dialogue: 0,1:41:44.18,1:41:45.38,Default,,0,0,0,,Jeden Morgen, wenn sie aufwacht,
+Dialogue: 0,1:41:45.38,1:41:48.30,Default,,0,0,0,,läuft sie zum Topf und gibt der Schnecke einen Stups,
+Dialogue: 0,1:41:48.30,1:41:51.34,Default,,0,0,0,,um ihr beim wachsen zu helfen.
+Dialogue: 0,1:41:51.34,1:41:54.26,Default,,0,0,0,,Sie liebt diese Welt so sehr.
+Dialogue: 0,1:41:54.86,1:41:57.34,Default,,0,0,0,,Zehntausende Mütter sind schwanger
+Dialogue: 0,1:41:57.34,1:42:00.62,Default,,0,0,0,,oder gebären ihre Kinder,
+Dialogue: 0,1:42:00.62,1:42:02.74,Default,,0,0,0,,denen diese Flüsse,
+Dialogue: 0,1:42:02.74,1:42:04.26,Default,,0,0,0,,Himmel
+Dialogue: 0,1:42:04.26,1:42:06.02,Default,,0,0,0,,und Länder
+Dialogue: 0,1:42:06.02,1:42:09.30,Default,,0,0,0,,gehören sollen.
+Dialogue: 0,1:42:09.30,1:42:11.34,Default,,0,0,0,,Wir haben nicht das Recht, unmäßig
+Dialogue: 0,1:42:11.34,1:42:12.70,Default,,0,0,0,,zu verbrauchen.
+Dialogue: 0,1:42:12.70,1:42:14.46,Default,,0,0,0,,Wir haben nicht das Recht und zu beschweren
+Dialogue: 0,1:42:14.46,1:42:16.62,Default,,0,0,0,,ohne aufzubauen.
+Dialogue: 0,1:42:16.62,1:42:18.42,Default,,0,0,0,,Wir sind verantwortlich dafür ihnen zu zeigen
+Dialogue: 0,1:42:18.42,1:42:20.38,Default,,0,0,0,,daß eine Welt, erleuchtet durch Energie,
+Dialogue: 0,1:42:20.38,1:42:22.50,Default,,0,0,0,,gleichzeitig auch sauber und schön sein kann.
+Dialogue: 0,1:42:26.22,1:42:28.90,Default,,0,0,0,,Jedesmal, wenn ich den Nachthimmel sehe,
+Dialogue: 0,1:42:28.90,1:42:32.34,Default,,0,0,0,,diesen Planeten sich einsam drehen sehe,
+Dialogue: 0,1:42:32.34,1:42:33.26,Default,,0,0,0,,fühle ich eine Art
+Dialogue: 0,1:42:33.26,1:42:37.30,Default,,0,0,0,,unbeschreibliche Zuneigung und Wärme.
+Dialogue: 0,1:42:37.30,1:42:39.02,Default,,0,0,0,,Irgendwann in der Zukunft,
+Dialogue: 0,1:42:39.02,1:42:41.62,Default,,0,0,0,,werde ich diese Welt verlassen,
+Dialogue: 0,1:42:41.62,1:42:44.50,Default,,0,0,0,,aber mein Kind wird weiter in ihr leben,
+Dialogue: 0,1:42:44.50,1:42:48.22,Default,,0,0,0,,also werde ich immer noch beteiligt sein.
+Dialogue: 0,1:42:48.22,1:42:50.66,Default,,0,0,0,,Und so schaue ich ihn an,
+Dialogue: 0,1:42:50.66,1:42:53.42,Default,,0,0,0,,so wie ich Dich anschaue.
+Dialogue: 0,1:42:53.42,1:42:56.46,Default,,0,0,0,,Und so schütze ich ihn,
+Dialogue: 0,1:42:56.46,1:42:58.82,Default,,0,0,0,,so wie ich Dich beschütze.

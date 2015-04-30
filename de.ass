@@ -15,17 +15,17 @@ Audio File: ../../Downloads/Chai Jings review Under the Dome  Investigating Chin
 Video File: ../../Downloads/Chai Jings review Under the Dome  Investigating Chinas Smog - Standard Quality 360p [File2HD.com].mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1890
-Active Line: 1914
-Video Position: 115726
+Video Zoom Percent: 1.000000
+Scroll Position: 1829
+Active Line: 1846
+Video Position: 113085
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
-Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.54,0:00:06.04,Default,,0,0,0,,Dieses Diagramm zeigt Pekings Feinstaubbelastung im Januar 2013
 Dialogue: 0,0:00:06.12,0:00:08.58,Default,,0,0,0,,An 25 Tagen in einem Monat wurden hohe Feinstaubwerte gemessen
 Dialogue: 0,0:00:08.70,0:00:10.20,Default,,0,0,0,,Zu dieser Zeit war ich in Peking
@@ -1769,7 +1769,7 @@ Dialogue: 0,1:08:05.74,1:08:09.58,Default,,0,0,0,,Sie sagte, "Ich kann mich jetz
 Dialogue: 0,1:08:11.14,1:08:13.08,Default,,0,0,0,,Als ich sie vor 2 Tagen anrief sagte sie zum Glück,
 Dialogue: 0,1:08:13.08,1:08:16.14,Default,,0,0,0,,dass der Besitzer des Werkes von der Regierung abgezogen wurde.
 Dialogue: 0,1:08:17.98,1:08:21.22,Default,,0,0,0,,Aber diese Industrien, die bereits als ernst überproduzierend betrachtet werden
-Dialogue: 0,1:08:21.22,1:08:23.86,Default,,0,0,0,,sind in der Hälfte der Provincen Chinas als "Schlüssel-Industrien" 
+Dialogue: 0,1:08:21.22,1:08:23.86,Default,,0,0,0,,sind in der Hälfte der Provincen Chinas als "Schlüssel-Industrien"
 Dialogue: 0,1:08:23.86,1:08:26.38,Default,,0,0,0,,im 12. Fünf-Jahres-Plan der Wirtschaftsentwicklung gelistet.
 Dialogue: 0,1:08:26.38,1:08:28.38,Default,,0,0,0,,Der Grund dahinter ist einfach.
 Dialogue: 0,1:08:28.38,1:08:30.49,Default,,0,0,0,,Wenn wir verstädtern und die uns weiter entwickeln, müssen wir nur
@@ -1783,7 +1783,7 @@ Dialogue: 0,1:08:44.34,1:08:46.82,Default,,0,0,0,,Die Situation ist schlimmer al
 Dialogue: 0,1:08:46.82,1:08:49.66,Default,,0,0,0,,Ich habe das nicht wirklich geglaubt, weil ich in den letzten 30 Jahren
 Dialogue: 0,1:08:49.66,1:08:53.22,Default,,0,0,0,,das Gefühl hatte, die sozialen Veränderungen normaler Familien wie meiner und der gehobene Lebensstandard
 Dialogue: 0,1:08:53.22,1:08:55.02,Default,,0,0,0,,sind Errungenschaften der Urbanisierung.
-Dialogue: 0,1:08:55.94,1:09:00.06,Default,,0,0,0,,Das traditionelle Haus, in dem ich mit meiner Schwester aufwuchs, 
+Dialogue: 0,1:08:55.94,1:09:00.06,Default,,0,0,0,,Das traditionelle Haus, in dem ich mit meiner Schwester aufwuchs,
 Dialogue: 0,1:09:00.06,1:09:03.10,Default,,0,0,0,,hat 300 Jahre Geschichte und beherbergte ein dutzend Familien.
 Dialogue: 0,1:09:03.10,1:09:06.78,Default,,0,0,0,,Später verbesserten sich unsere Bedingungen als wir in Wohnungen der Firma meiner Mutter zogen.
 Dialogue: 0,1:09:06.78,1:09:10.86,Default,,0,0,0,,Die Unterkunft hatte 12m² und beherbergte uns 5 Personen.
@@ -1813,7 +1813,7 @@ Dialogue: 0,1:11:05.00,1:11:07.10,Default,,0,0,0,,wie viel Wohnungen dort denn v
 Dialogue: 0,1:11:07.10,1:11:08.66,Default,,0,0,0,,Er sagte, nur 20-30% wurden verkauft.
 Dialogue: 0,1:11:08.66,1:11:10.14,Default,,0,0,0,,Ich fragte, "Wie kommt es zu so wenig Verkäufen?"
 Dialogue: 0,1:11:10.14,1:11:11.66,Default,,0,0,0,,Er zögerte und sagte:
-Dialogue: 0,1:11:11.66,1:11:13.76,Default,,0,0,0,,"Seit Regierungsangehörige ihren echten Namen beim Immobilienkauf 
+Dialogue: 0,1:11:11.66,1:11:13.76,Default,,0,0,0,,"Seit Regierungsangehörige ihren echten Namen beim Immobilienkauf
 Dialogue: 0,1:11:13.76,1:11:15.50,Default,,0,0,0,,angeben müssen, haben sie sich nicht so gut verkauft."
 Dialogue: 0,1:11:15.50,1:11:21.18,Default,,0,0,0,,(Mein Verwadter) hat ein lokales Hotel für uns gebucht und ich war schockiert als ich am Eingangstor ankam
 Dialogue: 0,1:11:21.18,1:11:27.38,Default,,0,0,0,,denn es besagte ein "5-Sterne-Hotel" zu sein und ich war in die "Präsidenten-Suite" gebucht.
@@ -1832,47 +1832,47 @@ Dialogue: 0,1:12:05.10,1:12:07.94,Default,,0,0,0,,Häuser haben eine Lebensdauer
 Dialogue: 0,1:12:07.94,1:12:10.42,Default,,0,0,0,,Es gibt mehr als 200 Gemeinden in China
 Dialogue: 0,1:12:10.42,1:12:14.22,Default,,0,0,0,,184 davon wollen eine sog. "Internationale Metropole" werden.
 Dialogue: 0,1:12:14.22,1:12:15.58,Default,,0,0,0,,Unsere Population liegt bei 1,3 Milliarden.
-Dialogue: 0,1:12:15.58,1:12:20.46,Default,,0,0,0,,If we take into account the plans laid out by these municipalities the population adds up to 3.4 billion
-Dialogue: 0,1:12:21.34,1:12:24.50,Default,,0,0,0,,I came to Beijing carrying a small suitcase in 1998
-Dialogue: 0,1:12:24.50,1:12:30.50,Default,,0,0,0,,I studied, worked and found in this city a sense of self-worth and belonging
-Dialogue: 0,1:12:30.50,1:12:35.66,Default,,0,0,0,,If China hadn't been urbanized, I'd still be in Shanxi, working a menial job that my parents found for me
-Dialogue: 0,1:12:35.66,1:12:38.30,Default,,0,0,0,,Wearing blue overalls and using an abacus for the rest of my life
-Dialogue: 0,1:12:38.30,1:12:45.22,Default,,0,0,0,,Cities gave us our personal freedom and gave this nation three decades of prosperity
-Dialogue: 0,1:12:45.22,1:12:49.98,Default,,0,0,0,,When there are 300-400 million people knocking on our cities' doors, urbanization is an unavoidable reality
-Dialogue: 0,1:12:49.98,1:12:53.38,Default,,0,0,0,,and those who enter will bring unimaginable culture and wealth to this country
-Dialogue: 0,1:12:53.38,1:12:56.30,Default,,0,0,0,,But if we don't change our current model of using capital
-Dialogue: 0,1:12:56.30,1:12:59.90,Default,,0,0,0,,to fuel industry and urban development, what will be the consequences?
-Dialogue: 0,1:12:59.90,1:13:03.25,Default,,0,0,0,,The Development Research Center of the State Council projects that in 15 years our
-Dialogue: 0,1:13:03.25,1:13:07.30,Default,,0,0,0,,coal consumption will rise to 6 billion tons, while the number of vehicles will rise to 400 million
-Dialogue: 0,1:13:07.30,1:13:08.30,Default,,0,0,0,,So what does that mean for us?
-Dialogue: 0,1:13:08.34,1:13:09.94,Default,,0,0,0,,Professor Ni of Tsinghua University told me
-Dialogue: 0,1:13:09.94,1:13:12.46,Default,,0,0,0,,"This means that even before we run out of natural resources
-Dialogue: 0,1:13:12.46,1:13:14.82,Default,,0,0,0,,we will have exhausted the capacity of our environment."
-Dialogue: 0,1:13:14.82,1:13:20.70,Default,,0,0,0,,This means that now in China the pollution and traffic jams have just started
-Dialogue: 0,1:13:22.98,1:13:25.68,Default,,0,0,0,,National requirements stipulate that cities, including
-Dialogue: 0,1:13:25.68,1:13:27.68,Default,,0,0,0,,Beijing
-Dialogue: 0,1:13:30.08,1:13:32.56,Default,,0,0,0,,Nanjing, Xi'an and Chengdu
-Dialogue: 0,1:13:32.69,1:13:39.60,Default,,0,0,0,,14 cities in total, as defined by their city limits
-Dialogue: 0,1:13:40.20,1:13:44.51,Default,,0,0,0,,were demanded by the State Council to stop projects that do not comply with environmental regulations
-Dialogue: 0,1:13:44.70,1:13:49.71,Default,,0,0,0,,demanding they reduce administrative regulations on businesses
-Dialogue: 0,1:13:52.71,1:14:01.00,Default,,0,0,0,,demanding local governments abolish policies favoring businesses that adversely affect the public
-Dialogue: 0,1:14:03.70,1:14:12.70,Default,,0,0,0,,demanding they implement policies taking resource limits into account
-Dialogue: 0,1:14:15.00,1:14:23.00,Default,,0,0,0,,and give them economic incentives for observing the limits
-Dialogue: 0,1:14:32.50,1:14:34.62,Default,,0,0,0,,This photo was taken during the APEC summit in Beijing
-Dialogue: 0,1:14:34.62,1:14:39.50,Default,,0,0,0,,One morning, my husband took me to a place he often visited as a child
-Dialogue: 0,1:14:39.50,1:14:44.34,Default,,0,0,0,,His father taught him ice skating, swimming, and fishing there
-Dialogue: 0,1:14:45.78,1:14:49.62,Default,,0,0,0,,He said he loved to look at the texture of the ice in winter
-Dialogue: 0,1:14:49.62,1:14:52.74,Default,,0,0,0,,It spread all the way to the corner turret of the Forbidden City
-Dialogue: 0,1:14:52.74,1:14:57.82,Default,,0,0,0,,That was his memory of this elegant and ancient city
-Dialogue: 0,1:14:57.82,1:15:02.22,Default,,0,0,0,,We looked at this scene together like a kid staring at the last piece of candy
-Dialogue: 0,1:15:02.22,1:15:04.42,Default,,0,0,0,,You know that if you don't eat it, it will melt
-Dialogue: 0,1:15:04.42,1:15:06.38,Default,,0,0,0,,But you also know that once you eat it, it will disappear
-Dialogue: 0,1:15:06.38,1:15:09.66,Default,,0,0,0,,Now we felt that same sense of sweetness, anxiety and frustration
-Dialogue: 0,1:15:10.74,1:15:14.50,Default,,0,0,0,,I am a native of Beijing, when I was a child, the sky was blue and the clouds were white
-Dialogue: 0,1:15:14.50,1:15:17.02,Default,,0,0,0,,The canals were so clear we could see the bottom, we could catch fish with our hands
-Dialogue: 0,1:15:17.02,1:15:20.98,Default,,0,0,0,,I also grew up here, and I also still remember what it was like when I was a child
-Dialogue: 0,1:15:20.98,1:15:23.38,Default,,0,0,0,,Standing on Chang'an Avenue, we could see all the way to the Western Hills
-Dialogue: 0,1:15:23.38,1:15:27.62,Default,,0,0,0,,Having clean air is not an impossible task, it's completely achievable
+Comment: 0,1:12:15.58,1:12:20.46,Default,,0,0,0,,Die aktuelle Stadtplanung dieser Gemeinden ist auf 3,4 Milliarden ausgelegt.
+Dialogue: 0,1:12:21.34,1:12:24.50,Default,,0,0,0,,Ich kam 1998 mit einem kleinen Koffen nach Peking.
+Dialogue: 0,1:12:24.50,1:12:30.50,Default,,0,0,0,,Ich studierte, arbeitete und fand einen Gefühl des Selbstwert und Zugehörigkeit.
+Dialogue: 0,1:12:30.50,1:12:35.66,Default,,0,0,0,,Wenn China nicht verstädtert wäre, wäre ich noch in Shanxi und hätte eine niedere Arbeit, die meine Eltern für mich gefunden hätten.
+Dialogue: 0,1:12:35.66,1:12:38.30,Default,,0,0,0,,Hätte einen blauen Overall getragen und den Abakus bis ans Lebensende benutzt.
+Dialogue: 0,1:12:38.30,1:12:45.22,Default,,0,0,0,,Städte gaben uns persönlichen Freiraum und der Nation 3 Dekaden Wohlstand.
+Dialogue: 0,1:12:45.22,1:12:49.98,Default,,0,0,0,,Wenn 300-400 Millionen Menschen an die Stadt-Toore klopfen, ist urbanisierung unvermeidbar.
+Dialogue: 0,1:12:49.98,1:12:53.38,Default,,0,0,0,,und die einkehren, bringen unvorstellbare Kultur und Reichtum in das Land.
+Dialogue: 0,1:12:53.38,1:12:56.30,Default,,0,0,0,,Aber wenn wir unser aktuelles Modell der Kapitalwirtschaft bzgl Öl-Industrie
+Dialogue: 0,1:12:56.30,1:12:59.90,Default,,0,0,0,,und Stadtentwicklung nicht ändern, was sind die Konsequenzen?
+Dialogue: 0,1:12:59.90,1:13:03.25,Default,,0,0,0,,Das Development Research Center des Stadtrats prognostiziert, dass in 15 Jahren
+Dialogue: 0,1:13:03.25,1:13:07.30,Default,,0,0,0,,Der Kohleverbrauch auf 6 Milliarden Tonnen wächst, während die Anzahl Fahrzeuge auf 400 Millionen wächst.
+Dialogue: 0,1:13:07.30,1:13:08.30,Default,,0,0,0,,Was heisst das also für uns?
+Dialogue: 0,1:13:08.34,1:13:09.94,Default,,0,0,0,,Professor Ni der Tsinghua University sagte mir
+Dialogue: 0,1:13:09.94,1:13:12.46,Default,,0,0,0,,"Das heißt, noch bevor uns die natürlichen Ressourcen ausgehen,
+Dialogue: 0,1:13:12.46,1:13:14.82,Default,,0,0,0,,werden wir Kapazität unserer Umwelt erschöpft haben."
+Dialogue: 0,1:13:14.82,1:13:20.70,Default,,0,0,0,,Das bedeutet, die Luftverschmutzung in China und die Staus haben gerade erst begonnen.
+Dialogue: 0,1:13:22.98,1:13:25.68,Default,,0,0,0,,Nationale Anforderungen legen fest, dass Städte wie
+Dialogue: 0,1:13:25.68,1:13:27.68,Default,,0,0,0,,Peking
+Dialogue: 0,1:13:30.08,1:13:32.56,Default,,0,0,0,,Nanjing, Xi'an and Chengdu,
+Dialogue: 0,1:13:32.69,1:13:39.60,Default,,0,0,0,,14 Städte insg., durch ihre Stadtgrenzen definitiert,
+Dialogue: 0,1:13:40.20,1:13:44.51,Default,,0,0,0,,vom Stadtrat angewiesen sind, Projekte zu stoppen, die nicht mit den Umweltregularien konform sind.
+Comment: 0,1:13:44.70,1:13:49.71,Default,,0,0,0,,angewiesen, administrative Eingriffe in Unternehmen zu verringert
+Comment: 0,1:13:52.71,1:14:01.00,Default,,0,0,0,,angewiesen, Richtlinien, die Firmen bevorzugen, die dem Wettbewerb schaden.
+Dialogue: 0,1:14:03.70,1:14:12.70,Default,,0,0,0,,angewiesen, dass Richtlinien die Ressourcen-Limitierung mit berücksichtigen.
+Dialogue: 0,1:14:15.00,1:14:23.00,Default,,0,0,0,,und die wirtschaftlichen Anreize zu schaffen, diese Limitierung zu überwachen.
+Dialogue: 0,1:14:32.50,1:14:34.62,Default,,0,0,0,,Dieses Foto wurde während dem APEC-Gipfel in Peking gemacht.
+Dialogue: 0,1:14:34.62,1:14:39.50,Default,,0,0,0,,Eines morgens brachte mich mein Mann an einen Platz, den er als Kind oft besuchte.
+Dialogue: 0,1:14:39.50,1:14:44.34,Default,,0,0,0,,Sein Vater brachte ihm dort Schlittschulaufen, Schwimmen und Fischen bei.
+Dialogue: 0,1:14:45.78,1:14:49.62,Default,,0,0,0,,Er sagte, er liebte es, die Textur des Eis im Winter zu betrachten.
+Dialogue: 0,1:14:49.62,1:14:52.74,Default,,0,0,0,,Es erstreckte sich bis zum Eckturm der Verbotenen Stadt.
+Dialogue: 0,1:14:52.74,1:14:57.82,Default,,0,0,0,,Das war seine Erinnerung an diese elegante und antike Stadt.
+Dialogue: 0,1:14:57.82,1:15:02.22,Default,,0,0,0,,Wir schauten diese Szene an wie Kinder eine Süßigkeit.
+Dialogue: 0,1:15:02.22,1:15:04.42,Default,,0,0,0,,Du weisst, wenn Du es nicht isst, schmilzt es.
+Dialogue: 0,1:15:04.42,1:15:06.38,Default,,0,0,0,,Aber man weiß auch, wenn man es ist, ist es weg.
+Dialogue: 0,1:15:06.38,1:15:09.66,Default,,0,0,0,,Jetzt fühlten wir die selbe Süße, Angst und Frustration.
+Dialogue: 0,1:15:10.74,1:15:14.50,Default,,0,0,0,,Ich bin in Peking geboren. Als ich ein Kind war, war der Himmel blau und die Wolken weiß.
+Dialogue: 0,1:15:14.50,1:15:17.02,Default,,0,0,0,,Die Kanäle waren klar, man konnte den Boden sehen, wir konnten Fische mit den Händen fangen.
+Dialogue: 0,1:15:17.02,1:15:20.98,Default,,0,0,0,,Ich bin hier auch groß geworden und ich erinnere mich noch wie es als Kind war.
+Dialogue: 0,1:15:20.98,1:15:23.38,Default,,0,0,0,,Stand man auf der Chang'an Avenue, konnte man bis zu den Westhügeln sehen.
+Dialogue: 0,1:15:23.38,1:15:27.62,Default,,0,0,0,,Sauber Luft ist keine unlösbare Aufgabe, es ist absolut erreichbar.
 Dialogue: 0,1:15:27.62,1:15:29.78,Default,,0,0,0,,It just depends how determined you are
 Dialogue: 0,1:15:29.78,1:15:35.34,Default,,0,0,0,,I hope and believe that with dedication and hard work, we'll be able to keep our "APEC Blue"
 Dialogue: 0,1:15:37.18,1:15:39.26,Default,,0,0,0,,When I got back, I asked the experts at the Chinese Academy of Sciences:

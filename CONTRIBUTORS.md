@@ -29,6 +29,8 @@
 - Matt Sheehan
 - Zhonghao Li
 - Zirui Huang
+- Rüdiger Marwein (german)
+- Inka Knirsch (german)
 
 ## Proofreaders
 

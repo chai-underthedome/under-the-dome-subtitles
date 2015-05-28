@@ -11,14 +11,14 @@ PlayResY: 360
 
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
-Audio File: ../../Downloads/Chai Jings review Under the Dome  Investigating Chinas Smog - Standard Quality 360p [File2HD.com].mp4
-Video File: ../../Downloads/Chai Jings review Under the Dome  Investigating Chinas Smog - Standard Quality 360p [File2HD.com].mp4
+Audio File: Chai Jings review Under the Dome  Investigating Chinas Smog - Standard Quality 360p [File2HD.com].mp4
+Video File: Chai Jings review Under the Dome  Investigating Chinas Smog - Standard Quality 360p [File2HD.com].mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 1829
-Active Line: 1846
-Video Position: 113085
+Scroll Position: 1913
+Active Line: 1925
+Video Position: 119939
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1769,7 +1769,7 @@ Dialogue: 0,1:08:05.74,1:08:09.58,Default,,0,0,0,,Sie sagte, "Ich kann mich jetz
 Dialogue: 0,1:08:11.14,1:08:13.08,Default,,0,0,0,,Als ich sie vor 2 Tagen anrief, sagte sie zum Glück,
 Dialogue: 0,1:08:13.08,1:08:16.14,Default,,0,0,0,,dass der Besitzer des Werkes von der Regierung abgezogen wurde.
 Dialogue: 0,1:08:17.98,1:08:21.22,Default,,0,0,0,,Aber diese Industrien, die bereits als ernst überproduzierend betrachtet werden
-Dialogue: 0,1:08:21.22,1:08:23.86,Default,,0,0,0,,sind in der Hälfte der Provinzen Chinas als "Schlüsselindustrien" 
+Dialogue: 0,1:08:21.22,1:08:23.86,Default,,0,0,0,,sind in der Hälfte der Provinzen Chinas als "Schlüsselindustrien"
 Dialogue: 0,1:08:23.86,1:08:26.38,Default,,0,0,0,,im 12. Fünf-Jahres-Plan der Wirtschaftsentwicklung gelistet.
 Dialogue: 0,1:08:26.38,1:08:28.38,Default,,0,0,0,,Der Grund dahinter ist einfach.
 Dialogue: 0,1:08:28.38,1:08:30.49,Default,,0,0,0,,Wenn wir verstädtern und die uns weiter entwickeln, müssen wir nur
@@ -1783,7 +1783,7 @@ Dialogue: 0,1:08:44.34,1:08:46.82,Default,,0,0,0,,Die Situation ist schlimmer al
 Dialogue: 0,1:08:46.82,1:08:49.66,Default,,0,0,0,,Ich habe das nicht wirklich geglaubt, weil ich in den letzten 30 Jahren
 Dialogue: 0,1:08:49.66,1:08:53.22,Default,,0,0,0,,das Gefühl hatte, die sozialen Veränderungen normaler Familien wie meiner und der gehobene Lebensstandard
 Dialogue: 0,1:08:53.22,1:08:55.02,Default,,0,0,0,,sind Errungenschaften der Urbanisierung.
-Dialogue: 0,1:08:55.94,1:09:00.06,Default,,0,0,0,,Das traditionelle Haus, in dem ich mit meiner Schwester aufwuchs, 
+Dialogue: 0,1:08:55.94,1:09:00.06,Default,,0,0,0,,Das traditionelle Haus, in dem ich mit meiner Schwester aufwuchs,
 Dialogue: 0,1:09:00.06,1:09:03.10,Default,,0,0,0,,hat 300 Jahre Geschichte und beherbergte ein Dutzend Familien.
 Dialogue: 0,1:09:03.10,1:09:06.78,Default,,0,0,0,,Später verbesserten sich unsere Bedingungen als wir in Wohnungen der Firma meiner Mutter zogen.
 Dialogue: 0,1:09:06.78,1:09:10.86,Default,,0,0,0,,Die Unterkunft hatte 12m² und beherbergte uns 5 Personen.
@@ -1813,7 +1813,7 @@ Dialogue: 0,1:11:05.00,1:11:07.10,Default,,0,0,0,,wie viel Wohnungen dort denn v
 Dialogue: 0,1:11:07.10,1:11:08.66,Default,,0,0,0,,Er sagte, nur 20-30% wurden verkauft.
 Dialogue: 0,1:11:08.66,1:11:10.14,Default,,0,0,0,,Ich fragte, "Wie kommt es zu so wenig Verkäufen?"
 Dialogue: 0,1:11:10.14,1:11:11.66,Default,,0,0,0,,Er zögerte und sagte:
-Dialogue: 0,1:11:11.66,1:11:13.76,Default,,0,0,0,,"Seit Regierungsangehörige ihren echten Namen beim Immobilienkauf 
+Dialogue: 0,1:11:11.66,1:11:13.76,Default,,0,0,0,,"Seit Regierungsangehörige ihren echten Namen beim Immobilienkauf
 Dialogue: 0,1:11:13.76,1:11:15.50,Default,,0,0,0,,angeben müssen, haben sie sich nicht so gut verkauft."
 Dialogue: 0,1:11:15.50,1:11:21.18,Default,,0,0,0,,(Mein Verwandter) hat ein lokales Hotel für uns gebucht und ich war schockiert, als ich am Eingangstor ankam
 Dialogue: 0,1:11:21.18,1:11:27.38,Default,,0,0,0,,denn es besagte ein "5-Sterne-Hotel" zu sein und ich war in die "Präsidenten-Suite" gebucht.
@@ -1873,85 +1873,85 @@ Dialogue: 0,1:15:14.50,1:15:17.02,Default,,0,0,0,,Die Kanäle waren klar, man ko
 Dialogue: 0,1:15:17.02,1:15:20.98,Default,,0,0,0,,Ich bin hier auch groß geworden und ich erinnere mich noch wie es als Kind war.
 Dialogue: 0,1:15:20.98,1:15:23.38,Default,,0,0,0,,Stand man auf der Chang'an Avenue, konnte man bis zu den Westhügeln sehen.
 Dialogue: 0,1:15:23.38,1:15:27.62,Default,,0,0,0,,Sauber Luft ist keine unlösbare Aufgabe, es ist absolut erreichbar.
-Dialogue: 0,1:15:27.62,1:15:29.78,Default,,0,0,0,,It just depends how determined you are
-Dialogue: 0,1:15:29.78,1:15:35.34,Default,,0,0,0,,I hope and believe that with dedication and hard work, we'll be able to keep our "APEC Blue"
-Dialogue: 0,1:15:37.18,1:15:39.26,Default,,0,0,0,,When I got back, I asked the experts at the Chinese Academy of Sciences:
-Dialogue: 0,1:15:39.26,1:15:43.38,Default,,0,0,0,,"Can you tell me, what would it take if we want to keep our APEC Blue?"
-Dialogue: 0,1:15:44.22,1:15:48.38,Default,,0,0,0,,He said, we must cut emissions of sulfur dioxide by this much against 2013 levels
-Dialogue: 0,1:15:48.38,1:15:49.78,Default,,0,0,0,,nitrogen oxide by this much
-Dialogue: 0,1:15:49.78,1:15:51.26,Default,,0,0,0,,and PM2.5 by this much
-Dialogue: 0,1:15:51.26,1:15:56.02,Default,,0,0,0,,In short, we would have to cut our pollutants by more than half in exchange for that blue sky
-Dialogue: 0,1:15:57.23,1:15:59.70,Default,,0,0,0,,During the APEC Summit, China and the US issued a joint statement
-Dialogue: 0,1:15:59.92,1:16:02.37,Default,,0,0,0,,China pledged that its carbon emissions will peak around 2030
-Dialogue: 0,1:16:02.37,1:16:05.05,Default,,0,0,0,,and non-fossil energy sources will make up 20% of its energy infrastructure
-Dialogue: 0,1:16:05.05,1:16:07.92,Default,,0,0,0,,Coal dominates China's energy infrastructure, and is a source of both carbon emissions and smog
+Dialogue: 0,1:15:27.62,1:15:29.78,Default,,0,0,0,,Es hängt nur davon ab, wie entschlossen man ist
+Dialogue: 0,1:15:29.78,1:15:35.34,Default,,0,0,0,,Ich hoffe und glaube, dass wir es mit Einsatz und harter Arbeit schaffen unser "APEC Blue" zu erhalten.
+Dialogue: 0,1:15:37.18,1:15:39.26,Default,,0,0,0,,Als ich zurück kam, fragte ich die Experten der Chinesischen Akadamie der Wissenschaft:
+Dialogue: 0,1:15:39.26,1:15:43.38,Default,,0,0,0,,"Könnt Ihr mir sagen, was es kostet, unser APEC Blue zu erhalten?"
+Dialogue: 0,1:15:44.22,1:15:48.38,Default,,0,0,0,,Er sagte, wie müssen Schwefeldioxid-Emmissionen im Vergleich zu 2012 um so viel reduzieren.
+Dialogue: 0,1:15:48.38,1:15:49.78,Default,,0,0,0,,Stickoxide um so viel.
+Dialogue: 0,1:15:49.78,1:15:51.26,Default,,0,0,0,,und PM2.5 um so viel.
+Dialogue: 0,1:15:51.26,1:15:56.02,Default,,0,0,0,,Kurz, wir müssten unsere Schadstoffe mehr als halbieren im Tausch für diesen blauen Himmel.
+Dialogue: 0,1:15:57.23,1:15:59.70,Default,,0,0,0,,Während des APEC Summit gaben China und die USA eine gemeinsame Erklärung ab.
+Dialogue: 0,1:15:59.92,1:16:02.37,Default,,0,0,0,,China sagte zu, dass seine Kohlenstoffemissionen 2030 ihren Höhepunkt erreichen
+Dialogue: 0,1:16:02.37,1:16:05.05,Default,,0,0,0,,und nicht-fossile Energiequellen 20% der Energie Infrastruktur ausmachen.
+Dialogue: 0,1:16:05.05,1:16:07.92,Default,,0,0,0,,Kohle dominiert Chinas Energie-Infrastruktur und ist Quelle von Kohlenstoffemmission und Smog.
 Dialogue: 0,1:16:07.92,1:16:09.46,Default,,0,0,0,,Reducing coal use addresses both problems
-Dialogue: 0,1:16:09.46,1:16:11.66,Default,,0,0,0,,Xie Zhenhua, Vice-Chairman, National Development and Reform Commission
-Dialogue: 0,1:16:11.66,1:16:16.10,Default,,0,0,0,,When I set the goal for 2030, I specified that should be our peak. It's actually creating an incentive
-Dialogue: 0,1:16:16.10,1:16:18.50,Default,,0,0,0,,So we will start moving on the green, low-carbon path
-Dialogue: 0,1:16:18.50,1:16:22.50,Default,,0,0,0,,People may ask, to protect the environment, do we really have to sacrifice economic development?
-Dialogue: 0,1:16:22.50,1:16:23.78,Default,,0,0,0,,That's a debt you have to settle
-Dialogue: 0,1:16:23.78,1:16:26.54,Default,,0,0,0,,If you've acted wrongly before, you have to make up for it now
-Dialogue: 0,1:16:26.54,1:16:30.06,Default,,0,0,0,,The real problem now becomes, how do we increase the employment rate and the average income?
-Dialogue: 0,1:16:30.06,1:16:30.98,Default,,0,0,0,,Through transformation
-Dialogue: 0,1:16:30.98,1:16:35.10,Default,,0,0,0,,What if during this transformation, some workers in some industries lose their jobs?
-Dialogue: 0,1:16:35.18,1:16:40.54,Default,,0,0,0,,Right now, China's energy-saving and environmental protection industries generate over
-Dialogue: 0,1:16:40.54,1:16:44.10,Default,,0,0,0,,3.7 trillion RMB ($590 billion) a year, and employ around 39 million people
-Dialogue: 0,1:16:44.10,1:16:45.50,Default,,0,0,0,,Don't forget, this is an industry too
-Dialogue: 0,1:16:45.50,1:16:51.06,Default,,0,0,0,,But many people may wonder, will the Chinese government keep investing in economic growth?
-Dialogue: 0,1:16:51.06,1:16:54.18,Default,,0,0,0,,If we want to maintain the rate of economic growth, the way to do it
-Dialogue: 0,1:16:54.18,1:16:57.22,Default,,0,0,0,,is precisely through green, low-carbon, recycling-focused programs
-Dialogue: 0,1:16:57.22,1:16:59.86,Default,,0,0,0,,Consider the Great Smog of 1952 in London or the smog crisis in Los Angeles
-Dialogue: 0,1:16:59.86,1:17:02.02,Default,,0,0,0,,It took them six to seven decades to solve their problems
-Dialogue: 0,1:17:02.02,1:17:03.30,Default,,0,0,0,,We can learn from their experience
-Dialogue: 0,1:17:03.30,1:17:06.70,Default,,0,0,0,,We will get through this stage much more quickly than they did
-Dialogue: 0,1:17:08.10,1:17:10.38,Default,,0,0,0,,Before, I was worried that Beijing is still expanding
-Dialogue: 0,1:17:10.38,1:17:12.58,Default,,0,0,0,,The number of cars is still increasing
-Dialogue: 0,1:17:12.58,1:17:14.14,Default,,0,0,0,,Can pollution there really be reduced?
-Dialogue: 0,1:17:14.14,1:17:16.38,Default,,0,0,0,,But this is Los Angeles
-Dialogue: 0,1:17:16.38,1:17:18.10,Default,,0,0,0,,A place very similar to Beijing
-Dialogue: 0,1:17:18.10,1:17:20.78,Default,,0,0,0,,It also has mountains on three sides, so it's hard for polluted air to disperse
-Dialogue: 0,1:17:20.78,1:17:25.22,Default,,0,0,0,,That's why LA has also experienced large-scale photochemical smog
-Dialogue: 0,1:17:25.22,1:17:26.90,Default,,0,0,0,,You can look at 1950
-Dialogue: 0,1:17:26.90,1:17:32.42,Default,,0,0,0,,These cans were sold in shops in Hollywood, containing Los Angeles air
-Dialogue: 0,1:17:32.42,1:17:36.10,Default,,0,0,0,,The can has a slogan on it: "Buy one for somebody you hate!"
-Dialogue: 0,1:17:36.10,1:17:39.58,Default,,0,0,0,,You can imagine the feelings and resentment of those who lived in LA at the time
-Dialogue: 0,1:17:39.58,1:17:43.66,Default,,0,0,0,,However, the number of cars in LA has been increasing since 1970
-Dialogue: 0,1:17:43.66,1:17:45.82,Default,,0,0,0,,It has actually tripled
-Dialogue: 0,1:17:45.82,1:17:48.38,Default,,0,0,0,,But what about emissions?
-Dialogue: 0,1:17:48.38,1:17:50.54,Default,,0,0,0,,They have decreased by 75%
-Dialogue: 0,1:17:50.54,1:17:52.14,Default,,0,0,0,,How did they do it?
-Dialogue: 0,1:17:52.14,1:17:54.30,Default,,0,0,0,,I went to LA to find out
-Dialogue: 0,1:17:59.26,1:18:01.90,Default,,0,0,0,,We are now in the air over Santa Monica
-Dialogue: 0,1:18:02.30,1:18:04.66,Default,,0,0,0,,You can see a layer of haze over there
-Dialogue: 0,1:18:04.66,1:18:05.86,Default,,0,0,0,,That's the smog
-Dialogue: 0,1:18:06.18,1:18:12.66,Default,,0,0,0,,We've often seen these tall buildings in Hollywood movies, but Los Angeles isn't really a skyscraper city
-Dialogue: 0,1:18:12.66,1:18:16.46,Default,,0,0,0,,All around those skyscrapers is a flat expanse of one- and two-story buildings
-Dialogue: 0,1:18:16.46,1:18:24.46,Default,,0,0,0,,This low-density urban development means you have to drive to get around in LA
-Dialogue: 0,1:18:26.06,1:18:29.90,Default,,0,0,0,,Los Angeles' sprawl is considered a classic case of failed urban planning
-Dialogue: 0,1:18:29.90,1:18:32.98,Default,,0,0,0,,Its public transportation has not been developed or utilized to its fullest potential
-Dialogue: 0,1:18:32.98,1:18:35.02,Default,,0,0,0,,This has caused an inevitable increase in car ownership
-Dialogue: 0,1:18:35.70,1:18:40.38,Default,,0,0,0,,In a city of 1.7 million people, there are about 1.3 million cars - that's almost one car per person
-Dialogue: 0,1:18:40.38,1:18:44.90,Default,,0,0,0,,850 million trips are made every day in the whole of California
-Dialogue: 0,1:18:44.90,1:18:48.46,Default,,0,0,0,,If you add up all the fuel, it's enough to travel to the moon and back 1,600 times
-Dialogue: 0,1:18:51.00,1:18:52.38,Default,,0,0,0,,California Air Resources Board
-Dialogue: 0,1:18:52.38,1:18:56.34,Default,,0,0,0,,Inspection and enforcement vehicle near an industrial zone in Irvine, CA, July 7, 2014
-Dialogue: 0,1:18:56.54,1:18:59.60,Default,,0,0,0,,Over there is a beer brewery, and over there are huge warehouses
-Dialogue: 0,1:18:59.60,1:19:01.90,Default,,0,0,0,,This truck just came from the port of Long Beach
-Dialogue: 0,1:19:01.90,1:19:04.14,Default,,0,0,0,,Take a look at this big Optimus Prime-looking guy
-Dialogue: 0,1:19:04.14,1:19:10.82,Default,,0,0,0,,18 wheels and over 20 meters long, it's built like a tank or some armored vehicle
-Dialogue: 0,1:19:12.64,1:19:14.95,Default,,0,0,0,,California has 1,061,745 diesel vehicles
-Dialogue: 0,1:19:14.95,1:19:17.20,Default,,0,0,0,,Each vehicle consumes an average of 35.2 litres of fuel each day
-Dialogue: 0,1:19:24.78,1:19:31.22,Default,,0,0,0,,CARB estimates that 71% of the carcinogens in Southern California's atmosphere come from diesel vehicles
-Dialogue: 0,1:19:31.22,1:19:34.06,Default,,0,0,0,,So all diesel vehicles are required to install a diesel particulate filter (DPF)
-Dialogue: 0,1:19:34.06,1:19:37.14,Default,,0,0,0,,This is a special type of filter, it's like putting a dust mask on your truck
-Dialogue: 0,1:19:37.14,1:19:39.58,Default,,0,0,0,,It can filter out 99% of particles
-Dialogue: 0,1:19:41.94,1:19:45.18,Default,,0,0,0,,This driver is from Mexico, he drives an old 2005 model truck
-Dialogue: 0,1:19:45.18,1:19:48.26,Default,,0,0,0,,The law says he must install a DPF, but he hasn't done it
-Dialogue: 0,1:19:48.26,1:19:52.10,Default,,0,0,0,,Although his truck's emission level is within compliance, he will be still be fined $1,000
-Dialogue: 0,1:19:53.14,1:19:55.66,Default,,0,0,0,,Why didn't you install the DPF?
-Dialogue: 0,1:19:55.66,1:19:57.54,Default,,0,0,0,,Not much money
-Dialogue: 0,1:19:57.54,1:19:59.06,Default,,0,0,0,,He was waiting till the last minute
+Dialogue: 0,1:16:09.46,1:16:11.66,Default,,0,0,0,,Xie Zhenhua, Vize-Vorsitzender der "Nationalen Entwicklungs- und Reform-Kommission"
+Dialogue: 0,1:16:11.66,1:16:16.10,Default,,0,0,0,,Als ich das Ziel für 2030 setzte, spezifizierte ich das als Höhepunk. Das erzeugt eigentlich einen Anreiz.
+Dialogue: 0,1:16:16.10,1:16:18.50,Default,,0,0,0,,Wir beginnen also uns auf dem grünen Pfad mit weniger Kohle zu bewegen.
+Dialogue: 0,1:16:18.50,1:16:22.50,Default,,0,0,0,,Die Leute könnten fragen, ob wir wirklich die wirtschaftliche Entwicklung opfern müssen, um die Umwelt zu schützen?
+Dialogue: 0,1:16:22.50,1:16:23.78,Default,,0,0,0,,Das sind Schulden, die man begleichen muss.
+Dialogue: 0,1:16:23.78,1:16:26.54,Default,,0,0,0,,Wenn man sich zuvor falsch verhalten hat, muss man es wieder gut machen.
+Dialogue: 0,1:16:26.54,1:16:30.06,Default,,0,0,0,,Das echte Problem wird nun, wie man die Beschäftungsrate und das Durchschnittseinkommen erhöht?
+Dialogue: 0,1:16:30.06,1:16:30.98,Default,,0,0,0,,Durch Transformation.
+Dialogue: 0,1:16:30.98,1:16:35.10,Default,,0,0,0,,Was wenn während dieser Transformation, einige Arbeiter dieser Industrien ihre Arbeit verlieren?
+Dialogue: 0,1:16:35.18,1:16:40.54,Default,,0,0,0,,Momentan erzeugen Chinas Energiespar- und Umweltschutz-Industrien
+Dialogue: 0,1:16:40.54,1:16:44.10,Default,,0,0,0,,3.7 Billion RMB ($590 Milliarden) pro Jahr und beschäftigen ca. 39 millionen Menschen.
+Dialogue: 0,1:16:44.10,1:16:45.50,Default,,0,0,0,,Vergessen Sie nicht, das ist auch eine Industrie.
+Dialogue: 0,1:16:45.50,1:16:51.06,Default,,0,0,0,,Aber viele Leute werden sich wundern, ob Chinas Regierung weiter in das Wirtschaftswachstum investiert?
+Dialogue: 0,1:16:51.06,1:16:54.18,Default,,0,0,0,,Um dieses Wirtschaftswachstum zu erhalten, geht der Weg
+Dialogue: 0,1:16:54.18,1:16:57.22,Default,,0,0,0,,genau über grüne, kohlearme, recycling-fokussierte Programme
+Dialogue: 0,1:16:57.22,1:16:59.86,Default,,0,0,0,,Denken Sie mal an den großen londoner Smog von 1952 oder die Smog-Krise in Los Angeles.
+Dialogue: 0,1:16:59.86,1:17:02.02,Default,,0,0,0,,Es dauerte 6 oder 7 Jahrzehnte um ihr problem zu lösen.
+Dialogue: 0,1:17:02.02,1:17:03.30,Default,,0,0,0,,Wir können von ihrer Erfahrung lernen.
+Dialogue: 0,1:17:03.30,1:17:06.70,Default,,0,0,0,,Wir werden durch diese Phase viel schneller kommen, als sie es taten.
+Dialogue: 0,1:17:08.10,1:17:10.38,Default,,0,0,0,,Vorher war ich um das Wachsum von Peking besorgt.
+Dialogue: 0,1:17:10.38,1:17:12.58,Default,,0,0,0,,Die Anzahl Autos nimmt immernoch zu.
+Dialogue: 0,1:17:12.58,1:17:14.14,Default,,0,0,0,,Kann die Verschmutzung hier wirklich gesenkt werden?
+Dialogue: 0,1:17:14.14,1:17:16.38,Default,,0,0,0,,Aber das ist Los Angeles.
+Dialogue: 0,1:17:16.38,1:17:18.10,Default,,0,0,0,,Ein Peking sehr ähnlicher Ort.
+Dialogue: 0,1:17:18.10,1:17:20.78,Default,,0,0,0,,Es hat auch Berge auf 3 Seiten, also kann verschmutzte Luft sch schwer zerstreuen.
+Dialogue: 0,1:17:20.78,1:17:25.22,Default,,0,0,0,,Darum hatte ebenfalls also schweren photochemischen Smog.
+Dialogue: 0,1:17:25.22,1:17:26.90,Default,,0,0,0,,Sie können sich 1950 ansehen
+Dialogue: 0,1:17:26.90,1:17:32.42,Default,,0,0,0,,Diese Dosen wurde in Läden in Hollywood verkauft. Sie enthielten die Luft von Los Angeles.
+Dialogue: 0,1:17:32.42,1:17:36.10,Default,,0,0,0,,Sie trägt den Slogan: "Kauf es für jemand, den Du hasst!"
+Dialogue: 0,1:17:36.10,1:17:39.58,Default,,0,0,0,,Man kann sich die Gefühle und den Groll vorstellen, die die LA'er zu dieser Zeit hatten.
+Dialogue: 0,1:17:39.58,1:17:43.66,Default,,0,0,0,,Jedoch hat die Anzahl der Autos in LA seit den 70ern zugenommen.
+Dialogue: 0,1:17:43.66,1:17:45.82,Default,,0,0,0,,Es hat sich tatsächlich verdreifacht.
+Dialogue: 0,1:17:45.82,1:17:48.38,Default,,0,0,0,,Aber die Emissionen?
+Dialogue: 0,1:17:48.38,1:17:50.54,Default,,0,0,0,,Sie sind um 75% zurückgegangen.
+Dialogue: 0,1:17:50.54,1:17:52.14,Default,,0,0,0,,Wie haben sie das gemacht?
+Dialogue: 0,1:17:52.14,1:17:54.30,Default,,0,0,0,,Ich ging nach LA um das herauszufinden.
+Dialogue: 0,1:17:59.26,1:18:01.90,Default,,0,0,0,,Wir sind hier in der Luft über Santa Monica.
+Dialogue: 0,1:18:02.30,1:18:04.66,Default,,0,0,0,,Man kann die Dunst-Schicht da drüben sehen.
+Dialogue: 0,1:18:04.66,1:18:05.86,Default,,0,0,0,,Das ist der Smog.
+Dialogue: 0,1:18:06.18,1:18:12.66,Default,,0,0,0,,Wir haben diese großen Gebäude oft in Hollywood Filmen gesehen, aber Los Angeles ist keine Hochhaus-Stadt.
+Dialogue: 0,1:18:12.66,1:18:16.46,Default,,0,0,0,,Run um diese Hochhäuser erstrecken sich ein- und zweistöckige Gebäude.
+Dialogue: 0,1:18:16.46,1:18:24.46,Default,,0,0,0,,Diese geringe Dichte bedeutet, man muss fahren um sich in LA zu bewegen.
+Dialogue: 0,1:18:26.06,1:18:29.90,Default,,0,0,0,,Los Angeles' Ausbreitung wird als klassischer Fall falscher Stadtplanung betrachtet.
+Dialogue: 0,1:18:29.90,1:18:32.98,Default,,0,0,0,,Seine öffentlichen Verkehrsmittel wurden nicht zum vollen Potential ausgeweitet.
+Dialogue: 0,1:18:32.98,1:18:35.02,Default,,0,0,0,,Das verursachte die unvermeidliche Steigerung der Autobesitzer.
+Dialogue: 0,1:18:35.70,1:18:40.38,Default,,0,0,0,,In einer Stadt mit 1,7 Millionen Menschen gibt es etwa 1,3 Millionen Autos - das ist fast ein Auto pro Person.
+Dialogue: 0,1:18:40.38,1:18:44.90,Default,,0,0,0,,850 Millionen Fahrten werden in Kalifornien jeden Tag gemacht.
+Dialogue: 0,1:18:44.90,1:18:48.46,Default,,0,0,0,,Addiert man das ganze Benzin, ist es genug um 1.600 mal zum Mond und zurück zu fliegen.
+Dialogue: 0,1:18:51.00,1:18:52.38,Default,,0,0,0,,Kalifornischen Umweltbehörde
+Dialogue: 0,1:18:52.38,1:18:56.34,Default,,0,0,0,,Fahrzeuginspektion nah der Industriezone in Irvine, Kalifornien, 7. Juli 2014
+Dialogue: 0,1:18:56.54,1:18:59.60,Default,,0,0,0,,Da drüben ist eine Bierbrauerei und dort ein großes Warenhaus.
+Dialogue: 0,1:18:59.60,1:19:01.90,Default,,0,0,0,,Dieser Truck kommt gerade vom Long Beach Hafen.
+Dialogue: 0,1:19:01.90,1:19:04.14,Default,,0,0,0,,Schaut Euch dieses große Optimus Prime-mäßige Ding an
+Dialogue: 0,1:19:04.14,1:19:10.82,Default,,0,0,0,,18 Räder und mehr als 20 Meter lang, gebaut wie ein Panzerfahrzeug.
+Dialogue: 0,1:19:12.64,1:19:14.95,Default,,0,0,0,,Kalifornien hat 1.061.745 Diesel-Fahrzeuge.
+Dialogue: 0,1:19:14.95,1:19:17.20,Default,,0,0,0,,Jedes Fahrzeug verbraucht durchschnittlich 35,2 Liter Diesel pro Tag.
+Dialogue: 0,1:19:24.78,1:19:31.22,Default,,0,0,0,,CARB schätzt, dass 71% der Kohlenstoffe in Süd-Kaliforniens Atmosphäre von Diesel-Fahrzeugen stammen.
+Dialogue: 0,1:19:31.22,1:19:34.06,Default,,0,0,0,,Darum müssen alle Diesel-Fahrzeuge einen Diesel-Partikelfilter (DPF) installiert haben.
+Dialogue: 0,1:19:34.06,1:19:37.14,Default,,0,0,0,,Das ist ein spezieller Filter, als würde der Truck eine Atemschutzmaske bekommen.
+Dialogue: 0,1:19:37.14,1:19:39.58,Default,,0,0,0,,Er kann 99% der Partikel filtern.
+Dialogue: 0,1:19:41.94,1:19:45.18,Default,,0,0,0,,Dieser Fahrer ist von Mexico. Er fährt ein altes 2005er Modell.
+Dialogue: 0,1:19:45.18,1:19:48.26,Default,,0,0,0,,Das Gestzt sagt, er muss einen DPF installieren, aber er tat es nicht.
+Dialogue: 0,1:19:48.26,1:19:52.10,Default,,0,0,0,,Obwohl seine Emmissionswerte unter der Grenze liegen, wird er mit $1.000 Strafe belegt.
+Dialogue: 0,1:19:53.14,1:19:55.66,Default,,0,0,0,,Warum haben Sie den DPF nicht eingebaut?
+Dialogue: 0,1:19:55.66,1:19:57.54,Default,,0,0,0,,Nicht genug Geld.
+Dialogue: 0,1:19:57.54,1:19:59.06,Default,,0,0,0,,Er wartete bis zur letzten Minute.
 Dialogue: 0,1:19:59.06,1:20:02.18,Default,,0,0,0,,Er verdient etwa $4,000 pro Monat
 Dialogue: 0,1:20:02.18,1:20:03.18,Default,,0,0,0,,Nun muß er $1,000 Strafe zahlen
 Dialogue: 0,1:20:03.18,1:20:04.50,Default,,0,0,0,,Das ist ein ziemlich hoher Preis
@@ -2211,12 +2211,12 @@ Dialogue: 0,1:29:58.98,1:30:00.50,Default,,0,0,0,,wichtig für die nationale Sic
 Dialogue: 0,1:30:00.50,1:30:03.38,Default,,0,0,0,,und die wirtschaftliche Sicherheit angesehen, daher wurde es nicht wie eine Ware behandelt.
 Dialogue: 0,1:30:03.38,1:30:04.26,Default,,0,0,0,,Es war nicht möglich, es tatsächlichen Marktkräften auszusetzen.
 Dialogue: 0,1:30:04.26,1:30:07.78,Default,,0,0,0,,Es war nicht möglich, es tatsächlichen Marktkräften auszusetzen.
-Dialogue: 0,1:30:07.78,1:30:11.90,Default,,0,0,0,,Aber auch die Hülle selbst zahlt einen Preis. 
+Dialogue: 0,1:30:07.78,1:30:11.90,Default,,0,0,0,,Aber auch die Hülle selbst zahlt einen Preis.
 Dialogue: 0,1:30:11.90,1:30:15.02,Default,,0,0,0,,Dieses Diagramm zeigt ein Netzwerk der Korruption
 Dialogue: 0,1:30:15.02,1:30:18.34,Default,,0,0,0,,in der Energiebranche in den letzten zwei Jahren.
 Dialogue: 0,1:30:18.34,1:30:20.46,Default,,0,0,0,,Energie ist eine Branche mit hoher Korruption.
 Dialogue: 0,1:30:20.46,1:30:22.58,Default,,0,0,0,,Der ehemalige Direktor der Nationalen Energiebehörde, Liu Tienan
-Dialogue: 0,1:30:22.58,1:30:24.82,Default,,0,0,0,,sagte bei seiner Anhörung vor Gericht, 
+Dialogue: 0,1:30:22.58,1:30:24.82,Default,,0,0,0,,sagte bei seiner Anhörung vor Gericht,
 Dialogue: 0,1:30:24.82,1:30:26.98,Default,,0,0,0,,um hohe Korruptionsraten zu verringern,
 Dialogue: 0,1:30:26.98,1:30:30.06,Default,,0,0,0,,sollten die Rechte, die ursprünglich dem Markt gehörten,
 Dialogue: 0,1:30:30.06,1:30:31.70,Default,,0,0,0,,dem Markt zurückgegeben werden.
@@ -2224,17 +2224,17 @@ Dialogue: 0,1:30:31.70,1:30:34.22,Default,,0,0,0,,Deshalb erklärte im Juni 2014
 Dialogue: 0,1:30:34.22,1:30:36.38,Default,,0,0,0,,Chinas staatliche Strategie zur Energieversorgungssicherung
 Dialogue: 0,1:30:36.38,1:30:37.90,Default,,0,0,0,,dass Energie
 Dialogue: 0,1:30:37.90,1:30:39.90,Default,,0,0,0,,ein Verbrauchsgut sei.
-Dialogue: 0,1:30:39.90,1:30:41.42,Default,,0,0,0,,Wir müssen eine effektive Marktstruktur 
+Dialogue: 0,1:30:39.90,1:30:41.42,Default,,0,0,0,,Wir müssen eine effektive Marktstruktur
 Dialogue: 0,1:30:41.42,1:30:42.74,Default,,0,0,0,,und ein effektives Marktsystem aufbauen,
 Dialogue: 0,1:30:42.74,1:30:44.38,Default,,0,0,0,,und wir müssen die Überwachungsmethode ändern, die die Regierung für die Energie einsetzt.
 Dialogue: 0,1:30:44.38,1:30:45.86,Default,,0,0,0,,und wir müssen die Überwachungsmethode ändern, die die Regierung für die Energie einsetzt.
-Dialogue: 0,1:30:45.94,1:30:48.30,Default,,0,0,0,,Aber solange wir darauf warten, dass das Land 
+Dialogue: 0,1:30:45.94,1:30:48.30,Default,,0,0,0,,Aber solange wir darauf warten, dass das Land
 Dialogue: 0,1:30:48.30,1:30:48.98,Default,,0,0,0,,ein solides Energiesystem
 Dialogue: 0,1:30:48.98,1:30:51.18,Default,,0,0,0,,aufbaut und verbessert,
-Dialogue: 0,1:30:51.18,1:30:52.86,Default,,0,0,0,,was können wir tun? 
-Dialogue: 0,1:30:52.86,1:30:54.90,Default,,0,0,0,,Selbst die mächtigste Regierung der Welt 
-Dialogue: 0,1:30:54.90,1:30:57.18,Default,,0,0,0,,kann Umweltverschmutzung nicht allein kontrollieren. 
-Dialogue: 0,1:30:57.18,1:30:58.50,Default,,0,0,0,,Sie muss sich auf 
+Dialogue: 0,1:30:51.18,1:30:52.86,Default,,0,0,0,,was können wir tun?
+Dialogue: 0,1:30:52.86,1:30:54.90,Default,,0,0,0,,Selbst die mächtigste Regierung der Welt
+Dialogue: 0,1:30:54.90,1:30:57.18,Default,,0,0,0,,kann Umweltverschmutzung nicht allein kontrollieren.
+Dialogue: 0,1:30:57.18,1:30:58.50,Default,,0,0,0,,Sie muss sich auf
 Dialogue: 0,1:30:58.50,1:31:00.70,Default,,0,0,0,,normale Menschen wie du und ich verlassen,
 Dialogue: 0,1:31:00.70,1:31:02.06,Default,,0,0,0,,unsere Entscheidungen
 Dialogue: 0,1:31:02.06,1:31:05.02,Default,,0,0,0,,und unsere Entschlossenheit.
@@ -2242,239 +2242,238 @@ Dialogue: 0,1:31:05.02,1:31:07.82,Default,,0,0,0,,Als ich 2003 über SARS berich
 Dialogue: 0,1:31:07.82,1:31:10.06,Default,,0,0,0,,war das Wichtigste, was ich lernte,
 Dialogue: 0,1:31:10.06,1:31:12.10,Default,,0,0,0,,dass es nur durch Informationspreisgabe
 Dialogue: 0,1:31:12.10,1:31:15.30,Default,,0,0,0,,eine Grundlage für Öffentlichkeitsbeteiligung geben kann,
-Dialogue: 0,1:31:17.50,1:31:18.70,Default,,0,0,0,,zugleich müssen 
+Dialogue: 0,1:31:17.50,1:31:18.70,Default,,0,0,0,,zugleich müssen
 Dialogue: 0,1:31:18.70,1:31:20.46,Default,,0,0,0,,Luftqualitätsvorhersagen getroffen werden.
-Dialogue: 0,1:31:20.46,1:31:21.70,Default,,0,0,0,,Die Regierung hat außerdem 
-Dialogue: 0,1:31:21.70,1:31:23.78,Default,,0,0,0,,das größte 
+Dialogue: 0,1:31:20.46,1:31:21.70,Default,,0,0,0,,Die Regierung hat außerdem
+Dialogue: 0,1:31:21.70,1:31:23.78,Default,,0,0,0,,das größte
 Dialogue: 0,1:31:23.78,1:31:24.74,Default,,0,0,0,,Online-Überwachungsnetzwerk der Welt aufgebaut,
 Dialogue: 0,1:31:24.74,1:31:26.02,Default,,0,0,0,,um umweltverschmutzende Unternehmen zu überwachen.
 Dialogue: 0,1:31:26.02,1:31:28.46,Default,,0,0,0,,Was wir tun müssen, ist, diese Daten auch anzuwenden
 Dialogue: 0,1:31:28.46,1:31:29.74,Default,,0,0,0,,und nicht das Geld zu verschwenden, das dafür ausgegeben wurde.
 Dialogue: 0,1:31:29.74,1:31:31.50,Default,,0,0,0,,Lassen Sie alle die Daten sehen.
 Dialogue: 0,1:31:31.50,1:31:34.02,Default,,0,0,0,,Bringen Sie sie ans Tageslicht.
-Dialogue: 0,1:31:34.02,1:31:35.38,Default,,0,0,0,,Dies ist eine mobile App. 
-Dialogue: 0,1:31:35.38,1:31:36.62,Default,,0,0,0,,Wenn Sie dieses Programm herunterladen, 
-Dialogue: 0,1:31:36.62,1:31:38.70,Default,,0,0,0,,können Sie auf Ihrem Telefon 
-Dialogue: 0,1:31:38.70,1:31:40.46,Default,,0,0,0,,im Umkreis von etwa 5 Kilometern sehen, 
+Dialogue: 0,1:31:34.02,1:31:35.38,Default,,0,0,0,,Dies ist eine mobile App.
+Dialogue: 0,1:31:35.38,1:31:36.62,Default,,0,0,0,,Wenn Sie dieses Programm herunterladen,
+Dialogue: 0,1:31:36.62,1:31:38.70,Default,,0,0,0,,können Sie auf Ihrem Telefon
+Dialogue: 0,1:31:38.70,1:31:40.46,Default,,0,0,0,,im Umkreis von etwa 5 Kilometern sehen,
 Dialogue: 0,1:31:40.46,1:31:42.70,Default,,0,0,0,,welche Unternehmen Schadstoffe ausstoßen.
 Dialogue: 0,1:31:42.70,1:31:43.98,Default,,0,0,0,,Alle diese roten Kreise
 Dialogue: 0,1:31:43.98,1:31:46.30,Default,,0,0,0,,zeigen Unternehmen, die die Schadstoffgrenzwerte überschreiten.
-Dialogue: 0,1:31:46.30,1:31:48.62,Default,,0,0,0,,Chinas 6000 wichtigste Unternehmen 
+Dialogue: 0,1:31:46.30,1:31:48.62,Default,,0,0,0,,Chinas 6000 wichtigste Unternehmen
 Dialogue: 0,1:31:48.62,1:31:51.30,Default,,0,0,0,,produzieren 65% von Chinas Abgasen.
 Dialogue: 0,1:31:51.30,1:31:53.26,Default,,0,0,0,,Sie können einen Bericht an die Umweltschutzbehörden schicken,
 Dialogue: 0,1:31:53.26,1:31:55.22,Default,,0,0,0,,Sie können diese Informationen auch auf Weibo teilen.
-Dialogue: 0,1:31:55.22,1:31:57.42,Default,,0,0,0,,Alle, die blau gekennzeichnet sind, 
-Dialogue: 0,1:31:57.42,1:31:59.10,Default,,0,0,0,,sind gemeldete Unternehmen, die versprochen haben, 
+Dialogue: 0,1:31:55.22,1:31:57.42,Default,,0,0,0,,Alle, die blau gekennzeichnet sind,
+Dialogue: 0,1:31:57.42,1:31:59.10,Default,,0,0,0,,sind gemeldete Unternehmen, die versprochen haben,
 Dialogue: 0,1:31:59.10,1:32:01.02,Default,,0,0,0,,innerhalb einer gewissen Zeit Verbesserungsmaßnahmen zu ergreifen.
-Dialogue: 0,1:32:01.02,1:32:02.54,Default,,0,0,0,,Natürlich ist es eine Schande, 
-Dialogue: 0,1:32:02.54,1:32:03.54,Default,,0,0,0,,wenn die Daten für manche Orte 
-Dialogue: 0,1:32:03.54,1:32:05.02,Default,,0,0,0,,überhaupt nicht offengelegt werden, 
-Dialogue: 0,1:32:05.02,1:32:06.58,Default,,0,0,0,,was können wir dann tun? 
+Dialogue: 0,1:32:01.02,1:32:02.54,Default,,0,0,0,,Natürlich ist es eine Schande,
+Dialogue: 0,1:32:02.54,1:32:03.54,Default,,0,0,0,,wenn die Daten für manche Orte
+Dialogue: 0,1:32:03.54,1:32:05.02,Default,,0,0,0,,überhaupt nicht offengelegt werden,
+Dialogue: 0,1:32:05.02,1:32:06.58,Default,,0,0,0,,was können wir dann tun?
 Dialogue: 0,1:32:06.58,1:32:07.58,Default,,0,0,0,,Letztes Jahr
-Dialogue: 0,1:32:07.58,1:32:08.98,Default,,0,0,0,,besuchte ich 
+Dialogue: 0,1:32:07.58,1:32:08.98,Default,,0,0,0,,besuchte ich
 Dialogue: 0,1:32:08.98,1:32:11.78,Default,,0,0,0,,ein Forum, wo zum ersten Mal eine Umweltgesetzgebung mit öffentlicher Beteiligung entworfen wurde.
 Dialogue: 0,1:32:11.78,1:32:12.74,Default,,0,0,0,,ein Forum, wo zum ersten Mal eine Umweltgesetzgebung mit öffentlicher Beteiligung entworfen wurde.
-Dialogue: 0,1:32:12.74,1:32:13.70,Default,,0,0,0,,In diesem Forum 
+Dialogue: 0,1:32:12.74,1:32:13.70,Default,,0,0,0,,In diesem Forum
 Dialogue: 0,1:32:13.70,1:32:14.98,Default,,0,0,0,,hörte ich viele Diskussionen.
 Dialogue: 0,1:32:14.98,1:32:16.42,Default,,0,0,0,,Die größte Debatte ging darum,
-Dialogue: 0,1:32:16.42,1:32:18.30,Default,,0,0,0,,ob man Schlüsselunternehmen zwingen sollte, 
+Dialogue: 0,1:32:16.42,1:32:18.30,Default,,0,0,0,,ob man Schlüsselunternehmen zwingen sollte,
 Dialogue: 0,1:32:18.30,1:32:20.58,Default,,0,0,0,,Informationen offenzulegen.
-Dialogue: 0,1:32:20.58,1:32:21.70,Default,,0,0,0,,Schließlich 
-Dialogue: 0,1:32:21.70,1:32:23.10,Default,,0,0,0,,veröffentlichte die Provinz Hebei die ersten 
+Dialogue: 0,1:32:20.58,1:32:21.70,Default,,0,0,0,,Schließlich
+Dialogue: 0,1:32:21.70,1:32:23.10,Default,,0,0,0,,veröffentlichte die Provinz Hebei die ersten
 Dialogue: 0,1:32:23.10,1:32:24.58,Default,,0,0,0,,Bestimmungen mit öffentlicher Beteiligung.
 Dialogue: 0,1:32:24.58,1:32:25.58,Default,,0,0,0,,Die Bestimmungen verlangten, dass
-Dialogue: 0,1:32:25.58,1:32:26.50,Default,,0,0,0,,umweltverschmutzende Schlüsselunternehmen 
+Dialogue: 0,1:32:25.58,1:32:26.50,Default,,0,0,0,,umweltverschmutzende Schlüsselunternehmen
 Dialogue: 0,1:32:26.50,1:32:28.30,Default,,0,0,0,,ihre Informationen veröffentlichen müssen.
-Dialogue: 0,1:32:28.30,1:32:29.46,Default,,0,0,0,,Wenn sie diese Information nicht veröffentlichen, 
+Dialogue: 0,1:32:28.30,1:32:29.46,Default,,0,0,0,,Wenn sie diese Information nicht veröffentlichen,
 Dialogue: 0,1:32:29.46,1:32:30.66,Default,,0,0,0,,können Bürger Klage einreichen,
-Dialogue: 0,1:32:30.66,1:32:33.06,Default,,0,0,0,,damit die Unternehmen eine Strafe für jeden Tag zahlen, 
-Dialogue: 0,1:32:33.06,1:32:36.22,Default,,0,0,0,,höchstens jedoch 100,000 RMB (16,000 USD) pro Tag. 
+Dialogue: 0,1:32:30.66,1:32:33.06,Default,,0,0,0,,damit die Unternehmen eine Strafe für jeden Tag zahlen,
+Dialogue: 0,1:32:33.06,1:32:36.22,Default,,0,0,0,,höchstens jedoch 100,000 RMB (16,000 USD) pro Tag.
 Dialogue: 0,1:32:36.22,1:32:37.50,Default,,0,0,0,,Aber
-Dialogue: 0,1:32:37.50,1:32:39.42,Default,,0,0,0,,wer wird überhaupt Klage einreichen? 
-Dialogue: 0,1:32:39.42,1:32:42.82,Default,,0,0,0,,Nur 1% der großen Umweltkonflikte 
-Dialogue: 0,1:32:42.82,1:32:43.82,Default,,0,0,0,,kommt in China vor Gericht. 
-Dialogue: 0,1:32:43.82,1:32:45.06,Default,,0,0,0,,Warum ist diese Zahl so klein? 
-Dialogue: 0,1:32:45.06,1:32:46.22,Default,,0,0,0,,Raten Sie, 
+Dialogue: 0,1:32:37.50,1:32:39.42,Default,,0,0,0,,wer wird überhaupt Klage einreichen?
+Dialogue: 0,1:32:39.42,1:32:42.82,Default,,0,0,0,,Nur 1% der großen Umweltkonflikte
+Dialogue: 0,1:32:42.82,1:32:43.82,Default,,0,0,0,,kommt in China vor Gericht.
+Dialogue: 0,1:32:43.82,1:32:45.06,Default,,0,0,0,,Warum ist diese Zahl so klein?
+Dialogue: 0,1:32:45.06,1:32:46.22,Default,,0,0,0,,Raten Sie,
 Dialogue: 0,1:32:46.22,1:32:47.42,Default,,0,0,0,,bis zu diesem Jahr
-Dialogue: 0,1:32:47.42,1:32:49.82,Default,,0,0,0,,wievielen Nichtregierungsorganisationen in China 
-Dialogue: 0,1:32:49.82,1:32:52.90,Default,,0,0,0,,gestattet wurde, Klage einzureichen? 
-Dialogue: 0,1:32:52.90,1:32:54.42,Default,,0,0,0,,Keiner. 
-Dialogue: 0,1:32:54.42,1:32:55.34,Default,,0,0,0,,Der Grund ist, weil zu dieser Zeit 
-Dialogue: 0,1:32:55.34,1:32:56.82,Default,,0,0,0,,die Vorschriften im bürgerlichen Prozessrecht besagten, 
-Dialogue: 0,1:32:56.82,1:32:59.78,Default,,0,0,0,,dass nur "maßgebliche Organisationen" klagen könnten. 
-Dialogue: 0,1:32:59.78,1:33:02.18,Default,,0,0,0,,Wer diese "maßgeblichen Organisationen" sind, 
-Dialogue: 0,1:33:02.18,1:33:03.54,Default,,0,0,0,,weiß niemand. 
-Dialogue: 0,1:33:03.54,1:33:04.90,Default,,0,0,0,,Aber seit dem 1. Januar dieses Jahres 
-Dialogue: 0,1:33:04.90,1:33:06.74,Default,,0,0,0,,entschied das neue Umweltschutzgesetz, solange eine Organisation 
+Dialogue: 0,1:32:47.42,1:32:49.82,Default,,0,0,0,,wievielen Nichtregierungsorganisationen in China
+Dialogue: 0,1:32:49.82,1:32:52.90,Default,,0,0,0,,gestattet wurde, Klage einzureichen?
+Dialogue: 0,1:32:52.90,1:32:54.42,Default,,0,0,0,,Keiner.
+Dialogue: 0,1:32:54.42,1:32:55.34,Default,,0,0,0,,Der Grund ist, weil zu dieser Zeit
+Dialogue: 0,1:32:55.34,1:32:56.82,Default,,0,0,0,,die Vorschriften im bürgerlichen Prozessrecht besagten,
+Dialogue: 0,1:32:56.82,1:32:59.78,Default,,0,0,0,,dass nur "maßgebliche Organisationen" klagen könnten.
+Dialogue: 0,1:32:59.78,1:33:02.18,Default,,0,0,0,,Wer diese "maßgeblichen Organisationen" sind,
+Dialogue: 0,1:33:02.18,1:33:03.54,Default,,0,0,0,,weiß niemand.
+Dialogue: 0,1:33:03.54,1:33:04.90,Default,,0,0,0,,Aber seit dem 1. Januar dieses Jahres
+Dialogue: 0,1:33:04.90,1:33:06.74,Default,,0,0,0,,entschied das neue Umweltschutzgesetz, solange eine Organisation
 Dialogue: 0,1:33:06.74,1:33:09.38,Default,,0,0,0,,Umweltschutzmaßnahmen für 5 Jahre oder länger durchgeführt hat
-Dialogue: 0,1:33:09.38,1:33:10.54,Default,,0,0,0,,und in keiner Weise gesetzwidrig gehandelt hat, 
-Dialogue: 0,1:33:10.54,1:33:13.46,Default,,0,0,0,,dann ist sie klageberechtigt. 
-Dialogue: 0,1:33:13.46,1:33:14.30,Default,,0,0,0,,Im Moment 
-Dialogue: 0,1:33:14.30,1:33:17.02,Default,,0,0,0,,versuchen einige Angehörige der über 700 Umweltschutzorganisationen 
+Dialogue: 0,1:33:09.38,1:33:10.54,Default,,0,0,0,,und in keiner Weise gesetzwidrig gehandelt hat,
+Dialogue: 0,1:33:10.54,1:33:13.46,Default,,0,0,0,,dann ist sie klageberechtigt.
+Dialogue: 0,1:33:13.46,1:33:14.30,Default,,0,0,0,,Im Moment
+Dialogue: 0,1:33:14.30,1:33:17.02,Default,,0,0,0,,versuchen einige Angehörige der über 700 Umweltschutzorganisationen
 Dialogue: 0,1:33:17.02,1:33:18.66,Default,,0,0,0,,das bereits.
 Dialogue: 0,1:33:18.66,1:33:19.74,Default,,0,0,0,,Das Motto soll sein
 Dialogue: 0,1:33:19.74,1:33:21.30,Default,,0,0,0,,"Hält das neue Umweltgesetz, was es verspricht?
 Dialogue: 0,1:33:21.30,1:33:23.70,Default,,0,0,0,,Unsere Partner testen es gerade."
-Dialogue: 0,1:33:24.10,1:33:25.34,Default,,0,0,0,,Was normale Leute wie uns betrifft, 
-Dialogue: 0,1:33:25.34,1:33:26.22,Default,,0,0,0,,wenn Sie keine Zeit haben, 
+Dialogue: 0,1:33:24.10,1:33:25.34,Default,,0,0,0,,Was normale Leute wie uns betrifft,
+Dialogue: 0,1:33:25.34,1:33:26.22,Default,,0,0,0,,wenn Sie keine Zeit haben,
 Dialogue: 0,1:33:26.22,1:33:28.30,Default,,0,0,0,,einer Umweltschutzorganisation beizutreten,
-Dialogue: 0,1:33:28.30,1:33:30.10,Default,,0,0,0,,was können Sie sonst tun? 
-Dialogue: 0,1:33:30.10,1:33:31.26,Default,,0,0,0,,In Zusammenarbeit mit dem Naturfreundeverein 
+Dialogue: 0,1:33:28.30,1:33:30.10,Default,,0,0,0,,was können Sie sonst tun?
+Dialogue: 0,1:33:30.10,1:33:31.26,Default,,0,0,0,,In Zusammenarbeit mit dem Naturfreundeverein
 Dialogue: 0,1:33:31.26,1:33:33.62,Default,,0,0,0,,haben wir eine kleine Animation erstellt.
-Dialogue: 0,1:33:36.62,1:33:38.82,Default,,0,0,0,,Wenn Ihr Weg kürzer als 5 Kilometer ist, 
-Dialogue: 0,1:33:38.82,1:33:41.70,Default,,0,0,0,,nehmen Sie bitte die öffentlichen Verkehrsmittel, fahren mit dem Rad, oder nutzen einen Carpool. 
-Dialogue: 0,1:33:41.70,1:33:42.66,Default,,0,0,0,,Wenn Sie Auto fahren, 
-Dialogue: 0,1:33:42.66,1:33:44.74,Default,,0,0,0,,lassen Sie den Motor nicht länger als 30 Sekunden leerlaufen. 
+Dialogue: 0,1:33:36.62,1:33:38.82,Default,,0,0,0,,Wenn Ihr Weg kürzer als 5 Kilometer ist,
+Dialogue: 0,1:33:38.82,1:33:41.70,Default,,0,0,0,,nehmen Sie bitte die öffentlichen Verkehrsmittel, fahren mit dem Rad, oder nutzen einen Carpool.
+Dialogue: 0,1:33:41.70,1:33:42.66,Default,,0,0,0,,Wenn Sie Auto fahren,
+Dialogue: 0,1:33:42.66,1:33:44.74,Default,,0,0,0,,lassen Sie den Motor nicht länger als 30 Sekunden leerlaufen.
 Dialogue: 0,1:33:45.14,1:33:47.46,Default,,0,0,0,,Wenn Sie ein Dieselfahrzeug sehen, das schwarze Abgase ausstößt,
 Dialogue: 0,1:33:47.46,1:33:50.26,Default,,0,0,0,,melden Sie es unter der Nummer 12369.
 Dialogue: 0,1:33:50.26,1:33:53.34,Default,,0,0,0,,Those “black tails” behind diesel trucks are full of PM2.5
-Diese "schwarzen Wolken" hinter Diesellastern sind voll mit PM2,5,
-Dialogue: 0,1:33:53.34,1:33:54.62,Default,,0,0,0,,sie gefährden die öffentliche Gesundheit. 
+Dialogue: 0,1:33:53.34,1:33:54.62,Default,,0,0,0,,sie gefährden die öffentliche Gesundheit.
 Dialogue: 0,1:33:55.06,1:33:57.26,Default,,0,0,0,,Wenn Sie ein Restaurant sehen, das Kochausdünstungen ausstößt,
-Dialogue: 0,1:33:57.26,1:33:59.66,Default,,0,0,0,,fordern Sie es auf, ein Filtersystem zu installieren, 
-Dialogue: 0,1:33:59.66,1:34:01.86,Default,,0,0,0,,oder geben Sie ihm eine negative Online-Bewertung. 
-Dialogue: 0,1:34:01.86,1:34:04.34,Default,,0,0,0,,Wenn Sie Staub von nicht abgedeckten Baumaterialhügeln wehen sehen, 
-Dialogue: 0,1:34:04.38,1:34:06.34,Default,,0,0,0,,wenn Sie glauben, eine Tankstelle könnte undicht sein, 
-Dialogue: 0,1:34:06.34,1:34:08.38,Default,,0,0,0,,rufen Sie 12369. 
-Dialogue: 0,1:34:08.38,1:34:10.14,Default,,0,0,0,,Wenn Sie zuhause Kohle verbrennen, 
-Dialogue: 0,1:34:10.14,1:34:11.78,Default,,0,0,0,,vermeiden Sie soweit es geht minderwertige Kohle. 
-Dialogue: 0,1:34:11.78,1:34:13.50,Default,,0,0,0,,vermeiden Sie soweit es geht minderwertige Kohle. 
-Dialogue: 0,1:34:13.50,1:34:15.26,Default,,0,0,0,,Bitten Sie Ihre Mutter, die Küche und Abzugshaube zu reinigen, 
-Dialogue: 0,1:34:15.26,1:34:16.50,Default,,0,0,0,,damit die Familie gesund bleibt. 
-Dialogue: 0,1:34:17.06,1:34:20.14,Default,,0,0,0,,Und Sie können Fotos machen, um industrielle Verschmutzung zu ermitteln, 
-Dialogue: 0,1:34:20.14,1:34:21.86,Default,,0,0,0,,illegale Aktivitäten zu überwachen und zu melden 
-Dialogue: 0,1:34:21.86,1:34:24.58,Default,,0,0,0,,und auf Ihrem regionalen Umweltbüro auf Weibo twittern. 
+Dialogue: 0,1:33:57.26,1:33:59.66,Default,,0,0,0,,fordern Sie es auf, ein Filtersystem zu installieren,
+Dialogue: 0,1:33:59.66,1:34:01.86,Default,,0,0,0,,oder geben Sie ihm eine negative Online-Bewertung.
+Dialogue: 0,1:34:01.86,1:34:04.34,Default,,0,0,0,,Wenn Sie Staub von nicht abgedeckten Baumaterialhügeln wehen sehen,
+Dialogue: 0,1:34:04.38,1:34:06.34,Default,,0,0,0,,wenn Sie glauben, eine Tankstelle könnte undicht sein,
+Dialogue: 0,1:34:06.34,1:34:08.38,Default,,0,0,0,,rufen Sie 12369.
+Dialogue: 0,1:34:08.38,1:34:10.14,Default,,0,0,0,,Wenn Sie zuhause Kohle verbrennen,
+Dialogue: 0,1:34:10.14,1:34:11.78,Default,,0,0,0,,vermeiden Sie soweit es geht minderwertige Kohle.
+Dialogue: 0,1:34:11.78,1:34:13.50,Default,,0,0,0,,vermeiden Sie soweit es geht minderwertige Kohle.
+Dialogue: 0,1:34:13.50,1:34:15.26,Default,,0,0,0,,Bitten Sie Ihre Mutter, die Küche und Abzugshaube zu reinigen,
+Dialogue: 0,1:34:15.26,1:34:16.50,Default,,0,0,0,,damit die Familie gesund bleibt.
+Dialogue: 0,1:34:17.06,1:34:20.14,Default,,0,0,0,,Und Sie können Fotos machen, um industrielle Verschmutzung zu ermitteln,
+Dialogue: 0,1:34:20.14,1:34:21.86,Default,,0,0,0,,illegale Aktivitäten zu überwachen und zu melden
+Dialogue: 0,1:34:21.86,1:34:24.58,Default,,0,0,0,,und auf Ihrem regionalen Umweltbüro auf Weibo twittern.
 Dialogue: 0,1:34:24.58,1:34:26.70,Default,,0,0,0,,Überprüfen Sie die Liste von umweltschädlichen Herstellern
 Dialogue: 0,1:34:26.70,1:34:28.34,Default,,0,0,0,,und boykottieren Sie ihre Produkte.
-Dialogue: 0,1:34:28.86,1:34:31.34,Default,,0,0,0,,Wenn unsere Luftreinhaltegesetze geschrieben und überarbeitet werden, 
+Dialogue: 0,1:34:28.86,1:34:31.34,Default,,0,0,0,,Wenn unsere Luftreinhaltegesetze geschrieben und überarbeitet werden,
 Dialogue: 0,1:34:31.34,1:34:33.38,Default,,0,0,0,,nehmen Sie an der öffentlichen Diskussion teil
-Dialogue: 0,1:34:33.38,1:34:34.50,Default,,0,0,0,,und verschaffen Sie sich Gehör. 
+Dialogue: 0,1:34:33.38,1:34:34.50,Default,,0,0,0,,und verschaffen Sie sich Gehör.
 Dialogue: 0,1:34:35.02,1:34:36.14,Default,,0,0,0,,Mit etwas Überlegung und Umsicht
 Dialogue: 0,1:34:36.14,1:34:37.22,Default,,0,0,0,,wird sich der Smog auflösen.
-Dialogue: 0,1:34:40.58,1:34:41.06,Default,,0,0,0,,Früher, 
-Dialogue: 0,1:34:41.06,1:34:43.58,Default,,0,0,0,,als ich an der nicht abgedeckten Baustelle in meiner Nachbarschaft vorbeikam, 
-Dialogue: 0,1:34:43.58,1:34:45.50,Default,,0,0,0,,habe ich mir immer nur die Nase zugehalten und bin vorbeigegangen. 
-Dialogue: 0,1:34:45.50,1:34:46.70,Default,,0,0,0,,Aber jetzt weiß ich, 
-Dialogue: 0,1:34:46.70,1:34:48.46,Default,,0,0,0,,dass mindestens 15% von Beijings PM2,5-Belastung 
-Dialogue: 0,1:34:48.46,1:34:50.54,Default,,0,0,0,,dass mindestens 15% von Beijings PM2.5-Belastung 
-Dialogue: 0,1:34:50.54,1:34:52.14,Default,,0,0,0,,vom Staub in der Luft herrührt. 
-Dialogue: 0,1:34:52.14,1:34:53.38,Default,,0,0,0,,Ich beschloss, dass ich etwas tun musste. 
+Dialogue: 0,1:34:40.58,1:34:41.06,Default,,0,0,0,,Früher,
+Dialogue: 0,1:34:41.06,1:34:43.58,Default,,0,0,0,,als ich an der nicht abgedeckten Baustelle in meiner Nachbarschaft vorbeikam,
+Dialogue: 0,1:34:43.58,1:34:45.50,Default,,0,0,0,,habe ich mir immer nur die Nase zugehalten und bin vorbeigegangen.
+Dialogue: 0,1:34:45.50,1:34:46.70,Default,,0,0,0,,Aber jetzt weiß ich,
+Dialogue: 0,1:34:46.70,1:34:48.46,Default,,0,0,0,,dass mindestens 15% von Beijings PM2,5-Belastung
+Dialogue: 0,1:34:48.46,1:34:50.54,Default,,0,0,0,,dass mindestens 15% von Beijings PM2.5-Belastung
+Dialogue: 0,1:34:50.54,1:34:52.14,Default,,0,0,0,,vom Staub in der Luft herrührt.
+Dialogue: 0,1:34:52.14,1:34:53.38,Default,,0,0,0,,Ich beschloss, dass ich etwas tun musste.
 Dialogue: 0,1:35:02.54,1:35:03.82,Default,,0,0,0,,(Chai) Wir wohnen hier in der Nähe.
 Dialogue: 0,1:35:03.82,1:35:06.22,Default,,0,0,0,,(Chai) Warum haben Sie diese Erde nicht abgedeckt?
 Dialogue: 0,1:35:06.22,1:35:07.38,Default,,0,0,0,,(Arbeiter) Fragen Sie unseren Chef.
-Dialogue: 0,1:35:07.38,1:35:09.82,Default,,0,0,0,,(Chai) Okay, wo ist Ihr Chef? 
+Dialogue: 0,1:35:07.38,1:35:09.82,Default,,0,0,0,,(Chai) Okay, wo ist Ihr Chef?
 Dialogue: 0,1:35:09.82,1:35:10.66,Default,,0,0,0,,(Arbeiter) Da drüben, sehen Sie.
 Dialogue: 0,1:35:13.98,1:35:16.62,Default,,0,0,0,,(Chai) Sie haben disen großen Erdhaufen neben der Straße nicht abgedeckt.
 Dialogue: 0,1:35:16.62,1:35:17.90,Default,,0,0,0,,(Chai) Sobald Wind weht, fliegt der Staub überall hin.
 Dialogue: 0,1:35:17.90,1:35:19.06,Default,,0,0,0,,(Chef) Ich weiß, ich weiß, ich weiß, ich weiß.
-Dialogue: 0,1:35:19.06,1:35:19.82,Default,,0,0,0,,(Chef) Das ist unser Fehler. 
-Dialogue: 0,1:35:19.82,1:35:20.86,Default,,0,0,0,,(Chai) Wann decken Sie das ab? 
-Dialogue: 0,1:35:20.86,1:35:21.58,Default,,0,0,0,,(Chef) Jetzt gleich. 
+Dialogue: 0,1:35:19.06,1:35:19.82,Default,,0,0,0,,(Chef) Das ist unser Fehler.
+Dialogue: 0,1:35:19.82,1:35:20.86,Default,,0,0,0,,(Chai) Wann decken Sie das ab?
+Dialogue: 0,1:35:20.86,1:35:21.58,Default,,0,0,0,,(Chef) Jetzt gleich.
 Dialogue: 0,1:35:21.58,1:35:22.34,Default,,0,0,0,,(Chai) Okay
-Dialogue: 0,1:35:22.34,1:35:23.30,Default,,0,0,0,,(Arbeiter) Sorry, sorry. 
-Dialogue: 0,1:35:32.50,1:35:35.94,Default,,0,0,0,,Das Ganze dauerte weniger als fünf Minuten. 
+Dialogue: 0,1:35:22.34,1:35:23.30,Default,,0,0,0,,(Arbeiter) Sorry, sorry.
+Dialogue: 0,1:35:32.50,1:35:35.94,Default,,0,0,0,,Das Ganze dauerte weniger als fünf Minuten.
 Dialogue: 0,1:35:35.94,1:35:37.62,Default,,0,0,0,,Gerade als ich wegging,
-Dialogue: 0,1:35:37.62,1:35:39.38,Default,,0,0,0,,sagte der Arbeiter, der mir sagte, wo ich den Chef finde, 
-Dialogue: 0,1:35:39.38,1:35:39.94,Default,,0,0,0,,zu mir, 
+Dialogue: 0,1:35:37.62,1:35:39.38,Default,,0,0,0,,sagte der Arbeiter, der mir sagte, wo ich den Chef finde,
+Dialogue: 0,1:35:39.38,1:35:39.94,Default,,0,0,0,,zu mir,
 Dialogue: 0,1:35:39.94,1:35:41.70,Default,,0,0,0,,"Wissen Sie, warum er Angst vor Ihnen hat?"
 Dialogue: 0,1:35:41.70,1:35:43.74,Default,,0,0,0,,Er zeigte auf das Handy in meiner Hand.
 Dialogue: 0,1:35:43.74,1:35:46.58,Default,,0,0,0,,"Er fürchtet, dass Sie ihn bloßstellen."
-Dialogue: 0,1:35:46.58,1:35:48.06,Default,,0,0,0,,In meinem Wohnhaus ist unten ein Restaurant. 
+Dialogue: 0,1:35:46.58,1:35:48.06,Default,,0,0,0,,In meinem Wohnhaus ist unten ein Restaurant.
 Dialogue: 0,1:35:48.06,1:35:49.54,Default,,0,0,0,,Dort gibt es Fleischpasteten,
 Dialogue: 0,1:35:49.54,1:35:51.50,Default,,0,0,0,,und immer zur Essenszeit
-Dialogue: 0,1:35:51.50,1:35:52.54,Default,,0,0,0,,riecht es im ganzen Haus 
+Dialogue: 0,1:35:51.50,1:35:52.54,Default,,0,0,0,,riecht es im ganzen Haus
 Dialogue: 0,1:35:52.54,1:35:54.86,Default,,0,0,0,,nach Rauch.
-Dialogue: 0,1:35:54.86,1:35:56.22,Default,,0,0,0,,Früher dachte ich, das sei kein Problem. 
-Dialogue: 0,1:35:56.22,1:35:57.94,Default,,0,0,0,,Ist das nicht in allen chinesischen Restaurants auf der ganzen Welt so? 
+Dialogue: 0,1:35:54.86,1:35:56.22,Default,,0,0,0,,Früher dachte ich, das sei kein Problem.
+Dialogue: 0,1:35:56.22,1:35:57.94,Default,,0,0,0,,Ist das nicht in allen chinesischen Restaurants auf der ganzen Welt so?
 Dialogue: 0,1:35:57.94,1:35:59.10,Default,,0,0,0,,Aber jetzt weiß ich,
 Dialogue: 0,1:35:59.10,1:36:02.86,Default,,0,0,0,,dass Beijings Restaurantgewerbe
-Dialogue: 0,1:36:02.86,1:36:05.62,Default,,0,0,0,,mindestens 6% unserer Feinstaubverschmutzung verursacht. 
-Dialogue: 0,1:36:05.62,1:36:07.10,Default,,0,0,0,,In Beijing befinden sich 
+Dialogue: 0,1:36:02.86,1:36:05.62,Default,,0,0,0,,mindestens 6% unserer Feinstaubverschmutzung verursacht.
+Dialogue: 0,1:36:05.62,1:36:07.10,Default,,0,0,0,,In Beijing befinden sich
 Dialogue: 0,1:36:07.10,1:36:08.46,Default,,0,0,0,,12% der Lebensmittelbetriebe des ganzen Landes.
 Dialogue: 0,1:36:08.46,1:36:09.78,Default,,0,0,0,,Im Fall eines so großen Restaurants
 Dialogue: 0,1:36:09.78,1:36:11.82,Default,,0,0,0,,dachte ich, man könne nichts dagegen tun,
-Dialogue: 0,1:36:11.82,1:36:13.58,Default,,0,0,0,,bis ich nach London kam 
-Dialogue: 0,1:36:13.58,1:36:14.86,Default,,0,0,0,,und dort in einem chinesischen Lokal gegessen habe. 
+Dialogue: 0,1:36:11.82,1:36:13.58,Default,,0,0,0,,bis ich nach London kam
+Dialogue: 0,1:36:13.58,1:36:14.86,Default,,0,0,0,,und dort in einem chinesischen Lokal gegessen habe.
 Dialogue: 0,1:36:14.86,1:36:16.22,Default,,0,0,0,,Ich entdeckte, dass es dort überhaupt nicht nach Rauch roch.
 Dialogue: 0,1:36:16.22,1:36:17.06,Default,,0,0,0,,Warum?
-Dialogue: 0,1:36:17.06,1:36:18.46,Default,,0,0,0,,Der Chef nahm mich 
+Dialogue: 0,1:36:17.06,1:36:18.46,Default,,0,0,0,,Der Chef nahm mich
 Dialogue: 0,1:36:18.46,1:36:19.70,Default,,0,0,0,,mit aufs Dach
-Dialogue: 0,1:36:19.70,1:36:21.94,Default,,0,0,0,,und ich sah 
-Dialogue: 0,1:36:21.94,1:36:24.38,Default,,0,0,0,,was man einen Rußfilter nennt. 
+Dialogue: 0,1:36:19.70,1:36:21.94,Default,,0,0,0,,und ich sah
+Dialogue: 0,1:36:21.94,1:36:24.38,Default,,0,0,0,,was man einen Rußfilter nennt.
 Dialogue: 0,1:36:24.38,1:36:26.42,Default,,0,0,0,,Die Londoner Stadtverwaltung verpflichtete sie, ihn zu installieren,
-Dialogue: 0,1:36:26.42,1:36:29.10,Default,,0,0,0,,und die Stadt kontrolliert ihn regelmäßig. 
-Dialogue: 0,1:36:29.10,1:36:31.82,Default,,0,0,0,,Ich dachte, das müsse ziemlich aufwendige Technologie sein, 
+Dialogue: 0,1:36:26.42,1:36:29.10,Default,,0,0,0,,und die Stadt kontrolliert ihn regelmäßig.
+Dialogue: 0,1:36:29.10,1:36:31.82,Default,,0,0,0,,Ich dachte, das müsse ziemlich aufwendige Technologie sein,
 Dialogue: 0,1:36:31.82,1:36:33.26,Default,,0,0,0,,bis ich zurück nach Beijing kam.
-Dialogue: 0,1:36:33.26,1:36:34.02,Default,,0,0,0,,Ich fand, dass es sie hier nicht nur gibt, 
-Dialogue: 0,1:36:34.02,1:36:36.54,Default,,0,0,0,,sondern dass der Einbau tatsächlich vorgeschrieben ist. 
-Dialogue: 0,1:36:36.54,1:36:38.62,Default,,0,0,0,,Ich rief 12369 an, um das zu melden, 
-Dialogue: 0,1:36:38.62,1:36:40.74,Default,,0,0,0,,und eine Woche später 
-Dialogue: 0,1:36:40.74,1:36:42.74,Default,,0,0,0,,wurde dies geliefert: 
-Dialogue: 0,1:36:50.38,1:36:52.70,Default,,0,0,0,,Das Ganze dauerte weniger als eine halbe Stunde. 
-Dialogue: 0,1:36:52.70,1:36:54.42,Default,,0,0,0,,Als ich diesen Clip aufnahm, 
+Dialogue: 0,1:36:33.26,1:36:34.02,Default,,0,0,0,,Ich fand, dass es sie hier nicht nur gibt,
+Dialogue: 0,1:36:34.02,1:36:36.54,Default,,0,0,0,,sondern dass der Einbau tatsächlich vorgeschrieben ist.
+Dialogue: 0,1:36:36.54,1:36:38.62,Default,,0,0,0,,Ich rief 12369 an, um das zu melden,
+Dialogue: 0,1:36:38.62,1:36:40.74,Default,,0,0,0,,und eine Woche später
+Dialogue: 0,1:36:40.74,1:36:42.74,Default,,0,0,0,,wurde dies geliefert:
+Dialogue: 0,1:36:50.38,1:36:52.70,Default,,0,0,0,,Das Ganze dauerte weniger als eine halbe Stunde.
+Dialogue: 0,1:36:52.70,1:36:54.42,Default,,0,0,0,,Als ich diesen Clip aufnahm,
 Dialogue: 0,1:36:54.42,1:36:55.86,Default,,0,0,0,,kam der Restaurantbesitzer zu mir herüber
-Dialogue: 0,1:36:55.86,1:36:58.62,Default,,0,0,0,,und sagte: "Vielen Dank für Ihre Beobachtung als Hausbewohner. 
-Dialogue: 0,1:36:58.62,1:37:01.22,Default,,0,0,0,,Wir hoffen, Sie bald in unserem Restaurant begrüßen zu dürfen." 
-Dialogue: 0,1:37:01.22,1:37:03.26,Default,,0,0,0,,Im letzten Jahr gab es zum Mittag in unserem Büro nur Fleischpasteten. 
-Dialogue: 0,1:37:06.10,1:37:07.90,Default,,0,0,0,,Wenn ich manchmal bei der Tankstelle in der Nachbarschaft vorbeikomme, 
+Dialogue: 0,1:36:55.86,1:36:58.62,Default,,0,0,0,,und sagte: "Vielen Dank für Ihre Beobachtung als Hausbewohner.
+Dialogue: 0,1:36:58.62,1:37:01.22,Default,,0,0,0,,Wir hoffen, Sie bald in unserem Restaurant begrüßen zu dürfen."
+Dialogue: 0,1:37:01.22,1:37:03.26,Default,,0,0,0,,Im letzten Jahr gab es zum Mittag in unserem Büro nur Fleischpasteten.
+Dialogue: 0,1:37:06.10,1:37:07.90,Default,,0,0,0,,Wenn ich manchmal bei der Tankstelle in der Nachbarschaft vorbeikomme,
 Dialogue: 0,1:37:07.90,1:37:09.06,Default,,0,0,0,,(unten ist eine Tankstelle)
 Dialogue: 0,1:37:09.06,1:37:10.70,Default,,0,0,0,,rieche ich starken Benzingeruch,
 Dialogue: 0,1:37:10.70,1:37:12.30,Default,,0,0,0,,rieche ich starken Benzingeruch,
 Dialogue: 0,1:37:12.30,1:37:15.06,Default,,0,0,0,,aber ich glaubte, alle Tankstellen auf der Welt seien so,
-Dialogue: 0,1:37:15.06,1:37:17.42,Default,,0,0,0,,bis ich in die Vereinigten Staaten kam. 
-Dialogue: 0,1:37:17.42,1:37:19.86,Default,,0,0,0,,Ich sah dieses Teil auf ihren Tankstutzen, 
-Dialogue: 0,1:37:19.86,1:37:22.66,Default,,0,0,0,,man nennt es "Gasrückführungseinrichtung". 
+Dialogue: 0,1:37:15.06,1:37:17.42,Default,,0,0,0,,bis ich in die Vereinigten Staaten kam.
+Dialogue: 0,1:37:17.42,1:37:19.86,Default,,0,0,0,,Ich sah dieses Teil auf ihren Tankstutzen,
+Dialogue: 0,1:37:19.86,1:37:22.66,Default,,0,0,0,,man nennt es "Gasrückführungseinrichtung".
 Dialogue: 0,1:37:22.66,1:37:24.62,Default,,0,0,0,,Ich dachte, das sei wieder so ein High-Tech-Ding,
-Dialogue: 0,1:37:24.62,1:37:26.18,Default,,0,0,0,,bis ich zurück nach Beijing kam und entdeckte, 
+Dialogue: 0,1:37:24.62,1:37:26.18,Default,,0,0,0,,bis ich zurück nach Beijing kam und entdeckte,
 Dialogue: 0,1:37:26.18,1:37:26.98,Default,,0,0,0,,dass wir diese Sache schon seit Ewigkeiten haben
-Dialogue: 0,1:37:26.98,1:37:28.78,Default,,0,0,0,,und dass sie seit 2008 Vorschrift ist, 
-Dialogue: 0,1:37:28.78,1:37:30.90,Default,,0,0,0,,aber viele warten sie nicht vorschriftsmäßig, 
+Dialogue: 0,1:37:26.98,1:37:28.78,Default,,0,0,0,,und dass sie seit 2008 Vorschrift ist,
+Dialogue: 0,1:37:28.78,1:37:30.90,Default,,0,0,0,,aber viele warten sie nicht vorschriftsmäßig,
 Dialogue: 0,1:37:30.90,1:37:34.02,Default,,0,0,0,,sodass sie viele Benzindämpfe freigeben.
 Dialogue: 0,1:37:34.02,1:37:34.70,Default,,0,0,0,,Daraufhin
-Dialogue: 0,1:37:34.70,1:37:37.18,Default,,0,0,0,,rief ich wieder 12369 an. 
-Dialogue: 0,1:37:40.74,1:37:41.98,Default,,0,0,0,,Wenn man das gegen das Licht betrachtet, 
-Dialogue: 0,1:37:41.98,1:37:43.46,Default,,0,0,0,,kommt eine ganze Menge heraus. 
-Dialogue: 0,1:37:43.46,1:37:44.62,Default,,0,0,0,,Das heißt, es ist definitiv ein Problem. 
-Dialogue: 0,1:37:50.10,1:37:51.42,Default,,0,0,0,,Dieser Geruch ist nicht normal, wenn man tankt. 
+Dialogue: 0,1:37:34.70,1:37:37.18,Default,,0,0,0,,rief ich wieder 12369 an.
+Dialogue: 0,1:37:40.74,1:37:41.98,Default,,0,0,0,,Wenn man das gegen das Licht betrachtet,
+Dialogue: 0,1:37:41.98,1:37:43.46,Default,,0,0,0,,kommt eine ganze Menge heraus.
+Dialogue: 0,1:37:43.46,1:37:44.62,Default,,0,0,0,,Das heißt, es ist definitiv ein Problem.
+Dialogue: 0,1:37:50.10,1:37:51.42,Default,,0,0,0,,Dieser Geruch ist nicht normal, wenn man tankt.
 Dialogue: 0,1:37:51.42,1:37:52.86,Default,,0,0,0,,Dieser Geruch ist nicht normal, wenn man tankt.
 Dialogue: 0,1:37:52.86,1:37:54.14,Default,,0,0,0,,Sehen Sie diese Benzindämpfe?
-Dialogue: 0,1:37:58.94,1:37:59.86,Default,,0,0,0,,Da sollte kein Benzin sein. 
-Dialogue: 0,1:37:59.86,1:38:00.26,Default,,0,0,0,,Stimmt. 
-Dialogue: 0,1:38:01.70,1:38:02.50,Default,,0,0,0,,Hier ist es feucht. 
+Dialogue: 0,1:37:58.94,1:37:59.86,Default,,0,0,0,,Da sollte kein Benzin sein.
+Dialogue: 0,1:37:59.86,1:38:00.26,Default,,0,0,0,,Stimmt.
+Dialogue: 0,1:38:01.70,1:38:02.50,Default,,0,0,0,,Hier ist es feucht.
 Dialogue: 0,1:38:02.50,1:38:03.90,Default,,0,0,0,,Das heißt, hier ist Benzin ausgelaufen.
-Dialogue: 0,1:38:03.90,1:38:05.74,Default,,0,0,0,,Stimmt, hier sind weniger Dämpfe hineingekommen. 
+Dialogue: 0,1:38:03.90,1:38:05.74,Default,,0,0,0,,Stimmt, hier sind weniger Dämpfe hineingekommen.
 Dialogue: 0,1:38:05.74,1:38:07.42,Default,,0,0,0,,Ein Teil der Benzindämpfe
-Dialogue: 0,1:38:07.42,1:38:09.10,Default,,0,0,0,,ist in die Atmosphäre entwichen. 
+Dialogue: 0,1:38:07.42,1:38:09.10,Default,,0,0,0,,ist in die Atmosphäre entwichen.
 Dialogue: 0,1:38:09.54,1:38:10.26,Default,,0,0,0,,Wir werden es stilllegen
-Dialogue: 0,1:38:10.26,1:38:11.06,Default,,0,0,0,,und es wird sofort repariert. 
-Dialogue: 0,1:38:11.22,1:38:12.10,Default,,0,0,0,,Das heißt, die Tankstelle 
-Dialogue: 0,1:38:12.10,1:38:13.50,Default,,0,0,0,,muss jedes Jahr 
-Dialogue: 0,1:38:13.50,1:38:15.18,Default,,0,0,0,,eine verbindliche Untersuchung 
-Dialogue: 0,1:38:15.18,1:38:16.70,Default,,0,0,0,,seiner Gasrückführungseinrichtung durchführen. 
-Dialogue: 0,1:38:17.50,1:38:18.42,Default,,0,0,0,,Sie können 12369 anrufen. 
-Dialogue: 0,1:38:18.42,1:38:19.46,Default,,0,0,0,,Das ist unsere Beschwerdehotline. 
+Dialogue: 0,1:38:10.26,1:38:11.06,Default,,0,0,0,,und es wird sofort repariert.
+Dialogue: 0,1:38:11.22,1:38:12.10,Default,,0,0,0,,Das heißt, die Tankstelle
+Dialogue: 0,1:38:12.10,1:38:13.50,Default,,0,0,0,,muss jedes Jahr
+Dialogue: 0,1:38:13.50,1:38:15.18,Default,,0,0,0,,eine verbindliche Untersuchung
+Dialogue: 0,1:38:15.18,1:38:16.70,Default,,0,0,0,,seiner Gasrückführungseinrichtung durchführen.
+Dialogue: 0,1:38:17.50,1:38:18.42,Default,,0,0,0,,Sie können 12369 anrufen.
+Dialogue: 0,1:38:18.42,1:38:19.46,Default,,0,0,0,,Das ist unsere Beschwerdehotline.
 Dialogue: 0,1:38:19.94,1:38:21.30,Default,,0,0,0,,Werden Sie ganz bestimmt dort anrufen?
 Dialogue: 0,1:38:21.30,1:38:22.54,Default,,0,0,0,,Auf jeden Fall.
 Dialogue: 0,1:38:22.54,1:38:23.54,Default,,0,0,0,,Sie ist jederzeit erreichbar.
 Dialogue: 0,1:38:25.42,1:38:27.42,Default,,0,0,0,,Sie haben versprochen, jederzeit zu kommen.
 Dialogue: 0,1:38:27.42,1:38:28.10,Default,,0,0,0,,Kommen sie auch wirklich?
-Dialogue: 0,1:38:28.10,1:38:28.70,Default,,0,0,0,,Ich weiß es nicht, 
+Dialogue: 0,1:38:28.10,1:38:28.70,Default,,0,0,0,,Ich weiß es nicht,
 Dialogue: 0,1:38:28.70,1:38:30.58,Default,,0,0,0,,aber indem wir diesen Satz hier zeigen,
 Dialogue: 0,1:38:30.58,1:38:31.90,Default,,0,0,0,,betrachten wir es als einen Test.
 Dialogue: 0,1:38:31.90,1:38:33.42,Default,,0,0,0,,Wir können uns diese Nummer merken
 Dialogue: 0,1:38:33.42,1:38:34.94,Default,,0,0,0,,12369
 Dialogue: 0,1:38:34.94,1:38:35.98,Default,,0,0,0,,Wenn Sie diese Nummer nicht anrufen,
-Dialogue: 0,1:38:35.98,1:38:38.18,Default,,0,0,0,,wird sie für immer nur eine Nummer bleiben. 
-Dialogue: 0,1:38:38.18,1:38:40.50,Default,,0,0,0,,Ich habe gesagt, das war kein glückliches Jahr für mich. 
-Dialogue: 0,1:38:40.50,1:38:42.98,Default,,0,0,0,,Ich habe mich jeden Tag unsicher gefühlt. 
-Dialogue: 0,1:38:42.98,1:38:43.62,Default,,0,0,0,,Das ist wahr. 
+Dialogue: 0,1:38:35.98,1:38:38.18,Default,,0,0,0,,wird sie für immer nur eine Nummer bleiben.
+Dialogue: 0,1:38:38.18,1:38:40.50,Default,,0,0,0,,Ich habe gesagt, das war kein glückliches Jahr für mich.
+Dialogue: 0,1:38:40.50,1:38:42.98,Default,,0,0,0,,Ich habe mich jeden Tag unsicher gefühlt.
+Dialogue: 0,1:38:42.98,1:38:43.62,Default,,0,0,0,,Das ist wahr.
 Dialogue: 0,1:38:44.70,1:38:46.58,Default,,0,0,0,,Jedesmal wenn die Verschmutzung schlimm war, wusste ich nicht, wo ich am nächsten Tag sein würde
 Dialogue: 0,1:38:46.58,1:38:47.38,Default,,0,0,0,,Jedesmal wenn die Verschmutzung schlimm war, wusste ich nicht, wo ich am nächsten Tag sein würde
 Dialogue: 0,1:38:47.38,1:38:48.74,Default,,0,0,0,,oder wo ich in Zukunft sein würde.
 Dialogue: 0,1:38:48.74,1:38:49.74,Default,,0,0,0,,Aber dennoch,
-Dialogue: 0,1:38:49.74,1:38:50.74,Default,,0,0,0,,in dem Moment, als der Restaurantbesitzer 
-Dialogue: 0,1:38:50.78,1:38:54.14,Default,,0,0,0,,den Rauchfilter eingebaut hatte, 
-Dialogue: 0,1:38:54.14,1:38:56.58,Default,,0,0,0,,fühlte ich auf einmal, dass meine Füße auf festem Grund standen. 
+Dialogue: 0,1:38:49.74,1:38:50.74,Default,,0,0,0,,in dem Moment, als der Restaurantbesitzer
+Dialogue: 0,1:38:50.78,1:38:54.14,Default,,0,0,0,,den Rauchfilter eingebaut hatte,
+Dialogue: 0,1:38:54.14,1:38:56.58,Default,,0,0,0,,fühlte ich auf einmal, dass meine Füße auf festem Grund standen.
 Dialogue: 0,1:38:56.58,1:38:58.74,Default,,0,0,0,,Es ist schwer zu beschreiben.
 Dialogue: 0,1:38:58.74,1:38:59.54,Default,,0,0,0,,Sie wissen sehr gut,
 Dialogue: 0,1:38:59.54,1:39:01.46,Default,,0,0,0,,dass der Einfluss auf Luftverbesserung
@@ -2483,7 +2482,7 @@ Dialogue: 0,1:39:03.54,1:39:04.86,Default,,0,0,0,,aber wenn nur ein Mensch weiß
 Dialogue: 0,1:39:04.86,1:39:07.18,Default,,0,0,0,,wenn er nur eine kleine Sache getan hat,
 Dialogue: 0,1:39:07.18,1:39:09.38,Default,,0,0,0,,dass sich die Lage tatsächlich ein kleines bisschen verbessert,
 Dialogue: 0,1:39:09.38,1:39:11.30,Default,,0,0,0,,dann kann sich dieser Mensch mit den Dingen mehr im Reinen fühlen.
-Dialogue: 0,1:39:11.30,1:39:12.22,Default,,0,0,0,,Wenn Sie zurückblicken 
+Dialogue: 0,1:39:11.30,1:39:12.22,Default,,0,0,0,,Wenn Sie zurückblicken
 Dialogue: 0,1:39:12.22,1:39:15.42,Default,,0,0,0,,auf den Krieg zwischen Menschen und Umweltverschmutzung,
 Dialogue: 0,1:39:15.42,1:39:17.18,Default,,0,0,0,,sehen Sie, so wird Geschichte gemacht.
 Dialogue: 0,1:39:17.18,1:39:19.42,Default,,0,0,0,,Es sind viele Millionen normale Leute.
@@ -2492,13 +2491,13 @@ Dialogue: 0,1:39:22.10,1:39:22.82,Default,,0,0,0,,Ich bin nicht zufrieden,
 Dialogue: 0,1:39:23.94,1:39:25.46,Default,,0,0,0,,Ich möchte nicht warten,
 Dialogue: 0,1:39:25.46,1:39:26.70,Default,,0,0,0,,ich will mich nicht vor der Verantwortung drücken.
 Dialogue: 0,1:39:26.70,1:39:28.58,Default,,0,0,0,,Ich stehe auf und tue etwas.
-Dialogue: 0,1:39:28.58,1:39:29.82,Default,,0,0,0,,Ich werde es tun, 
-Dialogue: 0,1:39:29.82,1:39:31.10,Default,,0,0,0,,genau jetzt, 
-Dialogue: 0,1:39:31.10,1:39:32.30,Default,,0,0,0,,jetzt in diesem Moment, 
+Dialogue: 0,1:39:28.58,1:39:29.82,Default,,0,0,0,,Ich werde es tun,
+Dialogue: 0,1:39:29.82,1:39:31.10,Default,,0,0,0,,genau jetzt,
+Dialogue: 0,1:39:31.10,1:39:32.30,Default,,0,0,0,,jetzt in diesem Moment,
 Dialogue: 0,1:39:32.30,1:39:34.22,Default,,0,0,0,,genau hier
-Dialogue: 0,1:39:34.22,1:39:35.22,Default,,0,0,0,,werde ich es tun. 
-Dialogue: 0,1:39:42.06,1:39:43.06,Default,,0,0,0,,Solange wir diese Chemikalien nicht besser kontrollieren, 
-Dialogue: 0,1:39:43.06,1:39:44.70,Default,,0,0,0,,Solange wir diese Chemikalien nicht besser kontrollieren, 
+Dialogue: 0,1:39:34.22,1:39:35.22,Default,,0,0,0,,werde ich es tun.
+Dialogue: 0,1:39:42.06,1:39:43.06,Default,,0,0,0,,Solange wir diese Chemikalien nicht besser kontrollieren,
+Dialogue: 0,1:39:43.06,1:39:44.70,Default,,0,0,0,,Solange wir diese Chemikalien nicht besser kontrollieren,
 Dialogue: 0,1:39:44.70,1:39:46.30,Default,,0,0,0,,steuern wir auf eine Katastrophe zu.
 Dialogue: 0,1:39:46.70,1:39:47.34,Default,,0,0,0,,steuern wir auf eine Katastrophe zu.
 Dialogue: 0,1:40:11.26,1:40:13.02,Default,,0,0,0,,Dieses ganze System

@@ -1,18 +1,22 @@
-# English Subtitles of Chai Jing's Review
+# Subtitles for Under the Dome (穹顶之下)
 
-This subtitle translation program aims to enable non-Chinese audiences to learn about the air quality conditions China is facing, throught the investigation brought by Chai Jing, a Chinese television celebrity. We are looking for volunteers to make this happen.
+This subtitle translation program aims to enable audiences with non-Chinese background to learn about the dreadful air quality conditions experienced by China.
 
-## How to Contribute
+[Under the Dome](https://en.wikipedia.org/wiki/Under_the_Dome_(film)) (Chinese: 穹顶之下; pinyin: qióngdǐng zhī xià) is a 2015 self-financed, Chinese documentary film by Chai Jing, a former China Central Television journalist, concerning air pollution in China.
 
-If you know how to use Github you can directly send us a pull request. For more information about how to creating a pull request pelase visit: https://help.github.com/articles/creating-a-pull-request/
+## Contributions
 
-Otherwise, you send your work to tichai@fastmail.fm, and we will help you to pull on it.
+We warmly welcome any volunteers who wish to help us in this translation project.
 
-## Contact
+If you know how to use Github, you can send us a [pull request](https://help.github.com/articles/creating-a-pull-request/).
+
+Otherwise, please you send your work to <tianyuf@fastmail.fm> or <tichai@fastmail.fm>, and we will help you to pull on it.
+
+## Contacts
 
 - Tianyu Fang <tianyuf@fastmail.fm>
 - Linghein Ho <tichai@fastmail.fm>
 
 ## Watch Online
 
-- https://www.youtube.com/watch?v=T6X2uwlQGQM
+[YouTube](https://www.youtube.com/watch?v=T6X2uwlQGQM)
